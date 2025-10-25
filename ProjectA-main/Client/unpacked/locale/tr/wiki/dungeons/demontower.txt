@@ -1,0 +1,76 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/demontower.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Gereksinimler:
+*Seviye Aralığı: 40 - 105
+*Giriş Eşyası: -
+
+
+[COLOR=0xffd700;FONT_SIZE=15]Özellikler:
+*Şeytan Kulesi, herhangi bir bekleme süresine sahip değildir.
+*Şeytan Kulesi'ne grup halinde ya da bireysel olarak girilebilir.
+*Lusifer aşamasına geçebilmek için 75+.Seviye olunmalıdır.
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=125; CENTER_ALIGN]
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 1
+
+[X_PADDING=20]Dayanıklılık Metini'ni yok et.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 2
+[IMG=d:/ymir work/ui/wiki/Damonenkonig.tga; Y=180; X=455]
+
+[X_PADDING=20]Şeytan Kralı öldür.
+[X_PADDING=20]Geri kalan bütün canavarları öldür.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 3
+
+[X_PADDING=20]Şeytan Metini'ni yok et.
+[X_PADDING=20]Doğru Lanet Metini'ni bul ve yok et.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 4
+[IMG=d:/ymir work/ui/wiki/rahmen_small.tga; Y=360; X=490]
+[IMG=d:/ymir work/ui/wiki/30306.tga; Y=366; X=496]
+
+
+[X_PADDING=20]Kilit Açma Taşı elde edene kadar canavarları öldür.
+[X_PADDING=20]Kilit Açma Taşı'nı Antik Mühür'lerin üzerine sürükle ve bırak.
+[X_PADDING=20]Bütün Antik Mühürleri aç.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 5
+
+[X_PADDING=20]Kibirli Şeytan Kralı öldür.
+[X_PADDING=20]75+.seviyedeki bir oyuncu ortaya çıkan Kule Demircisi ile konuşarak bir sonraki aşamaya geçebilir.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 6
+
+[X_PADDING=20]Ölüm Metinlerini yok et.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 7
+[IMG=d:/ymir work/ui/wiki/rahmen_small.tga; Y=590; X=490]
+[IMG=d:/ymir work/ui/wiki/30302.tga; Y=596; X=496]
+
+[X_PADDING=20]Ölüm Metini'ni yok et.
+[X_PADDING=20]Zin-Sa-Gui haritasını elde edip onu kullan.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 8
+[IMG=d:/ymir work/ui/wiki/rahmen_small.tga; Y=670; X=490]
+[IMG=d:/ymir work/ui/wiki/30304.tga; Y=676; X=496]
+
+[X_PADDING=20]Zin-Bong-In Anahtarı düşürene kadar canavarları yok et.
+[X_PADDING=20]Zin-Bong-In anahtarını Mezar Taşı'na sürükle ve bırak.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 9
+
+[X_PADDING=20]Lusifer'i öldür.
+[IMG=d:/ymir work/ui/wiki/Sensenmann.tga; Y=700; X=322]
+
+
+

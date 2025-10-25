@@ -1,0 +1,8 @@
+say ( "You want to combine two acce?" ) 
+say ( "" ) 
+local confirm = select ( "Yes" , "No" ) 
+if confirm == 2 then 
+return 
+end 
+setskin ( NOWINDOW ) 
+pc . acce_open_combine ( ) 

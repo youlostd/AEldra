@@ -1,0 +1,54 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/conterboost.tga]
+[CENTER_ALIGN]Sistemul de respingere si ajutor se bazeaza pe evoluarea caracterului tau intr-o anumita directie. 
+[CENTER_ALIGN]Iti poti invata caracterul cateva abilitati speciale.
+
+
+[COLOR=0xffd700;FONT_SIZE=15]Lista Continut:
+*1. General Informatii & Cum sa antrenezi
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=90; CENTER_ALIGN]
+
+
+
+[COLOR=ef4f00;FONT_SIZE=15]1. General Information.
+[X_PADDING=20]*Abilitatile de ajutor si respingere sunt destinate evoluarii caracterului tau atat defensiv cand si ofensiv.
+[X_PADDING=20]*Iti poti imbunatati cele 8 abilitati de respingere si cea de ajutor pana la P1.
+[X_PADDING=20]*Pentru a antrena abilitatile speciale de la 0 la M1 o sa ai nevoie sa investesti 20 puncte de abilitate sau sa citesti 20 carti ale abilitatii pe care vrei sa o antrenezi.
+[X_PADDING=20]*Pentru a antrena o abilitate speciala de la M1 la G1, O sa ai nevoie de un total de 55 carti de ajutor sau respingere specifice abilitatii antrenate.
+[X_PADDING=20]*Pentru a iti antrena abilitatile speciale de la G1 la P1 o sa ai nevoie de Piatra Spiritului+.
+[X_PADDING=20]In loc de Citit Concentrat si Pergament Exorcizat o sa ai nevoie de
+[X_PADDING=20]Legendary Concentrated Reading & Legendary Exorcism Scroll.
+
+[IMG=d:/ymir work/ui/wiki/divider_small.tga; Y=230; CENTER_ALIGN]
+
+
+[COLOR=ef4f00;FONT_SIZE=15]1.1 Abilitati de respingere
+[X_PADDING=20]Abilitatile de respingere reduc daunele provenite de la urmatoarele abilitati de baza : 
+[X_PADDING=20]*Vartejul Sabiei
+[X_PADDING=20]*Chemarea Fulgerului
+[X_PADDING=20]*Lovitura Intunecata
+[X_PADDING=20]*Sageata de Foc
+[X_PADDING=20]*Spiritul Sabiei
+[X_PADDING=20]*Chemarea Dragonului
+[X_PADDING=20]*Lovitura degetului
+[X_PADDING=20]*Ambuscada
+[X_PADDING=20]Cu cat mai mult antrenezi o abilitate de respingere, cu ata mai putine daune vei suferii.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_small.tga; Y=400; CENTER_ALIGN]
+
+[COLOR=ef4f00;FONT_SIZE=15]1.2 Abilitati de ajutor.
+[X_PADDING=20]Abilitatile de ajutor maresc daunele provocate de una din abilitatile tale de baza, acestea fiind:
+[X_PADDING=20]*Razboinic Corp: Vartejul sabiei.
+[X_PADDING=20]*Razboinic Mental: Spiritul sabiei.
+[X_PADDING=20]*Sura arme magice: Lovitura degetului.
+[X_PADDING=20]*Sura Magie Neagra: Lovitura intunecata.
+[X_PADDING=20]*Ninja Lama: Ambuscada
+[X_PADDING=20]*Ninja Arc: Sageata de foc
+[X_PADDING=20]*Saman leac: Chemarea fulgerului.
+[X_PADDING=20]*Shaman Zmeu: Chemarea dragonului.
+[X_PADDING=20]Ai doar o abilitate de ajutor activa care depinde de caracterul tau, dupa cum ai citit anterior.
+[X_PADDING=20]Cu cat mai mult antrenezi o abilitate de ajutor, cu atat mai multe daune vei provoca.
+
+
+

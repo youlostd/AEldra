@@ -1,0 +1,51 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/azrael.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Gereksinimler:
+*Seviye Aralığı: 75 - 105
+*Giriş Eşyası: Küçülen Kafa (Giriş için değil, 3.kat için gereklidir.)
+[IMG=d:/ymir work/ui/wiki/rahmen.tga; Y=5; X=460]
+[IMG=d:/ymir work/ui/wiki/30319.tga; Y=15; X=482]
+
+
+[X_PADDING=463]Küçülen Kafa
+[COLOR=0xffd700;FONT_SIZE=15]Özellikler:
+*Şeytan Katakombu 2 saat bekleme süresine sahiptir.
+*Şeytan Katakombu'na grup halinde ya da bireysel olarak girilebilir.
+*Şeytan Katakombu görevi, 60 dakika içerisinde tamamlanmalıdır.
+*Her oyuncu Küçülen Kafa'ya sahip olmalıdır.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=145; CENTER_ALIGN]
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 1
+[IMG=d:/ymir work/ui/wiki/rahmen_small.tga; Y=175; X=490]
+[IMG=d:/ymir work/ui/wiki/30311.tga; Y=181; X=496]
+
+[X_PADDING=20]Ruh Kristali Anahtarı elde edene kadar canavarları öldür.
+[X_PADDING=20]Ruh Kristali Anahtarı'nı labirent sonundaki Kud Heykeli'ne sürükle ve bırak.
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 2
+
+[X_PADDING=20]Lanet Kapıları'nı yok et ve labirentin sonunda bulunan Kaplumbağa Kayalığı'na ulaş.
+[X_PADDING=20]Kaplumbağa Kayalığı'na tıkla.
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 3
+
+[X_PADDING=20]Bu aşamada haritada 7 tane Misillme Metini var, doğru olanı yok et.
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 4
+[IMG=d:/ymir work/ui/wiki/rahmen_small.tga; Y=355; X=490]
+[IMG=d:/ymir work/ui/wiki/30312.tga; Y=361; X=496]
+
+[X_PADDING=20]Tartaros'u bul ve öldür. O dağların arkasındaki odaların birinde saklanıyor.
+[X_PADDING=20]Soysuz Totem'i, dağın başında bulunan Bazalt Dikilitaşı'na sürükle ve bırak..
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 5
+
+[X_PADDING=20]Bütün canavarları ve Kharon'u öldür.
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 6
+
+[X_PADDING=20]Azrail'i öldür.
+[IMG=d:/ymir work/ui/wiki/Azrael.tga; Y=430; X=382]
+

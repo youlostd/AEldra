@@ -1,0 +1,43 @@
+[COLOR r;255|g;195|b;0]"Besonderheit"[/COLOR r;255|g;195|b;0][ENTER]
+Ihr habt für den Dungeon nur 45 Minuten Zeit!
+[ENTER]
+[COLOR r;0|g;195|b;255]Phase 1[/COLOR r;255|g;195|b;0][ENTER]
+Besiege alle Monster, zerstöre anschließend den Metinstein.[ENTER]
+Ziehe das Gift anschließend auf das Fass.[ENTER]
+Öffne danach mit dem Schlüssel das Tor.[ENTER]
+[ENTER]
+[COLOR r;0|g;195|b;255]Phase 2[/COLOR r;255|g;195|b;0][ENTER]
+Zerstöre die 4 Metinsteine und anschließend die Monsterwelle.[ENTER]
+Zerstöre danach die Pflanze und öffne das Tor mit dem Schlüssel.[ENTER]
+[ENTER]
+[COLOR r;0|g;195|b;255]Phase 3[/COLOR r;255|g;195|b;0][ENTER]
+Ziel dieser Ebene ist alle Fässer zu zerstören![ENTER]
+Besiege alle Monster und anschließend den Metinstein.[ENTER]
+Ziehe den erhaltenen Stein auf das Fass.[ENTER]
+Zerstöre anschließend erneut Metinsteine und ziehe den Schlüssel
+wieder auf das Fass am Ende des Floors.
+Besiege nun wieder alle Monster und anschließend den Metinstein.[ENTER]
+Ziehe den Stein erneut auf das Fass und besiege die 2 Pflanzen.[ENTER]
+Ziehe den Stein wieder auf das Fass und besiege die Böse Pflanze.[ENTER]
+Ziehe den Stein auf das letzte Fass und öffne das Tor mit dem Schlüssel.[ENTER]
+[ENTER]
+[COLOR r;0|g;195|b;255]Phase 4[/COLOR r;255|g;195|b;0][ENTER]
+Zerstöre die 4 Metinsteine und anschließend die Monsterwelle.[ENTER]
+Zerstöre anschließend alle Metinsteine und die Monsterwelle.[ENTER]
+Besiege anschließend Raguwan und öffne das Tor mit dem Schlüssel.[ENTER]
+[ENTER]
+[COLOR r;0|g;195|b;255]Phase 5[/COLOR r;255|g;195|b;0][ENTER]
+Klicke auf Poisoned botani am Anfang des Floors.[ENTER]
+Besiege anschließend alle Monster und beide Bösen Pflanzen.[ENTER]
+Bringe das erhaltene Garden Water zu Poisoned botani.[ENTER]
+Suche jetzt nach Mushrooms und klicke auf diese und bringe den Mushroom
+zurück zu Poisoned botani. Öffne anschließend das Tor mit dem Schlüssel
+[ENTER]
+[COLOR r;0|g;195|b;255]Phase 6[/COLOR r;255|g;195|b;0][ENTER]
+Besiege alle Monster und anschließend Metinsteine bis du das Evil garden Fire
+erhälst und ziehe es auf Honey hive. Besiege nun die infizierten Bienen.[ENTER]
+Beseitige alle Honey hives mit dem Evil garden Fire.[ENTER]
+Töte beide Raguwans und anschließend den finalen Boss.[ENTER]
+
+
+

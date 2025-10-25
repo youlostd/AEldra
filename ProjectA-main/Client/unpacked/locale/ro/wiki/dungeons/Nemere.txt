@@ -1,0 +1,35 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/nemere.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Cerinte:
+*Nivelul necesar: 90-105
+*Ticket de intrare: Permis de gheata.
+
+[RIGHT_ALIGN]Permis de gheata
+[IMG=d:/ymir work/ui/wiki/31089.tga; Y=5; X=500]
+
+[COLOR=0xffd700;FONT_SIZE=15]Specificatii:
+*Turnul lui Nemere are un cooldown de 90 de minute.
+*Puteti intra in dungeon cu sau fara o grupa.
+*Ai la dispozitie 60 de minute pentru a completa Turnul lui Nemere.
+
+[CENTER_ALIGN;FONT_SIZE=18]Nivele: 
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=140; CENTER_ALIGN]
+[COLOR=ef4f00;FONT_SIZE=15]Nivelul 1
+[X_PADDING=20]Distruge 8 Metine ale Frigului. Fiecare piatra dropeaza o Stea a Nordului.
+[X_PADDING=20]Trage fiecare stea pe un Stalp pentru a-l distruge. Toti cei 8 stalpi trebuiesc distrusi.
+
+[COLOR=ef4f00;FONT_SIZE=15]Nivelul 2
+[X_PADDING=20]Ucide 500 de monstrii.
+
+[COLOR=ef4f00;FONT_SIZE=15]Nivelul 3
+[X_PADDING=20]Distruge metinul, acesta isi schimba pozitia la fiecare 10 secunde. 
+
+[COLOR=ef4f00;FONT_SIZE=15]Nivelul 4
+[X_PADDING=20]Ucide-l pe Szel.
+
+[COLOR=ef4f00;FONT_SIZE=15]Nivelul 5
+[X_PADDING=20]Strange 10 Chei Inghetate. Dupa ce le-ai strans pe toate, acestea se vor transforma intr-o Cheie Floare de Gheata.
+[X_PADDING=20]Foloseste-o sa distrugi Stalpul Dragonului din Nord.
+
+[COLOR=ef4f00;FONT_SIZE=15]Nivelul 6
+[X_PADDING=20]Ucide-l pe Nemere.

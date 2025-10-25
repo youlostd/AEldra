@@ -1,0 +1,115 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/costume_sash.tga]
+[CENTER_ALIGN]Omuz Kuşağı Kostümü, omuz kuşaklarını yararlı bonuslarla süsleyen değerli ekipman parçalarıdır.
+[CENTER_ALIGN]Omuz Kuşağı Kostümü penceresine, oyuncu envanterinin yanında bulunan kostüm sistemi butonu
+[CENTER_ALIGN]ile ulaşılabilir.
+
+[COLOR=0xffd700;FONT_SIZE=15]İçerik Listesi:
+*1. Omuz Kuşağı Kostümü Türleri
+*2. Omuz Kuşağı Kostümü Elde Etme
+*3. Omuz Kuşağı Kostümü Birleştirme
+*4. Bonuslar
+*5. Omuz Kuşağı Kostümü Bonusu Transferi
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=150; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Omuz Kuşağı Kostümü Türleri
+
+Omuz Kuşağı Kostümleri, 12 farklı Çin Zodyak Tanrısını temsil eder. Zodyak Omuz Kuşağı 
+Kostümleri: Zi Kuşağı, Chou Kuşağı, Yin Kuşağı, Mao Kuşağı, Chen Kuşağı, 
+Si Kuşağı, Wu Kuşağı, Wei Kuşağı, Shen Kuşağı, Yu Kuşağı, Xu Kuşağı, Hai Kuşağı
+Zodyak Tanrıları Omuz Kuşağı Kostümlerinin yanı sıra farklı kostüm kuşakları da mevcuttur: Melek Kanatları, 
+Şeytan Kanatları, Şeytan Kuşağı. Her kostüm 4 farklı seviyeye sahiptir: (basit), (zarif), (asil), (kişiye öz.).
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=265; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Omuz Kuşağı Kostümü Elde Etme
+
+Omuz Kuşağı Kostümleri, "Theowahdan"dan satın alınabilir. Satın almak için 25x İnce Kumaş ve istenen kuşağın tanrısının 
+5x Madalyonu gereklidir. Örneğin, Hai Kuşağı (basit) satın alabilmek için 5x Hai Madalyonu ve 25x İnce Kumaş.
+Madalyonlar, Zodyak Tapınağı'ndaki belirli tanrılardan düşmektedir.
+Özel Omuz Kuşağı Kostümleri ise etkinlikler sırasında Nesne 
+Market'ten (basit) derecesinde satın alınabilir.
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=395; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Omuz Kuşağı Kostümü Birleştirme
+
+Omuz Kuşağı Kostümü Birleştirme işlemi, Omuz Kuşaklarındaki sistemle aynıdır.
+Aynı seviyedeki kostüm kuşakları birleştirilerek daha yüksek seviyeli bir kostüm elde edilebilir. 
+İşlemin başarısız olması durumunda, birleştirme penceresindeki ikinci kostüm yok olur.
+Omuz Kuşağı Kostümü Birleştirme penceresine "Theowahdan"dan ulaşılabilir.
+Melek ve Şeytan Kanatlarına da birleştirme işlemi uygulanabilir. Aynı seviyede ancak farklı türde birleşebilirler.
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=525; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]4. Bonuslar
+
+Omuz Kuşağı Kostümü, seviyesine göre 5'e kadar bonusa sahip olabilir. Bonuslar, Rüya Ruhu ve Gök Ruhu
+yardımıyla eklenir. Bonuslar aşağıdaki sıraya göre eklenmelidir.
+
+[COLOR=ef4f00;FONT_SIZE=15]4.1 Rüya Ruhları
+
+5 farklı seviyede Rüya Ruhu bulunmaktadır, her biri kuşak kostümüne farklı bir PvM bonusu ekler. 
+Rüya Ruhları, Wukong Tapınağı'ndaki metin taşlarından düşen Rüya Ruhu Taşları karşılığında
+Chuk-Sal'dan elde edilebilir. Aynı seviyedeki Rüya Ruhları birleştirilerek daha iyi seviyede bir
+Rüya Ruhu elde edilebilir. Bu işlem başarısız olabilir.
+
+[COLOR=0xffd700]Rüya Ruhu
+*Canavarlara Karşı Güç 4,6,8,10 %
+
+[COLOR=0xffd700]Parıltılı Rüya Ruhu
+*Patronlara Karşı Güç 4,6,8,10 %
+
+[COLOR=0xffd700]Yanardöner Rüya Ruhu
+*Elementlere Karşı Güç 4,6,8,10 %
+
+[COLOR=0xffd700]Prizmatik Rüya Ruhu
+*Metin Taşlarına Karşı Güç 4,6,8,10 %
+
+[COLOR=0xffd700]Aydınlanmış Rüya Ruhu
+*Ortalama Zarar 2, 4, 6, 8%
+
+[COLOR=ef4f00;FONT_SIZE=15]4.2 Gök Ruhları
+
+5 farklı seviyede Gök Ruhu bulunmaktadır, her biri kuşak kostümüne farklı bir PvP bonusu ekler. 
+Gök Ruhları, Wukong Tapınağı'ndaki metin taşlarından düşen Gök Ruhu Taşları karşılığında
+Chuk-Sal'dan elde edilebilir. Aynı seviyedeki Gök Ruhları birleştirilerek daha iyi seviyede bir
+Gök Ruhu elde edilebilir. Bu işlem başarısız olabilir.
+
+
+[COLOR=0xffd700]Gök Ruhu
+*Maks. HP +500, +1000, +1500, +2000
+
+[COLOR=0xffd700]Parıltılı Gök Ruhu
+*Büyü Hızı 5, 10, 15, 20%
+
+[COLOR=0xffd700]Yanardöner Gök Ruhu
+*Yakın Dövüş Saldırılarını Bloklama Şansı 2, 4, 6 , 8%
+
+[COLOR=0xffd700]Prizmatik Gök Ruhu
+*Yarı İnsanlara Karşı Güç 4, 6, 8, 10%
+
+[COLOR=0xffd700]Aydınlanmış Gök Ruhu
+*Yarı İnsanlara Karşı Koyma 4, 6, 8, 10%
+
+
+[COLOR=ef4f00;FONT_SIZE=15]4.3 Efsanevi Efsun Nesnesi
+
+Omuz Kuşağı Kostümlerinin bonusları "Efsanevi Efsun Nesnesi" ile değiştirilebilir.
+Bu işlem kostümdeki bütün bonusları değiştirecektir.
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=1220; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]5. Omuz Kuşağı Kostümü Bonusu Transferi
+
+Bir Omuz Kuşağı Kostümündeki bonuslar bir başka kostüm kuşağına Theowahdan'dan transfer edilebilir.
+Sol tarafa yerleştirilen kostümün bonusları, sağ taraftaki kostüme aktarılır.
+
+
+

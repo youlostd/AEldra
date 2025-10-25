@@ -1,0 +1,106 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/105andnow.tga]
+[CENTER_ALIGN]Değerli Aeldra oyuncuları,
+[CENTER_ALIGN]Eğer bu rehberi okuyorsanız, Aeldra 'nın maceralarında kaybolmuş olma 
+[CENTER_ALIGN]ihtimaliniz oldukça yüksek. Bu rehberin size yol göstermesine izin verin.
+
+
+[COLOR=0xffd700;FONT_SIZE=15]İçerik Listesi:
+*1. 105.seviyeden Sonraki Maceralar & Ağaç Savaşı Pasosu
+*2. Nedir Bu Kostümler?
+*3. Kısaca Zindan Tanıtımları
+*4. Turmalin Ekipmanları
+*5. Maymunları Nasıl Yenebiliriz?
+*6. Oyunu Bitirdim Mi?
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=160; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. 105.seviyeden Sonraki Maceralar & Ağaç Savaşı Pasosu
+
+Bu noktada, maksimum seviyeye yaklaşmaya başladığınız için artık orta-son seviye bir oyuncu olarak kabul edilirsiniz.
+Buna rağmen, muhtemelen işlerin biraz daha zorlandığını farketmiş olmalısınız.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]1.1 Büyülü Orman ve Karanlık Orman
+
+Artık yeni haritalarınıza ışınlanabilirsiniz, Büyülü & Karanlık Orman. Bu haritalarda zamanla küçük hazineler keşfedeceksiniz. İlk olarak, ekipmanlarınızı düzenlemelisiniz, 
+çünkü önceden de söylediğimiz gibi: Bazı şeyler giderek zorlaşacak. Buradaki canavarların ırk bonusları bulunmamakta,gerçi onların hepsi 'Toprak' etiketli, dolayısıyla Toprak Tılsımı +49 'a sahip olmanız sizin için iyi olacaktır.
+Ayrıca, 90.seviye haritalarına göre hasarları bir miktar artmış durumda, yani 'Bloklama şansı', 'Maks. HP', & 'HP Absorbe' bonuslarınızı en üst düzeye çıkarmak sizin için epey kullanışlı olacaktır. Bir Efsanevi Ejderha Oniksi & Yeşimi (Yakut+6 'ya zaten sahip olduğunuzu düşününce), zırhınızdaki +5 Kurnazlık ve Savunma taşları ile birlikte zırhınız sizi hayatta tutacak düzeye ulaşacaktır.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]1.2 Görev Kitabı(Asil) ?
+
+Ayrıca artık bu haritada Görev Kitabı(Asil) düşüreceksiniz. Bu kitaplar,bitirdiğinizde ödüllendireleceğiniz tek seferlik bir set göreve sahiptir. Çoğu görevler zindan ağırlıklıdır, yani zindanlarla ilgili problem yaşamıyorsanız durmayın ve aktifleştirin. eğer yaşıyorsanız, onları satmakta seçenekler arasındadır. Fakat bilmelisiniz ki ödüller arasında değerli eşyalar da bulunabliyor (Efsanevi Ruh Taşı, (Legendary Soulstones, Patron Çağırma Mührü (zor), vb...)
+
+
+[COLOR=ef4f00;FONT_SIZE=15]1.3 Ağaç Savaşı Pasosu
+
+Tekrar bir Savaş Pasosu ile karşı karşıyasınız, aynı 1.seviyede gördüğünüz gibi. Şimdi biraz daha değiştirilmiş şekilde. İçerisinde 7 normal, 3 adette efsanevi görev bulunuyor. Ödüller o seviyede ihtiyacınız olabilecek şeyler olarak değiştirildi, yani en kısa sürede üzerilerinde çalışmanızda fayda var.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=580; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Nedir Bu Kostümler?
+
+Şimdiye kadar,büyük ihtimalle 3x10% başlangıç kostümlerini kullandınız, veya bir şekilde 3x15% 'lere sahip oldunuz.
+Hala bitirmiş sayılmazsınız. Zaman zaman oyunda özel etkinliklere yer veriliyor ve genelde 20% kostüm, silah veya saç stili bonuslarına yer veriliyor.
+Onların peşinden koşmaya başlamalısınız.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=680; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Kısaca Zindan Tanıtımları
+
+95 levelda açmış olduğunuz Nemere ve Razardor 'un ardından artık  yüksek seviye sayılabilecek Jotun Thrym ve Gemi Savunmasının kilitlerini açmış bulunuyorsunuz. 
+Tüm zindanların bir giriş eşyasına ihtiyacı varmış gibi görünüyor olabilir; bu, düşündüğünüz kadar dramatik değil.	
+Yakalamış olduğunuz bir geçiş bileti [veya Patron Odası Mührü(Nemere)] Gemi Savunması 'na girmenize olanak sağlayacaktır.
+(bildiğiniz gibi Nemere 'den 'Mavi Kristal Esansı' düşme ihtimali 100%), Razador'un size Kristal Ejderha 'ya girmenize yarayan  Kırmızı Cehennem Kuvarsı'nı 100% ihtimalle atıyor olmasıyla aynı mantıkta. Yani, basitçe özetlemek gerekirse kendinize bir zindan zinciri oluşturarak önemli bir kazanç sağlayabilirsiniz.
+Unutmayın ki Kristal Ejderha Mağarası & Jotun Thrym hasar bazlı zindanlardır ve en yüksek değerde bonuslara ihtiyacınız olacaktır. Daha fazla bilgi için forumumuzu sıkça kontrol etmeyi unutmayın.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=830; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]4. Turmalin Ekipmanları
+
+Sizce de şu düşük seviye Ruh Kristali ekipmanlarından kurtulmanın vakti gelmedi mi?
+Turmalin Küpeler & Kolye sana Canavar ve Metinlere karşı 15% güç verecektir. Bu, hasarını yükseltmek adına yapacağın en temel yükseltme olacaktır.
+Turmalin Bilezik sana Hayvan ve Patronlara karşı 15% güç verecektir, bu da sizin artık yüksek seviye patronları kesebilmenize olanak sağlayacak ilk adımlardandır.
+Genel olarak sahip olmanız gereken ekipman seti; Turmalin Ekipmanları, ardından Badawahdan(Ejderha Ateşi Burnu) tarafından hazırlanmış olan Ateş Ayakkabıları, Ejderha Kristali Kemer, Ejderha Tanrısı Kalkan ve Deniz Yılanı Kask.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=970; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]5. Maymunları Nasıl Yenebiliriz?
+
+Kısa süre içerisinde farm yapmanı oldukça kolaylaştıracak olan Wukong Tapınağı'nı da açmış olacaksın(110.seviye haritası).
+Tüm Ejderha Taşı Simyaları +6 'lara(Simya Set Bonusunu kazanabilmen için), Rüzgar Tılsımı +99'a ,Kuşak Kostümüne ve en yüksek hasara ulaşman seni oldukça tatmin edecektir.
+ 
+Bu haritada; Erzak Sandığı, Rüya & Gök Ruhu, Beceri Sandığı(özel yetenekleriniz için) ve yüksek seviye ekipmanlarınızı yükselmenize yarayacak materyaller düşürebileceksiniz. 
+Bunları satmak veya kendini ve eşyalarını geliştirmek, iki şekilde de güzel sonuçlar almana yarayacak, önceden belirttiğimiz eşyaları satın almanızda kolaylık sağlayacaklardır.
+Ayrıca Zodyak Tapınağı ve Thranduil ile ilgili bazı şeyleri merak ediyorsunuz değil mi?
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=1120; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]6. Oyunu Bitirdim Mi?
+
+Son seviyeye ulaşmak, oyunu tüm yönleriyle tamamladığınız anlamına gelmiyor. Eminim bunu zaten biliyorsunuz.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]6.1 Zodyak Tapınağı
+
+En zorlu maceralardan biri burada olacaktır, Zodyak Tapınağında. Sosyalleşmenin ve size yardımcı olacak bir takım veya lonca bulmanın vakti geldi. Zindanlarda devasa ödüllere sahip olabileceğiniz bir sürü yeni özellik bulunmakta ve bunlardan tek başınıza yararlanmanız hiç kolay olmayacaktır. 
+Ekipmanınızı son seviyelere getirmeniz, tüm tılsımlarınızı +99 yapmanız ve 
+Maximizing 
+your equipment, upgrading all your talismans to +99 and yetenekli bir ekip oluşturmanız sizi 40. kata kadar idare edecektir.
+Özetle, yakında 75. seviyede taktığınız silaha veda edecek ve kendinize bir Zodyak silahı oluşturmaya başlayacaksınız.
+Aynı şey zırhınız için de geçerli. 12 Zodyak Tanrısı ile başa çıkmak, bir bardak çay içmeye benzemez, bu sebeple forumdaki detaylı bilgilere göz atmayı unutmayın.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]6.2 Thranduil'in Sığınağı
+
+Bu zindan yeni patronlardan, evrelerden ve bir çok değişikliklerden oluşuyor.
+Bu sığınakta yeni teknikler, ve belki de bazı Kyanit kyanit eşyaları bulursunuz, kim bilir?
+
+
+

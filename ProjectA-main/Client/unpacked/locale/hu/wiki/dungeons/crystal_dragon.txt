@@ -1,0 +1,46 @@
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/caveofcrystal.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Követelmények:
+*Kötelezõ szint: 115
+*Belépési jegy: Vörös Pokol-kvarc
+[RIGHT_ALIGN]Red Hell Quartz
+[IMG=d:/ymir work/ui/wiki/31006.tga; Y=5; X=490]
+
+[COLOR=0xffd700;FONT_SIZE=15]Sajátosságok:
+*A Kristály-Sárkány barlangjának 180 perces cooldownja van.
+*Kristály-Sárkány barlangja egyedül, és csoportban is teljesíthetõ.
+
+
+[CENTER_ALIGN;FONT_SIZE=18]Szintek:
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=120; CENTER_ALIGN]
+[COLOR=ef4f00;FONT_SIZE=15]1. Szint
+
+[X_PADDING=20]Ölj meg minden szintet, és utána a metin köveket
+
+[COLOR=ef4f00;FONT_SIZE=15]2. Szint
+
+[X_PADDING=20]Ölj meg minden szörnyet, majd a kapott kulcskõvel pusztítsd el az oszlopot.
+
+[COLOR=ef4f00;FONT_SIZE=15]3. Szint
+
+[X_PADDING=20]Ölj meg minden szörnyet ezen a szinten, majd a Kristály Sárkányt.
+[X_PADDING=20]Csak 10 perced van erre a szintre.
+
+[COLOR=ef4f00;FONT_SIZE=15]4. Szint
+
+[X_PADDING=20]Pusztítsd el a metin köveket, hogy megkapd a jó kulcsot amivel elpusztítód az oszlopot.
+[X_PADDING=20]Húzd a Piros Kristályt az oszlopra.
+
+[COLOR=ef4f00;FONT_SIZE=15]5. Szint
+
+[X_PADDING=20]Ölj meg minden szörnyet ezen a szinten, hogy megidézd a boss-t.
+[X_PADDING=20]Csak 10 perced van erre a szintre.
+
+[COLOR=ef4f00;FONT_SIZE=15]6. Szint
+
+[X_PADDING=20]Ölj meg minden szörnyet ezen a szinten, majd a Kristály Dinoszauruszt.
+
+[COLOR=ef4f00;FONT_SIZE=15]7. Szint
+
+[X_PADDING=20]Üsd szét az összes metin követ, majd öld meg a Kristály Sárkányok Királyát.
+
+

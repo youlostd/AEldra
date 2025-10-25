@@ -1,0 +1,47 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/bosshunt.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Gereksinimler:
+*Gereken Seviye: 115
+*Giriş Eşyası: Kırmızı Cehennem Kuvarsı
+[RIGHT_ALIGN]Kırmızı Cehennem Kuvarsı
+[IMG=d:/ymir work/ui/wiki/31006.tga; Y=5; X=490]
+
+[COLOR=0xffd700;FONT_SIZE=15]Özellikler:
+*Kristal Ejderha Mağarasının bekleme süresi 180 dakikadır.
+*Mağaraya hem grupla hem tek başına girebilirsin.
+
+
+[CENTER_ALIGN;FONT_SIZE=18]Aşamalar:
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=120; CENTER_ALIGN]
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 1
+
+[X_PADDING=20]Önce tüm canavarları, ardından tüm metin taşlarını yok et.
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 2
+
+[X_PADDING=20]Tüm canavarları öldür ve mührü yok etmek için doğru kristal anahtarını elde et.
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 3
+
+[X_PADDING=20]Önce tüm canavarları, ardından Kristal Canavarı öldür.
+[X_PADDING=20]Bu aşamayı tamamlamak için 10 dakikan var.
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 4
+
+[X_PADDING=20]Bütün metin taşlarını yok et ve mührü açmak için gereken anahtarı düşür.
+[X_PADDING=20]Doğru anahtarı buduğunda onu mühüre sürükle ve bırak.
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 5
+
+[X_PADDING=20]Kristal Dino 'yu uyandırmak için tüm canavarları yok et.
+[X_PADDING=20]Bu aşamayı tamamlamak için 10 dakikan var.
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 6
+
+[X_PADDING=20]Tüm canavarları ve ardından Kristal Dino 'yu yok et.
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 7
+
+[X_PADDING=20]Tüm metin taşlarını yok ettikten sonra Kristal Ejderha'yı öldür.
+
+

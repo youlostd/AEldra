@@ -1,0 +1,1778 @@
+TOOLTIP_ACCE_ATTR_MAX_INFO	(maks. %s)
+ACCE_ABSORB_COST	Fiyat: %d
+ACCE_ALREADY_REGISTER	Bu eşya zaten kullanıldı.
+ACCE_DEL_ABSORDITEM	Nesneyi em ve yok et?
+ACCE_DEL_SERVEITEM	Kombinasyon başarısız olursa kuşak 2 yok edilir.
+ACCE_INITEM	Nesneleri pencereye çek.
+ACCE_MAXGRADE	Bu kişiye özel üretimdir.
+ACCE_NOTABSORBITEM	Emilmiş olan bir silah veya zırhı kullanamazsın.
+ACCE_NOT_SEALITEM	Ruha bağlı nesneler kullanamazsın.
+ACCE_NOT_USINGITEM	Kuşanılan bir nesne kombine edilemez.
+ACCE_NOT_WINDOWOPEN	Kombinasyon penceresi açıkken bu nesneyi kullanamazsın.
+ACCE_POSSIBLE_ACCE	Sadece omuz kuşakları kullanabilirsin.
+ACCE_POSSIBLE_ACCEITEM	Bonusu sadece silah ve zırhlardan elde edebilirsin.
+AFF_LOVE_POINT	Sevgi Puanı: %d%%
+ALIGNMENT_NAME	Derece Puanı: 
+ATTACK_ERROR_UNKNOWN	Bilinmeyen Saldırı Hatası: %s
+CANNOT_ATTACK_DEST_IN_SAFE	Şavasçı çok uzakta.
+CANNOT_ATTACK_SELF_IN_SAFE	Saldıramam.
+CANNOT_EQUIP_IN_EXCHANGE	Ticaret yaparken zırhını değiştiremezsin.
+CANNOT_EQUIP_IN_SHOP	Ticaret yaparken zırhını değiştiremezsin.
+CANNOT_OPEN_PRIVATE_SHOP_IN_SAFE_AREA	Genel alanda özel depo açamazsın.
+CANNOT_SHOOT_DEST_IN_SAFE	Düşman çok uzakta.
+CANNOT_SHOOT_EMPTY_ARROW	Bir oka ihtiyacım var.
+CANNOT_SHOOT_SELF_IN_SAFE	Bunu yapamam.
+CANNOT_SKILL_APPROACH	Eminim daha fazla yaklaşamam.
+CANNOT_SKILL_ATTACK	Saldıramam.
+CANNOT_SKILL_DEST_IN_SAFE	Düşman çok uzakta.
+CANNOT_SKILL_EQUIP_FISHING_ROD	Bir oltaya ihtiyacım var.
+CANNOT_SKILL_HAVE_TO_RIDE	Bunu kullanabilmek için bir bineğe ihtiyacım var.
+CANNOT_SKILL_NEED_EMPTY_BOTTLE	Boş bir şişem yok.
+CANNOT_SKILL_NEED_POISON_BOTTLE	Zehirli şişem yok.
+CANNOT_SKILL_NEED_TARGET	Hedef kim?
+CANNOT_SKILL_NOT_ENOUGH_HP	Yeterli HP yok!
+CANNOT_SKILL_NOT_ENOUGH_SP	Yeterli SP yok!
+CANNOT_SKILL_NOT_HORSE_SKILL	Bunu at sürerken kullanamam.
+CANNOT_SKILL_NOT_MATCHABLE_WEAPON	Bu beceriyi bu silahla kullanamam.
+CANNOT_SKILL_NOT_YET_LEARN	Bu beceriyi öğrenmedim.
+CANNOT_SKILL_ONLY_FOR_ALLIANCE	Bu sadece grup üyelerini etkiler.
+CANNOT_SKILL_ONLY_FOR_CORPSE	Bu sadece ölüleri etkiler.
+CANNOT_SKILL_REMOVE_FISHING_ROD	Bu beceriyi olta ile kullanamam.
+CANNOT_SKILL_SELF_IN_SAFE	Buradan saldıramam.
+CANNOT_SKILL_USE_SELF	Bunu kendi üzerimde yapamam.
+CANNOT_SKILL_WAIT_COOLTIME	Henüz bu beceriyi kullanamam.
+CANNOT_WHISPER_DEST_REFUSE	%s fısıltıyı blokladı.
+CANNOT_WHISPER_NOT_EXIST	%s mevcut değil.
+CANNOT_WHISPER_NOT_LOGON	%s çevrimiçi değil.
+CANNOT_WHISPER_NO_AUTH	Bu kişiye yazma izniniz yok.
+CANNOT_WHISPER_NO_OFFLINE_MESSAGE	Çevrimdışı mesaj gönderilmedi.
+CANNOT_WHISPER_SELF_REFUSE	Fısıldamayı blokladığında birine bir şey fısıldayamazsın.
+CAN_WHISPER_OFFLINE_MESSAGE	Çevrimdışı mesaj gönderildi.
+CHANNEL	Kanal
+CHANNELING_CANNOT_LOGOUT	Kaydolma ekranına tekrar dönemezsiniz.
+CHANNEL_EMPTY_SERVER	Sunucu yok
+CHANNEL_NORMAL	Kanal %d
+CHANNEL_NOTIFY_FULL	Bu kanal dolu! Lütfen başka bir kanal seçiniz.
+CHANNEL_NOT_FIND_INFO	Kanal üzerinden herhangi bir bilgiye ulaşılamadı.
+CHANNEL_PVP	Serbest düello
+CHANNEL_SELECT_CHANNEL	Kanal Seç
+CHANNEL_SELECT_REGION	Bölge seç.
+CHANNEL_SELECT_SERVER	Sunucu seç
+CHANNEL_TEST_SERVER	Sunucuyu test et
+CHANNEL_TEST_SERVER_ADDR	Test %s:%d
+CHARACTER_CREATE_MODE	Karakter yarat
+CHARACTER_SELECT_MODE	Karakter seç
+CHAT_ALL	Genel
+CHAT_BLOCK	Blok
+CHAT_GUILD	Lonca
+CHAT_INFORMATION	Bilgi
+CHAT_INSULT_STRING	Bu cümle yanlış kelimeler içeriyor.
+CHAT_LOG	Eski mesajı göster[L]
+CHAT_LOG_TITLE	Sohbet Protokolü
+CHAT_NORMAL	Normal
+CHAT_NOTICE	Duyuru
+CHAT_PARTY	Grup
+CHAT_SEND_CHAT	Sohbet yolla
+CHAT_SEND_MEMO	Fısıltı gönder[Shift+Enter]
+CHAT_SHOUT	Bağırmak
+CHAT_SHOUT_LIMIT	15 saniyede bir bağırabilirsiniz.
+CHAT_TEAM	Takım
+CHAT_WHISPER	Fısıldama
+CREATE_ERROR_GM_NAME	Karakter isminizde, GM ismini kullanamazsiniz.
+CREATE_ERROR_INSULT_NAME	Bu isim hatalı.
+CREATE_EXIST_SAME_NAME	Bu ismi zaten başka bir karakter kullanıyor.
+CREATE_FAILURE	Karakteri yaratamazsın.
+CREATE_GM_NAME	GM
+CREATE_INPUT_NAME	İsmi gir.
+CREATE_PLUS_STAT	Hala statü puanın var.
+DAY	Gün
+DO_YOU_BUY_ITEM1	%s isimli eşyayı satın almak istiyor musun?[ENTER]Fiyat: %s
+DO_YOU_BUY_ITEM2	%sx %s isimli eşyayı satın almak istiyor musun?[ENTER]Fiyat: %s
+DO_YOU_DROP_MONEY	%d Yang bırakmak istiyor musun?
+DO_YOU_SELL_ITEM1	%s isimli eşyayı satmak istiyor musun?[ENTER]Fiyat: %s
+DO_YOU_SELL_ITEM2	%s (%s adet) isimli eşyayı satmak istiyor musun?[ENTER]Fiyat: %s
+DO_YOU_TAKE_OUT_ITEM1	%s'i kaldırmak istiyor musunuz?
+DO_YOU_TAKE_OUT_ITEM2	%s %s'i kaldırmak istiyor musunuz?
+DROP_ITEM_FAILURE_EQUIP_ITEM	Giyilen eşyayı bırakamazsın.
+DROP_ITEM_FAILURE_PRIVATE_SHOP	Pazar açıkken yere eşya düşüremezsin.
+DROP_MONEY_FAILURE_1000_OVER	En fazla 999 Yang bırakabilirsin.
+EMOTION_ANGRY	Can Sıkıcı
+EMOTION_ATTRACTIVE	Baştan Çıkarma
+EMOTION_BANTER	Küçümseme
+EMOTION_CHEERS_1	Hoşça Kal 1
+EMOTION_CHEERS_2	Hoşça Kal 2
+EMOTION_CHEERUP	Alkış
+EMOTION_CHOOSE_ONE	Bir hedef seç.
+EMOTION_CLAP	Alkışlar
+EMOTION_CLAP_KISS	Öpücük
+EMOTION_CONGRATULATION	Onaylama
+EMOTION_DANCE_1	Dans 1
+EMOTION_DANCE_2	Dans 2
+EMOTION_DANCE_3	Dans 3
+EMOTION_DANCE_4	Dans 4
+EMOTION_DANCE_5	Dans 5
+EMOTION_FORGIVE	Affetme
+EMOTION_FRENCH_KISS	Fransız Öpücüğü
+EMOTION_JOY	Neşe
+EMOTION_SAD	Üzgün
+EMOTION_SHY	Reddet
+EMOTION_SLAP	Çak
+EMPIRE_A	Shinsoo Krallığı
+EMPIRE_B	Chunjo Krallığı
+EMPIRE_C	Jinno Krallığı
+EXCHANGE_CANNOT_GIVE	Bu nesneyi alışverişte kullanamazsın.
+EXCHANGE_CANT_EDIT_MONEY	Toplamı şu anda değiştiremezsin.
+EXCHANGE_FAILURE_EQUIP_ITEM	Giyilen eşyayı takas edemezsin.
+EXCHANGE_MONEY	Toplam
+EXCHANGE_TITLE	%s ile alışveriş (%d)
+FISHING_FAILURE	Yemi kaybettin.
+FISHING_NOTIFY1	%s oltaya takılmış gibi görünüyor.
+FISHING_NOTIFY2	Oltaya %s takılmış gibi görünüyor.
+FISHING_SUCCESS1	%s !
+FISHING_SUCCESS2	%s yakaladın!
+FISHING_UNKNOWN	Oltaya bir şey takıldı ama ne olduğu belli değil!
+FISHING_WRONG_PLACE	Burada balık tutamazsın.
+FOR_FEMALE	kadın için
+FOR_MALE	erkek için
+GAME_CANNOT_MINING	At üstündeyken madencilik yapamazsın.
+GAME_CANNOT_PICK_ITEM	Kazanmadığın için bu nesneyi toplayamazsın.
+GAME_INIT_ERROR_CURSOR	imleç tanımlanamadı.
+GAME_INIT_ERROR_DIRECTX	Oyunun çalisabilmesi için DirectX 8.1 kurulu olması gerekiyor.\nDirectX 8.1 veya daha yüksek bir sürümünü kur.
+GAME_INIT_ERROR_GRAPHICS_BAD_PERFORMANCE	Grafik kartı bulunamadı.\nEğer mevcutsa, VGA kart sürücünüzün doğru yüklenmiş olup olmadığını kontrol edin.
+GAME_INIT_ERROR_GRAPHICS_NOT_EXIST	Grafik kartı kurulamadı. \n Eğer VGA kartınız varsa kontrol edin. \n Alternatif olarak, donanım hızlandırıcınızı aktif edebilirsiniz. \n (Donanım Hızlandırıcınızı maximuma ayarlayın \n Control Panel->Display->Settings->Advanced->Troubleshoot)
+GAME_INIT_ERROR_GRAPHICS_NOT_SUPPORT_32BIT	Bilgisayarınızdaki grafik kartı Windows 32bit Modunu desteklemiyor.\n16bit Modunu veya tam ekran seçeneğini kullanınız.
+GAME_INIT_ERROR_ITEM_PROTO	Nesne bilgileri yok.\nOyunu tekrar yükleyiniz.
+GAME_INIT_ERROR_MAIN_WINDOW	Anayapı oluşturulamıyor.
+GAME_INIT_ERROR_MOB_PROTO	Canavar bilgileri yok.\nOyunu tekrar yükleyiniz.
+GAME_INIT_ERROR_NETWORK	Bağlantı kurulamıyor.\ninternet bağlantınızı kontrol ediniz.
+GAME_PICK_MONEY	%d Yang Kazandın.
+GUILDBANK_CLEARBANK	Uyarı: Lonca Deposu tamamen boşaltılmalı!
+GUILDBANK_DONT_MONEY_OUT	Lonca bankasında hiç Yang'ın yok!
+GUILDBANK_GOLD_IN	Yatır
+GUILDBANK_GOLD_OUT	Çek
+GUILDBANK_ITEM_IN	Depola
+GUILDBANK_ITEM_OUT	Kaldır
+GUILDBANK_MONEYIN	Yang Yatır
+GUILDBANK_MONEYOUT	Yang Çek
+GUILDBANK_NOTUSE	Gerekli izinlere sahip değilsin.
+GUILDBANK_NOT_ENOUGH_MONEY	Yatırmaya yetecek kadar Yang'ın yok.
+GUILDBANK_OVER_INCOME	Hesap sınırına ulaşıldı.
+GUILDBANK_OVER_MONEY	Lonca hesabı dolu.
+GUILDLAND_ABANDON	Lonca Bölgesi'ni terk et
+GUILDLAND_ABANDON_VOTE	[%s]'in Lonca Bölgesi'ni terk et
+GUILDLAND_ABANDON_VOTE_RESULT1	[%s] loncasının bölgesi terk edildi.
+GUILDLAND_ABANDON_VOTE_RESULT2	Lonca bölgesi terk edildi.
+GUILDLAND_ABANDON_VOTE_RESULT3	Oylama Sonuçları:
+GUILDLAND_ABANDON_VOTE_RESULT4	Oylama geçersiz.
+GUILDLAND_ABANDON_VOTE_TEXT	Bu oylamayı gerçekten başlatmak istiyor musun?
+GUILDLAND_ABANDON_VOTE_TEXT1	Lonca bölgesini terk etmeyi kabul ediyor musun?
+GUILDLAND_ACCEPT	Evet
+GUILDLAND_DEAL	Lonca Bölgesi'ni sat.
+GUILDLAND_DEAL_TEXT1	[%s] loncası lonca bölgesini 
+GUILDLAND_DEAL_TEXT2	[%s] Yang'a satmak istiyor.
+GUILDLAND_DEAL_TEXT3	Teklifi kabul ediyor musun?
+GUILDLAND_DELA_VOTE	[%s] loncası lonca bölgemizi almak istiyor.
+GUILDLAND_DELA_VOTE_RESULT1	Lonca Bölgesi [%s] loncasına satıldı.
+GUILDLAND_DELA_VOTE_RESULT2	Oylama sona erdi.
+GUILDLAND_DELA_VOTE_RESULT3	Lonca Bölgesi satışı için oylama sonuçları:
+GUILDLAND_DELA_VOTE_RESULT4	Oylama geçersiz.
+GUILDLAND_DELA_VOTE_TEXT	Bölgenizi hangi loncaya satmak istiyorsunuz?
+GUILDLAND_DELA_VOTE_TEXT1	Lonca bölgesini satmayı kabul ediyor musunuz?
+GUILDLAND_DONTHAVE_LAND	Herhangi bir lonca bölgeniz yok.
+GUILDLAND_NOT	Hayır
+GUILDLAND_VOTE_TEXT	Bölgeyi [%s]'e vermek ister misin?
+GUILDLIST_APPLICANT	Başvurmak ister misin?
+GUILDMARK_UPLOADER_ERROR_128_HEIGHT	Yükseklik 128 Pixel değil
+GUILDMARK_UPLOADER_ERROR_12_HEIGHT	Yükseklik 12 Pixel değil
+GUILDMARK_UPLOADER_ERROR_16_WIDTH	Genislik 16 Pixel değil
+GUILDMARK_UPLOADER_ERROR_64_WIDTH	Genişlik 64 Pixel değil
+GUILDMARK_UPLOADER_ERROR_FILE_FORMAT	Oyun bu resmi desteklemiyor.
+GUILDMARK_UPLOADER_ERROR_PATH	Bilgiyi metin2/upload klasörüne taşı.
+GUILDMARK_UPLOADER_ERROR_SELECT	Resim dosyası seçilmedi.
+GUILDVOTE_CHANGEMASTER	Lonca Liderini Değiştir
+GUILDVOTE_CHANGEMASTER_RESULT1	Lonca başarıyla transfer edildi.
+GUILDVOTE_CHANGEMASTER_RESULT2	[%s] loncası size transfer edildi.
+GUILDVOTE_CHANGEMASTER_RESULT3	Loncayı [%s]'e devret.
+GUILDVOTE_CHANGEMASTER_RESULT4	Oylama geçersiz.
+GUILDVOTE_CHANGEMASTER_RESULT5	Yeni Lonca Lideri: %s
+GUILDVOTE_CHANGEMASTER_TEXT1	Lonca [%s] 'e transfer etmek istiyor musun?
+GUILDVOTE_CHANGEMASTER_TEXT2	
+GUILDVOTE_CHANGEMASTER_TEXT3	Gerçekten lonca liderliğinden vazgeçmek mi istiyorsun?
+GUILDVOTE_CHANGEMASTER_TEXT4	
+GUILDVOTE_CHANGEMASTER_VOTETEXT1	Loncayı [%s]'e devret.
+GUILDVOTE_CHANGEMASTER_VOTETEXT2	Lonca liderlik transferini kabul ediyor musun?
+GUILDVOTE_MEMBEROUT	Üyeyi At
+GUILDVOTE_MEMBEROUT_AUTH	Gerekli izinlere sahip değilsiniz.
+GUILDVOTE_MEMBEROUT_NOMAL	Bu üyeyi gerçekten atmak istiyor musun?
+GUILDVOTE_MEMBEROUT_RESULT1	Üyeyi at: [%s]
+GUILDVOTE_MEMBEROUT_RESULT2	Oylama sonucu
+GUILDVOTE_MEMBEROUT_RESULT3	[%s] loncasından atıldın.
+GUILDVOTE_MEMBEROUT_RESULT4	Oylama sonucu
+GUILDVOTE_MEMBEROUT_RESULT5	Oylama geçersiz.
+GUILDVOTE_MEMBEROUT_TEXT1	[%s] 'e karşı oylamaya başlamak ister misin?
+GUILDVOTE_MEMBEROUT_TEXT2	Oylama: Üye loncadan atılsın mı?
+GUILDVOTE_MEMBEROUT_VOTETEXT1	Oylama: [%s] loncadan atılmalı mı?
+GUILDVOTE_MEMBEROUT_VOTETEXT2	
+GUILDVOTE_NO	Hayır
+GUILDVOTE_OK	Evet
+GUILDVOTE_RESULT_AGGRE_MEMBER	Evet: %d
+GUILDVOTE_RESULT_ALL_MEMBER	Katılımcı Sayısı: %d
+GUILDVOTE_RESULT_OPPESE_MEMBER	Hayır: %d
+GUILDVOTE_RESULT_TIME	%d gün %d saat %d dakika %d saniye
+GUILDVOTE_SELECT_ONE	Lütfen bir karakter seçin.
+GUILDWAR_ALL	Savaşlar (S)
+GUILDWAR_CTF_TITLE	Bayrak ele geçirildi.
+GUILDWAR_DRAW	Beraberlik (B)
+GUILDWAR_GAINSCORE_FIFTY	50 puan
+GUILDWAR_GAINSCORE_HUNDRED	100 puan
+GUILDWAR_GAINSCORE_THIRTY	30 puan
+GUILDWAR_GAMETIME_SIXTY	60 dakika
+GUILDWAR_GAMETIME_TEN	10 dakika
+GUILDWAR_GAMETIME_THIRTY	30 dakika
+GUILDWAR_INPUT_OTHERGUILD	Lütfen düşman lonca girin.
+GUILDWAR_LADDER	Sıra Puanları
+GUILDWAR_LIMIT_MEMBER_FIVE	Minimum katılımcı sayısı 5'tir.
+GUILDWAR_LOSE	Mağlubiyet (M)
+GUILDWAR_NORMAL_TITLE	Meydan Savaşı
+GUILDWAR_OVER_MEMBERCOUNT	Üye limitine ulaştınız.
+GUILDWAR_QUESTION_LINE_1	%s loncası, senin loncana savaş ilan etti.
+GUILDWAR_QUESTION_LINE_2	kabul ediyor musun? (%s)
+GUILDWAR_RANKING	Sıralama
+GUILDWAR_RECODE_ALL	%d S, %d G, %d M %d B
+GUILDWAR_SELECT_MEMBER_COUNT	Katılımcı sayısını seçin.
+GUILDWAR_TYPE_DEFENSE	Kalkan Savaşı
+GUILDWAR_TYPE_TIGER	İmha
+GUILDWAR_TYPE_TIME	Süreli Saldırı
+GUILDWAR_UNKNOWN_TITLE	...
+GUILDWAR_WARP_TITLE	Arena Savaşı
+GUILDWAR_WIN	Galibiyet (G)
+GUILDWAR_WIN_FIVE	5 raund
+GUILDWAR_WIN_ONE	1 raund
+GUILDWAR_WIN_THREE	3 raund
+GUILDWINDOW_BUTTON_BANKGOLDINFO	Lonca Deposu Kayıtları
+GUILDWINDOW_BUTTON_BASEABANDON	Lonca Bölgesini Terk Et
+GUILDWINDOW_BUTTON_BASEDEAL	Lonca Bölgesini Sat
+GUILDWINDOW_BUTTON_BASEDEALVOTE	Oyla
+GUILDWINDOW_BUTTON_BOARD	Lonca Mesajları
+GUILDWINDOW_BUTTON_CHANGEMASTER	Lonca Liderini Değiştir
+GUILDWINDOW_BUTTON_DECLARE	Savaş İlan Et
+GUILDWINDOW_BUTTON_GOLDIN	Yatır
+GUILDWINDOW_BUTTON_GOLDOUT	Çek
+GUILDWINDOW_BUTTON_GRADE	İzinleri Yönet
+GUILDWINDOW_BUTTON_GUILDLIST	Lonca Listesi
+GUILDWINDOW_BUTTON_HEALGSP	Ejderha Tanrı Gücünü Geri Yükle
+GUILDWINDOW_BUTTON_INFO	Lonca Bilgisi
+GUILDWINDOW_BUTTON_LANDINFO	Bölge Bilgisi
+GUILDWINDOW_BUTTON_MARK	Lonca Sembolü Yükle
+GUILDWINDOW_BUTTON_MEMBER	Üye
+GUILDWINDOW_BUTTON_OFFER	EXP Bağışla
+GUILDWINDOW_BUTTON_OUTMEMBER	Üyeyi At
+GUILDWINDOW_BUTTON_SKILL	Lonca Becerileri
+GUILDWINDOW_BUTTON_SYMBOL	Lonca Bayrağı Yükle
+GUILDWINDOW_BUTTON_VOTECHECK	Oy Ver
+GUILDWINDOW_BUY_GUILD_LAND	Lonca Bölgesi Satın Al
+GUILDWINDOW_CHANGE_OBJECT	Yeniden Yapılandırma
+GUILDWINDOW_CHANGE_SMELTER	Simyacıyı Değiştir
+GUILDWINDOW_CREATE_OBJECT	İnşa Et
+GUILDWINDOW_DEAL_GUILD_LAND	Bölgeyi Sat
+GUILDWINDOW_GRADE_BANK	Lonca banka ve deposu kullanabilir.
+GUILDWINDOW_GRADE_DRIVEOUTAUTHORITY	Üyeleri loncadan atabilir.
+GUILDWINDOW_GRADE_GRADENAME	Rütbe İsmi
+GUILDWINDOW_GRADE_GRADENUMBER	Rütbe Numarası
+GUILDWINDOW_GRADE_GUILDWAR	Savaşa katılacak üyeleri seçebilir.
+GUILDWINDOW_GRADE_INVITEAUTHORITY	Oyuncuları lonca kabul edebilir.
+GUILDWINDOW_GRADE_NOTICEAUTHORITY	Lonca mesajlarını oluşturabilir.
+GUILDWINDOW_GRADE_SKILLAUTHORITY	Lonca becerilerini kullanabilir.
+GUILDWINDOW_INFO_LEVEL10	Maks. üye sayısı arttırıldı.
+GUILDWINDOW_INFO_LEVEL15	Ejderha Tanrısı Gücü kullanma maliyeti düşürüldü.
+GUILDWINDOW_INFO_LEVEL20	Banka için vergi muafiyeti.
+GUILDWINDOW_INFO_LEVEL5	Lonca bağışlarına  +5% EXP
+GUILDWINDOW_LIST_ALL	Bütün İmparatorluklar
+GUILDWINDOW_LIST_ALREADY_REGISTER	[Lonca] Sen zaten başvurdun.
+GUILDWINDOW_LIST_APPLICANT_LIST	Başvuru Listesi
+GUILDWINDOW_LIST_CHRACTER_JOB	Sınıf
+GUILDWINDOW_LIST_CHRACTER_LV	Seviye
+GUILDWINDOW_LIST_CHRACTER_NAME	Karakter İsmi
+GUILDWINDOW_LIST_CHRACTER_SUB_JOB	Alt Sınıf
+GUILDWINDOW_LIST_EMPIRE_A	Shinsoo
+GUILDWINDOW_LIST_EMPIRE_B	Chunjo
+GUILDWINDOW_LIST_EMPIRE_C	Jinno
+GUILDWINDOW_LIST_GUILDMEMBER	Üye
+GUILDWINDOW_LIST_GUILD_LIST	Lonca Listesi
+GUILDWINDOW_LIST_GUILD_LV	Seviye
+GUILDWINDOW_LIST_GUILD_NAME	Lonca
+GUILDWINDOW_LIST_INPUT_GUILDNAME	[Lonca] Lütfen bir lonca ismi girin.
+GUILDWINDOW_LIST_LADDER	Sıralama Puanı
+GUILDWINDOW_LIST_PROMOTE_GUILD	Başvuru
+GUILDWINDOW_LIST_PROMOTE_GUILD_LIST	Lonca Listesi
+GUILDWINDOW_LIST_RANKING	Pozisyon
+GUILDWINDOW_LIST_RANKING_COUNT	Pozisyon
+GUILDWINDOW_LIST_REGISTER	Başvurular
+GUILDWINDOW_LIST_REGISTER_GUILD	Loncaya başvur
+GUILDWINDOW_LIST_SEARCH	Ara
+GUILDWINDOW_LIST_SELECT_GUILD	[Lonca] Lütfen başvurmak istediğiniz loncayı seçin.
+GUILDWINDOW_PROMOTE_REFRESH	Tanıtım Yap
+GUILDWINDOW_PROMOTE_REGISTER	Tanıtım Yap
+GUILDWINDOW_SP_RECOVER	Ejderha Tanrısı Gücü
+GUILDWINDOW_UPGRADE_ALTEROFPOWER	Sunağı Yükselt
+GUILDWINDOW_UPGRADE_GUILDBANK	Bankayı Yükselt
+GUILD_BANKINFO_CLOSE	Kapat
+GUILD_BANKINFO_NAME	Üye
+GUILD_BANKINFO_TYPE	Eşya / Döviz
+GUILD_BANKINFO_USETYPE	Eylem
+GUILD_BANK_CLOSE	Kapat
+GUILD_BANK_INFO	Lonca Deposu Kayıtları
+GUILD_BOARD_ID	Üye
+GUILD_BOARD_TEXT	Mesaj
+GUILD_BUILDING_FIX_CHANGE	Gerçekten pozisyonu değiştirmek istiyor musun?
+GUILD_BUILDING_FIX_CHANGE_GOLD	Maliyet: 1,000,000 Yang
+GUILD_BUILDING_FIX_DELETE	Gerçekten nesneyi silmek istiyor musun?
+GUILD_BUILDING_FIX_NEED_BUILDING	Mevcut bina yok.
+GUILD_BUILDING_GRADE	Sıralama
+GUILD_BUILDING_NAME	Binanin ismi
+GUILD_CANNOT_HEAL_GSP_ANYMORE	Ejderha Hayaleti Enerjisi tamamen yüklenmiş durumda.
+GUILD_COMMENT	Yaz
+GUILD_CREATE_ERROR_INSULT_NAME	Lonca adı hatalı
+GUILD_DEFAULT_GRADE	Lonca üyeleri
+GUILD_DELETE	Sil
+GUILD_DEPOSIT	Depozit
+GUILD_DO_YOU_HEAL_GSP	%d Yang %d ile bir Ejderha Hayaleti yüklemek ister misin?
+GUILD_DO_YOU_JOIN	  seni davet ediyor. Loncaya katılmak istiyor musun?
+GUILD_DRAGONLAIR_MIN	dak.
+GUILD_DRAGONLAIR_SECOND	sn.
+GUILD_EMPTY_AREA	Boş alan
+GUILD_ENEMY_GUILD_NAME	Düşmanın Lonca adı
+GUILD_FACILITY	Ek bina
+GUILD_GEM	Değerli taş
+GUILD_HEADQUARTER	Ana bina
+GUILD_HEAL_GSP	Ejderha Hayaleti Yükle
+GUILD_INFO_ENEMY_GUILD_EMPTY	Boş
+GUILD_MARK_NOT_ENOUGH_LEVEL	En az 4. seviye gerekir
+GUILD_MARK_UPLOAD_NOTICE	Lütfen bir dakika bekleyin, böylece lonca logoları ekleyebilirsiniz.
+GUILD_MEMBER_JOB	Sınıf
+GUILD_MEMBER_KNIGHT	Savaşçı
+GUILD_MEMBER_LEVEL	Seviye
+GUILD_MEMBER_NAME	Üye
+GUILD_MEMBER_RANK	Rütbe
+GUILD_MEMBER_SPECIFIC_GRAVITY	Bağışlanan EXP
+GUILD_NAME	Lonca adı
+GUILD_NOT_ENOUGH_MATERIAL	Bu bina için yeterli inşaat malzemesine sahip değilsin.
+GUILD_NOT_ENOUGH_MONEY	Bu bina için yeterli Yang'a sahip değilsin.
+GUILD_NO_NOTICE_PERMISSION	Duyuru yapmak için gerekli iznin yok.
+GUILD_OBJECT	Nesne
+GUILD_OFFER_EXP	Tecrübe yatır
+GUILD_SHORT_EXP	Yeterli Tecrübe Puanı yok.
+GUILD_TILE_BASEINFO	Temel bilgiler
+GUILD_TILE_BOARD	Kara tahta
+GUILD_TILE_GRADE	Yönetici Pozisyonu
+GUILD_TILE_INFO	Lonca bilgileri
+GUILD_TILE_MEMBER	Lonca üyeleri
+GUILD_TILE_SKILL	Lonca becerisi
+GUILD_USE_MASTER_ONLY	Sadece lonca lideri bu hakka sahiptir.
+GUILD_VILLAGE_01	Miryang
+GUILD_VILLAGE_02	Songpa
+GUILD_VILLAGE_03	Daeyami
+GUILD_WAR1	Lonca Savaşı Bölgesi
+GUILD_WAR2	Lonca Savaşı Bölgesi
+GUILD_WAR3	Lonca Savaşı Bölgesi
+GUILD_WAR4	Lonca Savaşı Bölgesi
+GUILD_WAR_GAINSCORE_FIFTY	50 puan
+GUILD_WAR_GAINSCORE_HUNDRED	100 puan
+GUILD_WAR_GAINSCORE_THIRTY	30 puan
+GUILD_WAR_GAMETIME_SIXTY	60 dakika
+GUILD_WAR_GAMETIME_TEN	10 dakika
+GUILD_WAR_GAMETIME_THIRTY	30 dakika
+GUILD_WAR_LIMIT_30MIN	Zaman: 30 dakika
+GUILD_WAR_REWARD_POTION	Ödül: Yenen iksir kazanacak
+GUILD_WAR_SELECT_WAR	Savaş türünü seçin
+GUILD_WAR_TYPE_DEFENSE	Kalkan Savaşı
+GUILD_WAR_TYPE_DIE	Arena Savaşı
+GUILD_WAR_TYPE_FLAG	Bayrak Kapma Savaşı
+GUILD_WAR_TYPE_NORMAL	Alan Savaşı
+GUILD_WAR_TYPE_TIGER	İmha
+GUILD_WAR_TYPE_TIME	Süreli Saldırı
+GUILD_WAR_USE_BATTLE_MAP	Yer: Lonca Savaşı Arenası
+GUILD_WAR_USE_NORMAL_MAP	Yer: Normal Harita
+GUILD_WAR_WIN_CHECK_SCORE	Savaşı en yüksek skor kazanır
+GUILD_WAR_WIN_FIVE	5 raund
+GUILD_WAR_WIN_ONE	1 raund
+GUILD_WAR_WIN_TAKE_AWAY_FLAG1	Düşmanın bayrağını ele geçir
+GUILD_WAR_WIN_TAKE_AWAY_FLAG2	ve kendi üssüne götür.
+GUILD_WAR_WIN_THREE	3 raund
+GUILD_WAR_WIN_WIPE_OUT_GUILD	Kazanmak için tüm düşmanları öldür.
+GUILD_WITHDRAW	Geri çekil.
+GUILD_YOU_DO_NOT_JOIN	Bir loncaya üye değilsin.
+HORSE_HEALTH0	Ölü
+HORSE_HEALTH1	Açlıktan Ölmek Üzere
+HORSE_HEALTH2	Aç
+HORSE_HEALTH3	Tok
+HORSE_LEVEL1	Normal At
+HORSE_LEVEL2	Savaş Atı
+HORSE_LEVEL3	Asker At
+HOUR	Saat
+HOW_MANY_ITEM_DO_YOU_DESTROY1	%s 'i yok etmek istiyor musun?
+HOW_MANY_ITEM_DO_YOU_DESTROY2	%dx %s'i yok etmek istiyor musun?
+HOW_MANY_ITEM_DO_YOU_DROP1	%s atmak istiyor musun?
+HOW_MANY_ITEM_DO_YOU_DROP2	%s %d atmak istiyor musun?
+HOW_MANY_ITEM_DO_YOU_DROP_OR_DESTROY1	%s 'i atmak ya da yok etmek istiyor musun?
+HOW_MANY_ITEM_DO_YOU_DROP_OR_DESTROY2	%dx %s 'i atmak ya da yok etmek istiyor musun?
+INPUT_MATRIX_CARD_NUMBER	Matrix Kart Numaranı gir.
+INPUT_MATRIX_CARD_TITLE	Matrix Kart
+INPUT_PRIVATE_CODE_DIALOG_DESCRIPTION	Hesap ayarlarınızdaki silme-kodunu buraya giriniz.
+INPUT_PRIVATE_CODE_DIALOG_TITLE	Karakteri sil
+INVENTORY_DO_NOT_PACK_WARP_SCROLL	Dönüş Rolesi
+INVENTORY_REALLY_USE_ITEM	Bu eşyayı kullanmak istiyor musun?
+JOB_ASSASSIN	Ninja
+JOB_ASSASSIN0	Amatör Ninja
+JOB_ASSASSIN1	Bıçakçı Ninja
+JOB_ASSASSIN2	Okçu Ninja
+JOB_SHAMAN	Şaman
+JOB_SHAMAN0	Amatör Şaman
+JOB_SHAMAN1	Ejderha Gücü Şaman
+JOB_SHAMAN2	İyileştirmeci Şaman
+JOB_SURA	Sura
+JOB_SURA0	Amatör Sura
+JOB_SURA1	Büyülü Silah Sura
+JOB_SURA2	Kara Büyü Sura
+JOB_WARRIOR	Savaşçı
+JOB_WARRIOR0	Amatör Savaşçı
+JOB_WARRIOR1	Bedensel Savaşçı
+JOB_WARRIOR2	Zihinsel Savaşçı
+LEFT_TIME	Kalan Süre
+LOGIN_CONNECT_FAILURE	Sunucuya bağlanırken hata
+LOGIN_CONNECT_SUCCESS	Sunucuya bağlandın.
+LOGIN_CONNETING	Sunucuya bağlanıyorsun...
+LOGIN_FAILURE_ALREAY	Hesap zaten bağlı.
+LOGIN_FAILURE_BE_SAME_KEY	Kayıt problemi
+LOGIN_FAILURE_BLOCK_ID	Hesabınız engellendi!
+LOGIN_FAILURE_BLOCK_HWID	Bilgisayarınız %s boyunca kilitlendi.
+LOGIN_FAILURE_BLOCK_LOGIN	Lütfen başka sunucu seç!
+LOGIN_FAILURE_NOBILL	Hesabınızın oyun süresi yok.
+LOGIN_FAILURE_NOT_AVAIL	Hesabınız %s için geçici olarak kilitlendi.
+LOGIN_FAILURE_NOT_EXIST_ID	Hesap ismi veya şifre yanlış.
+LOGIN_FAILURE_REPAIR_ID	Bu hesap için, nesneler yüklendi.
+LOGIN_FAILURE_SHUTDOWN	Sunucu henüz açılmadı.
+LOGIN_FAILURE_TOO_MANY_USER	Çok fazla kullanıcı bağlı olduğu için bağlanamazsınız.
+LOGIN_FAILURE_UNKNOWN	Bilinmeyen bir nedenle kaydolamadınız.
+LOGIN_FAILURE_WEB_BLOCK	Web sitesine erişiminiz engellendi. Lütfen E-Postanızı kontrol ediniz.
+LOGIN_FAILURE_BRUTEFORCE	Çok fazla başarısız oturum açma girişimi tespit edildi. Bu nedenle, bilgisayarınız herhangi bir oturum açma denemesi için %s geçici olarak kilitlendi.
+LOGIN_FAILURE_WRONG_MATRIX_CARD_NUMBER	Yanlış numara girdiniz.
+LOGIN_FAILURE_WRONG_MATRIX_CARD_NUMBER_TRIPLE	3 kere yanlış numara girdiniz. Bağlantınız kesildi.
+LOGIN_FAILURE_WRONG_PASSWORD	Hesap ismi veya şifre yanlış.
+LOGIN_INPUT_ID	ID nizi yazın.
+LOGIN_INPUT_PASSWORD	Şifreyi gir.
+LOGIN_PROCESSING	Giriş işlemi yapılıyor...
+MALL_CANNOT_INSERT	Nesne için yeriniz yok.
+MALL_PASSWORD_TITLE	Şifre
+MAP_A1	Yongan Bölgesi
+MAP_A2	Seungryong Vadisi
+MAP_A3	Yayang Bölgesi
+MAP_AG	Jungrang
+MAP_B1	Joan Bölgesi
+MAP_B2	Imji Vadisi
+MAP_B3	Bokjung Bölgesi
+MAP_BG	Waryong
+MAP_C1	Pyungmoo Bölgesi
+MAP_C2	Bangsan Vadisi
+MAP_C3	Bakra Bölgesi
+MAP_CG	Imha
+MAP_DESERT	Yongbi Çölü
+MAP_FLAME	Doyyumhwan
+MAP_NUSLUCK	Devler Diyarı
+MAP_SKELTOWER	Gumsan Kulesi
+MAP_SNOW	Sohan Dağı
+MAP_SPIDER	Kuahlo Dong
+MAP_TEMPLE	Hwang Tapınağı
+MAP_TREE	Lungsam
+MAP_TRENT02	Kırmızı Orman
+MAP_WL	Yılan Vadisi
+MESSENGER_ADD_FRIEND	Arkadaş ekle
+MESSENGER_DO_YOU_ACCEPT_ADD_FRIEND_1	%s seni arkadaş olarak ekledi.
+MESSENGER_DO_YOU_ACCEPT_ADD_FRIEND_2	Kabul et?
+MESSENGER_DO_YOU_DELETE	Sil?
+MESSENGER_DO_YOU_DELETE_PHONE_NUMBER	Cep telefonu numaranızı silmek istiyor musunuz?
+MESSENGER_DO_YOU_MOVE	Devam etmek istiyor musun?
+MESSENGER_EMPTY_LIST	Boş
+MESSENGER_FAMILY	Aile
+MESSENGER_FRIEND	Arkadaşlar
+MESSENGER_GUILD	Lonca
+MESSENGER_INPUT_MOBILE_AUTHORITY_DESCRIPTION	Cep telefonunuza gönderilen onay numarasını giriniz.
+MESSENGER_INPUT_MOBILE_AUTHORITY_TITLE	Onaylama kodunu gir.
+MESSENGER_INPUT_MOBILE_PHONE_NUMBER_1	Text mesajlarının gönderilmesi için cep telefonu numaranızı giriniz.
+MESSENGER_INPUT_MOBILE_PHONE_NUMBER_2	Numarayı şimdi girmek istiyor musun?
+MESSENGER_INPUT_MOBILE_PHONE_NUMBER_TITLE	Cep telefonu numaranızı giriniz.
+MESSENGER_SEND_MOBILE_MESSAGE_TITLE	Mesaj gönder.
+MINIMAP	Küçük Haritayı aç
+MINIMAP_CANNOT_SEE	Küçük Haritayi göremezsiniz.
+MINIMAP_CAN_NOT_SHOW_AREAMAP	Küçük Harita görüntülenemiyor.
+MINIMAP_DEC_SCALE	Uzaklaştır
+MINIMAP_INC_SCALE	Yakınlaştır
+MINIMAP_OBSERVER_COUNT	%d izleyici
+MINIMAP_SHOW_AREAMAP	Genel Görünüm Haritası'nı aç
+MINUTE	Dakika
+MONETARY_UNIT0	Yang
+MONETARY_UNIT1	On Bin
+MONETARY_UNIT2	Yüz Milyon
+MONETARY_UNIT_GAYA	Gaya
+MOVE_ITEM_FAILURE_PRIVATE_SHOP	Özel depo açtığın sürece nesneleri başka yere taşıyamazsın.
+MUSIC_EMPTY_MUSIC_LIST	Fon müziği yok.
+MUSIC_METIN2_DEFAULT_THEMA	Metin2 Standart Müziği
+MUSIC_NOT_SELECT_MUSIC	Hiç Müzik dosyası seçilmedi.
+NEEFD_REST	Önce dinlenmelisin.
+NOT_YET_SUPPORT	Desteklenmiyor
+OPTION_PVPMODE_CANNOT_SET_GUILD_MODE	Herhangi bir Loncada değilken Lonca Modunu aktif edemezsiniz.
+OPTION_PVPMODE_NOT_SUPPORT	PvP Modunda bu biçimi seçemezsiniz.
+OPTION_PVPMODE_PROTECT	PvP-Modu'nu değiştirmek için ulaşmış olman gereken asgari seviye: %d.
+PARTY_BONUS_ATTACKER	Saldırı Değeri: +%d	SA
+PARTY_BONUS_BERSERKER	Saldırı Hızı: +%d	SA
+PARTY_BONUS_BUFFER	Beceri Süresi: +%d	SA
+PARTY_BONUS_DEFENDER	Savunma: +%d	SA
+PARTY_BONUS_EXP	EXP: %d%%	SA
+PARTY_BONUS_SKILL_MASTER	Maks. SP: +%d	SA
+PARTY_BONUS_TANKER	Maks. HP: +%d	SA
+PARTY_BREAK_UP	Grubu Sil
+PARTY_DO_YOU_ACCEPT	  grubunuza katılmak istiyor.
+PARTY_DO_YOU_JOIN	 seni grubuna davet ediyor. Kabul etmek istiyor musun?
+PARTY_EXP_DISTRIBUTION_MODE	EXP Paylaşımı
+PARTY_EXP_DISTRIBUTION_MODE_LEVEL	Seviyeye Bağlı
+PARTY_EXP_DISTRIBUTION_MODE_LEVEL_TOOLTIP	Yüksek seviyeli grup üyeleri daha fazla EXP kazanıyor.
+PARTY_EXP_DISTRIBUTION_MODE_PARITY	Eşit
+PARTY_EXP_DISTRIBUTION_MODE_PARITY_TOOLTIP	Tüm grup üyeleri aynı EXP i alır.
+PARTY_HEAL_ALL_MEMBER	Her şeyi yükle.
+PARTY_INCREASE_AREA_150	Grup kuruluş faktör aralığı 1,5.	SNA
+PARTY_INCREASE_AREA_200	Grup kuruluş faktör aralığı 2.	SNA
+PARTY_LEAVE	Grubu terket
+PARTY_LONGTIME_BONUS_EXP	Uzun bir grup oyunu için kazanılan EXP: +%d%%	SA
+PARTY_MEMBER_OFFLINE	[Çevrimdışı]
+PARTY_RECALL_MEMBER	Grup üyesini çağır.
+PARTY_REGEN_BONUS	Yeniden oluşum HP- + SP primi: +%d%%	SA
+PARTY_REQUEST_DENIED	Başvurun reddedildi.
+PARTY_SET_ATTACKER	Saldırı gücü olarak belirle
+PARTY_SET_BERSERKER	Öfkeli olarak belirle
+PARTY_SET_BUFFER	Tampon olarak belirle.
+PARTY_SET_DEFENDER	Savunma gücü olarak belirle.
+PARTY_SET_NORMAL	Geri Çekilme Ayarları.
+PARTY_SET_SKILL_MASTER	Beceri Master i olarak ayarla.
+PARTY_SET_TANKER	Yakın Dövüş Savasçısı olarak belirle.
+PARTY_SKILL_ATTACKER	Saldırı gücü olarak temel saldırı değeri +%,0f
+PARTY_SKILL_BERSERKER	Öfkeli saldırı hızı +%,0f
+PARTY_SKILL_BUFFER	Tampon Beceri Süresi +%,0f
+PARTY_SKILL_DEFENDER	Savunmacıların Savunması +%,0f
+PARTY_SKILL_HP_REGEN	HP üretimi +%,0f%%
+PARTY_SKILL_PARTY_AREA	Grup sırası +%d%%
+PARTY_SKILL_SKILL_MASTER	Max. SP Beceri Masterı +%,0f
+PARTY_SKILL_SP_REGEN	SP üretimi +%,0f%%
+PARTY_SKILL_TANKER	Max. HP Yakın Dövüş Saldırı Gücü +%,0f
+PARTY_SKILL_WARP	Grup üyelerini çağırmak mümkün.
+PASSWORD_TITLE	Depo Şifresi
+PICK_ITEM_TITLE	Eşya Sayısı
+PICK_MONEY_TITLE	Toplam
+PRIVATE_SHOP_CANNOT_SELL_ITEM	Du kannst diesen Gegenstand nicht in einem privaten Laden verkaufen.
+PRIVATE_SHOP_CLOSE_QUESTION	Möchtest du den privaten Laden schließen?
+PRIVATE_SHOP_INPUT_NAME_DIALOG_TITLE	Name des privaten Ladens
+OFFLINE_SHOP_INPUT_NAME_DIALOG_TITLE	Çevrimdışı Pazar İsmi
+PRIVATE_SHOP_INPUT_PRICE_DIALOG_TITLE	Fiyat
+PVP_NEW_GOOD4	Ritterlich
+PVP_NEW_GOOD3	Legende
+PVP_NEW_GOOD2	Exzellent
+PVP_NEW_GOOD1	Ordnungshüter
+PVP_LEVEL0	Kahraman
+PVP_LEVEL1	Soylu
+PVP_LEVEL2	İyi
+PVP_LEVEL3	Arkadaşça
+PVP_LEVEL4	Tarafsız
+PVP_LEVEL5	Agresif
+PVP_LEVEL6	Hilebaz
+PVP_LEVEL7	Kötü Niyetli
+PVP_LEVEL8	Zalim
+PVP_NEW_BAD1	Gewalttätig
+PVP_NEW_BAD2	Brutal
+PVP_NEW_BAD3	Krank
+PVP_NEW_BAD4	Grausam
+PVP_MODE_GUILD	PvP - Lonca etkinleştirildi
+PVP_MODE_KILL	PvP - Serbest etkinleştirildi
+PVP_MODE_NORMAL	PvP - Barış etkinleştirildi.
+PVP_MODE_PROTECT	PvP - Koruma etkinleştirildi.
+PVP_MODE_REVENGE	PvP - Düşman etkinleştirildi
+PVP_OPTION_KILL	Serbest
+PVP_OPTION_NORMAL	Barış
+PVP_OPTION_PROTECT	Koruma
+PVP_OPTION_REVENGE	Düşmanca
+QUEST_APPEND	Yeni görev geldi.
+QUEST_MIN	Dak.
+QUEST_SEC	Sn.
+QUEST_TIMEOVER	Zaman doldu.
+QUEST_UNLIMITED_TIME	Zaman sınırı yok.
+QUEST_ZEROSEC	0 sn.
+QUICKSLOT_REGISTER_DISABLE_ITEM	Bu nesne hızlı erişim alanına eklenemez.
+RECEIVE_MESSAGE	%s mesaj gönderdi.
+REFINE_COST	Yükseltme bedeli: %d Yang
+REFINE_DESTROY_WARNING	Eşya yükseltilirken yok olabilir.
+REFINE_DESTROY_WARNING_WITH_BONUS_PERCENT_1	Bunlar iyileştirme yapılarak yükseltilecek,
+REFINE_DESTROY_WARNING_WITH_BONUS_PERCENT_2	fakat hata vermesi durumunda nesne yok olabilir. Devam etmek istiyor musunuz?
+REFINE_DOWN_GRADE_WARNING	Nesnenin bu yolla değeri düşebilir.
+REFINE_DO_YOU_SEPARATE_METIN	Mevcut olan tüm Ruh Taşları çıkarılsın mı?
+REFINE_FAILURE	Başaramadın.
+REFINE_FAILURE_CAN_NOT_ATTACH0	%s bu eşyaya eklenemez.
+REFINE_FAILURE_EQUIP_ITEM	Kullanılmakta olan nesneleri geliştiremezsin.
+REFINE_FAILURE_METIN_INSEPARABLE_ITEM	Çıkarabileceğiniz ruh taşı yok.
+REFINE_FAILURE_NEED_BETTER_SCROLL	Daha iyi bir yükseltme Rolesine ihtiyacınız var.
+REFINE_FAILURE_NO_GOLD_SOCKET	Burada %s eklemek için altın yuva yok.
+REFINE_FAILURE_NO_MORE_SOCKET	Daha fazla slot ekleyemezsin.
+REFINE_FAILURE_NO_SOCKET0	%s eklemek için boş slot yok.
+REFINE_FAILURE_SOCKET_DISABLE_ITEM	Bu nesneye slot ekleyemezsin.
+REFINE_FAILURE_UPGRADE_DISABLE_ITEM	Bu nesne yükseltilemez.
+REFINE_SUCCESS	Nesnenin yükseltilmesi başarıyla tamamlandı.
+REFINE_SUCCESS_PROBALITY	Yükseltme şansı %d%%
+REFINE_WARNING2	Devam etmek istiyor musun?
+SAFEBOX_ERROR	Yanlış şifre girdin.
+SAFEBOX_SELL_DISABLE_SAFEITEM	Korumalı nesneleri satamazsınız.
+SAFEBOX_WRONG_PASSWORD	Şifre aynı olmalı.
+SCREENSHOT_SAVE1	Ekran Görüntüsü
+SCREENSHOT_SAVE2	Dosyası Kaydedildi
+SCREENSHOT_SAVE_FAILURE	Ekran görüntüsü kaydı yapılamadı.
+SECOND	sn.
+SELECT_CAN_NOT_DELETE	Karakteri silemezsin.
+SELECT_CHANGED_NAME	Karakterin adını değiştirdin
+SELECT_CHANGE_FAILURE_ALREADY_EXIST_NAME	Bu karakter adı kullanılıyor
+SELECT_CHANGE_FAILURE_STRANGE_INDEX	Tekrar dene.
+SELECT_CHANGE_FAILURE_STRANGE_NAME	Bunu
+SELECT_CHANGE_NAME_TITLE	Karakter adını değiştir
+SELECT_DELEING	Karakter silinecek.
+SELECT_DELETED	Başarıyla silindi.
+SELECT_DO_YOU_DELETE_REALLY	Devam etmek istiyor musun?
+SELECT_EMPTY_SLOT	Bu boş bir alan.
+SELECT_GM_NAME	GM
+SELECT_INPUT_CHANGING_NAME	Yeni karakter adı gir.
+SELECT_NOT_JOIN_GUILD	Lonca yok
+SHOP_BUY_INFO	Market penceresinden satın almak istediğin nesneyi seç.
+SHOP_CANNOT_SELL_EQUIPMENT	Kullanılmakta olan nesneleri satamazsın.
+SHOP_CANNOT_SELL_ITEM	Bu eşya satılamaz.
+SHOP_ERROR_UNKNOWN	Bilinmeyen market hatası: %s
+SHOP_INVALID_POS	Bu eşya burada kullanılamaz.
+SHOP_INVENTORY_FULL	Envanterde boş alan yok.
+SHOP_NOT_ENOUGH_MONEY	Yeterli Yang ya da takas eşyası yok!
+SHOP_NOT_ENOUGH_MONEY_EX	Yeterli Yang ya da takas eşyası yok!
+SHOP_SELL_INFO	Envanter penceresinden satmak istediğin nesneyi seç.
+SHOP_SOLDOUT	Satıldı
+SHOT_ERROR_UNKNOWN	Uzaktan saldırı esnasında belirsiz hata: %s
+SKILL_BOHO	Yansıtma
+SKILL_BUDONG	Henüz kullanılamaz
+SKILL_CANNOT_LEVEL_UP_ANYMORE_BY_BOOK	Bu beceriyi öğrenmek için EXP e ihtiyacın var.
+SKILL_CANNOT_LEVEL_UP_ANYMORE_BY_STAT	Bu beceriyi ögrenmek için bir kitaba ihtiyacın var.
+SKILL_CHEONGEUN	Güçlü Beden
+SKILL_CRITICAL	Kritik Vuruş
+SKILL_ENCHANT_POISON	Zehir Uygulama
+SKILL_EUNHYEONG	Kamuflaj
+SKILL_FAINT	Sersemletme
+SKILL_FIND_TRAP	Tuzak Kurma
+SKILL_FIRE	Sürekli Ateş
+SKILL_FISHMIND	Balıkçılık Küresi etkin
+SKILL_GAMJI	Yakalama
+SKILL_GEOMGYEONG	Hava Kılıcı
+SKILL_GEONGON	SKILL_GEONGON Henüz kullanılamaz
+SKILL_GICHEON	Ejderha Yardımı
+SKILL_GIGONG	Chi Dönüşü
+SKILL_GONGPO	Dehşet
+SKILL_GRADE_NAME_GRAND_MASTER	%s Grand Master
+SKILL_GRADE_NAME_MASTER	%s Master
+SKILL_GRADE_NAME_PERFECT_MASTER	%s Perfect Master
+SKILL_GRADE_NAME_LEGENDARY_MASTER	%s Efsanevi Usta
+SKILL_GROUP_ASSASSIN_1	Bıçak
+SKILL_GROUP_ASSASSIN_2	Yay
+SKILL_GROUP_HORSE	Binicilik
+SKILL_GROUP_SHAMAN_1	EjderGücü
+SKILL_GROUP_SHAMAN_2	Iyileştirme
+SKILL_GROUP_SURA_1	Silah
+SKILL_GROUP_SURA_2	Kara Büyü
+SKILL_GROUP_WARRIOR_1	Bedensel
+SKILL_GROUP_WARRIOR_2	Zihinsel
+SKILL_GROUP_WOLFMAN	Beceriler
+SKILL_GWIGEOM	Büyülü Silah
+SKILL_GYEONGGONG	Hafif Adım
+SKILL_HEUKSIN	Karanlık Koruma
+SKILL_HOSIN	Kutsama
+SKILL_HWAYEOM	SKILL_HWAYEOM Kullanılamaz.
+SKILL_HYEOLMA	SKILL_HYEOLMA Kullanılamaz.
+SKILL_INC_ATKSPD	Saldırı hızı arttırıldı
+SKILL_INC_MOVSPD	Hareket hızı arttırıldı
+SKILL_INMA	SKILL_INMA Kullanılamaz.
+SKILL_JEOJU	Lanet
+SKILL_JEONGEOP	İyileştirme
+SKILL_JEONGWI	Öfke
+SKILL_JEONSINBANGEO	Maksimum Defans
+SKILL_JEONSINGONGGYEOK	Maksimum Saldırı
+SKILL_JEUNGCHE	SKILL_JEUNGCHE Kullanılamaz.
+SKILL_JEUNGHON	SKILL_JEUNGHON Kullanılamaz.
+SKILL_JEUNGRYEOK	Atak +
+SKILL_JEUNGSOK	Hız +
+SKILL_JIGAM	SKILL_JIGAM Kullanılamaz.
+SKILL_JIPJUNG	SKILL_JIPJUNG Kullanılamaz.
+SKILL_JUMAGAP	Büyülü Zırh
+SKILL_JUMAGEOM	SKILL_JUMAGEOM Kullanılamaz
+SKILL_KWAEGEOM	SKILL_KWAEGEOM Kullanılamaz
+SKILL_KWAESOK	Hız
+SKILL_LEGBOUND	SKILL_LEGBOUND Kullanılamaz
+SKILL_MUSA	SKILL_MUSA Kullanılamaz.
+SKILL_MUYEONG	Ateş Hayaleti
+SKILL_NEED_EMPTY_BOTTLE	Boş şişem yok.
+SKILL_NEED_POISON_BOTTLE	Zehir şişem yok.
+SKILL_ONLY_FOR_GUILD_WAR	Bu beceriyi sadece Lonca Savaşı sırasında kullanabilirsin.
+SKILL_PABEOP	Büyü Çözme
+SKILL_POWERFUL_STRIKE	Sersemletici Saldırı
+SKILL_SEOMGWANG	Şimşek Bombası
+SKILL_SINCHAK	SKILL_SINCHAK Kullanılamaz
+SKILL_SLEEP	Uyku
+SKILL_SLOW	Yavaş
+SKILL_STUN	Sersemletme
+SKILL_SUHO	Koruma
+SKILL_SUMMON_DESCRIPTION	Çağırma şansı: %d%%
+SKILL_TOOLTIP_INT	Zeka
+SKILL_TOOLTIP_LEVEL	Seviye
+SKILL_TOXICDIE	Zehirleme
+SKILL_TOXICPOWER	Zehirleme saldırısı yükseltildi.
+SKILL_TUSOK	Hayalet Vuruş
+SKILL_WONSIN	Kullanılamaz.
+SKILL_YONGSIN	Kullanılamaz.
+STAT_MINUS_CON	Canlılık Ayarı (Kalan şans: %d)
+STAT_MINUS_DEX	Çeviklik Ayarı (Kalan şans: %d)
+STAT_MINUS_INT	Zeka Ayarı (Kalan şans: %d)
+STAT_MINUS_STR	Güç Ayarı (Kalan şans: %d)
+STAT_TOOLTIP_CON	HP ve Savunma'yı arttırıyor
+STAT_TOOLTIP_DEX	Saldırı ve Savuşturma'yı arttıryor
+STAT_TOOLTIP_INT	SP, Büyülü Saldırı ve Savunma'yı artırıyor
+STAT_TOOLTIP_STR	Saldırı Değeri'ni ve Hasarı arttırıyor
+SYMBOLLIST_TITLE	Lonca Bayrağı kaydedildi.
+SYSTEM_OPTION_CPU_TILING_1	CPU modu zayıf bilgisayarların daha hızlı çalışmasını sağlar.
+SYSTEM_OPTION_CPU_TILING_2	Eğer grafiklerde problem varsa diğer seçeneği işaretleyiniz ,Sistem seçenekleri‘ veya ,CONFIG.exe‘
+SYSTEM_OPTION_CPU_TILING_3	ve GPU modunu seçin.
+SYSTEM_OPTION_GPU_TILING_1	GPU Modu zayıf bilgisayarları daha yavaş çalıştırır.
+SYSTEM_OPTION_GPU_TILING_2	Grafik ile ilgili sorunlarda, 'Sistem Seçenekleri' veya 'CONFIG.exe'yi seç
+SYSTEM_OPTION_GPU_TILING_3	GPU modunu değiştirin.
+SYSTEM_OPTION_TILING_EXIT	Tiling-Modu değişimi için oyun yeniden başlatılmalı.
+TARGET_BUTTON_ACCEPT_FIGHT	Anlaşma
+TARGET_BUTTON_AVENGE	İntikam
+TARGET_BUTTON_BUILDING_DESTROY	Yok Et
+TARGET_BUTTON_DISMOUNT	Binekten İn
+TARGET_BUTTON_EMOTION_ALLOW	Duygular
+TARGET_BUTTON_EXCHANGE	Ticaret
+TARGET_BUTTON_EXCLUDE	Reddet
+TARGET_BUTTON_EXIT_OBSERVER	Gözlemci Modunu Bitir
+TARGET_BUTTON_FIGHT	Düello
+TARGET_BUTTON_FRIEND	Dost
+TARGET_BUTTON_INVITE_GUILD	Lonca Daveti
+TARGET_BUTTON_INVITE_PARTY	Grup Daveti
+TARGET_BUTTON_LEAVE_PARTY	Grubu Terket
+TARGET_BUTTON_REQUEST_ENTER_PARTY	Gruba Katıl
+TARGET_BUTTON_VIEW_EQUIPMENT	Ekipman
+TARGET_BUTTON_WHISPER	Fısıldama
+TARGET_LEVEL_BOSS	Patron
+TARGET_LEVEL_KING	5.Seviye
+TARGET_LEVEL_KNIGHT	3.Seviye
+TARGET_LEVEL_PAWN	1.Seviye
+TARGET_LEVEL_S_KNIGHT	4.Seviye
+TARGET_LEVEL_S_PAWN	2.Seviye
+TASKBAR_ATTACK	Saldırı
+TASKBAR_AUTO	Otomatik Saldırı
+TASKBAR_CAMERA	Kamera
+TASKBAR_EXP	Deneyim
+TASKBAR_HP	HP
+TASKBAR_MOVE	Hareket
+TASKBAR_SKILL	Beceri
+TASKBAR_SP	SP
+TASKBAR_ST	AP
+THING_COUNT	hepsi
+TOOLTIP_ANTI_SELL	Bu eşya satılamaz.
+TOOLTIP_APPLY_ATTBONUS_ANIMAL	Hayvanlara Karşı Güçlü +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_ASSASSIN	Ninjalara Karşı Güçlü +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_DEVIL	Şeytanlara Karşı Güçlü +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_HUMAN	Yarı insanlara Karşı Güçlü +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_MILGYO	Mistiklere Karşı Güçlü +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_MONSTER	Canavarlara Karşı Güçlü +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_ORC	Orklara Karşı Güçlü +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_SHAMAN	Şamanlara Karşı Güçlü +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_SURA	Suralara Karşı Güçlü +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_UNDEAD	Ölümsüzlere Karşı Güçlü +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_WARRIOR	Savasçılara Karşı Güçlü +%d%%	SA
+TOOLTIP_APPLY_BLOCK	Yakın Dövüş Saldırılarını Bloklama Şansı: %d%%	SA
+TOOLTIP_APPLY_COMBAT_SP_RECOVER	Savaşta Her 5 saniyede bir %d SP Yenile 	SA
+TOOLTIP_APPLY_CRITICAL_PCT	Kritik Vuruş Şansı: +%d%%	SA
+TOOLTIP_APPLY_DAMAGE_SP_RECOVER	%d%% Vuruş Yapıldığında SP Geri Kazanma Şansı	SA
+TOOLTIP_APPLY_DODGE	Oklardan Korunma Şansı %d%%	SA
+TOOLTIP_APPLY_EXP_DOUBLE_BONUS	%d%% EXP Bonus Şansı	SA
+TOOLTIP_APPLY_GOLD_DOUBLE_BONUS	%d%% İki Kat Yang Elde Etme Şansı	SA
+TOOLTIP_APPLY_IMMUNE_FALL	Yere Düşme Karşısında Bağışıklılık	SNA
+TOOLTIP_APPLY_IMMUNE_SLOW	Yavaşlama Karşısında Bağışıklılık	SNA
+TOOLTIP_APPLY_IMMUNE_STUN	Sersemlik Karşısında Bağışıklılık	SNA
+TOOLTIP_APPLY_ITEM_DROP_BONUS	%d%% İki Kat Eşya Elde Etme Şansı	SA
+TOOLTIP_APPLY_KILL_HP_RECOVER	HP Yenileme Şansı +%d%%	SA
+TOOLTIP_APPLY_KILL_SP_RECOVER	SP Yenileme Şansı +%d%%	SA
+TOOLTIP_APPLY_MANA_BURN_PCT	SP Çalma Şansı: %d%%	SA
+TOOLTIP_APPLY_MAX_HP_PCT	Maks. HP +%d%%	SA
+TOOLTIP_APPLY_MAX_SP_PCT	Maks. SP +%d%%	SA
+TOOLTIP_APPLY_NOAFFECT	Efekt yok.
+TOOLTIP_APPLY_NO_DEATH_PENALTY	Karakter ölüp burada başla dediğinde deneyim kaybetmeyecek.	SNA
+TOOLTIP_APPLY_PENETRATE_PCT	Delici Vuruş Şansı: +%d%% 	SA
+TOOLTIP_APPLY_POISON_PCT	Zehirleme Şansı: %d%%	SA
+TOOLTIP_APPLY_POISON_REDUCE	Zehre Karşı Koyma %d%%	SA
+TOOLTIP_APPLY_POTION_BONUS	İksir Etkisi Yükseltme +%d%% 	SA
+TOOLTIP_APPLY_REFLECT_CURSE	Lanet Saldırılarını Yansıtma Şansı: %d%%	SA
+TOOLTIP_APPLY_REFLECT_MELEE	Yakın Dövüş Saldırılarını Yansıtma Şansı: %d%%	SA
+TOOLTIP_APPLY_RESIST_ASSASSIN	Ninja Saldırılarına Karşı Savunma Şansı: %d%%	SA
+TOOLTIP_APPLY_RESIST_BELL	Çan Savunması %d%%	SA
+TOOLTIP_APPLY_RESIST_DAGGER	Bıçak Savunması %d%%	SA
+TOOLTIP_APPLY_RESIST_FAN	Yelpaze Savunması %d%%	SA
+TOOLTIP_APPLY_RESIST_SHAMAN	Şaman Saldırılarına Karşı Savunma Şansı %d%%	SA
+TOOLTIP_APPLY_RESIST_SURA	Sura Saldırılarına Karşı Savunma Şansı %d%%	SA
+TOOLTIP_APPLY_RESIST_SWORD	Kılıç Savunması %d%%	SA
+TOOLTIP_APPLY_RESIST_TWOHAND	Çift El Savunması %d%%	SA
+TOOLTIP_APPLY_RESIST_WARRIOR	Savaşçı Saldırılarına Karşı Savunma Şansı %d%%	SA
+TOOLTIP_APPLY_RESIST_WIND	Rüzgar Dayanıklılığı %d%%	SA
+TOOLTIP_APPLY_SKILL_BOOK_BONUS	Kitaptan öğrenme şansı 2,5 arttı.	SNA
+TOOLTIP_APPLY_SKILL_BOOK_NO_DELAY	Öğrenme başarısız olursa, anında bir kere daha deneme şansına sahipsin.	SNA
+TOOLTIP_APPLY_SLOW_PCT	Yavaşlatma Şansı: %d%%	SA
+TOOLTIP_APPLY_STEAL_HP	%d%% Hasar, HP Tarafından Absorbe Edilecek	SA
+TOOLTIP_APPLY_STEAL_SP	%d%% Hasar, SP Tarafından Absorbe Edilecek	SA
+TOOLTIP_APPLY_STUN_PCT	Sersemletme Şansı: %d%%	SA
+TOOLTIP_APPLY_RESIST_SWORD_PEN	Kılıç Savunmasının Kırılması %d%%	SA
+TOOLTIP_APPLY_RESIST_TWOHAND_PEN	Çift El Savunmasının Kırılması %d%%	SA
+TOOLTIP_APPLY_RESIST_DAGGER_PEN	Bıçak Savunmasının Kırılması %d%%	SA
+TOOLTIP_APPLY_RESIST_BELL_PEN	Çan Savunmasının Kırılması %d%%	SA
+TOOLTIP_APPLY_RESIST_FAN_PEN	Yelpaze Savunmasının Kırılması %d%%	SA
+TOOLTIP_APPLY_RESIST_BOW_PEN	Ok Savunmasının Kırılması %d%%	SA
+TOOLTIP_APPLY_RESIST_ATTBONUS_HUMAN	Yarı İnsan Dayanıklılığı +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_ELEC	Şimşek Gücü +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_DARK	Karanlık Gücü +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_ICE	Buz Gücü +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_FIRE	Ateş Gücü +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_EARTH	Toprak Gücü +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_WIND	Rüzgar Gücü +%d%%	SA
+TOOLTIP_APPLY_RESIST_ICE	Buz Dayanıklılığı +%d%%	SA
+TOOLTIP_APPLY_RESIST_EARTH	Toprak Dayanıklılığı +%d%%	SA
+TOOLTIP_APPLY_RESIST_DARK	Karanlık Dayanıklılığı +%d%%	SA
+TOOLTIP_APPLY_ANTI_CRITICAL_PCT	Kritik Hasar Dayanıklılığı +%d%%	SA
+TOOLTIP_APPLY_ANTI_PENETRATE_PCT	Delici Hasar Dayanıklılığı +%d%%	SA
+TOOLTIP_APPLY_DEFENSE_BONUS	Savunma +%d%%	SA
+TOOLTIP_ARMOR	Zırh
+TOOLTIP_ARROW	Ok
+TOOLTIP_ASSASSIN	Ninja
+TOOLTIP_ATT_GRADE	Saldırı Değeri +%d	SA
+TOOLTIP_ATT_SPEED	Saldırı Hızı +%d%%	SA
+TOOLTIP_AUTO_POTION_HP	Güneş Özütü
+TOOLTIP_AUTO_POTION_REST	Kalan miktar: %.2f%%
+TOOLTIP_AUTO_POTION_SP	Ay Özütü
+TOOLTIP_AUTO_POTION_USING	Etkin
+TOOLTIP_BOW_DISTANCE	Yay Menzili +%dm	SA
+TOOLTIP_BUYPRICE	Fiyatı: %s
+TOOLTIP_CAST_SPEED	Büyü Hızı +%d%%	SA
+TOOLTIP_CON	Canlılık +%d	SA
+TOOLTIP_DEF_GRADE	Savunma +%d	SA
+TOOLTIP_DEX	Çeviklik +%d	SA
+TOOLTIP_EAR	Küpe
+TOOLTIP_ETC	v.b.
+TOOLTIP_FISHINGROD_EXP	Puan %d / %d
+TOOLTIP_FISHINGROD_LEVEL	Seviye: %d
+TOOLTIP_FISHINGROD_UPGRADE1	Daha iyi bir
+TOOLTIP_FISHINGROD_UPGRADE2	olta alabilmek için
+TOOLTIP_FISHINGROD_UPGRADE3	oltayı Balıkçı'ya ver.
+TOOLTIP_FISH_LEN	Uzunluk: %.2fcm
+TOOLTIP_HELMET	Kask
+TOOLTIP_HP_REGEN	HP Üretimi +%d%%	SA
+TOOLTIP_INT	Zeka +%d	SA
+TOOLTIP_ITEM_ATT_GRADE	Saldırı Değeri %d
+TOOLTIP_ITEM_ATT_POWER	Saldırı Değeri %d - %d
+TOOLTIP_ITEM_ATT_POWER_ONE_ARG	Saldırı Değeri %d
+TOOLTIP_ITEM_ATT_POWER_REFINE	Saldırı Değeri %d - %d (+%d)
+TOOLTIP_ITEM_ATT_SPEED	Saldırı Hızı %s
+TOOLTIP_ITEM_DEF_GRADE	Savunma %d
+TOOLTIP_ITEM_FAST	Hızlı
+TOOLTIP_ITEM_DURABILITY	Raf Ömrü: %.2f%%
+TOOLTIP_ITEM_LIMIT_CON	Canlılık üst limiti: %d
+TOOLTIP_ITEM_LIMIT_DEX	Çeviklik üst limiti: %d
+TOOLTIP_ITEM_LIMIT_INT	Zeka üst limiti: %d
+TOOLTIP_ITEM_LIMIT_LEVEL	Seviye: %d
+TOOLTIP_ITEM_LIMIT_STR	Güç üst limiti: %d
+TOOLTIP_ITEM_MAGIC_ATT_POWER	Büyülü Saldırı Değeri %d - %d
+TOOLTIP_ITEM_MAGIC_ATT_POWER_ONE_ARG	Büyülü Saldırı Değeri %d
+TOOLTIP_ITEM_MAGIC_DEF_POWER	Büyü Savunması %d
+TOOLTIP_APPLY_MAGIC_ATTBONUS_PER	Büyülü Saldırı +%d%%
+TOOLTIP_APPLY_MELEE_MAGIC_ATTBONUS_PER	Büyülü Saldırı / Yakın Dövüş Saldırısı +%d%%
+TOOLTIP_ITEM_NORMAL	Normal
+TOOLTIP_ITEM_SLOW	Yavaş
+TOOLTIP_ITEM_VERY_FAST	Çok Hızlı
+TOOLTIP_ITEM_VERY_SLOW	Çok Yavaş
+TOOLTIP_ITEM_WEARABLE_JOB	[ Giyilebilir ]
+TOOLTIP_LOTTERY_STEP_NUMBER	%d
+TOOLTIP_LOTTO_NUMBER	Şanslı Numara: %d
+TOOLTIP_MAGIC_ATT_GRADE	Büyülü Saldırı Değeri +%d	SA
+TOOLTIP_MAGIC_DEF_GRADE	Büyü Savunması +%d	SA
+TOOLTIP_MALL_ATTBONUS	Saldırı Değeri +%d%%	SA
+TOOLTIP_MALL_ATTBONUS_STATIC	Saldırı Değeri +10%	SNA
+ACCE_WINDOW_ONLY_WEAPONS	Yalnızca silahları absorbe edebilirsin.
+TOOLTIP_MALL_AUTOLOOT	Yerdeki mevcut Yang`ın otomatik olarak toplanmasını sağlayan el.	SNA
+TOOLTIP_MALL_DEFBONUS	Savunma +%d%%	SA
+TOOLTIP_MALL_DEFBONUS_STATIC	Savunma +20%	SNA
+TOOLTIP_MALL_EXPBONUS	EXP +%d%%	SA
+TOOLTIP_MALL_EXPBONUS_STATIC	EXP alımını %50 arttırır	SNA
+TOOLTIP_MALL_FISH_MIND	Balık yakalama şansını ikiye katlar.	SNA
+TOOLTIP_MALL_GOLDBONUS	Yang elde etme şansı %.1f%% arttı.	SA
+TOOLTIP_MALL_GOLDBONUS_STATIC	Yang elde etme şansını ikiye katlar.	SNA
+TOOLTIP_MALL_ITEMBONUS	Eşya elde etme şansı %.1f arttı.	SA
+TOOLTIP_MALL_ITEMBONUS_STATIC	Eşya ele geçirme şansını ikiye katlar.	SNA
+TOOLTIP_MALL_MARRIAGE_FAST	Sevgi Puanı daha hızlı artar.	SNA
+TOOLTIP_MALL_SAFEBOX	Depoya fazladan 2 oda daha eklenir	SNA
+TOOLTIP_MAX_HP	Maks. HP +%d	SA
+TOOLTIP_MAX_HP_PCT	Maks. HP +%d%%	SA
+TOOLTIP_MAX_SP	Maks. SP +%d	SA
+TOOLTIP_MAX_SP_PCT	Maks. SP +%d%%	SA
+TOOLTIP_MAX_STAMINA	Maks. Dayanıklılık +%d	SA
+TOOLTIP_MEMORIZED_POSITION	%s(%d, %d)
+TOOLTIP_MEMORIZED_POSITION_ERROR	GPS ERROR(%d, %d)
+TOOLTIP_MOV_SPEED	Hareket Hızı %d%%	SA
+TOOLTIP_NECK	Kolye
+TOOLTIP_NEED_ALL_SP	Gereken SP: Max.
+TOOLTIP_NEED_GSP	Gereken Ejderha Hayaleti: %d
+TOOLTIP_NEED_HP	Gereken HP: %d
+TOOLTIP_NEED_HP_PER_SEC	HP/Sn.: %d
+TOOLTIP_NEED_SKILL_POINT	Gereken Beceri Puanı:
+TOOLTIP_NEED_SP	Gereken SP: %d
+TOOLTIP_NEED_SP_PER_SEC	SP: %d / Sn.
+TOOLTIP_NEXT_SKILL_LEVEL_1	Sonraki Seviye: %d (Max. %d)
+TOOLTIP_NEXT_SKILL_LEVEL_2	Sonraki Seviye: %d (Max. %d-%d)
+TOOLTIP_NORMAL_HIT_DAMAGE_BONUS	Ortalama Zarar %d%%	SA
+TOOLTIP_NORMAL_HIT_DEFEND_BONUS	Ortalama Zarar Dayanıklılığı %d%%	SA
+TOOLTIP_PARTY_INFO_GRADE_UP1	Grup üyesi %d den fazla.
+TOOLTIP_PARTY_INFO_GRADE_UP2	Saldırı Seviyesi +%d
+TOOLTIP_PARTY_INFO_GRADE_UP3	Savunma Seviyesi +%d
+TOOLTIP_PARTY_INFO_HEAL_18_LEVEL	Tüm grup üyelerine 60 dakika HP/SP Yüklenir.
+TOOLTIP_PARTY_INFO_HEAL_40_LEVEL	Tüm grup üyelerine 30 dakika HP/SP Yüklenir.
+TOOLTIP_PARTY_INFO_RECALL_12_LEVEL	Grup üyesi öldükten sonra 3 dakika beklemelisiniz.
+TOOLTIP_PARTY_INFO_RECALL_20_LEVEL	Aynı serverda olduğunuz zaman grup üyelerinizi çağırabilirsiniz.
+TOOLTIP_PARTY_INFO_SET_ATTACKER	Saldırı Seviyesi +(Grup üye sayisi./2) %d Saldırı birimi seçilebilir.
+TOOLTIP_PARTY_INFO_SET_TANKER	Savunma Seviyesi +(Grup üye sayisi)  1 Yakın Dövüs Savasçısı seçilebilir.
+TOOLTIP_PARTY_SKILL_LEVEL	Mevcut Seviye: %d
+TOOLTIP_PARTY_TITLE_GRADE_UP	[Saldırı/Savunma yükseltildi]
+TOOLTIP_PARTY_TITLE_HEAL	[Yenile]
+TOOLTIP_PARTY_TITLE_INFO_BONUS_EXP	%d Grup üyesi olduğunda  %d%% Bonus EXP alırsın.
+TOOLTIP_PARTY_TITLE_MEMBER_BONUS_EXP	[Bonus EXP]
+TOOLTIP_PARTY_TITLE_RECALL	[Çağır]
+TOOLTIP_PARTY_TITLE_SET_ATTACKER	[Saldırı Birimi olarak ayarla]
+TOOLTIP_PARTY_TITLE_SET_TANKER	[Yakın Dövüş Savaşçısı olarak belirle]
+TOOLTIP_PICK_EXP	Puan: %d / %d
+TOOLTIP_PICK_LEVEL	Seviye: %d
+TOOLTIP_PICK_UPGRADE1	Daha iyi bir
+TOOLTIP_PICK_UPGRADE2	Kazma alabilmek için
+TOOLTIP_PICK_UPGRADE3	onu Oduncu'ya ver.
+TOOLTIP_POTION_CURE	Kötü etkileri iyileştir.
+TOOLTIP_POTION_MIN	Dk.
+TOOLTIP_POTION_PLUS_ATTACK_SPEED	Saldırı Hızı: +%d
+TOOLTIP_POTION_PLUS_HP_PERCENT	HP: +%d%%
+TOOLTIP_POTION_PLUS_HP_POINT	HP: +%d
+TOOLTIP_POTION_PLUS_MOVING_SPEED	Hareket Hızı: +%d
+TOOLTIP_POTION_PLUS_SP_PERCENT	SP: +%d%%
+TOOLTIP_POTION_PLUS_SP_POINT	SP: +%d
+TOOLTIP_POTION_SEC	Sn.
+TOOLTIP_POTION_TIME	Süre:
+TOOLTIP_REQUIREMENT_21_LEVEL	21.Seviyeye ulaşmış olmalısın.
+TOOLTIP_REQUIREMENT_41_LEVEL	41.Seviyeye ulaşmış olmalısın.
+TOOLTIP_REQUIREMENT_LEVEL	%d.Seviyeye ulaşmış olmalısın.
+TOOLTIP_REQUIREMENT_SKILL_LEVEL	%s Seviye %d gerekli.
+TOOLTIP_REQUIREMENT_STAT_LEVEL	%s %d gerekli
+TOOLTIP_RESIST_BOW	Ok Savunması %d%%	SA
+TOOLTIP_RESIST_ELEC	Şimsek Dayanıklılığı %d%%	SA
+TOOLTIP_RESIST_FIRE	Ateş Dayanıklılığı %d%%	SA
+TOOLTIP_RESIST_MAGIC	Büyü Dayanıklılığı %%%d	SA
+TOOLTIP_REST_USABLE_COUNT	Kalan: %d
+TOOLTIP_SELLPRICE	Fiyat: %s
+TOOLTIP_SHAMAN	Şaman
+TOOLTIP_SHIELD	Kalkan
+TOOLTIP_SHOES	Ayakkabı
+TOOLTIP_SKILL	Beceriler	SNA
+TOOLTIP_SKILLBOOK_NAME	Beceri Kitabı
+TOOLTIP_SKILL_AFFECT_ATT_GRADE	Saldırı Değeri: +
+TOOLTIP_SKILL_AFFECT_ATT_POWER	Saldırı Değeri:
+TOOLTIP_SKILL_AFFECT_ATT_SPEED	Saldırı Hızı: +
+TOOLTIP_SKILL_AFFECT_DEF_GRADE	Savunma:
+TOOLTIP_SKILL_AFFECT_DODGE	Rakip Saldırı Değeri: -
+TOOLTIP_SKILL_AFFECT_HEAL	Yüklenen HP:
+TOOLTIP_SKILL_AFFECT_MOV_SPEED	Hareket Hızı: +
+TOOLTIP_SKILL_AFFECT_REFLECT_MELEE	Yakın Dövüş Saldırılarını Yansıtma Şansı:
+TOOLTIP_SKILL_AFFECT_RESIST_NORMAL	Beden Hasarı Dayanıklılığı:
+TOOLTIP_SKILL_COOL_TIME	Yükleme Süresi: 
+TOOLTIP_SKILL_DAMAGE_BONUS	Beceri Hasarı %d%%	SA
+TOOLTIP_SKILL_DEFEND_BONUS	Beceri Hasarı Dayanıklılığı %d%%	SA
+TOOLTIP_SKILL_DURATION	Süre: %d Sn.
+TOOLTIP_SKILL_FORGET_BOOK_NAME	Gözlem Bandı
+TOOLTIP_SKILL_LEVEL	Güncel Seviye: %d
+TOOLTIP_SKILL_LEVEL_MASTER	Güncel Seviye: %d (Master)
+TOOLTIP_SKILL_LEVEL_WITH_MAX	Güncel Seviye: %d (Max. %d)
+TOOLTIP_SOCKET_EMPTY	Boş
+TOOLTIP_SOCKET_REFINABLE_ITEM	[Eklenebilir Nesne]
+TOOLTIP_SP_REGEN	SP Üretimi +%d%%	SA
+TOOLTIP_STR	Güç +%d	SA
+TOOLTIP_SURA	Sura
+TOOLTIP_UNIQUE	Eşsiz
+V	Savaşçı
+TOOLTIP_WEAPON	Silah
+TOOLTIP_WRISTLET	Bilezik
+UI_ACCEPT	Kabul
+UI_CANCEL	İptal
+UI_CLOSE	Kapat
+UI_DEF_FONT	Tahoma:12
+UI_DEF_FONT_LARGE	Tahoma:14
+UI_DEF_FONT_SMALL	Tahoma:9
+UI_DENY	Red
+UI_ITEM	Nesne
+UI_LEFT_TIME	Kalan Zaman: %d Sec.
+UI_NEXT	Devam
+UI_NOCONTENTS	İçerik yok
+UI_NONAME	isimsiz
+UI_OK	Tamam
+UI_POS_UNKNOWN	Bilinmeyen Yer
+UI_UNKNOWN	Bilinmeyen
+UPLOAD_MARK_CHECK_NEED_RECONNECT	Upload yeniden başlatılmalı.
+UPLOAD_MARK_UPLOAD_NEED_RECONNECT	Upload yeniden başlatılmalı.
+USE_ITEM_FAILURE_PRIVATE_SHOP	Özel bir dükkân açtığın sürece, nesneleri kullanamazsın.
+USE_SKILL_ERROR_UNKNOWN	Bilinmeyen Beceri Hatası: %s
+TIME_DAY	Gün
+TIME_DAYS	Gün
+TIME_S_HOUR	Saat
+TIME_HOUR	Saat
+TIME_HOURS	Saat
+TIME_MINUTE	Dakika
+TIME_MINUTES	Dakika
+TIME_S_MIN	Dak.
+TIME_S_SEC	Sn.
+TIME_SEC	Saniye
+TIME_SECS	Saniye
+TIME_AND	ve
+UNIQUE_POPUP_DIALOG_NEVER_SHOW_AGAIN	Bir daha gösterme
+SKILLBOOK_INVENTORY_POPUP_INFO	Beceri kitaplarınızı, envanterinizin yanında bulunan düğmeden açılan BK deposunda bulabilirsiniz.
+LOGIN_FAILURE_VERSION_CHECK	İstemciniz güncel değil.[ENTER]İstemciniz yama aracını başlatmak için kapanacak. Yama aracı bütün dosyaları indirdikten sonra oyuna giriş yapabilirsiniz.
+SKILL_BLEEDING	Kanama
+AFFECT_RED_POSSESSION	Mor Kurt Ruhu
+AFFECT_BLUE_POSSESSION	İndigo Kurt Ruhu
+TOOLTIP_APPLY_ATTBONUS_WOLFMAN	Lycanlar'a karşı güçlü + %%%d	SA
+TOOLTIP_APPLY_BLEEDING_PCT	Kanama Saldırısı +%%%d	SA
+TOOLTIP_APPLY_BLEEDING_REDUCE	Kanama Saldırısı Dayanıklılığı +%%%d	SA
+TOOLTIP_APPLY_RESIST_WOLFMAN	Lycanlar'a karşı savunma şansı +%%%d	SA
+TOOLTIP_APPLY_RESIST_CLAW	Pençe Savunması +%d%%	SA
+TOOLTIP_WOLFMAN	Lycan
+JOB_WOLFMAN	Lycan
+JOB_WOLFMAN0	Amatör Lycan
+JOB_WOLFMAN1	Sezgi
+JOB_WOLFMAN2	N.A.
+TOOLTIP_APPLY_ACCEDRAIN_RATE	Emiş Derecesi: %%%d	SA
+CUBE_STONE_MATERIAL_RANGE	Taş +%d - +%d
+CUBE_STONE_MATERIAL_SINGLE	Taş +%d
+MAINTENANCE_DESCRIPTION	<TEXT text="Sunucu bakımı için kalan süre: " font_size="LARGE"><TEXT text="%s" r=255 g=0 b=0 font_size="LARGE"><TEXT text=" Bakım süresi: %s" font_size="LARGE">
+GUILD_SAFEBOX_LOG_TEXT_CREATE	<TEXT text="%s" color="0xFFCAA76F"> lonca deposu satın aldı.
+GUILD_SAFEBOX_LOG_TEXT_ITEM_GIVE	<TEXT text="%s" color="0xFFCAA76F"> oyuncusu, <TEXT text="%d" color="0xFFCAA76F">x %s depoladı.
+GUILD_SAFEBOX_LOG_TEXT_ITEM_TAKE	<TEXT text="%s" color="0xFFCAA76F">oyuncusu, depodan <TEXT text="%d" color="0xFFCAA76F">x %s aldı.
+GUILD_SAFEBOX_LOG_TEXT_GOLD_GIVE	<TEXT text="%s" color="0xFFCAA76F"> oyuncusu, loncaya <TEXT text="%s" color="0xFFCAA76F"> Yang yatırdı.
+GUILD_SAFEBOX_LOG_TEXT_GOLD_TAKE	<TEXT text="%s" color="0xFFCAA76F"> oyuncusu, loncadan <TEXT text="%s" color="0xFFCAA76F"> Yang çekti.
+GUILD_SAFEBOX_LOG_SIZE	<TEXT text="%s" color="0xFFCAA76F"> lonca deposunu <TEXT text="%d" color="0xFFCAA76F"> sayfa genişletti.
+LOGIN_CHANGE_LANGUAGE_RESTART_CLIENT	Dil ayarlarını değiştirdiniz. Değişikliğin uygulanması için istemci yeniden başlatılacak.
+WHISPER_OFFLINE_ACCEPT_TEXT	Gönder
+WHISPER_OFFLINE_CANCEL_TEXT	İptal
+WHISPER_OFFLINE_MESSAGE_QUESTION	%s şu an çevrimdışı.[ENTER] Çevrimdışı Mesaj gönderirseniz ilettiğiniz kişi oyuna tekrar girdiğinde mesajınızı alacaktır.[ENTER] Çevrimdışı Mesaj ücreti 15.000 yang.
+WHISPER_OFFLINE_MESSAGE_QUESTION_GM	%s şu an çevrimdışı.[ENTER] Çevrimdışı mesaj göndermek istiyor musun? İlettiğiniz kişi tekrar çevrimiçi olduğunda mesajı alacak.
+ITEM_REFUND_WINDOW_TITLE	İade Edilen Eşyalar
+ITEM_REFUND_DESCRIPTION1	Bir hata nedeniyle birkaç eşya kaybolmuş gibi görünüyor. Şimdi eşyaları iade ediyoruz.
+ITEM_REFUND_DESCRIPTION2	İade Edilen Eşyalar:
+SHOP_OFFLINE_TAKE_MONEY_DISPLAY	%s çek.
+SHOP_OFFLINE_TAKE_MONEY_QUESTION	Ne kadar para çekmek istiyorsun?
+SHOP_CANNOT_TAKE_OFFLINE_SHOP_MONEY	Yang'ın maksimum limiti geçeceğinden bu kadar para çekemezsin.
+SHOP_CANNOT_TAKE_OFFLINE_SHOP_MONEY_NO_MONEY	Çevrimdışı mağazanda hiç Yang'ın yok.
+OFFLINE_SHOP_INPUT_PRICE_INFO_TEXT	%s için fiyat:
+OFFLINE_SHOP_CANNOT_CLOSE_TAKE_ITEMS	Öncelikle tüm eşyaları kaldırman gerekiyor.
+OFFLINE_SHOP_CANNOT_CLOSE_TAKE_MONEY	Öncelikle tüm Yang'ı çekmen gerekiyor.
+MONEY_INPUT_DIALOG_RECVPRICE	%s (%d%% vergi) alacaksın.
+MONEY_INPUT_DIALOG_SELLPRICE	Satış Fiyatı: %s
+OFFLINE_SHOP_TIMEOUT_TEXT_TIMEOUT	Süresi Doldu
+RESIST_HUMAN	Yarı İnsan Savunması
+RESIST_MONSTER	Canavar Savunması
+OFFLINE_SHOP_TIMEOUT_TEXT	%s
+SKILL_DEFEND_BONUS	Beceri Hasarı Dayanıklılığı
+NORMAL_HIT_DEFEND_BONUS	Ortalama Zarar Dayanıklılığı
+OFFLINE_SHOP_TIMEOUT_TEXT_NOTIMEOUT	Kalıcı
+DO_YOU_REALLY_BUY	%s isimli eşyayı satın almak istiyor musun?[ENTER]Fiyat: %sx %s
+OFFLINE_SHOP_ITEM_DISABLED	Mobil Çevrimdışı Mağazada bu işlev bir hata nedeniyle şu anda devre dışı bırakılmıştır. Hata çözüldüğünde, işlev yeniden etkinleştirilecek.
+OFFLINE_SHOP_CLOSE_QUESTION	Çevrimdışı Pazarı kapatmak ister misin?
+SHOP_CANNOT_INSERT_ITEM_OFFLINE_SHOP_TIMEOUT	Çevrimdışı Dükkan'ın süresi doldu. Eşyaları satmak için pazarı yeniden açman gerekiyor.
+UI_PREVPAGE	Geri
+UI_NEXTPAGE	İleri
+PET_STAT_MAIN	Mevcut Bonus: %s
+PET_STAT_POINTS	<TEXT color="0xFFDE8A31" text="Punkte |">%d<TEXT color="0xFFDE8A31" text="|">
+TOOLTIP_APPLY_PET_EXP_BONUS	Pet-Erfahrung +%d%%	SA
+TOOLTIP_APPLY_RESIST_MONSTER	Canavar Dayanıklılığı +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_METIN	Metin Taşlarına Karşı Güçlü +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_BOSS	Patronlara Karşı Güçlü +%d%%	SA
+SIDEBAR_TOOLTIP_SHOP	Çevrimdışı Pazar
+SIDEBAR_TOOLTIP_GUILD_SAFEBOX	Lonca Deposu
+SIDEBAR_TOOLTIP_MOUNT	Binek Genel Bakış
+SIDEBAR_TOOLTIP_PET	Evcil Hayvan Genel Bakış
+SIDEBAR_TOOLTIP_SAFEBOX	Depo
+TOOLTIP_ITEM_NO_TRADE	Bu eşyanın ticareti yapılamaz.
+TOOLTIP_ITEM_NO_DESTROY	Bu eşya yok edilemez.
+ITEM_DROP_OR_DESTROY_BTN_DESTROY	Yok Et
+ITEM_DROP_OR_DESTROY_BTN_DROP	Düşür
+CANNOT_DESTROY_ITEM	Bu eşya yok edilemez.
+SWITCHBOT_MAX_USE_SWITCHER_UNLIMITED	Sınırsız
+SWITCHBOT_MAX_USE_QUESTION_TITLE	Maks. Efsun Nesnesi
+SWITCHBOT_MAX_USE_QUESTION_DESC	Maks. Efsun Nesnesi kullanımı belirleyin.(0 = sınırsız)
+SIDEBAR_TOOLTIP_SWITCHBOT	Efsun Botu
+STAT_TOOLTIP_CON10	HP ve Savunmayı 10 arttırır.
+STAT_TOOLTIP_DEX10	Saldırı ve Savuşturmayı 10 arttırır.
+STAT_TOOLTIP_INT10	SP, Büyülü Saldırı ve Savunmayı 10 arttırır.
+STAT_TOOLTIP_STR10	Saldırı Değeri ve Hasarı 10 arttırır.
+TOOLTIP_VOTE4BUFF	Bonus İçin Oyla	SNA
+TOOLTIP_ALIGNMENT_GOOD	Derece: Canavarlara Karşı Güçlü +5%
+TOOLTIP_ALIGNMENT_BAD	Derece: Yarı İnsanlara Karşı Güçlü +5%
+CHAT_OPEN_LINK_DANGER	Bu bağlantıyı açmak istediğinize emin misiniz? [ENTER] Zararlı yazılım veya virüs içerebilir.
+DRAGON_SOUL_CANNOT_REFINE	Bu ejderha taşı arındırılamaz.
+DRAGON_SOUL_CANNOT_REFINE_MORE	Bu ejderha taşı en yüksek seviyeye ulaştı bile.
+DRAGON_SOUL_EQUIP_WARNING1	Bir ejderha taşını tekrar çıkartmak zor.
+DRAGON_SOUL_EQUIP_WARNING2	Yine de devam etmek istiyor musun?
+DRAGON_SOUL_EXPIRED	Süresi geçmiş ejderha taşı
+DRAGON_SOUL_INVALID_DRAGON_SOUL	Yanlış ejderha taşı.
+DRAGON_SOUL_IS_NOT_DRAGON_SOUL	Bu ejderha taşı değil.
+DRAGON_SOUL_NOT_DRAGON_SOUL_REFINE_STONE	Bu doğru ejderha taşı değil.
+DRAGON_SOUL_NOT_ENOUGH_MATERIAL	Arındırma için yeterli malzemen yok.
+DRAGON_SOUL_NOT_MATCHED_SLOT	Ejderha taşı bu boşluğa sığmıyor.
+DRAGON_SOUL_STEP_LEVEL1	Saflık: mat,
+DRAGON_SOUL_STEP_LEVEL2	Saflık: parlak,
+DRAGON_SOUL_STEP_LEVEL3	Saflık: tertemiz,
+DRAGON_SOUL_STEP_LEVEL4	Saflık: mükemmel,
+DRAGON_SOUL_STEP_LEVEL5	Saflık: kusursuz,
+DRAGON_SOUL_STRENGTH	Seviye +%d	SA
+DRAGON_SOUL_UNEQUIP_WARNING1	Ejderha taşı kırılabilir.
+DRAGON_SOUL_UNEQUIP_WARNING2	Yine de devam etmek istiyor musun?
+DRAGON_SOUL_UNMATCHED_SLOT	Bu eşyayı bu slota koyamazsın.
+DRAGON_SOUL_UNQUALIFIED	Ejderha taşı simyasını henüz kullanamazsın.
+TOOLTIP_DRAGON_SOUL_DECK1	Toprak	SNA
+TOOLTIP_DRAGON_SOUL_DECK2	Gökyüzü	SNA
+PET_UPGRADE_ACCEPT_BUTTON_TEXT	Geliştir
+PET_UPGRADE_ACCEPT_EVOLUTION_BUTTON_TEXT	Evrimleştir
+PET_UPGRADE_CANCEL_BUTTON_TEXT	İptal
+PET_UPGRADE_INFO_HAPPINESS	Memnuniyet seviyesi ne kadar yüksekse, evcil hayvanınız o kadar uzun süre memnun olur. [Enter] Bir sonraki seviyede evcil hayvanınızın memnuniyeti %s sonra bitecek.
+PET_UPGRADE_INFO_RAGE	Öfke seviyesi ne kadar yüksekse, öfke modu o kadar uzun sürer. [Enter] Bir sonraki seviyede, öfke modu %s sürer.
+PET_UPGRADE_INFO_STAMINA	Dayanıklılık seviyesi ne kadar yüksek olursa, evcil hayvanınızın dayanıklılık değeri o kadar yüksektir. [Enter] Bir sonraki seviyede, evcil hayvanınızın %d'lik bir dayanıklılığı olur.
+PET_UPGRADE_PRICE	Maliyet: %s
+PET_UPGRADE_TEXT_BONUS1	%d Maks. HP -> %d Maks. HP
+PET_UPGRADE_TEXT_BONUS2	%d Savunma -> %d Savunma
+PET_UPGRADE_TEXT_BONUS3	%d%% Canavarlara Karşı Güçlü -> %d%% Canavarlara Karşı Güçlü
+PET_UPGRADE_TEXT_EVOLUTION	%s -> %s
+PET_UPGRADE_TEXT_LEVEL	%d. Seviye -> %d. Seviye
+PET_UPGRADE_TITLE_BONUS1	Geliştirme: Maks. HP
+PET_UPGRADE_TITLE_BONUS2	Geliştirme: Savunma
+PET_UPGRADE_TITLE_BONUS3	Geliştirme: Canavarlara Karşı Güçlü
+PET_UPGRADE_TITLE_EVOLUTION	Evrim
+PET_UPGRADE_TITLE_HAPPINESS	Geliştirme: Mutluluk
+PET_UPGRADE_TITLE_RAGE	Geliştirme: Öfke
+PET_UPGRADE_TITLE_STAMINA	Geliştirme: Dayanıklılık
+KING_HORSE_UPGRADE_SUCCESS	Geliştirme işlemi başarılı.
+KING_HORSE_UPGRADE_FAIL	Geliştirme işlemi başarısız.
+HORSE_UPGRADE_INFO_RAGE	Umso höher das Wut-Level ist, desto länger hält der Wut-Modus an.[ENTER]Auf der nächsten Stufe hält der Wut-Modus %s an.
+TARGET_INFO_LEVELLIMIT	(%d. seviyeden itibaren)
+TARGET_INFO_DAMAGE	Hasar : %s - %s
+TARGET_INFO_DEFENSE	Savunma : %s
+TARGET_INFO_EXP	Deneyim : %s
+TARGET_INFO_MAINRACE	 Irk: %s
+TARGET_INFO_MAX_HP	Maks. HP : %s
+TARGET_INFO_NO_ITEM_TEXT	Düşürülebilecek bir eşya mevcut değil.
+TARGET_INFO_NO_RACE	Yok
+TARGET_INFO_RACE_ANIMAL	Hayvan
+TARGET_INFO_RACE_DARK	Karanlık
+TARGET_INFO_RACE_DEVIL	Şeytan
+TARGET_INFO_RACE_EARTH	Toprak
+TARGET_INFO_RACE_ELEC	Şimşek
+TARGET_INFO_RACE_FIRE	Ateş
+TARGET_INFO_RACE_HUMAN	Yarı İnsan
+TARGET_INFO_RACE_ICE	Buz
+TARGET_INFO_RACE_MILGYO	Mistik
+TARGET_INFO_RACE_TREE	Ağaç
+TARGET_INFO_RACE_ORC	Ork
+TARGET_INFO_RACE_UNDEAD	Ölümsüz
+TARGET_INFO_RACE_WIND	Rüzgar
+TARGET_INFO_RACE_METIN	Metin Taşı
+TARGET_INFO_STONE_NAME	Zırh ve Silah Taşları
+TARGET_INFO_SUBRACE	Tür : %s
+ITEM_SUBTYPE_ARMOR_BODY	Zırh
+ITEM_SUBTYPE_ARMOR_EAR	Küpe
+ITEM_SUBTYPE_ARMOR_FOOTS	Ayakkabı
+ITEM_SUBTYPE_ARMOR_HEAD	Kask
+ITEM_SUBTYPE_ARMOR_NECK	Kolye
+ITEM_SUBTYPE_ARMOR_SHIELD	Kalkan
+ITEM_SUBTYPE_ARMOR_WRIST	Bilezik
+ITEM_SUBTYPE_COSTUME_ACCE	Omuz Kuşağı
+ITEM_SUBTYPE_COSTUME_BODY	Zırh
+ITEM_SUBTYPE_COSTUME_HAIR	Saç
+ITEM_SUBTYPE_COSTUME_HAIR_M	Saç (erkek)
+ITEM_SUBTYPE_COSTUME_HAIR_W	Saç (kadın)
+ITEM_SUBTYPE_COSTUME_MOUNT	Binek
+ITEM_SUBTYPE_DISABLED	--------------------
+ITEM_SUBTYPE_FISH_ALIVE	Canlı
+ITEM_SUBTYPE_FISH_GRILLED	Izgara
+ITEM_SUBTYPE_MOUNT_SUB_FOOD	Besle
+ITEM_SUBTYPE_MOUNT_SUB_REVIVE	Dirilt
+ITEM_SUBTYPE_MOUNT_SUB_SUMMON	Çağırma
+ITEM_SUBTYPE_NONE	Tüm
+ITEM_SUBTYPE_NONE_DISPLAY	Bir Alt-Kategori Seçin
+ITEM_SUBTYPE_SPHAERA_SUB_PACK	Bohça
+ITEM_SUBTYPE_SPHAERA_SUB_TIME_ADD	Zaman Manipülasyonu
+ITEM_SUBTYPE_WEAPON_ARROW	Ok
+ITEM_SUBTYPE_WEAPON_BELL	Çan
+ITEM_SUBTYPE_WEAPON_BOW	Yay
+ITEM_SUBTYPE_WEAPON_DAGGER	Bıçak
+ITEM_SUBTYPE_WEAPON_FAN	Yelpaze
+ITEM_SUBTYPE_WEAPON_SWORD	Kılıç
+ITEM_SUBTYPE_WEAPON_TWO_HANDED	Çift El
+ITEM_TYPE_ARMOR	Zırh
+ITEM_TYPE_COSTUME	Kostüm
+ITEM_TYPE_FISH	Balık
+ITEM_TYPE_MATERIAL	Diğer
+ITEM_TYPE_METIN	Taş
+ITEM_TYPE_MOUNT	Binek
+ITEM_TYPE_NONE	Tüm
+ITEM_TYPE_NONE_DISPLAY	Eşya Türü Seçin
+ITEM_TYPE_POLYMORPH	Dönüşüm
+ITEM_TYPE_QUEST	Görev
+ITEM_TYPE_WEAPON	Silah
+TEXT_TYPE_ITEMNAME	Eşya İsmi
+TEXT_TYPE_NONE	Metin Araması Yok
+TEXT_TYPE_PLAYERNAME	Oyuncu İsmi
+AUCTION_INFORMER_INFO_TEXT	%s'i %s'e sattın.
+AUCTION_INFORMER_INFO_MULTI_TEXT	%dx %s'i %s'e sattın.
+AUCTION_INFORMER_RECEIVED_GOLD_TEXT	<TEXT color=0xFFCAA76F text="%s"> aldın.
+AUCTION_GAME_MESSAGE_ITEM_BUY_NOT_EXIST	Maalesef, bu eşya satıldı.
+AUCTION_GAME_MESSAGE_ITEM_BUY_TIMEOUT	Bu eşyanın süresi doldu.
+AUCTION_GAME_MESSAGE_ITEM_BUY_SUCCESS	Eşyayı başarıyla satın aldın!
+AUCTION_GAME_MESSAGE_ITEM_INSERT_SUCCESS	Eşya başarıyla eklendi.
+AUCTION_GAME_MESSAGE_ITEM_PRICE_TOO_HIGH	Bu eşyayı bu fiyata satamazsınız çünkü aktif olarak sattığınız tüm eşyalar Yang limitinin üstüne çıktı.
+AUCTION_GAME_MESSAGE_ITEM_TAKE_NOT_EXIST	Maalesef, bu eşya satıldı.
+AUCTION_GAME_MESSAGE_ITEM_TAKE_SUCCESS	Eşyayı başarıyla aldın.
+AUCTION_GAME_MESSAGE_ITEM_WRONG_PRICE	Bu eşya değiştirildi ve şimdi eski fiyat kullanılamıyor.
+AUCTION_GAME_MESSAGE_NO_ITEMS_FOUND	Aradığınız kriterlere uygun eşya bulunamadı.
+AUCTION_ITEM_SUB_INFO	Fiyat: %s
+AUCTION_MESSAGE_CANNOT_SELL_EQUIPPED_ITEM	Eşyayı önce envanterine koymalısın.
+AUCTION_MESSAGE_INVALID_ANTIFLAG	En az bir sınıf seçmelisin.
+AUCTION_MESSAGE_NOT_ENOUGH_MONEY	Yetersiz bakiye.
+AUCTION_ORDER_TOOLTIP_TEXT_ASC	Artan
+AUCTION_ORDER_TOOLTIP_TEXT_DESC	Azalan
+AUCTION_PRICE_CHANGE_TOOLTIP_TEXT_ASC	Toplu Fiyat
+AUCTION_PRICE_CHANGE_TOOLTIP_TEXT_DESC	Birim Fiyatı (ürün başına fiyat)
+AUCTION_PRICE_DISPLAY_TEXT_ASC	Fiyat
+AUCTION_PRICE_DISPLAY_TEXT_DESC	Birim Fiyatı
+AUCTION_QUESTION_REALLY_BUY_ITEM	Eşyayı %s'a satın almak istiyor musun?
+AUCTION_QUESTION_REALLY_BUY_ITEM_TITLE	Eşyayı satın al
+AUCTION_QUESTION_REALLY_TAKE_ITEM	Bu eşyayı gerçekten geri çekmek istiyor musun?
+AUCTION_QUESTION_REALLY_TAKE_ITEM_TITLE	Eşyayı geri çek
+AUCTION_SELL_PRICE_DISPLAY	Fiyat: %s
+AUCTION_SELL_REWARD_PRICE_DISPLAY	%s alacaksın.
+AUCTION_PREMIUM_INFO_ACTIVE	Premium durum aktif. Tüm pazarları görebilir ve doğrudan pazarlardan bir ürün satın alabilirsiniz.
+AUCTION_PREMIUM_INFO_INACTIVE	Premium durum pasif. Yalnızca mevcut haritadaki pazarları görürsünüz ve bir öğeyi görüntülediğinizde, pazar haritada işaretlenir. Premium ile eşyayı pazara gitmeden doğrdudan satın alabilirsiniz.
+AUCTION_PREMIUM_TEXT_ACTIVE	Premium Özelliği Aktif
+AUCTION_PREMIUM_TEXT_INACTIVE	Premium Özelliği Pasif
+YES	Evet
+NO	Hayır
+MOVE_CHANNEL_TITLE	Kanal Değiştir
+MESSENGER_TEAM	Takım
+MESSENGER_BLOCK	Engellenmiş
+MINI_GAME_RUMI_DISCARD_QUESTION	Bu kartı atmak istiyor musunuz?
+MINI_GAME_RUMI_EXIT_QUESTION	Oyunu bitirip ödülünü almak istiyor musun?\nSkorun ve geriye kalan kartlar sıfırlanacak.
+MINI_GAME_RUMI_EXIT_QUESTION2	Puanınıza bağlı şekilde bir ödül kazanacaksınız.
+MINI_GAME_RUMI_START_QUESTION	Oyunu oynayabilmek için %d Yang'a ve %d tane Kart Seti(s)'ne ihtiyacın var. \n	Oyunu başlatmak istiyor musun?
+ANGELSDEMONS_DESC_DEMONS	Şeytanlar[ENTER]Şeytanlar, insanları doğru yoldan uzak tutmak için gereken görevlerini yıllar boyu yapmışlardır. Dünyaya fesatlık ve kötülük yaymaya devam ediyorlar.
+JOIN	Katıl
+ANGELSDEMONS_ARE_YOU_SURE	%s tarafını seçmek istediğinden emin misin?
+MINI_GAME_RUMI_START_QUESTION2	Oynamak ister misin?
+DO_YOU_USE_MULTI_ITEM	%d tane %s açmak istiyor musun?
+QUIVER_ARROW_COUNT	Sayı: %s / %s
+QUIVER_ARROW_TYPE	Ok: %s
+QUIVER_NO_ARROWS	Herhangi bir ok yok.
+TOOLTIP_TIME_CHARGER_FIX	Yüklenecek Süre: %d sn.	SA
+TOOLTIP_TIME_CHARGER_PER	Yüklenecek Süre: %d%%	SA
+WEBWINDOW_TITLE_MALL	Oyun İçi Nesne Market
+WANT_NOT_VOTE_AGAIN_TODAY	Bugün oy vermedin, şimdi oylamak ister misin?
+NOT_VOTE_AGAIN_TODAY	Hayır
+WANT_VOTE_AGAIN_TODAY	Evet
+TOOLTIP_TIME	Süre: %s
+TOOLTIP_TIME_RANGE	Süre: %s ila %s
+TOOLTIP_RANGE_APPLY_CRITICAL_PCT	Kritik Vuruş Şansı +%d%% ila +%d%% 
+TOOLTIP_RANGE_APPLY_PENETRATE_PCT	Delici Vuruş Şansı +%d%% ila +%d%%
+TOOLTIP_RANGE_ATT_GRADE	Saldırı Değeri +%d ila +%d
+TOOLTIP_RANGE_ATT_SPEED	Saldırı Hızı +%d%% ila +%d%%
+TOOLTIP_RANGE_DEF_GRADE	Savunma +%d ila +%d
+TOOLTIP_RANGE_POTION_BONUS	İksir Etkisi Yükseltme %d%% ila %d%%
+TOOLTIP_RANGE_RESIST_MAGIC	Büyü Savunması %d%% ila %d%%
+SHOP_INPUT_TAKE_MONEY_TITLE	Yang Çek
+TIME_MIN_SEC	%dDak:%dsn.
+TIME_MIN	%d Dak
+CANNOT_CHANGE_FIGHT_MODE	Bu haritada savaş modunu değiştiremezsin.
+AUCTION_GAME_MESSAGE_MARK_DONE	Pazar işaretlendi.
+AUCTION_GAME_MESSAGE_MARK_NOT_FOUND	Bu ürünü satan pazar bulunamadı.
+ATTRTREE_UPGRADE_ERROR	Geliştirme işlemi için %s gerekiyor.
+QUEST_TIMER_INFO	Görev Zamanlayıcısı
+QUEST_TIMER_BIOLOG	Biyolog
+QUEST_TIMER_AZRAEL	Azrail
+QUEST_TIMER_DRAGON	Beran-Setaou
+QUEST_TIMER_FLAME	Razador
+QUEST_TIMER_SNOW	Nemere
+QUEST_TIMER_SPIDER	Örümcek Baroness
+QUEST_TIMER_CATACOMB	Şeytan Katakombu
+QUEST_TIMER_MELEY	Meley'in İni
+QUEST_TIMER_WAITING	Bekleme Süresi
+QUEST_TIMER_AVAILABLE	Hazır!
+OFFLINE_SHOP_CREATE_PRICE_FAIL	Pazar açabilmek için 100.000 Yang'a ihtiyacın var.
+SELECT_METIN_DETACH_REMOVE_SELECT_STONE	Bir soket seçmelisin.
+CANT_DETACH_NO_STONE	Bu eşyada çıkarılabilir bir taş yok.
+CANT_DETACH_NO_ATTR	Bu eşyanın özelliği yok.
+SELECT_ATTR_DETACH_REMOVE_SELECT_ATTR	Bir özellik seçmelisin.
+SAFEBOX_NEW_CANNOT_OPEN_DELAY	Lütfen bekleyin...
+TOOLTP_ELEMENT_NAME_ELECT	Şimşek Elementi
+TOOLTP_ELEMENT_NAME_FIRE	Ateş Elementi
+TOOLTP_ELEMENT_NAME_ICE	Buz Elementi
+TOOLTP_ELEMENT_NAME_WIND	Rüzgar Elementi
+TOOLTP_ELEMENT_NAME_EARTH	Toprak Elementi
+TOOLTP_ELEMENT_NAME_DARK	Karanlık Elementi
+TOOLTIP_APPLY_RESIST_HUMAN	Yarı İnsan Dayanıklılığı +%d%%	SA
+OFFLINE_SHOP_RENEW_QUESTION	%s Yang'a çevrimdışı pazarını tekrar açmak istiyor musun?
+TOOLTIP_APPLY_ANTI_RESIST_MAGIC	Büyü Bozma +%d%%
+AUCTION_GAME_MESSAGE_MARK_DONE_PREMIUM	Eşyayı satan mağaza işaretlendi. Ayrıca bu eşyayı doğrudan %s Yang'a satın alabilirsin. İstiyor musun?
+AUCTION_GAME_MESSAGE_MARK_NOT_FOUND_PREMIUM	Bu eşyayı satan pazar bulunamadı. Eşyayı doğrudan %s Yang'a satın almak ister misin?
+TIMER_WARP_QUESTION	250.000 Yang karşılığında ışınlanmak istiyor musun? 
+AUCTION_ITEM_TIMEOUT_INFO	Süre doldu.
+DO_YOU_SELL_MULTI_ITEM1	%d tane eşyayı %s'a satmak istiyor musun?
+DO_YOU_SELL_MULTI_ITEM2	%d (%s) tane eşyayı %s'a satmak istiyor musun?
+CANNOT_SELL_ITEM_ANTIFLAG	Bu eşyayı satamazsın.
+LOGIN_FAILURE_CHCLOSED	Bu kanal şu anda açık değil.
+EMPIREWAR_SCORE_TITLE	İmparatorluk Savaşı Sıralaması
+CHAT_COLOR_PALETTE	Sohbet Rengini Seç 
+CHAT_COLOR_PREMIUM_INFO	Premium özelliği devre dışı. Bu yüzden sohbet için özel bir renk seçemezsiniz. Premium özelliğine sahip oyuncular sohbet için özel bir renk kullanabilirler.
+GUILDWINDOW_GRADE_MELEY	Meley Zindanı başlayabilir
+COMB_NOT_ALL_SLOT_APPEND_ITEM	Bonusları transfer edebilmek için bütün gerekli eşyalara sahip olmalısın.
+COMB_MATERIAL_ATTR_WILL_TRANSFER	Kostüm 1'in bonusları, Kostüm 2'ye aktarılacak.
+COMB_IS_CONTINUE_PROCESS	Devam etmek istiyor musun?
+COMB_ITEM_NOTICE	Bonus aktarmaya çalıştığın sürece özel bir dükkan oluşturamazsın.
+COMB_ITEM_NOTICE_NOT_OPEN	Alışveriş yaparken bonusları transfer edemezsin.
+COMB_ITEM_NOTICE_NOT_OPEN2	Ekipmanını geliştirirken bonusları transfer edemezsin.
+TOOLTIP_APPLY_BLOCK_IGNORE_BONUS	Bloklamayı Yoksayma %d%%	SA
+TOOLTIP_PREMIUM_STATIC	Premium Özelliği Aktif	SNA
+GUILD_NAME_INFO	Lonca adında özel karakterler kullanılabilir. Maks. isim uzunluğu 20 karakterdir. Özel Karakterler: [Boşluk] _- * + # ~ \\ =} () [] {/ &% $ § ° ^ <> |;:.! ß @ €
+MESSENGER_ADD_BLOCK_FRIEND	Engelle:
+BOSS_HUNT_POINTS	Puan:
+TARGET_BUTTON_BLOCK	Engelle
+TARGET_BUTTON_UNBLOCK	Engeli Kaldır
+RUNE_GROUP_1_DESC	Normal saldırılarını güçlendir
+RUNE_GROUP_1_NAME	İsabet
+RUNE_GROUP_2_NAME	Hakimiyet
+RUNE_GROUP_2_DESC	Canavarlara karşı olan saldırılarını güçlendir
+RUNE_GROUP_3_NAME	Büyücülük
+RUNE_GROUP_3_DESC	Becerilerini güçlendir
+RUNE_GROUP_4_NAME	Azim
+RUNE_GROUP_4_DESC	Savunmanı güçlendir
+RUNE_GROUP_5_NAME	İlham
+RUNE_GROUP_5_DESC	Arkadaşlarını güçlendir
+SUB_RUNE_NOGROUP_DESC	Ek rünleri seçmek için yukarıdan bir yol seçin.
+QUEST_TIMER_ORKMAZE	Ork Labirenti
+ALCHEMY_ACTIVATED	Simya Sayfası %s aktifleştirildi. Simyayı devre dışı bırakmak için aynı kısayol tuşunu tekrar kullan.
+ALCHEMY_DEACTIVATED	Simya devre dışı bırakıldı.
+CHANNEL_GENERAL	Genel
+COSTUME_VIEWER	Önizleme
+QUEST_TIMER_SHIPDEFENSE	Gemi Savunması
+QUEST_TIMER_JOTUN	Jotun Thrym
+QUEST_TIMER_CRYSTALL	Kristal Ejderha Mağarası
+QUEST_TIMER_REWARDS	Ödüller
+QUEST_TIMER_GROUPREQ	Grup Gereksinimi:
+QUEST_TIMER_MINLVL	Seviye Aralığı:
+QUEST_TIMER_COOLDOWN	Yenilenme Süresi:
+QUEST_TIMER_DUNGEON_DESC	Zindan İçeriği
+QUEST_TIMER_QUESTITEM	Görev Eşyası
+QUEST_TIMER_PASSAGETICKET	Giriş Eşyası
+QUEST_TIMER_BIOLOGREADY	Araştırma için Hazır
+QUEST_TIMER_LOCKED	Bekleme Süresinde
+QUEST_TIMER_CURRENT	Geçerli Görev Seviyesi:
+TOOLTIP_HYDRA_DEBUFF	Hidra Güçsüzleştirmesi
+ACCE_WINDOW_CANT_ABSORB	Bir kostüm bonusları absorbe edemez.
+PERMANENT	Kalıcı
+RUNE_KEYSTONE_NAME_1	Üçüncül Saldırı
+BUY_POINTS	Puan Satın Al
+TOOLTIP_APPLY_EXP_REAL_BONUS	Tecrübe Puanı %d%%
+RUNE_KEYSTONE_NAME_2	Kana Hücum
+RUNE_KEYSTONE_NAME_3	Soğuk Ayaklar
+RUNE_KEYSTONE_NAME_4	Ortalama Hasar
+RUNE_KEYSTONE_NAME_5	Mana Hasarı
+RUNE_KEYSTONE_NAME_6	Menzil
+RUNE_KEYSTONE_NAME_7	Zehirleme
+RUNE_KEYSTONE_NAME_8	Yavaşla
+RUNE_KEYSTONE_NAME_9	Sersemletme
+RUNE_KEYSTONE_NAME_10	Saldırı Değeri
+RUNE_KEYSTONE_NAME_11	Büyülü Saldırı Değeri
+RUNE_KEYSTONE_NAME_12	Kritik Hasar
+RUNE_KEYSTONE_NAME_13	Şimşek
+RUNE_KEYSTONE_NAME_14	Ani Işık!
+RUNE_KEYSTONE_NAME_15	Ruh Soygunu
+RUNE_KEYSTONE_NAME_16	Canavar
+RUNE_KEYSTONE_NAME_17	Şeytan
+RUNE_KEYSTONE_NAME_18	Ork
+RUNE_KEYSTONE_NAME_19	Patron
+RUNE_KEYSTONE_NAME_20	Hayvan
+RUNE_KEYSTONE_NAME_21	Mistik
+RUNE_KEYSTONE_NAME_22	Metin
+RUNE_KEYSTONE_NAME_23	Ölümsüz
+RUNE_KEYSTONE_NAME_24	Zodyak
+RUNE_KEYSTONE_NAME_25	Saldırı=Savunma
+RUNE_KEYSTONE_NAME_26	Zaman Atlaması
+RUNE_KEYSTONE_NAME_27	Öfke
+RUNE_KEYSTONE_NAME_28	Delici
+RUNE_KEYSTONE_NAME_29	Beceri Hasarı
+RUNE_KEYSTONE_NAME_30	Hız
+RUNE_KEYSTONE_NAME_31	Kritik
+RUNE_KEYSTONE_NAME_32	Yüzey Hasarı
+RUNE_KEYSTONE_NAME_33	Tekil Hasar
+RUNE_KEYSTONE_NAME_34	Büyü Hızı
+RUNE_KEYSTONE_NAME_35	Saldırı Hızı
+RUNE_KEYSTONE_NAME_36	Binek Felci
+RUNE_KEYSTONE_NAME_37	Büyü Ustası
+RUNE_KEYSTONE_NAME_38	Nakil
+RUNE_KEYSTONE_NAME_39	Mantra Kalkanı
+RUNE_KEYSTONE_NAME_40	Savunma
+RUNE_KEYSTONE_NAME_41	Beceri Dayanıklılığı
+DUNGEON_RANKING_COMPLETED	Tamamlanan
+RUNE_KEYSTONE_NAME_42	Savunma %
+RUNE_KEYSTONE_NAME_43	Büyülü Savunma
+DUNGEON_RANKING_NAME	İsim:
+RUNE_KEYSTONE_NAME_44	Saldırı Direnişi
+RUNE_KEYSTONE_NAME_45	Her Şeye Direniş
+RUNE_KEYSTONE_NAME_46	Bloklama
+RUNE_KEYSTONE_NAME_47	Kaçış
+RUNE_KEYSTONE_NAME_48	Yansıtma
+RUNE_KEYSTONE_NAME_49	Büyü Uzmanı
+RUNE_KEYSTONE_NAME_50	Yavaşlat
+RUNE_KEYSTONE_NAME_51	Hırsız
+RUNE_KEYSTONE_NAME_52	Binek Bonusu
+RUNE_KEYSTONE_NAME_53	İksir Etkisi Güçlendirme
+RUNE_KEYSTONE_NAME_54	İyileştirme Etkisi Güçlendirme
+RUNE_KEYSTONE_NAME_55	Bonus Güçlendirme
+RUNE_KEYSTONE_NAME_56	İyileştirme Etkisi Güçlendirme
+RUNE_KEYSTONE_NAME_57	Liderlik
+RUNE_KEYSTONE_NAME_58	Tecrübe
+RUNE_KEYSTONE_NAME_59	Eşya Düşürme
+RUNE_KEYSTONE_NAME_60	Yang
+RUNE_TOOLTIP_SAVE	Kaydet
+RUNE_TOOLTIP_RESET	Sıfırla
+RUNE_TOOLTIP_RESETPOINTS	Puanları Sıfırla
+RUNE_TOOLTIP_INFO	Rün Sistemi Hakkında
+RUNE_BUY_MESSAGE	"%s" rününü almak istediğinden emin misin?
+RUNE_TUTORIAL_DESC_1	Rünler Nedir? [ENTER][ENTER] Aeldra'daki rün sistemi size farklı durumlar için çeşitli faydalı bonuslar sağlar.Örneğin, Hakimiyet Ağacı'ndaki canavarlara karşı saldırı ile canavarlara karşı olan hasarınızı güçlendirebilir veya PvP durumlarındaki büyülü PvP sınıflarının hasarını Büyücülük Ağacı yardımıyla arttırabilirsiniz.Bu özellikle oyuncuya hangi durumlarda ne tür bir yol izleyeceğini oyuncunun kendisinin karar verebilmesi imkanı tanıdığı için çok kullanışlı bir sistemdir.Kılavuzun bir sonraki adımında, puanların nasıl alınacağını, rünlerinizi nasıl etkinleştireceğinizi ve bunları nasıl değiştirebileceğinizi açıklayacağız.
+RUNE_TUTORIAL_DESC_2	Rün Puanları Ne İşe Yarar? [ENTER][ENTER] Rünlerinizi, belli eşyalar ile alabileceğiniz Rün Puanları yardımıyla açabilirsiniz. Her bir Rün 12 Rün puanı değerindedir yani tüm Rünleri açmak için toplamda 720 Rün Puanına ihtiyacınız vardır. İlk 150 Rün Puanı Nefrit Körfezi, Yıldırım Dağları, Gautama Uçurumu ve Ejderha Ateşi Burnu haritalarındaki metinlerden elde ettiğiniz eşyalar ile alınabilir. Geriye kalan tüm puanlar Büyülü Orman ve Yabani ormandan elde edeceğiniz eşyalar ile alınabilir. 
+RUNE_TUTORIAL_DESC_3	Rünlerimi Nasıl Aktif Ederim? [ENTER][ENTER] Bir Rün'ü aktif edebilmek için öncelikle o rünü sahip olduğunuz Rün Puanları ile satın almalısınız. Daha sonra arzu ettiğiniz Rün dizilimini seçebilirsiniz. Rün diziliminizi seçtikten sonra, seçtiğiniz bonusları Rün Ağacında görebileceksiniz. Şimdi, sağ üst taraftaki kaydet simgesine tıklayarak, hazırlamış olduğunuz Rün Ağacı sayfasını kaydedebilirsiniz. Kayıt ettikten sonra seçtiğiniz Rünler aktif olur ve belirtilen bonusları elde edersiniz.
+RUNE_TUTORIAL_DESC_4	Rünlerimi değiştirebilir miyim? [ENTER][ENTER] Genel olarak, Rünlerinizi herhangi bir noktada değiştirebilir ve yeni Rün Puanlarının kilidini açarak farklı Rün Ağaçlarında,farklı rünler satın alabilirsiniz.
+CATEGORY_PVM	PvM
+CATEGORY_PVP	PvP
+CATEGORY_GENERAL	Genel
+CATEGORY_RESISTANCE	Dayanıklılık
+STRONG_VS_MONSTERS	Canavarlara Karşı Güçlü
+STRONG_VS_METINS	Metinlere Karşı Güçlü
+STRONG_VS_BOSSES	Patronlara Karşı Güçlü
+STRONG_VS_UNDEAD	Ölümsüzlere Karşı Güçlü
+STRONG_VS_DEVILS	Şeytanlara Karşı Güçlü
+STRONG_VS_ORCS	Orklara Karşı Güçlü
+STRONG_VS_ANIMALS	Hayvanlara Karşı Güçlü
+STRONG_VS_HALFHUMANS	Yarı İnsanlara Karşı Güçlü
+STRONG_VS_WARRIOR	Savaşçılara Karşı Güçlü
+STRONG_VS_SURA	Suralara Karşı Güçlü
+STRONG_VS_ASSASSIN	Ninjalara Karşı Güçlü
+STRONG_VS_SHAMAN	Şamanlara Karşı Güçlü
+WARRIOR_RESISTANCE	Savaşçı Dayanıklılığı
+SURA_RESISTANCE	Sura Dayanıklılığı
+ASSASSIN_RESISTANCE	Ninja Dayanıklılığı
+SHAMAN_RESISTANCE	Şaman Dayanıklılığı
+GENERAL_HP_STEAL	HP Çalma
+GENERAL_SP_STEAL	SP Çalma
+GENERAL_MAX_HP	Maks. HP
+GENERAL_MAX_SP	Maks. SP
+GENERAL_HP_REGEN	HP Yenileme
+GENERAL_SP_REGEN	SP Yenileme
+GENERAL_BLOCK	Bloklama
+GENERAL_DODGE	Kaçış
+GENERAL_REFLECT_HIT	Yansıtma
+GENERAL_CRIT_CHANCE	Kritik Vuruş Şansı
+GENERAL_PENE_CHANCE	Delici Vuruş Şansı
+GENERAL_IGNORE_BLOCK	Bloklamayı Yoksay
+GENERAL_CASTING_SPEED	Büyü Hızı
+RESIST_SWORDS	Kılıç Savunması
+RESIST_TWOHAND	Çift El Savunması
+RESIST_DAGGERS	Bıçak Savunması
+RESIST_BELLS	Çan Savunması
+RESIST_FANS	Yelpaze Savunması
+RESIST_ARROWS	Ok Savunması
+RESIST_MAGIC	Büyü Savunması
+TOTAL_PLAYERS_KILLED	Toplam Oyuncu
+DUELS_WON	Kazanılan Düellolar
+DUELS_LOST	Kaybedilen Düellolar
+MONSTERS_KILLED	Canavar
+BOSSES_KILLED	Patron
+METINS_KILLED	Metin Taşları
+EVENT_DESCRIPTION_WINDOW_TITLE	Etkinlik Açıklaması
+EVENT_DESC_EMPIREWAR	İmparatorluk Savaşı[ENTER][ENTER]İmparatorluk savaşında, üç imparatorluğun hepsi, ışınlanabileceğiniz özel bir harita üzerinde birbirleriyle savaşır. [ENTER]En iyi öldürme oranına sahip olan imparatorluk, önceden ilan edilen bir bonus ile ödüllendirilir.
+EVENT_DESC_HEXA	Altıgen Hediye Paketi[ENTER][ENTER]Etkinlik sırasında tüm sadık oyuncular Altıgen Hediye Paketi düşürme şansına sahiptirler. Altıgen Hediye Paketi yararlı eşyalar içerir. [ENTER] Altıgen Hediye Paketi bütün canavarlardan düşürülebilir.
+EVENT_DESC_PVP	PvP Turnuvası[ENTER][ENTER]PVP Turnuvası'nda, karakterinize yakın seviye aralığındaki oyunculara karşı ne kadar güçlü olduğunu gösterme fırsatına sahipsiniz. [ENTER] Bir düelloyu kazanırsanız bir sonraki raunda geçme hakkı kazanırsınız. Turnuvayı kazanırsanız büyük bir ödülün sahibi olursunuz.
+EVENT_DESC_MOONLIGHT	Ayışı Define Sandığı[ENTER][ENTER]Etkinlik sırasında tüm sadık oyuncular Ayışı Define Sandığı düşürme şansına sahiptirler. Ayışı Define Sandığı yararlı eşyalar içerir. [ENTER] Ayışı Define Sandığı bütün canavarlardan düşürülebilir.
+EVENT_DESC_XP	EXP Etkinliği[ENTER][ENTER] Oyunun küçük bir hediyesi olarak belli bir süre boyunca daha fazla EXP elde etme şansına sahip olacaksınız.
+EVENT_DESC_YANG	Yang Düşürme Etkinliği[ENTER][ENTER] Oyunun küçük bir hediyesi olarak belli bir süre boyunca daha fazla Yang elde etme şansına sahip olacaksınız.
+EVENT_DESC_BOSSHUNT	Patron Avı [ENTER][ENTER] Etkinlik size değerli sandıklar elde etme şansı verir. Tarafsız haritalarda ortaya çıkan Gölge Savaşçı'lara yapılan her saldırı sonrası belli bir puan elde edersiniz. Bu puanlar karşılığında Uriel'den istediğiniz sandığı alabilirsiniz. [ENTER] Ayrıca küçük bir hediye olarak Gölge Savaşçı'lardan başka eşyalar da düşürebilirsiniz.
+EVENT_DESC_DROP	Eşya Düşürme Etkinliği[ENTER][ENTER] Oyunun küçük bir hediyesi olarak belli bir süre boyunca daha fazla Eşya elde etme şansına sahip olacaksınız.
+TOOLTTIP_APPLY_HEAL_EFFECT_BONUS	İyileştirme +%d%%	SA
+TOOLTTIP_APPLY_CRITICAL_DAMAGE_BONUS	Kritik Vuruş Hasarı +%d%%	SA
+TOOLTTIP_APPLY_DOUBLE_ITEM_DROP_BONUS	İki Kat Eşya Düşürme +%d%%	SA
+TOOLTTIP_APPLY_DAMAGE_BY_SP_BONUS	Mana Hasarı +%d%%	SA
+TOOLTTIP_APPLY_SINGLETARGET_SKILL_DAMAGE_BONUS	Tek Hedef Saldırısı Güçlendirme+%d%%	SA
+TOOLTTIP_APPLY_MULTITARGET_SKILL_DAMAGE_BONUS	Alan Saldırısı Güçlendirme +%d%%	SA
+TOOLTTIP_APPLY_MIXED_DEFEND_BONUS	Savunma Bonusu +%d%%	SA
+TOOLTTIP_APPLY_EQUIP_SKILL_BONUS	Ekipman Güçlendirme +%d%%	SA
+TOOLTTIP_APPLY_AURA_HEAL_EFFECT_BONUS	Aura: İyileştirme +%d%%	SA
+TOOLTTIP_APPLY_AURA_EQUIP_SKILL_BONUS	Aura: Ekipman Güçlendirme +%d%%	SA
+TOOLTTIP_APPLY_MOUNT_BUFF_BONUS	Binek Güçlendirme +%d%%	SA
+ANGELSDEMONS_DESC_ANGELS	Melekler [ENTER]Meleklerin hiçbir isteği yoktur, onlar sadece Tanrı'ya hizmet ederler. Her meleğin bir görevi vardır. Onlar ayrıca cenneti korurlar.
+MINIGAME_FISH_EVENT_ADD_ACCEPT	Yapboz parçasını buraya yerleştirmek istiyor musun?
+MINIGAME_FISH_EVENT_DROP_ACCEPT	Yapboz parçasını atmak istiyor musun?
+MINIGAME_FISH_EVENT_REWARD_MSG	%s aldın.
+MINIGAME_FISH_EVENT_USE_ACCEPT	Sandığı açmak ister misin?
+AFFECT_MOUNT_PARALYZE	Bineğini şu an kullanamazsın.
+FORUM_HELP	Forum
+ANGELSDEMONS_TITLE	Melekler & Şeytanlar - Tarafını Seç
+ANGELSDEMONS_FRACTION_ANGELS	Melek
+ANGELSDEMONS_FRACTION_DEMONS	Şeytan
+EVENT_DESC_ANGELSDEMONS	Melekler & Şeytanlar [ENTER][ENTER]Oyunun küçük bir hediyesi olarak, belirlenen süre boyunca daha fazla Yang elde edersin.
+SORT_DISABLED_INFO	Bu özellik bazı oyuncuların her zaman en düşük fiyattan daha düşük fiyata eşya satması sebebiyle kaldırılmıştır. Artık eşyaları en düşük fiyata göre sıralamak mümkün değildir, bu yüzden oyun içi piyasayı iyileştirmek için satarken ve alırken makul bir fiyat belirleyin.
+XMAS_EVENT_WAIT_TIMER	10 saniye beklemelisin.
+XMAS_EVENT_RECIVED_GIFT	Zaten ödülünü aldın.
+WARP_RING_BIND_NAME	%s ile bağlan	SA
+REQUIRE_ITEM_RESET_RUNE	Sıfırlamak için %s'e ihtiyacın var.	SA
+CONFIRM_RUNE_RESET	Rün puanlarını sıfırlamak mı istiyorsun? Bunun için şu eşyaya ihtiyacın var:
+RUNE_RESET_WINDOW_TITLE	Rünleri Sıfırla
+EVENT_DESC_XMASCALENDAR	Yılbaşı Takvimi
+SHOP_MODEL_1	Standart
+SHOP_MODEL_2	1001 Gece
+SHOP_MODEL_3	BBQ Kralı
+SHOP_MODEL_4	Hazine Avcısı
+SHOP_MODEL_5	Küçük Alev
+SHOP_MODEL_6	Silahçı
+SHOP_MODEL_7	Zırhçı
+SHOP_MODEL_8	Simyacı
+SHOP_STYLE_1	Standart
+SHOP_STYLE_2	Cehennem
+SHOP_STYLE_3	Buz Devri
+SHOP_STYLE_4	Parşömen
+SHOP_STYLE_5	Savaş Panosu
+SHOP_STYLE_6	Kanat
+SHOP_PRICE_OVER_MARGIN	Eşyaları, ortalama fiyat değerine bağlı olan belirli fiyat aralıklarında satabilirsin.
+OFFLINE_SHOP_SERVERBOOT_EARLY	Pazarlar, bakımdan sonraki 10 dakika boyunca kullanılamaz.
+MELEE_MAGIC_ATTBONUS_PER	Büyülü/Yakın Saldırı
+SKILL_DAMAGE_BONUS	Beceri Hasarı
+NORMAL_HIT_DAMAGE_BONUS	Ortalama Zarar
+QUEST_TIMER_THRANDUILS	Thranduil'in Sığınağı
+DRAGONSOUL_BONUS_SET_TOOLTIP	Aşağıdaki özelliklere sahip olabilmek için 6 tane +6 Ejderha Taşı'nı aktifleştir.
+TOOLTIP_APPLY_ATTBONUS_ALL_ELEMENTS	Elementlere Karşı Güçlü +%d%%	SA
+STORE_CAPE_ADD_CAPES	Pelerinleri depolamak istiyor musun?
+STORED_CAPE_COUNT	Depolanan Pelerin Sayısı: %d	SA
+OFFLINE_SHOP_AVG_INFO	Bir eşyayı, ortalama fiyatın %d%% altında ve %d%% üstünde satabilirsin.
+ASK_DUNGEON_RECONNECT	Zindana devam etmek istiyor musun?
+RUNE_PAGE_CANNOT_SAVE_YET	Tekrardan kaydetmek için 5 saniye beklemelisin.
+ZODIAC_SHOP_ALREADY_BOUGHT	Bu eşyayı yalnızca bir kere alabilirsin.
+TOOLTIP_APPLY_ATTBONUS_ZODIAC	Zodyaklara Karşı Güçlü +%d%%	SA
+STRONG_VS_ZODIAC	Zodyaklara Karşı Güçlü
+RUNE_AFFECT_INFO_NOT_AVAILABLE	: Son girişinden beri bu rünü kullanmadın!
+RUNE_DAMAGE_GIVEN_INFO	: Son dağıtılan hasar: %s
+RUNE_HEAL_BONUS_INFO	: %s HP iyileştirildin.
+RUNE_COLLECTED_SOULS_INFO	: Bu zamana kadar %s ruh topladın.
+TARGET_INFO_RACE_ZODIAC	Zodyak
+RUNE_LEVEL_UP_CONFIRM	%s rününü geliştirmek ister misin?	SA
+RUNE_MAGIC_SHIELD_BONUS_INFO	: Grup üyeleri %s sihirli kalkana sahip.
+RUNE_CURRENT_KILLS_COUNT_INFO	: %s tane oyuncu öldürdün, oyuncu öldürmeye devam ettikçe grup üyeleri 100% yenilenecek.
+RUNE_MAGIC_ATTACK_DAMAGE_BONUS_INFO	: Rakibe %s büyülü hasar verdin.
+RUNE_LEVEL_UP_REFINE	Rün Geliştir
+QUEST_TIMER_ZODIAC	Zodyak Tapınağı
+EMOTION_NOSAY	Sessiz
+EMOTION_SELFIE	Özçekim
+EMOTION_WEATHER_2	Gökkuşağı
+EMOTION_WEATHER_3	Ay
+EMOTION_CELEBRATION	Parti
+EMOTION_PUSH_UP	Şınav
+EMOTION_DANCE_7	Samba
+EMOTION_CALL	Arama
+EMOTION_SIREN	Açlık
+EMOTION_HUNGRY	Siren
+EMOTION_EXERCISE	Isınma
+EMOTION_DOZE	Uyku
+TOOLTIP_EMOJI_MULTIOPEN_GIFTBOX	:%d tane aç.
+TOOLTIP_EMOJI_UNSTACK	:ayır.
+TOOLTIP_EMOJI_USE	:kullan.
+TOOLTIP_EMOJI_PREVIEW_WEAR	:önizle.
+SOUL_REFINE_TITLE	Ruh Geliştirme
+SOUL_REFINE_UPGRADE	Geliştir
+SOUL_REFINE_CANCEL	İptal Et
+SOUL_REFINE_INFO_TEXT	Geliştirmek istenen ruh:
+SOUL_REFINE_NEED_TEXT	Gerekenler:
+SPECIAL_SKILL_TITLE	Özel
+SPECIAL_SKILL_BUTTON_TEXT	Özel
+WIKI_SUBCATEGORY_SHIELD	Kalkanlar
+WIKI_SUBCATEGORY_HELMET	Kasklar
+WIKI_SUBCATEGORY_ARMOR	Zırhlar
+WIKI_SUBCATEGORY_WEAPONS	Silahlar
+WIKI_CATEGORY_EQUIPEMENT	Ekipmanlar
+QUEST_TIMER_SLIME	Balçık Zindanı
+QUEST_TIMER_AVAILABLE_TEXT	kullanılabilir!
+EXCHANGE_WITH	%s ile Ticaret
+KILL_STATS	Öldürme İst.
+BONI_BOARD	Bonus Tahtası
+WIKI_SUBCATEGORY_EARRINGS	Küpeler
+WIKI_SUBCATEGORY_BRACELET	Bilezikler
+WIKI_SUBCATEGORY_NECKLACE	Kolyeler
+WIKI_SUBCATEGORY_SHOES	Ayakkabılar
+WIKI_CATEGORY_CHESTS	Sandıklar
+WIKI_SUBCATEGORY_CHESTS	Patron Sandıkları
+WIKI_SUBCATEGORY_EVENT_CHESTS	Etkinlik Sandıkları
+WIKI_SUBCATEGORY_ALTERNATIVE_CHESTS	Alternatif Sandıklar
+WIKI_CATEGORY_BOSSES	Patronlar
+WIKI_SUBCATEGORY_LV1_75	Seviye 1-75
+WIKI_SUBCATEGORY_LV76_100	Seviye 76-100
+WIKI_SUBCATEGORY_LV100	Seviye 100+
+WIKI_CATEGORY_MONSTERS	Canavarlar
+WIKI_CATEGORY_METINSTONES	Metin Taşları
+WIKI_CATEGORY_SYSTEMS	Sistemler
+WIKI_SUBCATEGORY_RUNES	Rünler
+WIKI_SUBCATEGORY_DRAGONALCHEMY	Ejderha Taşı Simyası
+WIKI_SUBCATEGORY_SHOULDER_SASH	Omuz Kuşağı
+WIKI_SUBCATEGORY_COSTUME_SASH	Kuşak Kostümü
+WIKI_SUBCATEGORY_BATTLEPASS	Savaş Pasosu
+WIKI_SUBCATEGORY_COSTUMES	Kostümler
+WIKI_SUBCATEGORY_GAYA	Gaya
+WIKI_SUBCATEGORY_SKILL_COLOR	Beceri Renklendirme
+WIKI_SUBCATEGORY_CONTER_BOOST	Misilleme & Güçlendirme
+WIKI_CATEGORY_DUNGEONS	Zindanlar
+WIKI_SUBCATEGORY_ORCMAZE	Ork Labirenti
+WIKI_SUBCATEGORY_SPIDER_BARONESS	Örümcek Baroness
+WIKI_SUBCATEGORY_AZRAEL	Azrail
+WIKI_SUBCATEGORY_BERAN_SETAOU	Beran-Setaou
+WIKI_SUBCATEGORY_NEMERE	Nemere
+WIKI_SUBCATEGORY_RAZADOR	Razador
+WIKI_SUBCATEGORY_SHIPDEFENSE	Gemi Savunması
+WIKI_SUBCATEGORY_JOTUN_THRYM	Jotun Thrym
+WIKI_SUBCATEGORY_CRYSTAL_DRAGON	Kristal Ejderha Mağarası
+WIKI_SUBCATEGORY_MELEY	Meley'in İni
+WIKI_SUBCATEGORY_THRANDUILS_LAIR	Thranduil'in Sığınağı
+WIKI_SUBCATEGORY_ZODIAC	Zodyak Tapınağı
+WIKI_SUBCATEGORY_HAIRSTYLES	Saç Stilleri
+WIKI_SUBCATEGORY_PET	Evcil Hayvan
+WIKI_SUBCATEGORY_MOUNT	Binek
+WIKI_CATEGORY_COSTUMES	Kostümler
+WIKI_CATEGORY_EVENTS	Etkinlikler
+WIKI_SUBCATEGORY_OKAY_CARD	Okey Kartları
+WIKI_SUBCATEGORY_FISHPUZZLE	Balıkçılık Yapbozu
+WIKI_SUBCATEGORY_BOSS_HUNT	Patron Avı
+WIKI_SUBCATEGORY_MOONLIGHT_CHESTS	Ayışığı Define Sandığı
+WIKI_SUBCATEGORY_HEXAGONAL_CHESTS	Altıgen Hediye Paketi
+WIKI_SUBCATEGORY_TAG_TEAM	Takım Savaşları
+WIKI_SUBCATEGORY_EMPIRE_WAR	İmparatorluk Savaşı
+WIKI_SUBCATEGORY_PVP_TOURNAMENT	PvP Turnuvası
+WIKI_CATEGORY_GUIDES	Rehberler
+WIKI_SUBCATEGORY_THE_START	Başlangıç
+WIKI_SUBCATEGORY_105_AND_NOW	105 ve sonrası?
+WIKI_REFINEINFO_YANG_COSTS	Gereken Yang
+WIKI_REFINEINFO_UPGRADE_COSTS	Geliştirme Maliyeti
+WIKI_REFINEINFO_ITEM_LEVEL	Seviye: %i
+WIKI_CHESTINFO_ORIGIN	Köken
+WIKI_CHESTINFO_CONTENTOF	%s İçeriği
+WIKI_CHESTINFO_COMMON_DROP	Genel Düşme Şansı
+WIKI_MONSTERINFO_DROPLISTOF	%s Canavarından Düşen Eşyalar
+WIKI_MONSTERINFO_IMMUNE_STUN	Sersemleme
+WIKI_MONSTERINFO_IMMUNE_SLOW	Yavaşlama
+WIKI_MONSTERINFO_IMMUNE_FALL	Düşme
+WIKI_MONSTERINFO_IMMUNE_CURSE	Lanetlenme
+WIKI_MONSTERINFO_IMMUNE_POISON	Zehirlenme
+WIKI_MONSTERINFO_IMMUNE_TERROR	Terör
+WIKI_MONSTERINFO_IMMUNE_REFLECT	Yansıtma
+WIKI_MONSTERINFO_LEVEL	Seviye: %i
+WIKI_MONSTERINFO_IMMUNE_TO	Bağışıklık: %s
+WIKI_MONSTERINFO_DMG_HP	Min. Hasar: %s | Maks. Hasar: %s | Maks. HP: %s
+WIKI_MONSTERINFO_GOLD_EXP	Min. Yang: %s | Maks. Yang: %s | EXP: %s
+WIKI_MONSTERINFO_RESISTANCES	Savunmalar:
+WIKI_MONSTERINFO_IMMUNE_NOTHING	Yok
+WIKI_MONSTERINFO_STATISTICSOF	%s Hakkında Bilgiler
+WIKI_ITEMINFO_OPTAINEDFROM	Elde Edilebilen Yerler
+WIKI_ITEMINFO_REFINEINFO	%s Geliştirme Bilgileri
+WIKI_TITLENAME	Wiki Sistemi
+WIKI_CATEGORIES_TITLE	Kategoriler
+TOOLTIP_ITEM_LIMIT_LEVEL_MAX	Maks. Svy.: %d
+TOOLTIP_UPGRADE_STONE	Eşya geliştirme şansı 5% arttı!
+COMBAT_ZONE_TOOLTIP_BATTLE_POTION	Savaş Bölgesi Muharebe İksiri	SNA
+COMBAT_ZONE_SHOP_OVERFLOW_LIMIT_TODAY	Geçerli sınır + eşya fiyatı, maksimum sınırı geçiyor.
+COMBAT_ZONE_SHOP_EXCEED_LIMIT_TODAY	Günlük puan kullanma limitine ulaştın.
+COMBAT_ZONE_SHOP_NOT_ENOUGH_BATTLE_POINT	Yeterli savaş puanın yok.
+COMBAT_ZONE_CURRENT_REAL_POINTS	Savaş Puanı: %d
+COMBAT_ZONE_LIMIT_SHOP_POINTS	Günlük Limit %d/%d
+MONETARY_COMBAT_ZONE	Puan
+CHAT_GM_INSTANT_QUESTION	Lütfen zaman kaybı yaratmadan GM'e direkt olarak sorunuzu ya da probleminizi iletin.
+QUEST_TIMER_INFECTED	Lanetli Bahçe
+DUNGEON_RANKING_TIME	En İyi Zaman:
+AUCTION_COOLDOWN	Yeniden arama yapabilmek için %d saniye beklemelisin.
+RESTART_OR_WARP_REQUIRED	Yapılan değişiklik, bir yere ışınlandıktan ya da oyun yeniden başlatıldıktan sonra etkili olacak.
+ATTACKSPEED_LIMIT_DESC	Sınır ayarla(%d-%d), devre dışı bırakmak için 0.
+CONFIRM_STACK	Envanterini yeniden düzenlemek istediğine emin misin?
+RUNE_INFO	%s. Rün Sayfası etkinleştirildi.
+WIKI_SUBCATEGORY_BELTS	Kemerler
+TOOLTIP_HOTKEY_SEARCH	Eşyayı pazarda aramak için:
+WIKI_SUBCATEGORY_TALISMANS	Tılsımlar
+EVENT_DESC_SUNDAE	Nee, dondurma mı ?!
+AFFECT_REMOVE_TOOLTIP	Devre dışı bırakmak için tıkla!
+AFFECT_REMOVE_DESC	Bu etkiyi devre dışı bırakmak istediğine emin misin?
+EQUIPMENT_PAGE_DELETE_TEXT	"%s" isimli sayfayı silmek istiyor musun?
+EQUIPMENT_PAGE_DELETE_ACCEPT_TEXT	Sil
+EQUIPMENT_PAGE_ADD_TITLE	Yeni bir ekipman sayfası oluştur.
+EQUIPMENT_PAGE_ADD_DESCRIPTION	Ekipman sayfası için bir isim gir:
+EQUIPMENT_PAGE_SELECT_ICON_LOADING_TEXT	Bekleyin...(%d%%)
+FAKEBUFF_NAME_AFFECT	Yeni bir isme sahip Buffi'ler, Yüksek Saldırı becerisine sahip olurlar.
+TOOLTIP_FAKEBUFF_3RD_SKILL	Yüksek Saldırı becerisini aktifleştirebilmek için İsim İzi (Buffi) eşyasına ihtiyacın var.
+HOTKEY_CONTROL	CTRL
+HOTKEY_ALT	ALT
+HOTKEY	Kısayol
+HOTKEY_BUTTON_DISABLE_TEXT	Kısayol Ayarla
+HOTKEY_USED	Bu kısayol zaten kullanılıyor.
+SHOP_SELL_NOTIFICATION	%s %s eşyası %s Yang'a satıldı.
+TOOLTIP_NO_BONUS	[Bonus Yok]
+SELL_AT_LEAST	Minimum %d parça satabilirsin.
+SAFEBOX_INVENTORY_NORMAL	Depo
+SAFEBOX_INVENTORY_ITEMSHOP	Nesne Marketi Deposu
+SAFEBOX_INVENTORY_UPP	Yükseltme Eşyası Deposu
+SAFEBOX_INVENTORY_SKILL	Kitap Deposu
+SAFEBOX_INVENTORY_STONE	Taş Deposu
+SAFEBOX_INVENTORY_ENCHANT	Efsun Deposu
+SAFEBOX_INVENTORY_COSTUME	Kostüm Deposu
+SAFEBOX_INVENTORY_GUILD	Lonca Deposu
+TOOLTIP_APPLY_SKILL_DURATION	Güçlendirme becerilerinin etki süresini %d saniye arttırır.
+TOOLTIP_WARRIOR	Savaşçı
+COMBAT_ZONE_TEAMING_WARNING_BAN	Savaş Bölgesi'nde gruplaşma/takımlaşma yasaktır, bunu yapan oyuncular 3 gün ceza alır!
+REACT_EVENT_NEXT_ROUND	Sonraki Tur: %.1f
+TOOLTIP_APPLY_RUNE_MOUNT_PARALYZE	Düşmana yapılan bir saldırı onu "Felce" uğratır ve 5 saniyeliğine Binek kullanamaz hale getirir.
+QUEST_TIMER_APE	Maymun Zindanı
+WIKI_SUBCATEGORY_LV76_105	Seviye 76-105
+WIKI_SUBCATEGORY_DEMONTOWER	Şeytan Kulesi
+WIKI_SUBCATEGORY_APE_DUNGEON	Maymun Zindanı
+TOOLTIP_APPLY_RESIST_BOSS	Patronlara Karşı Savunma +%d%%	SA
+RESIST_BOSS	Patron Dayanıklılığı
+QUEST_TIMER_DEMON	Şeytan Kulesi
+TOOLTIP_SHOP_SEARCH_INFO	Yalnızca bulunduğun haritada olan pazarlarlardaki eşyaları arayabilirsin.
+CUBE_PROCCESS	Geliştirme işlemi başarısız olabilir! Devam etmek istiyor musun?
+TOOLTIP_RESISTANCE_LIGHTNING	Şimşek Dayanıklılığı
+TOOLTIP_RESISTANCE_DARKNESS	Karanlık Dayanıklılığı
+TOOLTIP_RESISTANCE_WIND	Rüzgar Dayanıklılığ
+TOOLTIP_RESISTANCE_EARTH	Toprak Dayanıklılığı
+TOOLTIP_RESISTANCE_ICE	Buz Dayanıklılığı
+TOOLTIP_RESISTANCE_FIRE	Ateş Dayanıklılığı
+TOOLTIP_CHANCE_ITEM_DROP	Eşya Düşürme Şansı
+TOOLTIP_CHANCE_YANG_DROP	Yang Düşürme Şansı
+TOOLTIP_CHANCE_EXP_BONUS	EXP Bonus Şansı
+TOOLTIP_RANGE_MAGIC_ATT_GRADE	Büyülü Saldırı Değeri +%d ila +%d

@@ -1,0 +1,32 @@
+[COLOR r;255|g;195|b;0]"Besonderheit"[/COLOR r;255|g;195|b;0][ENTER]
+Du kannst den Dungeon nur mit Level 100-105 betreten!
+[ENTER]
+[COLOR r;0|g;195|b;255]Phase 1[/COLOR r;0|g;195|b;255][ENTER]
+Tötet alle Monster.
+[ENTER]
+[COLOR r;0|g;195|b;255]Phase 2 [/COLOR r;0|g;195|b;255][ENTER]
+Tötet Monster und aktiviert den richtigen Frostschlüssel.
+[ENTER]
+[COLOR r;0|g;195|b;255]Phase 3[/COLOR r;0|g;195|b;255][ENTER]
+Tötet alle Monster.
+[ENTER]
+[COLOR r;0|g;195|b;255]Phase 4[/COLOR r;0|g;195|b;255][ENTER]
+Tötet alle Monster von den 2 Wellen.
+[ENTER]
+[COLOR r;0|g;195|b;255]Phase 5[/COLOR r;0|g;195|b;255][ENTER]
+Tötet Monster und erhalte Nordstern, ziehe anschließend den Nordstern auf Würfel des Arktos.
+[ENTER]
+[COLOR r;0|g;195|b;255]Phase 6[/COLOR r;0|g;195|b;255][ENTER]
+Tötet alle Monster und den Metin der Kälte.
+[ENTER]
+[COLOR r;0|g;195|b;255]Phase 7[/COLOR r;0|g;195|b;255][ENTER]
+Tötet den richtigen Szel.
+[ENTER]
+[COLOR r;0|g;195|b;255]Phase 8[/COLOR r;0|g;195|b;255][ENTER]
+Tötet Monster und aktiviert den richtigen Eisblumenschlüssel.
+[ENTER]
+[COLOR r;0|g;195|b;255]Phase 9[/COLOR r;0|g;195|b;255][ENTER]
+Tötet die Säule des Norddrachen und klickt anschließend auf den Eisigen Löwen.
+[ENTER]
+[COLOR r;0|g;195|b;255]Phase 10[/COLOR r;0|g;195|b;255][ENTER]
+Tötet Nemere.

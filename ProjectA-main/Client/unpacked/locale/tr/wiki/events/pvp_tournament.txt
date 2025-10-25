@@ -1,0 +1,70 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/pvptournament.tga]
+[CENTER_ALIGN;FONT_SIZE=18]PvP Turnuvası
+
+
+[COLOR=0xffd700;FONT_SIZE=15]İçerik Listesi:
+*1. Genel Bilgiler
+*2. Etkinlik Yönergesi
+*3. Seviye Aralıkları
+*4. Etkinlik Ödülleri
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=120; CENTER_ALIGN]
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Genel Bilgiler:
+
+PvP Haritasına, Yüzbaşı'ndan ya da görevden ulaşabilirsin.
+Turnuvanın her raundu rastgele belirlenir. Böylece her oyuncu, her türden karakter sınıfıyla karşılaşabilir. 
+PvP Haritasına girdikten sonra turnuvaya kaydolmak için Amiral Angmur'la konuşmalısın.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=210; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Etkinlik Yönergesi
+
+Haritaya ışınlandığın an haritanın ortasında olacaksın.
+Orada kaydını yaptırabileceğin Amiral Angmur'u bulacaksın.
+Bütün oyuncular için adaletli bir etkinlik oluşturmak amacıyla farklı seviye aralıkları belirlendi.
+Seviyene bağlı olarak belirli seviye aralığındaki gruba yerleştirilsin. Bundan sonrası eşyaları yükseltmek.
+PvP karşılaşmalarının gerçekleştiği 4 farklı arena vardır.
+Amiral Angmur, sen ve rakibin için boş bir arena bulduğunda otomatik olarak oraya ışınlanırsın.
+
+Arena ışınlandıktan sonra hazırlanmak için 10 saniyen olur.
+Bu süre boyunca yalnızca bazı becerileri kullanabilir ve hazırlık yapabilirsin ancak hareket edemezsin.
+Raundlar "3 Raundun En İyisi" formatında gerçekleştirilir. 2 raundu kazanan oyuncu maçı kazanır.
+Turnuvada "Nakavt" sistemi vardır yani turnuvayı her seviye aralığında yalnızca bir kişi kazanabilir.
+
+Karşılaşmalar sırasında aşağıdaki eşyalar ve fonksiyonlar devre dışı bırakılır::
+
+*Kırmızı İksir (K), (O) ve (B)
+*Güneş Özütü (K), (O) ve (B)
+*Binekler
+*Evcil Hayvanlar
+*Buffi
+*Takım Buffları
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=525; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Seviye Aralıkları
+
+Bütün oyuncuların etkinliğe katılımını sağlamak için turnuva 5 farklı seviye aralığına bölünmüştür:
+
+*Seviye 35-60
+*Seviye 61-75
+*Seviye 76-95
+*Seviye 96-105
+*Seviye 106-115
+
+Her seviye aralığı için bir kazanan ödülü alır.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=690; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]4. Etkinlik Ödülleri:
+
+PvP Turnuvası ödülleri genellikle Forum üzerinden Etkinlikler bölümü altında açıklanır.
+Ödüller oyuncuların ihtiyaç ve değişikliklerine göre belirlenir.
+
+
+

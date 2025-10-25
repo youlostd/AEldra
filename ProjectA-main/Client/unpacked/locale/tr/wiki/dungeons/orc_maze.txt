@@ -1,0 +1,28 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/orcmaze.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Gereksinimler:
+*Gereken Seviye: 55-85
+*Giriş Eşyası: Ork Parşömeni
+[RIGHT_ALIGN]Ork Parşömeni
+[IMG=d:/ymir work/ui/wiki/94031.tga; Y=5; X=493]
+[COLOR=0xffd700;FONT_SIZE=15]Özellikler:
+*Zindana yalnızca grubun yoksa girebilirsin.
+*Zindanın yenilenme süresi 90 dakikadır.
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18]Aşamalar:
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=100; CENTER_ALIGN]
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 1
+
+[X_PADDING=20]4 adet Ruh Metni yok et.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 2
+
+[X_PADDING=20]Lanetli Ork Reisini öldür.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 3
+
+[X_PADDING=20]Lanetli Ork Kralını öldür.

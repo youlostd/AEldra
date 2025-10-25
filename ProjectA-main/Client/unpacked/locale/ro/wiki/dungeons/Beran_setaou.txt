@@ -1,0 +1,29 @@
+
+BANNER_IMG = d:/ymir work/ui/wiki/banners/beransetoul.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Cerinte:
+*Nivel necesar: 75
+*Ticket de intrare: Cheie rasucita
+
+[RIGHT_ALIGN]Cheie rasucita
+[IMG=d:/ymir work/ui/wiki/30179.tga; Y=5; X=493]
+
+
+[COLOR=0xffd700;FONT_SIZE=15]Specificatii:
+*Camera dragonului are un cooldown de 60 de minute.
+*Fiecare membru al grupul trebuie sa detina Cheie Rasucita.
+*Fiecare piatra metin are un efect special, care este crescut de existenta unei pietre ce acelasi fel.
+[X_PADDING=20]*Regenerarea PV a dragonului este crescuta de Metinul Arogantei.
+[X_PADDING=20]*Daunele cauzate de dragon sunt crescute de Metinul Razbunarii.
+[X_PADDING=20]*Viteza de regenerare PV a dragonului este crescuta de Metinul Singuratatii.
+[X_PADDING=20]*Apararea dragonului este crescuta de Metinul Muntilor.
+
+[CENTER_ALIGN;FONT_SIZE=18]Faze:
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=185; CENTER_ALIGN]
+
+[COLOR=ef4f00;FONT_SIZE=15]Faza 1
+[X_PADDING=20]Distruge Pietrele metin pana cand cea dorita de tine apare.
+
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Faza 2
+[X_PADDING=20]Ucide-l pe Beran-Setaou.

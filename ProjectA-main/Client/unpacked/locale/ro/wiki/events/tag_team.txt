@@ -1,0 +1,36 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/tagteam.tga]
+[CENTER_ALIGN;FONT_SIZE=18]Eveniment pe echipe
+
+[COLOR=0xffd700;FONT_SIZE=15]Content List:
+*1. Informatii generale
+*2. Instructiunile evenimentului
+*3. Recompensele evenimentului
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=100; CENTER_ALIGN]
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Informatii generale:
+
+Evenimentul pe echipe este o batlie PvP care are loc in diferite grupuri.
+Fiecare grup contine 7 echipe a cate 2 Jucatori in fiecare echipa.
+Ambii jucatori din echipa castigatoare vor fi recompensati la sfarsitul rundei.
+Te poti inscrie impreuna cu partenerul tau in Map 1 la Capitan. Fi sigur ca esti langa partenerul tau.
+De asemenea, este un Mod Spectator pentru Evenimentul pe Ecipe.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=220; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Instructiunile evenimentului:
+
+Cand te inregistrezi pentru eveniment impreuna cu partenerul tau, vei fi teleportat in harta Speciala.
+In aceasta harta, toate potiunile si elixire sunt dezactivate.
+Mergand la mijlocul hartii, o sa intalnesti celalalte 6 echipe, 12 playeri.
+Echipa care supravietuieste cu cel putin 1 singur membru, castiga runda si se bucura de recompense.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=330; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Recompensele evenimentului:
+
+Recompensele de la evenimentele PvP sunt de obicei anuntate in sectiunea "Events" de pe forum.
+Acestea depinde de nevoile jucatorilor si se schimba de la eveniment la eveniment.

@@ -1,0 +1,172 @@
+﻿
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/battlepass.tga]
+[CENTER_ALIGN] Savaş Pasoları, başarılı bir şekilde tamamlandıktan sonra ödüllendirilen bir dizi görevdir.
+
+[COLOR=0xffd700;FONT_SIZE=15]İçerik Listesi:
+*1. Aylık Savaş Pasosu
+*2. Başlangış Savaş Pasosu
+*3. Ağaç Savaşı Pasosu
+*4. Savaş Pasosu (Zindanlar)
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Aylık Savaş Pasosu
+
+[CENTER_ALIGN]Her ayın başında, 7 normal ve 3 efsanevi görev içeren savaş pasosu nesne market 
+[CENTER_ALIGN]üzerinden satışa sunulur. Başarılı yapılan görevler sonunda genellikle 2x Kostüm Kuponu ve 
+[CENTER_ALIGN]birçok ödül elde edilir. Aylık Savaş Pasoları ticarete KAPALIDIR ve bir kullanıcı adı(ID)
+[CENTER_ALIGN].ile sınırlıdır. Yeni Savaş Pasoları hakkındaki bilgileri forum sayfamızda bulabilirsin.
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=180; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Başlangıç Savaş Pasosu
+
+[CENTER_ALIGN]Bu eşyayı kullanarak, 7 normal ve 3 efsanevi görev elde edeceksin.
+[CENTER_ALIGN]Muhtemelen başlangıçta elde edebileceğin en önemli özelliklerden birisi.
+[CENTER_ALIGN]Görevleri tamamlamak oldukça kolay ve ödülleri temel ihtiyaçlarını giderecek seviyede: 
+[CENTER_ALIGN]Rün eşyaları, Usta Kuşağı(kişiye özel), Cor Draconis(Efsanevi), vb... 
+[CENTER_ALIGN]En kısa sürede görevlere başladığından emin ol!
+
+
+[COLOR=ef4f00;FONT_SIZE=15]2.1.1 Uriel'in Endişeleri
+[X_PADDING=20]Görev: Uriel ile konuş.
+[X_PADDING=20]Ödül: 100x Yeşil Efsun, 20x Yeşil Güç
+
+[COLOR=ef4f00;FONT_SIZE=15]2.1.2 Beceriler
+[X_PADDING=20]Görev: 30 tane 2.Haritadaki metinlerden yok et.
+[X_PADDING=20]Ödül: 10x Zümrüt Kristal, 20x Kötü Ruh Kovma Kağıdı, 20x Münzevi Tavsiyesi
+
+[COLOR=ef4f00;FONT_SIZE=15]2.1.3 Patronlar
+[X_PADDING=20]Görev: Düşük seviyeli 30 tane patron öldür (Ork Reisi, Kraliçe Örümcek, Alev Kral...)
+[X_PADDING=20]Ödül: 3x Tecrübe Yüzüğü+, 1x Hırsız Eldiveni, 10x Beyaz Şebnem, 5x Ruh Taşı
+
+[COLOR=ef4f00;FONT_SIZE=15]2.1.4 Görev Kitapları
+[X_PADDING=20]Görev: Herhangi bir seviyede 5 görev kitabı bul ve tamamla.
+[X_PADDING=20]Ödül: 25x Ejderha Tanrı Savunması, 25x Ejderha Tanrı Saldırısı, 25x Ejderha Tanrı Yaşamı, 
+[X_PADDING=20]25x Ejderha Tanrı Zekası
+
+[COLOR=ef4f00;FONT_SIZE=15]2.1.5 Kızıl Orman
+[X_PADDING=20]Görev: Kızıl Orman'da 100 Metin Taşı yok et.
+[X_PADDING=20]Ödül: Ork Parşömeni, Arachnida Anahtarı, Patron Odası Mührü (Azrail)
+
+[COLOR=ef4f00;FONT_SIZE=15]2.1.6 Ekipman Gelişimi
+[X_PADDING=20]Görev: 10 patron öldür. (Lusifer, Azrail, Beran Setaou, Örümcek Baroness, Ork Labirenti Şefi)
+[X_PADDING=20]Ödül: 200x Efsun Nesnesi, 25x Kıymetli Taş, 2x Hırsız İksiri, 2x Bilgelik İksiri 
+
+[COLOR=ef4f00;FONT_SIZE=15]2.1.7 Rünler
+[X_PADDING=20]Görev: 90 seviye haritalarında 50 Metin taşı yok et.
+[X_PADDING=20]Ödül: 60x bütün rün eşyaları
+
+[COLOR=ef4f00;FONT_SIZE=15]2.1.8 Gelişim 1
+[X_PADDING=20]Görev: 50. seviyeye ulaş.
+[X_PADDING=20]Ödül: 5x Cor Draconis (Efsanevi)
+
+[COLOR=ef4f00;FONT_SIZE=15]2.1.9 Gelişim 2
+[X_PADDING=20]Görev: 75. seviyeye ulaş.
+[X_PADDING=20]Ödül: Usta Kuşağı(kişiye özel)[11%], 25x Kıymetli Taş
+
+[COLOR=ef4f00;FONT_SIZE=15]2.1.10 Gelişim 3
+[X_PADDING=20]Görev: 90. seviyeye ulaş.
+[X_PADDING=20]Ödül: 10x Demircinin El Kitabı, 10x Unutkanlık İksiri, 10x Araştırmacının Özütü
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=833; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Ağaç Savaşı Pasosu
+
+[CENTER_ALIGN]7 normal ve 3 efsanevi görev içerir. Ödüller oyuncuların isteği doğrultusunda
+[CENTER_ALIGN]hazırlanmıştır. Zaman kaybetmeden görevlere başla!
+
+[COLOR=ef4f00;FONT_SIZE=15]3.1.1 Yok et
+[X_PADDING=20]Görev: 1000 En-Tai İmhacısı öldür.
+[X_PADDING=20]İpucu: En-Tai İmhacılarını, Büyülü/Karanlık Orman ve Ağaç Yaratığı Metinlerinden bulabilirsin.
+[X_PADDING=20]Ödül: 10x Dönüşüm Çantası (B)
+
+[COLOR=ef4f00;FONT_SIZE=15]3.1.2 Rahiplerin Gücü
+[X_PADDING=20]Görev: 300 En-Tai Rahibi öldür.
+[X_PADDING=20]İpucu: En-Tai Rahiplerini, Büyülü/Karanlık Orman ve Ağaç Yaratığı Metinlerinden bulabilirsin.
+[X_PADDING=20]Ödül: 3x Ağaç Yaratığı Kökü
+
+[COLOR=ef4f00;FONT_SIZE=15]3.1.3 Denizkızı Adası
+[X_PADDING=20]Görev: 250 Siren Kraliçesi öldür.
+[X_PADDING=20]İpucu: Siren Kraliçelerini, Gemi Savunması haritasında bulabilirsin.
+[X_PADDING=20]Ödül: 4x Süre Özütü (B)
+
+[COLOR=ef4f00;FONT_SIZE=15]3.1.4 Kappa
+[X_PADDING=20]Görev: 500 Kappa Lideri öldür.
+[X_PADDING=20]İpucu: Kappa Liderlerini, Gemi Savunması haritasında bulabilirsin.
+[X_PADDING=20]Ödül: 1x Mavi Ejderha Fasulyesi
+
+[COLOR=ef4f00;FONT_SIZE=15]3.1.5 Birden Fazla Kafa?
+[X_PADDING=20]Görev: 25 Hidra Kafası öldür.
+[X_PADDING=20]İpucu: Hidra Kafalarını, Gemi Savunması haritasında bulabilirsin.
+[X_PADDING=20]Ödül: 1x Siyah İnci Hazinesi Sandığı
+
+[COLOR=ef4f00;FONT_SIZE=15]3.1.6 Jotun'un İntikamı
+[X_PADDING=20]Görev: 5 Jotun Thrym öldür.
+[X_PADDING=20]İpucu: Jotun Thrym'i, Jotun Thrym Zindanı ya da Patron Çağırma Mührü(uzman)'dan bulabilirsin.
+[X_PADDING=20]Ödül: 1x Patron Çağırma Mührü (uzman)
+
+[COLOR=ef4f00;FONT_SIZE=15]3.1.7 Kristal Ejder
+[X_PADDING=20]Görev: 5 Kristal Ejderha Kralı öldür.
+[X_PADDING=20]İpucu: Kristal Ejderha Kralı'nı, Kristal Ejderha Mağarası ya da Patron Çağırma Mührü(uzman)'dan bulabilirsin.
+[X_PADDING=20]Ödül: 1x Efsanevi Ruh Taşı
+
+[COLOR=ef4f00;FONT_SIZE=15]3.1.8 Gölge Kralı
+[X_PADDING=20]Görev: 3 En-Tai Gölge Hükümdarı öldür.
+[X_PADDING=20]İpucu: En-Tai Gölge Hükümdarı'nı, Büyülü Orman ya da Patron Çağırma Mührü(uzman)'dan bulabilirsin.
+[X_PADDING=20]Ödül: 1x Ağaç Ruhu Taşı
+
+[COLOR=ef4f00;FONT_SIZE=15]3.1.9 Işık Kralı
+[X_PADDING=20]Görev: 3 En-Tai Işık Hükümdarı öldür.
+[X_PADDING=20]İpucu: En-Tai Işık Hükümdarı'nı, Büyülü Orman ya da Patron Çağırma Mührü(uzman)'dan bulabilirsin.
+[X_PADDING=20]Ödül: 3x Büyülü Tılsım
+
+[COLOR=ef4f00;FONT_SIZE=15]3.1.10 Meteor Yağmuru
+[X_PADDING=20]Görev: 1000x Ağaç Yaratığı Metini yok et.
+[X_PADDING=20]İpucu: Ağaç Yaratığı Metinlerini, Büyülü ve Karanlık Ormanda bulabilirsin.
+[X_PADDING=20]Ödül: 25x Tecrübe Küresi
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]4. Savaş Pasosu (Zindanlar)
+
+[CENTER_ALIGN]7 tane normal ve 3 tane efsanevi görev içerir. 
+[CENTER_ALIGN]Farklı zindanlarda çok nadir ödüller elde etme şansı yakala.
+
+[COLOR=ef4f00;FONT_SIZE=15]4.1.1 Perilerin Ruhu
+[X_PADDING=20]Açıklama: 25 Tane Jotun Öldür!
+[X_PADDING=20]Ödül: 10x Zindan Taşı (Jotun), 10x Zaman İksiri (L)
+
+[COLOR=ef4f00;FONT_SIZE=15]4.1.2 Lanetli Bitkiler
+[X_PADDING=20]Açıklama: 25 Tane Bahçe Zorbası Öldür!
+[X_PADDING=20]Ödül: 10x Zindan Taşı (Lanetli Bahçe), 3x Anime Küresi Kuponu
+
+[COLOR=ef4f00;FONT_SIZE=15]4.1.3 Kristal Ejderha Mı?
+[X_PADDING=20]Açıklama: 25 Tane Kristal Ejder Öldür!
+[X_PADDING=20]Ödül: 10x Zindan Taşı (Kristal Ejder), 3x Efsanevi Ruhtaşı
+
+[COLOR=ef4f00;FONT_SIZE=15]4.1.4 Ağaç mı Taş mı?
+[X_PADDING=20]Açıklama: 25 Tane Thranduil Öldür!
+[X_PADDING=20]Ödül: 10x Zindan Taşı (Thranduil), 25x Efsanevi Efsun Nesnesi
+
+[COLOR=ef4f00;FONT_SIZE=15]4.1.5 Bu Neyin Kafası?
+[X_PADDING=20]Açıklama: 25 Tane Hydra Öldür!
+[X_PADDING=20]Ödül: 10x Zindan Taşı (Hydra), 25x Gaya Kuponu (1)
+
+[COLOR=ef4f00;FONT_SIZE=15]4.1.6 Nemere
+[X_PADDING=20]Açıklama: 25 Tane Nemere Öldür!
+[X_PADDING=20]Ödül: 10x Zindan Taşı (Nemere), 1x Buz Taşı
+
+[COLOR=ef4f00;FONT_SIZE=15]4.1.7 Razador
+[X_PADDING=20]Açıklama: 25 Tane Razador Öldür!
+[X_PADDING=20]Ödül: 10x Zindan Taşı (Razador), 1x Lav Taşı
+
+[COLOR=ef4f00;FONT_SIZE=15]4.1.8 Görevler? Görevleer!
+[X_PADDING=20]Açıklama:150 Tane Görev Tamamla!
+[X_PADDING=20]Ödül: 1x Kostüm Planı, 2x Umut Parşomeni
+
+[COLOR=ef4f00;FONT_SIZE=15]4.1.9 Zindanların Efendisi
+[X_PADDING=20]Açıklama: 150 kez zindan tamamla!
+[X_PADDING=20]Ödül: 1x Dolunay Yüzüğü, 2x Umut Parşomeni
+
+[COLOR=ef4f00;FONT_SIZE=15]4.1.10 Patronlar, Bütün Patronlar!
+[X_PADDING=20]Açıklama: 100lv. Üzerindeki Patronlardan 150 Tane Öldür!
+[X_PADDING=20]Ödül: 1x İsim İzi (evcil hayvan), 1x İsim İzi (binek)

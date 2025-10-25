@@ -1,0 +1,107 @@
+1	�￬��	1	1	1	0	HP	-( 1.1*atk + (1.1*atk +  1.5 * str)*k*1.8)	40+100*k			12	-( 1.1*atk + (1.1*atk +  1.5 * str)*k*1.8)		ATTACK,USE_MELEE_DAMAGE			NONE								40+100*k	0	0	MELEE	5	1	0	0
+2	�ȹ�ǳ��	1	1	1	0	HP	-(4*atk + (1.3*atk + str*5 + dex*3 +con)*k*2)	50+130*k			15	-(4*atk + (1.3*atk + str*5 + dex*3 +con)*k*2)		ATTACK,USE_MELEE_DAMAGE			NONE								50+130*k	0	0	MELEE	12	1	0	200
+3	����ȥ	1	1	1	0	ATT_SPEED	50*k	50+140*k	60+200*k		63+10*k	50*k		SELFONLY	JEONGWIHON		MOV_SPEED	20*k	60+90*k			BLOCK_IGNORE_BONUS	max(0, sklv - 30)	60+90*k	50+140*k	0	0	NORMAL	1	1	0	0
+4	�˰�	1	1	1	0	ATT_GRADE	(100 + str + lv * 3)*k	100+200*k	60+200*k		30+10*k	(100 + str + lv * 3)*k		SELFONLY	GEOMGYEONG	GEOMGYEONG_PERFECT	NONE								100+200*k	0	0	NORMAL	1	1	0	0
+5	źȯ��	1	1	1	0	HP	-(2*atk + (1.5*atk + dex*3 + str*7 + con)*k*1.75)	60+120*k			12	-(2*atk + (1.5*atk + dex*3 + str*7 + con)*k*1.75)		ATTACK,USE_MELEE_DAMAGE,SPLASH,CRUSH			MOV_SPEED	150	3						60+120*k	0	0	MELEE	4	1	0	200
+16	�����	1	1	1	0	HP	-(4*atk + (3.5*atk  + str*15 + con*6)*k*1.6)	60+120*k			15	-(4*atk + (3.5*atk  + str*15 + con*6)*k*1.6)		ATTACK,USE_MELEE_DAMAGE			NONE								60+120*k	0	0	MELEE	4	1	0	100
+17	�ݻ�Ÿ��	1	1	1	0	HP	-(4*atk + (3.2*atk + str*15 + con*6)*k*1.6)	60+150*k			15	-(4*atk + (3.2*atk + str*15 + con*6)*k*1.6)		ATTACK,USE_MELEE_DAMAGE			NONE								60+150*k	0	0	MELEE	8	1	0	200
+18	������	1	1	1	0	HP	-(3.4*atk + (3.9*atk + 2*dex + 4*con + str*8)*k*1.5)	50+140*k			25	-(3.4*atk + (3.9*atk + 2*dex + 4*con + str*8)*k*1.5)		ATTACK,USE_MELEE_DAMAGE,SELFONLY,SPLASH,ATTACK_STUN			NONE	100+k*1000/6	2						50+140*k	0	0	MELEE	10	1	0	400
+19	õ����	1	1	1	0	DEF_GRADE	(200 + str*0.2 + con*0.5 ) *k	80+220*k	60+200*k		63+10*k	(200 + str*0.2 + con*0.5 ) *k		SELFONLY	CHEONGEUN	CHEONGEUN_PERFECT	MOV_SPEED	-(1+9*k)	60+90*k						80+220*k	0	0	NORMAL	1	1	0	0
+20	��ǳ	1	1	1	0	HP	-(3.5*atk + (3.5*atk + dex*3 + str*10 + con)*k*1.4)	40+120*k			20	-(3.5*atk + (3.5*atk + dex*3 + str*10 + con)*k*1.4)		ATTACK,USE_MELEE_DAMAGE,SPLASH,CRUSH			NONE								40+120*k	0	0	MELEE	10	0.5	1200	200
+31	�Ͻ�	2	1	1	0	HP	-(atk + (1.8*atk + number(500, 700) + dex*9+ str*4 )*k*1.2)	40+160*k			15	-(atk + (1.8*atk + number(500, 700) + dex*9+ str*4 )*k*1.2)		ATTACK,USE_MELEE_DAMAGE			NONE								40+160*k	0	0	MELEE	6	0.8	0	0
+32	�ý�ź��	2	1	1	0	HP	-(atk + (2* atk + number(200,300) + dex*9 + str*7)*k*1.2)	40+160*k			20	-(atk + (2* atk + number(200,300) + dex*9 + str*7)*k*1.2)		ATTACK,USE_MELEE_DAMAGE			NONE								40+160*k	0	0	MELEE	6	0.8	800	0
+33	������	2	1	1	0	HP	-(atk + (2.2*atk + dex*10 + str*7)*k)	50+140*k			25	-(atk + (2.2*atk + dex*10 + str*7)*k)		ATTACK,USE_MELEE_DAMAGE,ATTACK_POISON			NONE	40*k							50+140*k	0	0	MELEE	12	0.8	0	0
+34	������	2	1	1	0	NONE		30+60*k	15+30*k		60			SELFONLY	EUNHYUNG		NONE								30+60*k	0	0	NORMAL	1	1	0	0
+35	�����	2	1	1	0	HP	-(lv+(atk + str*3 + dex*3)*k*1.25)	40+130*k			25	-(lv+(atk + str*3 + dex*3)*k*1.25)		ATTACK,USE_MELEE_DAMAGE,SPLASH,ATTACK_POISON			NONE	60*k	5+25*k						40+130*k	0	0	NORMAL	0	0.5	800	200
+46	����	2	1	1	0	HP	-(atk + 1.2*atk*floor(2+k*6)+ (0.8*atk+dex*8*ar) *k*1.25)	40+130*k			15	-(atk + 1.2*atk*floor(2+k*6)+ (0.8*atk+dex*8*ar) *k*1.25)		ATTACK,USE_ARROW_DAMAGE			NONE								40+130*k	0	0	RANGE	1	1	2500	0
+47	���ݼ�	2	1	1	0	HP	-(atk + (3.7*atk + dex*2+ str*2)*k*1.25)	30+130*k			12	-(atk + (3.7*atk + dex*2+ str*2)*k*1.25)		ATTACK,USE_ARROW_DAMAGE			NONE								30+130*k	0	0	RANGE	8	1	2500	0
+48	ȭ����	2	1	1	0	HP	-(2.5*atk + (3.6*atk + number(100, 300))*k*1.25)	50+130*k			20	-(2.5*atk + (3.6*atk + number(100, 300))*k*1.25)		ATTACK,SPLASH,USE_ARROW_DAMAGE			NONE								50+130*k	0	0	RANGE	12	0.6	2500	300
+49	�����	2	1	1	0	MOV_SPEED	60*k	30+40*k	60+200*k		50+30*k	60*k		SELFONLY	GYEONGGONG		NONE								30+40*k	0	0	NORMAL	1	1	0	0
+50	�����	2	1	1	0	HP	-(atk + (3.7*atk + number(600, 700)+dex*9+str*4)*k*1.25)	40+160*k			20	-(atk + (3.7*atk + number(600, 700)+dex*9+str*4)*k*1.25)		ATTACK,SPLASH,USE_ARROW_DAMAGE,CRUSH,ATTACK_POISON			NONE	80*k	15+30*k						40+160*k	0	0	RANGE	12	0.5	2500	300
+61	�����	3	1	1	0	HP	-(atk + 2*lv + iq*3 + ( 3*atk + str*4 + iq*12) * k*1.4)	30+140*k			10	-(atk + 2*lv + iq*3 + ( 3*atk + str*4 + iq*12) * k*1.4)		ATTACK,USE_MELEE_DAMAGE,PENETRATE			NONE	1+k*9							30+140*k	0	0	MELEE	4	1	0	0
+62	�����	3	1	1	0	HP	-(1.5 * atk + 2*lv + iq*2+(2.5*atk + str + iq*12) * k*1.5)	50+150*k			15	-(1.5 * atk + 2*lv + iq*2+(2.5*atk + str + iq*12) * k*1.5)		ATTACK,USE_MELEE_DAMAGE,SELFONLY,SPLASH,IGNORE_TARGET_RATING			NONE	1+k*9							50+150*k	0	0	MELEE	12	1	0	500
+63	�Ͱ�	3	1	1	0	ATT_GRADE	(3 * iq + 2.5 * lv)*k	20+240*k	60+200*k	2+23*k	0	(3 * iq + 2.5 * lv)*k		SELFONLY,TOGGLE	GWIGUM	GWIGUM_PERFECT	HIT_HP_RECOVER	10*k	60+200*k						20+240*k	0	0	NORMAL	1	1	0	0
+64	����	3	1	1	0	DODGE	1 + 29 * k	60+120*k	60+200*k		100	1 + 29 * k		SELFONLY	TERROR	TERROR_PERFECT	NONE								60+120*k	0	0	NORMAL	1	1	0	0
+65	�ָ���	3	1	1	0	DEF_GRADE	(iq+30)*k	70+170*k	60+200*k		33+140*k	(iq+30)*k		SELFONLY	JUMAGAP		REFLECT_MELEE	(iq/15+10)*k	30+120*k						70+170*k	0	0	NORMAL	1	1	0	0
+66	�Ĺ���	3	1	1	0	HP	-(40 +2*lv + 4*iq+(10*iq + 4*mwep + number(50,1) )*ar*k*1.4)	30+120*k			30	-(40 +2*lv + 4*iq+(10*iq + 4*mwep + number(50,1) )*ar*k*1.4)		ATTACK,COMPUTE_MAGIC_DAMAGE,SPLASH,REMOVE_GOOD_AFFECT			NONE	min(1, sklv / 40) * 150 + (max(0, sklv - 40) / 10) * 90	max(1, min(1, sklv / 40) * 3) + (max(0, sklv - 40) / 10) * 15						30+120*k	0	0	NORMAL	5	0.6	1800	200
+76	����	3	1	1	0	HP	-(40 +5*lv + 2*iq +(13*iq + 10*mwep + number(50,100) )*ar*k*1.2)	30+140*k			15	-(40 +5*lv + 2*iq +(13*iq + 10*mwep + number(50,100) )*ar*k*1.2)		ATTACK,COMPUTE_MAGIC_DAMAGE,SPLASH			NONE								30+140*k	0	0	MAGIC	5	0.6	1500	200
+77	ȭ����	3	1	1	0	HP	-(5*lv + 2*iq+(10*iq + 10*mwep + str*4 + con*2 + number(180,200) )*k*1.2)	60+140*k			15	-(5*lv + 2*iq+(10*iq + 10*mwep + str*4 + con*2 + number(180,200) )*k*1.2)		ATTACK,SELFONLY,COMPUTE_MAGIC_DAMAGE,SPLASH			NONE								60+140*k	0	0	MAGIC	15	0.8	0	500
+78	������	3	1	1	0	HP	-(20+ 2*lv + 2*iq+(4*iq + 5*mwep + number(200,500))*ar*k*1.3)	20+30*k	60+200*k	5+40*k	43+30*k	-(20+ 2*lv + 2*iq+(4*iq + 5*mwep + number(200,500))*ar*k*1.3)		ATTACK,COMPUTE_MAGIC_DAMAGE,SPLASH,TOGGLE			NONE								20+30*k	0	0	MAGIC	1	1	800	0
+79	��ż�ȣ	3	1	1	0	DEF_GRADE	(0.5*iq+15)*k	20+30*k	60+200*k	5+10*k	63+10*k	(0.5*iq+15)*k		SELFONLY	MANASHIELD	MANASHIELD_PERFECT	MANASHIELD	100-((iq*0.84)*k)	60+120*k						20+30*k	0	0	MAGIC	1	0.8	0	0
+80	���Ӹ���	3	1	1	0	HP	-(40 + 2* lv + 5*iq +(2 * con + 2 * dex + 10*iq + 5*mwep + number(180, 200))*ar*k*1.7)	40+120*k			18	-(40 + 2* lv + 5*iq +(2 * con + 2 * dex + 10*iq + 5*mwep + number(180, 200))*ar*k*1.7)		ATTACK,COMPUTE_MAGIC_DAMAGE,SPLASH,ATTACK_SLOW			NONE	333+300*k	10+10*k						40+120*k	0	0	MAGIC	9	0.8	1200	400
+81	��ȯ��	3	1	1	0	HP	-(200 + 7*lv + (5 * con + 5 * dex + 15*iq + 20*mwep)*ar*k*1.4)	80+220*k			24	-(200 + 7*lv + (5 * con + 5 * dex + 15*iq + 20*mwep)*ar*k*1.4)		ATTACK,COMPUTE_MAGIC_DAMAGE,SPLASH			NONE								80+220*k	0	0	MAGIC	9	0.4	1500	200
+91	���ĺ�	4	1	1	0	HP	-(70 +5*lv + (25*iq+9*mwep+50)*ar*k*1.4)	30+160*k			10	-(70 +5*lv + (25*iq+9*mwep+50)*ar*k*1.4)		ATTACK,COMPUTE_MAGIC_DAMAGE,SPLASH			NONE								30+160*k	0	0	MAGIC	5	0.5	1800	201
+92	���Ļ�	4	1	1	0	HP	-(60 + 5*lv + (25*iq + 13*mwep + 120)*ar*k*1.4)	50+160*k			10	-(60 + 5*lv + (25*iq + 13*mwep + 120)*ar*k*1.4)		ATTACK,ATTACK_FIRE_CONT			NONE	lv+5*iq *k	iq*0.2*k						50+160*k	0	0	MAGIC	10	0.8	0	0
+93	�з���	4	1	1	0	HP	-(270 + 10*lv + (25*iq+25*mwep+500)*ar*k*1.5*1.4)	50+160*k			20	-(270 + 10*lv + (25*iq+25*mwep+500)*ar*k*1.5*1.4)		ATTACK,SELFONLY,SPLASH,ATTACK_FIRE_CONT			NONE	lv+5*iq *k	iq*0.2*k						50+160*k	0	0	MAGIC	15	0.8	0	500
+94	ȣ��	4	1	1	0	RESIST_NORMAL	(iq*0.3+5)*(2*k+0.5)/(k+1.5)	40+160*k	60+200*k		10	(iq*0.3+5)*(2*k+0.5)/(k+1.5)			HOSIN	HOSIN_PERFECT	NONE								40+160*k	0	0	NORMAL	1	1	800	0
+95	�ݻ�	4	1	1	0	REFLECT_MELEE	5+(iq*0.3 + 5)*k	40+160*k	60+200*k		15	5+(iq*0.3 + 5)*k			BOHO		NONE								40+160*k	0	0	NORMAL	1	1	1000	0
+96	��õ���	4	1	1	0	CRITICAL	(iq*0.3+5)*(2*k+0.5)/(k+1.5)	40+160*k	60+200*k		10	(iq*0.3+5)*(2*k+0.5)/(k+1.5)			GICHEON	GICHEON_PERFECT	NONE								40+160*k	0	0	NORMAL	1	1	1000	0
+106	������	4	1	1	0	HP	-(260 + 10*lv + (10*iq+15*mwep+number(iq*5,iq*15))*ar*k*1.1)	30+150*k			10	-(260 + 10*lv + (10*iq+15*mwep+number(iq*5,iq*15))*ar*k*1.1)		ATTACK,SPLASH			NONE								30+150*k	0	0	MAGIC	5	0.6	1800	200
+107	����	4	1	1	0	HP	-(240 + 12*lv + (15*iq+21*mwep+number(iq*7,iq*16))*ar*k*1.1)	50+150*k			15	-(240 + 12*lv + (15*iq+21*mwep+number(iq*7,iq*16))*ar*k*1.1)		ATTACK,SPLASH,ATTACK_STUN			NONE	50+1000*k/6	5						50+150*k	0	0	MAGIC	15	0.8	1500	400
+108	���ڰ�	4	1	1	0	HP	-(250 + 15*lv + (10*iq+18*mwep+number(50,1200))*ar*k*1.1) * (1-chain*1.5)	40+180*k			10	-(250 + 15*lv + (10*iq+18*mwep+number(50,1200))*ar*k*1.1) * (1-chain*1.5)		ATTACK			NONE								40+180*k	0	0	MAGIC	7	0.8	2500	0
+109	������	4	1	1	0	HP	350+4*lv+(10*iq+11*mwep+number(600,800))*k	40+200*k			30	350+4*lv+(10*iq+11*mwep+number(600,800))*k		REMOVE_BAD_AFFECT			NONE	20+80*k	0						40+200*k	0	0	NORMAL	1	1	1000	0
+110	���	4	1	1	0	MOV_SPEED	5 + 35*k	60+120*k	60+200*k		10	5 + 35*k			KWAESOK		CASTING_SPEED	3+33*k	60+100*k						60+120*k	0	0	NORMAL	1	1	1000	0
+111	���¼�	4	1	1	0	ATT_GRADE	5+(iq*0.5 +15)*k	60+120*k	60+200*k		10	5+(iq*0.5 +15)*k			JEUNGRYEOK		NONE								60+120*k	0	0	NORMAL	1	1	1000	0
+121	��ַ�	0	1	50	0	NONE								DISABLE_BY_POINT_UP			NONE									0	0	NORMAL	0	1	0	0
+122	�����	0	1	2	0	NONE								DISABLE_BY_POINT_UP			NONE									0	0	NORMAL	0	1	0	0
+124	ä����	0	1	40	0	NONE								DISABLE_BY_POINT_UP			NONE									0	0	NORMAL	0	1	0	0
+125	����	0	1	40	0	NONE			10+1000*k					DISABLE_BY_POINT_UP			NONE									0	0	NORMAL	0	1	1000	0
+126	�ż���	0	1	20	0	NONE								DISABLE_BY_POINT_UP			NONE									0	0	NORMAL	0	1	0	0
+127	õ����	0	1	20	0	NONE								DISABLE_BY_POINT_UP			NONE									0	0	NORMAL	0	1	0	0
+128	�����	0	1	20	0	NONE								DISABLE_BY_POINT_UP			NONE									0	0	NORMAL	0	1	0	0
+129	�а���	0	1	40	0	NONE								DISABLE_BY_POINT_UP			NONE					NONE				0	0	NORMAL	0	1	0	0
+130	�¸�	0	1	1	0	NONE								DISABLE_BY_POINT_UP			NONE									0	0	NORMAL	0	1	0	0
+131	����ȯ	0	1	10	0	NONE					5-(4*k)			DISABLE_BY_POINT_UP			NONE									0	0	NORMAL	0	1	0	0
+137	����	5	1	1	0	HP	-(atk+(2*atk*k))	60+80*k			5-(4*k)			ATTACK,USE_MELEE_DAMAGE,CRUSH			NONE									0	0	MELEE	10	1	300	0
+138	����	5	1	1	0	HP	-(2.4*(200+1.5*lv)+(3*200*k))	60+120*k			15			ATTACK,USE_MELEE_DAMAGE,SPLASH,CRUSH_LONG			MOV_SPEED	50	5							0	0	MELEE	6	1	400	100
+139	Ż��	5	1	1	0	HP	-(2*(200+1.5*lv)+(3*200*k))	60+160*k			20			ATTACK,USE_MELEE_DAMAGE,SELFONLY,SPLASH,CRUSH			NONE									0	0	MELEE	12	1	400	250
+140	����(Ȱ)	5	1	1	0	HP	-(atk+(0.1*atk*k))	60+80*k			10			ATTACK,USE_ARROW_DAMAGE,CRUSH			NONE									0	0	RANGE	5	1	2500	0
+151	���	0	1	7	0	NONE											NONE									0	0	NORMAL	0	1	0	0
+152	�������	0	1	7	0	MAX_HP	maxhp*0.2*k	150+150*k	300		600						NONE									0	0	NORMAL	0	1	0	0
+153	������ູ	0	1	7	0	MAX_SP	maxsp*0.2*k	150+150*k	300		600						NONE									0	0	NORMAL	0	1	0	0
+154	���ְ�	0	1	7	0	DEF_GRADE	odef*0.1*k	150+150*k	180		480						NONE									0	0	NORMAL	0	1	0	0
+155	����ȭ	0	1	7	0	MOV_SPEED	15*k	150+150*k	180		480						ATT_SPEED	15*k	180							0	0	NORMAL	0	1	0	0
+156	����Ǻг�	0	1	7	0	CRITICAL	50*k	150+150*k	180		480			SELFONLY			NONE									0	0	NORMAL	0	1	0	0
+157	�ֹ���	0	1	7	0	CASTING_SPEED	50*k	150+150*k	180		480			SELFONLY			NONE									0	0	NORMAL	0	1	0	0
+158	����̵�	0	1	3	0	NONE								SELFONLY			NONE									0	0	NORMAL	0	1	0	0
+159	�����ǹ�	0	1	5	0	NONE								SELFONLY			NONE									0	0	NORMAL	0	1	0	0
+160	����ȭ	0	1	5	0	NONE	3*k	80-12*k	300					SELFONLY			NONE									0	0	NORMAL	0	1	0	0
+161	�����ǹ�	0	1	2	0	NONE		50									NONE									0	0	NORMAL	0	1	0	0
+162	�����̵�	0	1	2	0	NONE		20									NONE									0	0	NORMAL	0	1	0	0
+256	CRUSH200��ų	0	1	1	0	HP	-5*k*atk				4			ATTACK,USE_MELEE_DAMAGE,SPLASH			NONE									0	0	MELEE	0	1	0	300
+257	�Ϲݹ���350��ų	0	1	1	0	HP	-5*k*atk				6			ATTACK,USE_MELEE_DAMAGE,SPLASH			NONE									0	0	MELEE	0	1	0	525
+258	CRUSH300��ų	0	1	1	0	HP	-5*k*atk				8			ATTACK,USE_MELEE_DAMAGE,SPLASH			NONE									0	0	MELEE	0	1	0	450
+259	�Ϲݹ���200��ų	0	1	1	0	HP	-5*k*atk				10			ATTACK,USE_MELEE_DAMAGE,SPLASH			NONE									0	0	MELEE	0	1	0	300
+260	CURSH400��ų	0	1	1	0	HP	-5*k*atk				12			ATTACK,USE_MELEE_DAMAGE,SPLASH			NONE									0	0	MELEE	0	1	0	600
+261	��250��ų	0	1	1	0	HP	-5*k*atk				10			ATTACK,USE_MELEE_DAMAGE,SPLASH,ATTACK_POISON			NONE	80								0	0	MELEE	0	1	0	375
+262	SLOW300��ų	0	1	1	0	HP	-5*k*atk				14			ATTACK,USE_MELEE_DAMAGE,SPLASH			MOV_SPEED	-20	10							0	0	MELEE	0	1	0	450
+6	�ݻ�Ÿ��	1	1	1	0	HP	-( 3*atk + (atk +  2.5 * str)*k)*1.67	300+150*k			60	-( 3*atk + (atk +  2.5 * str)*k)*1.67		ATTACK,USE_MELEE_DAMAGE			NONE								60+150*k	0	0	MELEE	5	1	0	200
+21	������	1	1	1	0	HP	-(3*atk + (3*atk + 2*dex + 2*con + str*4)*k)*1.1	300+180*k			60	-(3*atk + (3*atk + 2*dex + 2*con + str*4)*k)*1.1		ATTACK,USE_MELEE_DAMAGE			NONE	100+k*1000/6	2						50+140*k	0	0	MELEE	10	1	0	400
+51	������	2	1	1	0	HP	-((lv*5+(2*atk + str*3 + dex*18)*k)*1.1)	300+180*k			45	-((lv*5+(2*atk + str*3 + dex*18)*k)*1.1)		ATTACK,USE_MELEE_DAMAGE			NONE	100+k*1000/6	2						50+140*k	0	0	MELEE	6	0.5	800	0
+36	�ý�ź��	2	1	1	0	HP	-((lv*2+(2.5*atk + str*3 + dex*15)*k)*2)	300+180*k			60	-((lv*2+(2.5*atk + str*3 + dex*15)*k)*2)		ATTACK,USE_MELEE_DAMAGE			NONE								40+160*k	0	0	MELEE	6	0.8	800	0
+267	S1 Dragon Queen Meley	0	1	1	0	HP	-2*k*atk				13			ATTACK,USE_MELEE_DAMAGE,SPLASH			NONE									0	0	MAGIC	7	0.9	500	300
+268	S2 Dragon Queen Meley	0	1	1	0	HP	-3*k*atk				6			ATTACK,USE_MELEE_DAMAGE,SPLASH,ATTACK_FIRE_CONT			NONE									0	0	MELEE	0	1	600	800
+269	S3 Dragon Queen Meley	0	1	1	0	HP	-3*k*atk				5			ATTACK,USE_MELEE_DAMAGE,SPLASH,ATTACK_FIRE_CONT			NONE									0	0	MELEE	0	1	700	800
+163	crit_passive	0	1	40	0	RESIST_CRITICAL	1+15.2*k							DISABLE_BY_POINT_UP			NONE									0	0	NORMAL	0	1	0	0
+164	db_passive	0	1	40	0	RESIST_PENETRATE	1+15.2*k							DISABLE_BY_POINT_UP			NONE									0	0	NORMAL	0	1	0	0
+265	HEAL4000	0	1	1	0	NONE					5						NONE					NONE				0	0	NORMAL	1	1	3000	0
+263	SLOW4000	0	1	1	0	HP	-5*k*atk				12			ATTACK,USE_MELEE_DAMAGE,SPLASH			MOV_SPEED	-70	3			NONE				0	0	MELEE	0	1	2000	6000
+264	THUNDER	0	1	1	0	HP	-maxhp*k				12			ATTACK,USE_MELEE_DAMAGE,SPLASH			NONE					NONE				0	0	MELEE	0	1	0	500
+266	ATTACK_SLOW	0	1	1	0	NONE								SELFONLY,SPLASH			NONE					NONE				0	0	NORMAL	1	1	0	3000
+165	skill_duration	0	1	40	0	SKILL_DURATION	11.29*(100*k)							DISABLE_BY_POINT_UP			NONE									0	0	NORMAL	0	1	0	0
+166	swordspin_ward	0	1	40	0	NONE	1+15.2*k										NONE					NONE				0	0	NORMAL	0	1	0	0
+167	ambush_ward	0	1	40	0	NONE	1+15.2*k										NONE					NONE				0	0	NORMAL	0	1	0	0
+168	fingerstrike_ward	0	1	40	0	NONE	1+15.2*k										NONE					NONE				0	0	NORMAL	0	1	0	0
+169	shootingdragon_ward	0	1	40	0	NONE	1+15.2*k										NONE					NONE				0	0	NORMAL	0	1	0	0
+170	spiritstrike_ward	0	1	40	0	NONE	1+15.2*k										NONE					NONE				0	0	NORMAL	0	1	0	0
+171	firearrow_ward	0	1	40	0	NONE	1+15.2*k										NONE					NONE				0	0	NORMAL	0	1	0	0
+172	darkstrike_ward	0	1	40	0	NONE	1+15.2*k										NONE					NONE				0	0	NORMAL	0	1	0	0
+173	summonlightning_ward	0	1	40	0	NONE	1+15.2*k										NONE					NONE				0	0	NORMAL	0	1	0	0
+175	ambush_boost	0	1	40	0	NONE	1+15.2*k										NONE					NONE				0	0	NORMAL	0	1	0	0
+176	fingerstrike_boost	0	1	40	0	NONE	1+15.2*k										NONE					NONE				0	0	NORMAL	0	1	0	0
+177	shootingdragon_boost	0	1	40	0	NONE	1+15.2*k										NONE					NONE				0	0	NORMAL	0	1	0	0
+178	spiritstrike_boost	0	1	40	0	NONE	1+15.2*k										NONE					NONE				0	0	NORMAL	0	1	0	0
+179	firearrow_boost	0	1	40	0	NONE	1+15.2*k										NONE					NONE				0	0	NORMAL	0	1	0	0
+180	darkstrike_boost	0	1	40	0	NONE	1+15.2*k										NONE					NONE				0	0	NORMAL	0	1	0	0
+181	summonlightning_boost	0	1	40	0	NONE	1+15.2*k										NONE					NONE				0	0	NORMAL	0	1	0	0
+174	swordspin_boost	0	1	40	0	NONE	1+15.2*k										NONE					NONE				0	0	NORMAL	0	1	0	0

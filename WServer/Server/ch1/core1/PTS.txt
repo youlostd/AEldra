@@ -1,0 +1,32 @@
+Oct 21 02:48:32.375000 :: [HFPS: 10, FPS: 7] Monitored time: 4285009us | Usefull processing time: 4054407us | Idle time: 230602us | Utilization rate: 94.618%
+	[EVENT_STAT] Events processed: 0 | Total events: 241 | Computing time: 5us (AVG: 0us) | 0.000% of total processing time
+	[CHR_UPDATE_STAT] Computing time: 2us (AVG: 0us) | 0.000% of total processing time
+	[IO_STAT] Computing time: 4052652us (AVG: 578950us) | 99.957% of total processing time
+	[LOG_ROTATE_STAT] Computing time: 1208us (AVG: 172us) | 0.030% of total processing time
+	[HEARTBEAT_STAT] Total computing time: 66us (AVG: 6us) | 0.002% of total processing time
+		[HB_SAVE_FLUSH] Total computing time: 0us (AVG: 0us) | 0.000% of total HB processing time
+		[HB_DELAYED_SAVE] Total computing time: 0us (AVG: 0us) | 0.000% of total HB processing time
+		[HB_HOMEPAGE_COMMAND] Total computing time: 2us (AVG: 0us) | 3.030% of total HB processing time
+		[HB_ITEM_MANAGER_UPDATE] Total computing time: 0us (AVG: 0us) | 0.000% of total HB processing time
+		[HB_OFFSHOP_HOMEPAGE_UPDATE] Total computing time: 0us (AVG: 0us) | 0.000% of total HB processing time
+		[HB_QUERY_POOLING] Total computing time: 0us (AVG: 0us) | 0.000% of total HB processing time
+		[HB_CH_USERCOUNT_UPDATE] Total computing time: 0us (AVG: 0us) | 0.000% of total HB processing time
+		[HB_ONLINECOUNT_UPDATE] Total computing time: 0us (AVG: 0us) | 0.000% of total HB processing time
+		[HB_PROCESS] Total computing time: 42us (AVG: 4us) | 63.636% of total HB processing time
+
+Oct 21 02:48:32.375000 :: [HFPS: 102, FPS: 1] Monitored time: 327us | Usefull processing time: 327us | Idle time: 0us | Utilization rate: 100.000%
+	[EVENT_STAT] Events processed: 89 | Total events: 241 | Computing time: 110us (AVG: 1us) | 33.639% of total processing time
+	[CHR_UPDATE_STAT] Computing time: 0us (AVG: 0us) | 0.000% of total processing time
+	[IO_STAT] Computing time: 16us (AVG: 16us) | 4.893% of total processing time
+	[LOG_ROTATE_STAT] Computing time: 100us (AVG: 100us) | 30.581% of total processing time
+	[HEARTBEAT_STAT] Total computing time: 121us (AVG: 1us) | 37.003% of total processing time
+		[HB_SAVE_FLUSH] Total computing time: 0us (AVG: 0us) | 0.000% of total HB processing time
+		[HB_DELAYED_SAVE] Total computing time: 0us (AVG: 0us) | 0.000% of total HB processing time
+		[HB_HOMEPAGE_COMMAND] Total computing time: 0us (AVG: 0us) | 0.000% of total HB processing time
+		[HB_ITEM_MANAGER_UPDATE] Total computing time: 0us (AVG: 0us) | 0.000% of total HB processing time
+		[HB_OFFSHOP_HOMEPAGE_UPDATE] Total computing time: 0us (AVG: 0us) | 0.000% of total HB processing time
+		[HB_QUERY_POOLING] Total computing time: 0us (AVG: 0us) | 0.000% of total HB processing time
+		[HB_CH_USERCOUNT_UPDATE] Total computing time: 0us (AVG: 0us) | 0.000% of total HB processing time
+		[HB_ONLINECOUNT_UPDATE] Total computing time: 0us (AVG: 0us) | 0.000% of total HB processing time
+		[HB_PROCESS] Total computing time: 7us (AVG: 0us) | 5.785% of total HB processing time
+

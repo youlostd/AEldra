@@ -1,0 +1,72 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/zodiactemple.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Követelmények:
+*Kötelezõ szint: 90
+*Belépési jegy: 12 Animagömb
+
+[COLOR=0xffd700;FONT_SIZE=15]Peculiarity:
+*A Zodiákus templomnak nincs cooldownja, de kell hogy legyen 12 Animagömböd egy runhoz.
+*Minden játékos kap 1 Animagömböt minden órában, akkor is ha nincs játékban. 
+*Minden prémium játékos kap 2 Animagömböt minden órában, akkor is ha nincs játékban.
+*Animagömb utalvánnyal szerezhetsz 12 Animagömböt.
+*A Zodiákus templomba bemehetsz egyedül, és csoportosan is.
+*Minden nap 2 portál van nyitva, és mind a 12 portál nyitva van Vasárnap.
+*Ha meghalsz a Zodiákus templomban, ébredés prizma kell hogy újjáéledj.
+*40 különbözõ szint van, és minden szintre 10 perced van.
+*Ha gyors vagy, lehetõséged van szintek kihagyására is.
+
+
+[CENTER_ALIGN;FONT_SIZE=18]Szintek:
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=185; CENTER_ALIGN]
+[COLOR=ef4f00;FONT_SIZE=15]1. Szint (Level 1-33)
+
+[X_PADDING=20]Kapsz egy véletlenszerû feladatot, amit teljesítened kell a megadott idõ alatt.
+[X_PADDING=20]Kihagyhatsz szinteket, ha gyors vagy.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]2. Szint (Level 34)
+
+[X_PADDING=20]Öld meg a Zodiákus Bosst.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]3. Szint (Level 35-39)
+
+[X_PADDING=20]Pusztítsd el a megfelelõ metin követ, hogy kapj Insigniát. 
+
+
+[COLOR=ef4f00;FONT_SIZE=15]4. Szint (Level 40)
+
+[X_PADDING=20]Vehetsz Insigniákat a Zodiákus Árústól. (50 darab 12.500.000 Yang).
+[X_PADDING=20]A Zodiákus naptárhoz kellenek ezek.
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18]Naptár:
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=500; CENTER_ALIGN]
+
+Ahhoz, hogy kipipálj egy üres helyet a naptárban, kell 50 darab Õrzõ Insignia, és 50 darab Zodiákus Insignia.
+Ha rákattintasz az üres helyre, az kipipálódik. Ezután 100 Insignia eltûnik a
+raktáradból, és a pipa megjelenik a megfelelõ helyen a Naptárban.
+
+
+Ahhoz hogy megkapd az Aventurine ládát, minden zöld helyet ki kell pipálni. Ehhez összesen kell
+1,500 Õrzõ Insignia és  1,500 Zodiákus Insignia. Minden Õrzõ Insigniából kell 250 darab,
+és minden Zodiákus Insigniából kell 300 darab. Ha minden zöld hely ki van pipálva, akkor megkaphatod
+a jutalmadat, ha rákattintasz a zöld gombra, a naptár alján.
+
+
+Ahhoz hogy megkapd az Aureolin treasure, minden sárga helyet ki kell pipálni. Ehhez összesen kell
+1,500 Õrzõ Insignia és  1,500 Zodiákus Insignia.
+Minden Õrzõ Insigniából kell 250 darab, és minden Zodiákus Insigniából kell 300 darab.
+WHa minden sárga hely ki van pipálva, akkor megkaphatod
+a jutalmadat, ha rákattintasz a sárga gombra, a naptár alján.
+
+
+Csak miután minden zöld és sárga hely kivan pipálva, kaphatod meg a harmadik jutalmadat.
+Az Astral Treasure ládát.
+Az is lehetséges hogy, minden zöld hely kivan pipálva, és a sárgák csak egyszer. Ebben az esetben is csak egy darab Astral Tresure ládát kapsz.
+De ha kétszer egymás után kipipálod a sárgákat, kapsz még kettõ Astral Treasure ládát, úgy hogy nem pipáltál zöldet azóta.
+Úgy kaphatod meg az Astral Treasure ládát, hogy rányomsz a gombra, a naptár alján.
+
+
+

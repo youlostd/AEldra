@@ -1,0 +1,1976 @@
+VNUM	LOCALE_NAME
+101	Dziki Pies
+102	Wilk
+103	Alfa Wilk
+104	Nieb. Wilk
+105	Nieb. Alfa Wilk
+106	Szary Wilk
+107	Szary Alfa Wilk
+108	Dzik
+109	Czerw. Dzik
+110	NiedŸwiedŸ
+111	NiedŸw. Grizzly
+112	Czar. NiedŸw.
+113	Brąz. NiedŸw.
+114	Tygrys
+115	Biały Tygrys
+131	Przeklęty Wilk
+132	Przeklęty Alfa Wilk
+133	Przeklęty Nieb. Wilk
+134	Przekl. Nieb. Alfa Wilk
+135	Przeklęty Szary Wilk
+136	Przekl. Szary Alfa Wilk
+137	Przeklęty Dzik
+138	Przeklęty Czerw. Dzik
+139	Przeklęty NiedŸw.
+140	Przekl. NiedŸw. Grizzly
+141	Przeklęty Czar. NiedŸw.
+142	Przeklęty Brąz. NiedŸw.
+143	Przeklęty Tygrys
+144	Przeklęty Biały Tygrys
+151	Cung-Mok
+152	Mu-Rang
+153	Jug-Hyul
+154	Young-Ji
+155	Li-An
+171	Głodny Zabłąkany Pies
+172	Głodny Wilk
+173	Głodny Alfa Wilk
+174	Głodny Nieb. Wilk
+175	Głodny Nieb. Alfa Wilk
+176	Głodny Szary Wilk
+177	Głodny Szary Alfa Wilk
+178	Głodny Dzik
+179	Głodny Czerw. Dzik
+180	Głodny NiedŸw.
+181	Głodny NiedŸw. Grizzly
+182	Głodny Czar. NiedŸw.
+183	Głodny Brąz. NiedŸw.
+184	Głodny Tygrys
+185	Głodny Biały Tygrys
+191	Lykos
+192	Scrofa
+193	Bera
+194	Tigris
+301	Zaprzys. ¯ołnierz
+302	Zaprzys. Łucznik
+303	Zaprzys. Generał
+304	Zaprzys. Komandor
+331	Zaprzys. ¯ołnierz
+332	Zaprzys. Łucznik
+333	Zaprzys. Generał
+334	Zaprzys. Komandor
+351	Tchórz. Zaprzys. ¯ołn.
+352	Tchórz. Zaprzys. Łucznik
+353	Tchórz. Zaprzys. Generał
+354	Tchórz. Zaprzys. Komand.
+391	Mi-Jung
+392	Eun-Jung
+393	Se-Rang
+394	Jin-Hee
+395	Bezduszna Mi-Jung
+396	Bezduszna Eun-Jung
+397	Bezduszna Se-Rang
+398	Bezduszna Jin-Hee
+401	¯ołnierz Czarn. Wiatru
+402	Maniak Czarnego Wiatru
+403	Łucznik Czarnego Wiatru
+404	Jak-To Czarnego Wiatru
+405	To-Su Czarnego Wiatru
+406	Gu-Ryung Czarnego Wiatru
+431	¯ołnierz Czarn. Burzy
+432	Maniak Czarn. Burzy
+433	Łucznik Czarn. Burzy
+434	Joh-Hwan Czarn. Burzy
+435	Kyuk-Jan Czarn. Burzy
+436	Pho-Hwan Czarn. Burzy
+451	Zły Czar. Burz. ¯ołnierz
+452	Zły Czar. Burz. Maniak
+453	Zły Czar. Burz. Łucznik
+454	Zły Czar. Burz. Joh-Hwan
+455	Zły Czar. Burz.Kyuk-Jang
+456	Zły Czar. Burz. Pho-Hwan
+460	Ogrodowy Wilk
+461	Bee worker
+462	Bee warrior
+463	Głodna roślina 
+464	Mięsnożerna roślina
+465	Korzenny Stwór
+466	Żołnierz ogrodu
+467	Garden general 
+468	Zła roślina 
+469	Wielka roślina 
+470	Zła Wielka Roślina 
+471	Raguwan
+472	Garden tyrant
+473	Mięsnożerna roślina
+474	Korzenny Stwór
+475	Żołnierz ogrodu
+476	Garden general
+477	Brut. carnivorous plant
+478	Brutalna Korzenista Istota
+479	Brut. garden soldier
+480	Brut. garden general
+481	Zainfekowane pszczoły
+491	Mahon
+492	Bo
+493	Goo-Pae
+494	Chuong
+501	Dziki ¯ołnierz Piechoty
+502	Dziki Sługa
+503	Dziki Łucznik
+504	Dziki Generał
+531	Best. ¯ołnierz
+532	Best. Maniak
+533	Bestialski Łucznik
+534	Best. Specjalista
+551	Silny Dziki Piechur.
+552	Silny Dziki Sługa
+553	Silny Dziki Łucznik
+554	Silny Dziki Generał
+591	Best. Kapitan
+595	Best. Guem-Chul
+601	Ork
+602	Ork Zwiadowca
+603	Ork Wojownik
+604	Ork Czarodziej
+631	Elit. Ork
+632	Elit. Ork Zwiadowca
+633	Elit. Ork Wojownik
+634	Elit. Ork Czarodziej
+635	Elit. Ork Generał
+636	Czarny Ork
+637	Czarny Ork Zwiadowca
+651	Duży Łysy Ork
+652	Duży Łysy Ork Zwiadowca
+653	Duży Łysy Ork Wojownik
+654	Duży Łysy Ork Czarodziej
+655	Duży Łysy Ork Generał
+656	Łysy Czarny Ork
+657	Olbrz. Łysy Czar. Ork
+670	Prehistoric octopus
+671	Underwater devil
+672	Ku'dhul
+673	Dangerous Ku'dhul
+674	Brutal Ku'dhul
+675	Armored giant crab
+676	Ku'thal
+691	Wódz Orków
+692	Elit. Wódz Orków
+693	Przeklęty Wódz Orków 
+694	Przeklęty Szef Orków
+695	Cursed Orc
+696	Przeklęty ork zwiadowca
+697	 Przeklęty Odważny Czarny Ork
+698	Cursed Bold Black Giant Orc
+701	Ezot. Fanatyk
+702	Ezot. Arahan
+703	Ezot. Wojownik Arahan
+704	Wódz Ezot. Arahan
+705	Ezot. Egzekutor
+706	Ezot. Dręczyciel
+707	Ezot. Przyzywacz
+731	Elit. Ezot. Fanatyk
+732	Elit. Ezot. Arahan
+733	Elit. Ezot. Wojownik
+734	Elit. Ezot. Wódz
+735	Elit. Ezot. Egzekutor
+736	Elit. Ezot. Dręczyciel
+737	Elit. Ezot. Przyzywacz
+751	Wysoki Fanatyk
+752	Wysoki Arahan
+753	Wysoki Wojownik Arahan
+754	Wysoki Elit. Arahan
+755	Wysoki Śmiercionośny
+756	Wysoki Dręczyciel
+757	Wysoki Przywoływacz
+760	Krwawy Nosorożec
+761	Amore's Bear
+762	Hate Harpy
+763	Różowy Troll
+764	Young valen. Tree
+765	Drzewo Valentina
+766	Slime
+767	Agresywny Slime
+768	Królowa Slime
+771	Best. Fanatyk
+772	Best. Arahan
+773	Best. Wojow. Arahan
+774	Best. Wódz Arahan
+775	Best. Śmiercionośny
+776	Best. Dręczyciel
+777	Best. Przywoływacz
+791	Ezot. Przyw.
+792	Reinkar. Ezot. Przyw.
+793	Elit. Ezot. Przyw.
+794	Elit. Duch Ezot. Przyw.
+795	Elit. Wojownik
+796	Elit. Ezot. Wojownik
+901	Duch Martwego Ciała
+902	Zarażony Pies
+903	Zarażony Człowiek
+904	Zarażony Miecznik
+905	Zarażony Włócznik
+906	Zarażony Łucznik
+907	Zarażony Przyw.
+931	Zły Duch Martwego Ciała
+932	Zły Zarażony Pies
+933	Zły Zarażony Człowiek
+934	Zły Zarażony Miecznik
+935	Zły Zarażony Włócznik
+936	Zły Zarażony Łucznik
+937	Zły Zarażony Przyw.
+940	Kryształowy Żołnierz
+941	Kryształowy Golem
+942	Kryształowy Tygrys
+943	Kryształowa Bestia
+944	Kryształowy Skorpion
+945	Kryształowe triceratopy
+946	Breed. Crystal Beast
+947	Kryształowy Robak
+948	Kryształowy Smok
+949	Kryształowy dinozaur
+950	Kryształowy smok
+965	Green piranha
+966	Prehistoric piranha
+967	Jellyfish
+969	Bloodthirsty shark
+970	Rainbow shark
+971	Shark monster
+972	Brutal shark beast
+973	Sea star
+974	Underwater frog
+975	Sea beast
+976	Strong sea beast
+977	Sea killer
+978	Strong sea killer
+979	Drunk dead sailor
+980	Haunted sailor
+981	Dead sailor
+982	Underwater pirate
+983	Hammer pirate
+984	Old underwater pirate
+985	Pirate shief
+986	Brutal fish
+987	Pirate sovereign
+988	Brutal pirate shief
+991	Zarażone Jajo
+992	Nosiciel Plagi
+993	Olbrzymi Nosiciel Plagi
+1001	Demon ¯ołnierz
+1002	Demon Łucznik
+1003	Demon Włócznik
+1004	Demon Szaman
+1031	Podły Demon ¯ołnierz
+1032	Podły Demon Łucznik
+1033	Podły Demon Włócznik
+1034	Podły Demon Szaman
+1035	Duch Żalu
+1036	Duch Chaosu
+1037	Podły Demon Przyw.
+1038	Mistrz Czaszk. Miecza
+1039	Latająca Czaszka
+1040	Nieśm. Duch
+1041	Demoniczna Bestia
+1061	Brutalny Demon ¯ołnierz
+1062	Brutalny Demon Łucznik
+1063	Brutalny Demon Włócznik
+1064	Brutalny Demon Szaman
+1065	Brutalny Duch ¯alu
+1066	Brutalny Duch Chaosu
+1067	Brutalny Demon Przyw.
+1068	Duchowy Mistrz Miecza
+1069	Brutalna Lataj. Czaszka
+1070	Nieśm. Duch
+1071	Demoniczna Bestia
+1091	Król Demonów
+1092	Elit. Król Demonów
+1093	Umarły Rozpruwacz
+1094	Elit. Podły Król Demonów
+1095	Niebieska Śmierć
+1096	????
+1101	Zaczarowany Lód
+1102	Lodowy Wieloryb Zab.
+1103	Lodowy Robak
+1104	Lodowy Lew
+1105	MroŸny Lodowy Człowiek
+1106	Yeti
+1107	Lodowy Golem
+1131	Podziemny Kawał Lodu
+1132	Podziemny Lodowy Zabójca
+1133	Podziemny Lodowy Robak
+1134	Podziemny Lodowy Lew
+1135	Podziemny Lod. Człowiek
+1136	Podziemne Yeti
+1137	Podziemny Lodowy Golem
+1151	Lodowy Diabeł
+1152	Rogaty Zab. Wieloryb
+1153	Lodowy Robak
+1154	Seol-Gu
+1155	Lodowy Człowiek
+1156	Lodowy Gigant
+1157	Lodowy Golem
+1171	Wredny Zaczarowany Lód
+1172	Wredny Lod. Wielor. Zab.
+1173	Wredny Lodowy Robak
+1174	Wredny Lodowy Lew
+1175	Wredny Lodowy Człowiek
+1176	Wredny Yeti
+1177	Wredny Lodowy Golem
+1191	Brutalna Lodowa Wiedźma 
+1192	Silna Lodowa WiedŸma
+1301	Drzewny ¯abi ¯ołnierz
+1302	Drzewny ¯abi Przyw.
+1303	Straszydło
+1304	Zjawa ¯ółt. Tygrysa
+1305	Ropuszy Generał
+1306	Elit. Zjawa ¯ółt. Tygr.
+1307	Elit. Zjawa ¯ółt. Tygr.
+1308	Elit. Zjawa ¯ółt. Tygr.
+1309	Elit. Zjawa ¯ółt. Tygr.
+1310	Elit. Zjawa ¯ółt. Tygr.
+1331	Duży Drzewny ¯abi ¯ołn.
+1332	Duży Drzewny ¯abi Przyw.
+1333	Duże Straszydło
+1334	Duża Zjawa ¯ółt. Tygr.
+1335	Zły Ropuszy Generał
+1401	Niszczyciel
+1402	Wojownik z Toporem
+1403	Tysięczny Wojownik
+1501	Skalny Golem
+1502	Kamienny Golem
+1503	Olbrzymi Skalny Golem
+1601	Ogr Wojownik
+1602	Ogr RzeŸnik
+1603	Ogr Szaleniec
+1901	Dziewięć Ogonów
+1902	Elit. Dziewięć Ogonów
+1903	Elit. Dziewięć Ogonów
+1904	Elit. Dziewięć Ogonów
+1905	Elit. Dziewięć Ogonów
+1906	Elit. Dziewięć Ogonów
+2001	Młody Pająk
+2002	Trujący Pająk
+2003	Czerw. Trujący Pająk
+2004	Szpon. Pająk
+2005	Pająk ¯ołnierz
+2031	Młody Trujący Pająk
+2032	Śmiert. Trujący Pająk
+2033	Zły Czerw. Truj. Pająk
+2034	Szpon. Trujący Pająk
+2035	Trujący Pająk ¯ołnierz
+2036	Elit. Truj. Pająk ¯ołn.
+2051	Podły Młody Truj. Pająk
+2052	Podły Śm. Truj. Pająk
+2053	Podły Czerw. Truj. Paj.
+2054	Podły Szpon. Truj. Pająk
+2055	Podły Truj. Pająk ¯ołn.
+2061	Mały Trujący Pająk
+2062	Śmiert. Trujący Pająk
+2063	Czerw. Śmier. Truj. Paj.
+2064	Szpon. Trujący Pająk
+2065	Trujący Pająk ¯ołnierz
+2071	Best. Młody Truj. Pająk
+2072	Best. Śmiert. Truj. Paj.
+2073	Best. Czerw. Truj. Paj.
+2074	Best. Szpon. Truj. Paj.
+2075	Best. Truj. Pająk ¯ołn.
+2076	Best. Silny Truj. Pająk
+2091	Królowa Pająków
+2092	Baronówna Pająków
+2093	Elit. Królowa Pająków
+2094	Król Pająków
+2095	Pajęcze Jajo
+2101	Pustynny Lis
+2102	Pustynne Lataj. Oko
+2103	Król Skorpion
+2104	Młody Człowiek Skorpion
+2105	Skorpion Łucznik
+2106	Wężowy Miecznik
+2107	Wężowy Łucznik
+2108	Pustynny Zawadiaka
+2131	Best. Człowiek Skorpion
+2132	Skorpion Łucznik
+2133	Wężowy Miecznik
+2134	Wężowy Łucznik
+2135	Pustynny Zawadiaka
+2151	Silny Pustynny Lis
+2152	Silny Derwisz
+2153	Silny Król Skorpion
+2154	Silny Człowiek Skorpion
+2155	Silny Skorpion Łucznik
+2156	Silny Wężowy Miecznik
+2157	Silny Wężowy Łucznik
+2158	Silny Pustynny Zawadiaka
+2191	Olbrzymi ¯ółw
+2192	Elit. Olbrzymi ¯ółw
+2201	Sługa Walczącego Tygr.
+2202	Ognisty Duch
+2203	Walczący Tygrys
+2204	Płomień
+2205	Ognisty Wojownik
+2206	Ognisty Król
+2207	Elit. Ognisty Król
+2231	Silny Sługa Walcz. Tygr.
+2232	Silny Ognisty Duch
+2233	Silny Walczący Tygrys
+2234	Silny Płomień
+2235	Silny Ognisty Wojownik
+2291	Czerwony Smok
+2301	Duch Drzewa
+2302	Duch Pniaka
+2303	Driada
+2304	Duch Wierzby
+2305	Złe Drzewo
+2306	Olbrzymi Duch Drzewa
+2307	Władca Duchów Drzew
+2311	Czerw. Duch Drzewa
+2312	Czerw. Duch Pniaka
+2313	Czerwona Driada
+2314	Czerw. Duch Wierzby
+2315	Czerwone Złe Drzewo
+2401	Wojownik Setaou
+2402	Łowca Setaou
+2403	Mistyk Setaou
+2404	Lider Setaou
+2411	¯ołnierz Setaou
+2412	Łucznik Setaou
+2413	Magistrat Setaou
+2414	Komendant Setaou
+2415	Komendant Setaou
+2431	????
+2432	????
+2433	test
+2434	????
+2451	?????
+2452	?????
+2453	?????
+2454	?????
+2491	Dowódca Yonghan
+2492	Generał Yonghan
+2493	Beran-Setaou
+2494	Dowódca Huashin
+2495	Generał Huashin
+2501	Piekielna Meduza
+2502	Piekielny Pies
+2503	Zombie
+2504	Piekielny Oficer
+2505	Piekielny Stróż
+2506	Dwugłowy Strzelec
+2507	Piekielny Kleszcz
+2508	Piekielny Wojownik
+2509	Piekielny Strzelec
+2510	Piekielny Włócznik
+2511	Piekielny Kapłan
+2512	Piekielny Major
+2513	Piekielny RzeŸnik
+2514	Piekielny Generał
+2541	Zły Piekielny Wojownik
+2542	Zły Piekielny Strzelec
+2543	Zły Piekielny Włócznik
+2544	Zły Piekielny Kapłan
+2545	Zły Piekielny Major
+2546	Zły Piekielny RzeŸnik
+2547	Zły Piekielny Generał
+2591	Tartar
+2592	Piekielny Bastard
+2593	Piekielny Bastard
+2594	Piekielny Bastard
+2595	Ereb
+2596	Motłoch Azraela
+2597	Charon
+2598	Azrael
+3001	Gnoll Wojownik
+3002	Gnoll Łucznik
+3003	Gnoll Obrońca
+3004	Gnoll Mag
+3005	Gnoll Generał
+3090	Gnoll Lord
+3091	Główny Gnoll Strażnik
+3101	Jednooki Zabijaka
+3102	Cyklop ¯ołnierz
+3103	Cyklop Mag
+3104	Cyklop Kat
+3105	Generał Outis
+3190	Arges
+3191	Polifem
+3201	Mantykora Wojownik
+3202	Mantykora ¯ołnierz
+3203	Mantykora Mag
+3204	Mantykora Kat
+3205	Generał Kor
+3290	Rakszas
+3291	Martyaxwar
+3301	Lemur Wojownik
+3302	Lemur ¯ołnierz
+3303	Lemur Mag
+3304	Lemur Kat
+3305	Lemur Generał
+3390	Lemur Hrabia
+3391	Straż Przyboczna Lemur
+3401	Trytońska Murena
+3402	¯ołnierz Shark
+3403	Trytoński Mag
+3404	Trytoński Łowca
+3405	Trytoński Rozpruwacz
+3490	Generał Kappa
+3491	Tryton
+3501	Czerwona Amazonka
+3502	Czerwony Asasyn
+3503	Czerwony Mag
+3504	Czerwony Kat
+3505	Czarny Generał
+3551	Brutalna Czerw. Amazonka
+3552	Brutalny Czerw. Asasyn
+3553	Brutalny Czerw. Mag
+3554	Brutalny Czerw. Kat
+3555	Biały Generał
+3590	Trupia Twarz
+3591	Czerwony Wódz
+3595	Brutalna Trupia Twarz
+3596	Brutalny Czerwony Wódz
+3601	Krab Wojownik
+3602	Kleszczo-Łucznik
+3603	¯ołnierz Shrimp
+3604	Diabelski Pustelnik
+3605	Krab Pancerny
+3690	Generał Lobster
+3691	Król Krabbs
+3701	Gigantyczny Zgryzacz
+3702	Gigant Oprawca
+3703	Gigant Mag
+3704	Dwigant
+3705	Kapitan Haak
+3790	Gargulec
+3791	Król Wobba
+3801	Katogr
+3802	Ogr Łucznik
+3803	Ogr Bojowy
+3804	Ogr Mag
+3805	Generał Ogg
+3890	Kapitan Shrack
+3891	Ogr Maximus
+3901	Wierzbolud
+3902	Eoten
+3903	Skouman
+3904	Kapitan Haak
+3905	Mu-Shu
+3906	Yah-Ki
+3907	Moghu
+3908	Carnifex
+3909	Generał Albus
+3910	Szkieletor
+3911	Aku-Boku
+3912	Arboretum
+3913	Sycomor
+3949	Portal: Nowy Kontynent
+3950	Kappa
+3951	Lagoon Kappa
+3952	Głębokie Morze kappa
+3953	Kappa leader
+3954	Moray soldier
+3955	Murena Wojownik Głębin
+3956	Siren Queen
+3957	Hydras Crude
+3958	Hydras Crude
+3959	Hydras Crude
+3960	Hydra
+3961	Hydra
+3962	Hydra
+3963	Hydra
+3964	Hydra
+3965	Skarb Hydry
+3971	Strażnik Labiryntu 
+3980	Mistrz Ebros
+3981	Mistrz Aemon
+4012	Blue coral creature
+4013	Red coral creature
+4014	Toxic coral creature
+4015	Beach lobster
+4016	Forest lobster
+4017	Ocean lobster
+4018	Deep water ogre
+4019	Ocean naga
+4020	Jungle lizard
+4021	Water nightmare
+4022	Brutal water nightmare
+4023	Deep ocean creature
+4024	King of oceans
+5001	Pirat Tanaka
+5002	Hae-Tae
+5003	Małpa
+5004	Pirat Tanaka
+5101	Słaby Małpi ¯ołnierz
+5102	Słaby Małpi Miotacz
+5103	Słaby Małpi Wojownik
+5104	Słaby Małpi Generał
+5111	Małpi ¯ołnierz
+5112	Małpi Miotacz
+5113	Małpi Wojownik
+5114	Małpi Generał
+5115	Kamienna Małpa
+5116	Przyw. Małp
+5121	Silny Małpi ¯ołnierz
+5122	Silny Małpi Miotacz
+5123	Silny Małpi Wojownik
+5124	Silny Małpi Generał
+5125	Silna Kamienna Małpa
+5126	Silna Złota Małpa
+5127	Silny Przyw. Małp
+5131	Mądry M. Małpi ¯ołnierz
+5132	Mądry M. Małpi Miotacz
+5133	Mądry M. Małpi Wojownik
+5134	Mądry M. Małpi Generał
+5141	Mądry Małpi ¯ołnierz
+5142	Mądry Małpi Miotacz
+5143	Mądry Małpi Wojownik
+5144	Mądry Małpi Generał
+5145	Mądra Kam. Małpa
+5146	Mądry Małpi Przyw.
+5151	Zły Sil. Małpi ¯ołnierz
+5152	Zły Silny Małpi Miotacz
+5153	Zły Sil. Małpi Wojownik
+5154	Zły Silny Małpi Generał
+5155	Zła Silna Kam. Małpa
+5156	Zła Silna Złota Małpa
+5157	Zły Silny Małpi Przyw.
+5161	Skalista Małpa
+5162	Chodząca Małpa
+5163	Lord Małp
+5201	Dziki Pies
+5202	Dzik
+5203	Czerwony Dzik
+5204	NiedŸwiedŸ
+5205	Brązowy NiedŸwiedŸ
+5206	NiedŸwiedŸ Czarny
+5207	Głodny Brąz. NiedŸwiedŸ
+5208	Tygrys
+5209	Biały Tygrys
+6001	Ognisty Duch ¯aru
+6002	Ognisty Tygrys ¯aru
+6003	Płomień ¯aru
+6004	Ognisty Wojownik ¯aru
+6005	Ognisty Król ¯aru
+6006	Troll Żaru
+6007	Ognista Broda ¯aru
+6008	Ognisty Generał ¯aru
+6009	Ognisty Książę ¯aru
+6051	Ignator
+6091	Razador
+6101	Kryształ Mrozu
+6102	MroŸny Robak
+6103	MroŸny Człowiek
+6104	MroŸny Yeti
+6105	MroŸny Golem
+6106	MroŸny Troll
+6107	MroŸna Broda
+6108	MroŸny Generał
+6109	MroŸny Książę
+6110	Magmowy Yeti
+6111	Magmowy golem
+6112	Magmowy Insekt
+6113	Magmowy Człowiek
+6114	Magmowy Kryształ
+6115	Magmowa wywerna
+6116	Strażnik Smoków Idall
+6117	Sługus Idalla
+6118	Smocza statua
+6151	Szel
+6191	Nemere
+6192	Jotun Thrym
+6193	Królowa Smoków Meley
+6201	Magmowy Yeti
+6202	Golem Lawy
+6203	Magmowy Insekt
+6204	Magmowy Człowiek
+6205	Magmowy Kryształ
+6206	Magmowa wywerna
+6207	Strażnik Smoków Idall
+6209	Smocza Statua
+6301	Wojownik Ochao
+6302	¯ołnierz Ochao
+6303	Mag Ochao
+6304	Kat Ochao
+6305	Generał Ochao
+6306	Silny Wojownik Ochao
+6307	Silny ¯ołnierz Ochao
+6308	Silny Mag Ochao
+6309	Silny Kat Ochao
+6310	Silny Generał Ochao
+6320	Wojownik Cienia
+6321	Bagjanamu
+6322	Brutalny Wojownik Cienia 
+6391	Książę Ochao
+6392	Goryl Ochao
+6393	Silny Książę Ochao
+6394	Silny Goryl Ochao
+6401	Wojownik En-Tai
+6402	Bojownik En-Tai
+6403	Druid En-Tai
+6404	Uzdrowiciel En-Tai
+6405	Strażnik En-Tai
+6406	Niszczyciel En-Tai
+6407	Władca En-Tai
+6408	Władca Cienia En-Tai
+6409	Uzdrowiciel Ochao
+6410	Silny Wojownik En-Tai
+6411	Silny Bojownik En-Tai
+6412	Silny Druid En-Tai
+6413	Silny Uzdrowiciel En-Tai
+6414	Silny Niszczyciel En-Tai
+6415	Wydarzenie Beran-Setaou
+6416	Wydarzenie Nemere
+6417	Event Razador
+6418	Eventowy Jotun Thrym
+6419	Zefir
+6420	Zephyr Imperial
+6421	Zefir Zodiak
+6422	Lup
+6423	Lup Imperial
+6424	Lup Zodiaku
+6425	Zyong
+6426	Imperator Zyong
+6427	Zyong Zodiaku 
+6428	Centaur
+6429	Imperialny Centaur
+6430	Centaur Zodiaku
+6431	Ellyos
+6432	Ellyos Imperial
+6433	Ellyos Zodiaku
+6434	Gardian Dragon
+6435	Gardian Dragon Imperial
+6436	Gardian Dragon Zodiac
+6437	Satan
+6438	Satan Imperial
+6439	Satan Zodiac
+6440	Condor
+6441	Condor Imperial
+6442	Condor Zodiac
+6443	Zeul Yin
+6444	Zeul Yin Zodiaku 
+6445	Zeita Si
+6446	Zeita Si Zodiaku
+6447	Garda Lui Baashido
+6448	Zeul Wei Zodiaku
+6449	Zeita Mao
+6450	Zeita Mao Zodiaku
+6451	Zeul Hai
+6452	Zeul Hai Zodiaku
+6453	Zeul Zi
+6454	Zeul Zi Zodiaku
+6455	Zeul Shen
+6456	Zodiak Zeul Shen
+6457	Zeul Wu
+6458	Zeul Wy Zodiaku
+6459	Zeul Chen
+6460	Zeul Chen Zodiaku 
+6461	Zeul Xu
+6462	Zeul Xu Zodiaku 
+6463	Zeul Chou
+6464	Zeul Chou Zodiaku
+6465	Zeul You
+6466	Zeul You Zodiaku
+6467	Wilk Zodiaku
+6468	Niebieski Wilk Zodiaku
+6469	Lykos Zodiaku
+6470	Dzik Zodiaku
+6471	Red Zodiac Wild Boar
+6472	Mi-Jung Zodiaku
+6473	Bera Zodiaku
+6474	Niedźwiedź Zodiaku
+6475	Niedźwiedź Grizzly Zodiaku 
+6476	Brązowy Niedźwiedź Zodiaku
+6477	Eun-Jung Zodiaku
+6478	Tygrys Zodiaku
+6479	Tygrys Zodiaku
+6480	Biały Tygrys Zodiaku 
+6481	Zodiac Jin-Hee
+6482	Młody Pająk Zodiaku
+6483	Szpon Pająk Zodiaku
+6484	Bestialski Kapitan Zodiaku
+6485	Zodiac Ice Bug
+6486	Lodowy Lew Zodiaku
+6487	Mroźny Człowiek Zodiaku
+6488	Yeti Zodiaku
+6489	Lodowy Golem Zodiaku
+6490	Król Skorpion Zodiaku
+6491	Wężowy Miecznik Zodiaku
+6492	Wężowy Łucznik Zodiaku
+6493	Zodiac Desert Outlaw
+6494	Żabi Drzewny Żołnierz Zodiaku
+6495	Drzewny Żabi Przywódca
+6496	Elitarny Ork Zodiaku
+6497	 Elitarny Zwiadowca Orków Zodiaku
+6499	Elitarny Ork Czarodziej Zodiaku
+6501	Tellios
+6502	Imperialny Teliios
+6503	Tellios Zodiac
+6504	Om de Fier 
+6505	Om de Fier Imperial
+6506	Om de Fier Zodiaku 
+6507	Ork
+6508	Imperialny Ork
+6509	Zodiakowy Ork
+6510	Tajfun
+6511	Typhoon Imperial
+6512	Typhoon Zodiac
+6513	Czarny Ork Zodiaku
+6514	Olbrzymi Czarny Ork Zodiaku
+6515	Walczący Tygrys Zodiaku
+6516	Ognisty Duch Zodiaku
+6517	Płomień Zodiaku
+6518	Zodiac Flame Warrior
+6519	Ognisty Król Zodiaku
+6520	Metin of the Rat
+6521	Metin of the Ox
+6522	Metin Tygrysa
+6523	Metin Smoka
+6524	Wężowy Metin
+6525	Metin Konia
+6526	Metin Kozy
+6527	Metin Małp
+6528	Metin Psa
+6529	Armata
+6530	Armata
+6531	Handlarz Zodiaku
+6532	Yin
+6534	Wei
+6535	Mao
+6536	Hai
+6538	Shen
+6540	Chen 
+6542	Chou
+6543	Ty
+7001	Goryli ¯ołnierz
+7002	Goryli JeŸdziec
+7003	Gimu Małpi ¯ołnierz
+7004	Małpi Dowódca
+7005	Kam. Goryl
+7006	Złoty Goryl
+7007	Goryl Generał
+7008	Robotnik Tu-Gui
+7009	¯ołnierz Tu-Gui
+7010	Biały Komandor Tu-Gui
+7012	Bi-Ma-Gui-An
+7013	Król Skorpion
+7014	Mądry Człowiek Skorpion
+7015	Skorpion Łucznik
+7016	Wężowy Wojownik Miecza
+7017	Wężowy Łucznik
+7018	Pustynny Zawadiaka
+7019	¯ołnierz Tu-ji
+7020	Hwa-ryung
+7021	Tu-Ji Bum
+7022	Cham-Ma
+7023	Teawha-Mu
+7024	Juk-gui
+7025	Dung-Juk
+7026	Juk-Mok
+7027	Hwaryu Juk
+7028	Czarny Juk-Guimok
+7029	Lodowy Diabeł
+7030	Rogaty Zab. Wieloryb
+7031	Lodowy Robak
+7032	Seol-Gu
+7033	Lodowy Człowiek
+7034	Lodowy Gigant
+7035	Lodowy Golem
+7036	Lodowy Diabeł
+7037	Rogaty Zab. Wieloryb
+7038	Lodowy Robak
+7039	Seol-Gu
+7040	Lodowy Człowiek
+7041	Lodowy Gigant
+7042	Lodowy Golem
+7043	Lodowy Diabeł
+7044	Rogaty Zab. Wieloryb
+7045	Lodowy Robak
+7046	Seol-Gu
+7047	Lodowy Człowiek
+7048	Lodowy Gigant
+7049	Lodowy Golem
+7050	Pustynne Lataj. Oko
+7051	Król Skorpion
+7052	Młody Człowiek Skorpion
+7053	Skorpion Łucznik
+7054	Wężowy Miecznik
+7055	Wężowy Łucznik
+7056	Pustynny Zawadiaka
+7057	Pustynne Lataj. Oko
+7058	Król Skorpion
+7059	Młody Człowiek Skorpion
+7060	Skorpion Łucznik
+7061	Wężowy Miecznik
+7062	Wężowy Łucznik
+7063	Pustynny Zawadiaka
+7064	Pustynne Lataj. Oko
+7065	Król Skorpion
+7066	Młody Człowiek Skorpion
+7067	Skorpion Łucznik
+7068	Wężowy Miecznik
+7069	Wężowy Łucznik
+7070	Pustynny Zawadiaka
+7071	Sługa Walczącego Tygr.
+7072	Duch Płomienia
+7073	Walczące Tygrysy
+7074	Ogień
+7075	Ognisty Wojownik
+7076	Sługa Walczącego Tygr.
+7077	Duch Płomienia
+7078	Walczące Tygrysy
+7079	Ogień
+7080	Ognisty Wojownik
+7081	Sługa Walczącego Tygr.
+7082	Duch Płomienia
+7083	Walczące Tygrysy
+7084	Ogień
+7085	Ognisty Wojownik
+7086	Duch Pniaka
+7087	Driada
+7088	Duch Wierzby
+7089	Złe Drzewo
+7090	Duch Pniaka
+7091	Driada
+7092	Duch Wierzby
+7093	Złe Drzewo
+7094	Duch Pniaka
+7095	Driada
+7096	Duch Wierzby
+7101	Działo
+7102	Działo
+7103	Arrowtide Balista
+7104	Arrowtide Balista
+7105	Wieża
+7106	Serce
+7107	Serce
+7108	Serce
+7109	Serce
+7110	Serce
+7111	Serce
+7112	Serce
+7113	Cheeta
+7114	Kraton
+7115	Charly
+7116	Nini
+7117	Zulu
+7118	Małpi wojownik Deka
+7119	Małpi Żołnierz Oba
+7120	Król Keung
+7121	Kiros
+7122	Manchu
+7123	Sgok
+7124	Indrik
+8001	Metin Cierpienia
+8002	Metin Walki
+8003	Metin Bitwy
+8004	Metin Chciwości
+8005	Metin Czerni
+8006	Metin Ciemności
+8007	Metin Zazdrości
+8008	Metin Duszy
+8009	Metin Cienia
+8010	Metin Twardości
+8011	Metin Diabła
+8012	Metin Upadku
+8013	Metin Śmierci
+8014	Metin Morderstwa
+8015	Metin Twardości
+8016	Metin Diabła
+8017	Metin Upadku
+8018	Metin Śmierci
+8019	Metin Morderstwa
+8020	Kamień Shinsoo
+8021	Kamień Jinno
+8022	Kamień Chunjo
+8023	Kamień Imperialny
+8024	Metin Pung-Ma
+8025	Metin Ma-An
+8026	Metin Tu-Young
+8027	Metin Jeon-Un
+8031	Metin Góry
+8032	Metin Zemsty
+8033	Metin Samotności
+8034	Metin Pychy
+8035	Metin Zbawienia
+8036	Metin Zdrady
+8037	Metin Rozgoryczenia
+8038	Metin Odwetu
+8039	Metin Pychy
+8040	Metin Zawiści
+8041	Wielkanocny Metin
+8042	Wielkanocny Metin
+8043	Wielkanocny Metin
+8044	Wielkanocny Metin
+8045	Wielkanocny Metin
+8046	Wielkanocny Metin
+8047	Wielkanocny Metin
+8048	Wielkanocny Metin
+8049	Wielkanocny Metin
+8050	Wielkanocny Metin
+8051	Metin Mroku
+8052	Metin ¯aru
+8053	Metin Próżności
+8054	Metin Gniewu
+8055	Metin Nieszczęścia
+8056	Metin Podłości
+8057	Metin Purgatorium
+8058	Metin Chłodu
+8059	Metin Drzewnych Stworzeń
+8060	Dyniowy Metin
+8061	Metin Lasu
+8085	Metin Małp
+8101	Metin Cierpienia
+8102	Metin Walki
+8103	Metin Bitwy
+8104	Metin Chciwości
+8105	Metin Czerni
+8106	Metin Ciemności
+8107	Metin Zazdrości
+8108	Metin Duszy
+8109	Metin Cienia
+8110	Metin Twardości
+8111	Metin Diabła
+8112	Metin Upadku
+8113	Metin Śmierci
+8114	Metin Morderstwa
+8115	Metin Księżyca
+8200	Czekoladowy Kamień Metin
+8201	Czekoladowy Kamień Metin
+8203	Metin of Enlightenment
+8411	Metin Krwi
+8412	Metin Podziemi
+8413	Metin Podziemi
+8414	Metin Krwawej Zemsty
+8416	Underwater metin
+8417	Pirate metin
+8418	Underwater egg
+8421	Giant shell
+8428	Metin Miłości
+8429	Czekolada
+8430	Metin Slime
+8431	Kamień Ogrodu
+8432	Plant stone
+8433	Zły Kamień Ogrodu
+8441	Beach metin
+8442	Ocean metin
+8443	Jungle totem
+8501	Dziki Pies
+8502	Dzik
+8503	NiedŸwiedŸ
+8504	Biały Tygrys
+8505	Czar. Olbrzymi Ork
+8506	Drzewny ¯abi Przyw.
+8507	Pustynny Zawadiaka
+8508	Ezot. Dręczyciel
+8509	Ezot. Przyzywacz
+8510	Ognisty Wojownik
+8511	Lodowy Golem
+8600	?????
+8601	?????
+8602	?????
+8603	?????
+8604	????
+8605	????
+8606	??
+8607	??
+8608	test
+8609	test
+8610	test
+8611	test
+8612	????
+8613	????
+8614	??????
+8615	??????
+8616	Billy Loomis
+8617	Jack Torrance
+8618	Chucky
+8619	Zep Hindle
+8620	Jason
+8621	Michael Myers
+8622	Freddy Krüger
+8623	Skórzana Twarz
+9001	Handlarz Bronią
+9002	Handlarz Zbrojami
+9003	Handlarka Różności
+9004	Pomocnik Zdarzeń
+9005	Dozorca
+9006	Starsza Pani
+9007	Handlarz Bronią
+9008	Handlarz Zbrojami
+9009	Rybak
+9010	Helen Z Magazynu
+9011	Valentinshändlerin
+9012	Teleporter
+9139	Vinh-Moc
+9140	Zekrom
+9141	Gabriel
+9142	Lucyfer
+9210	Kryształowy monument
+9212	Kryształowa Pieczęć
+9214	Strażnik Kryształowej Jaskinii
+9215	Rybak
+9229	Pani Walentynka 
+9230	Żyła Rodonitu
+9231	Monument Miłości
+9232	Rodonit
+9233	Pani Walentynka 
+9234	Nieznane ziele
+9235	Driada
+9236	Thu-Rang
+9237	Kamień Otwarcia
+9238	Slime
+9239	Vinh-Moc
+9240	Zekrom
+9241	Gabriel
+9242	Lucyfer
+9262	Pirate lady
+9263	Fossils
+9264	Bomb box
+9265	Menhir
+9266	Shell totem
+9439	Drzwi ogrodowe
+9441	Botani
+9442	Stare pudełko 
+9443	Zaczarowana fontanna
+9444	Zatruty Botani
+9445	Grzyby 
+9446	Honey hive
+9460	Ogrodowy Wilk
+9461	Bee worker
+9462	Bee warrior
+9463	Głodna roślina 
+9464	Mięsnożerna roślina
+9465	Korzenny Stwór
+9466	Żołnierz ogrodu
+9467	Garden general 
+9468	Zła roślina 
+9469	Wielka roślina 
+9470	Zła Wielka Roślina 
+9471	Raguwan
+9472	Garden Tyrant
+9473	Mięsnożerna roślina
+9474	Korzenny Stwór
+9475	Żołnierz ogrodu
+9476	Garden general
+9477	Brut. carnivorous plant
+9478	Brutalna Korzenista Istota
+9479	Brut. garden soldier
+9480	Brut. garden general
+9481	Zainfekowane pszczoły
+10001	Obszar_Yayang 4002 8995
+10002	Obszar_Youngan 4503 9050
+10003	Obszar_Bokjung 1118 2161
+10004	Obszar_Joan 876 2131
+10005	Obszar_Bakra 9064 2214
+10006	Obszar_Pyungmo 9372 2188
+10007	Obszar_Youngan 4188 9560
+10008	Obszar_Yayang 3179 8332
+10009	Obszar_Joan 897 1127
+10010	Obszar_Bokjun 1759 2210
+10011	Obszar_Pyungmo 9343 3143
+10012	Obszar_Bakra 8348 2926
+10013	Świąt._Hwang 5536 1441
+10014	Seungryong 3326 7468
+10015	Pust._Yongbi 3467 6329
+10016	Kuahlo_Dong 600 4960
+10017	Świąt._Hwang 5906 1102
+10018	Wieża_Gumsan 2165 7270
+10019	Obszar_Yayang 3211 9009
+10020	Jungrang 1356 43
+10021	Obszar_Bokjun 1168 2920
+10022	Waryong 2219 93
+10023	Obszar_Bakra 9098 2948
+10024	Imha 2718 130
+10025	Góra_Sohan 4993 2984
+10026	Lungsam 2887 57
+10027	Lungsam 2866 437
+10028	Czerw._Las 11199 708
+10029	Wężowe_Pole 10590 7262
+10030	Pust._Yongbi 3519 6223
+10031	Wężowe_Pole 10590 7262
+10032	KrainaGigantów 8283 7635
+10033	Zin-Grotto 10594 7525
+10034	2_Zin-Grotto 10594 7525
+10035	Deon-Zeon 917 5253
+10036	2_Deon-Zeon 7041 4642
+10037	??? 3809 8233
+10038	??? 9752 1330
+10039	??? 1917 2900
+10040	??? 9239 1836
+10041	??? 8316 2154
+10042	??? 9772 1850
+10043	??? 3819 2969
+10044	??? 10189 1484
+10045	??? 3819 2969
+10046	??? 9774 1501
+10047	??? 2699 6752
+10048	??? 9679 1994
+10049	??? 2699 6752
+10050	??? 9256 2012
+10051	???? 3478 6189
+10052	??? 9780 1995
+10053	???? 3478 6189
+10054	??? 10190 2002
+10055	???? 6011 6874
+10056	??? 4368 2158
+10057	??? 3355 7558
+10058	???? 5943 1337
+10059	???1 0 10496
+10060	????1 1536 10496
+10061	????1 4608 10496
+10062	???1 6144 10496
+10063	??? 3031 266
+10064	???? 11133 534
+10065	???? 7754 10553
+10066	????? 9915 11195
+10067	Loch_Małp 7752 4477
+10068	Obszar_Yayang 4062 8756
+10069	Loch_Małp 8520 4477
+10070	Obszar_Bokjung 1611 2130
+10071	Loch_Małp 9288 4477
+10072	Obszar_Bakra 8727 2100
+10073	Pust._Yongbi 3061 6202
+10074	Loch_Małp 1352 6532
+10075	Pust._Yongbi 2879 5407
+10076	Loch_Małp 1352 7300
+10077	????1? 9 12078
+10078	??? 2842 8106
+10079	Grotto1 1459 13236
+10080	Grotte2 2413 12755
+10081	????1? 99 13618
+10082	???? 5028 9998
+10083	????1? 1360 14972
+10084	????2? 2414 14289
+10085	????1? 99 15154
+10086	???? 616 1148
+10087	????1? 1360 16508
+10088	????2? 2414 15825
+10089	????1? 99 16690
+10090	???? 9609 3188
+10091	????1? 1360 18044
+10092	????2? 2414 17361
+10093	Smocza_Brama 1731 12205
+10094	Smocza_Brama 1733 13743
+10095	Smocza_Brama 1728 15277
+10096	Smocza_Brama 1724 16824
+10097	SD2 7040 5235
+10098	SD3 984 5711
+10099	Przylądek 11043 17885
+10100	Przylądek 10963 16744
+10101	Nefr.Zatoka 10869 16558
+10102	Przylądek 11664 16779
+10103	GromisteGóry 11345 16546
+10104	Grom.Góry 11921 16550
+10105	Gautama 12263 16811
+10106	test
+10501	. 345 361
+10502	. 106 547
+10503	. 75 368
+10504	. 89 746
+10505	. 520 352
+10506	. 541 45
+10507	. 211 109
+10508	. 615 49
+10509	. 284 705
+10510	. 145 310
+10511	. 553 285
+10512	. 487 274
+10513	. 626 291
+10514	. 285 569
+10515	. 80 303
+10516	. 315 238
+10517	. 416 272
+10518	. 72 498
+10519	. 215 495
+10520	. 523 415
+10521	. 72 498
+10522	. 518 480
+10523	. 583 379
+10524	. 459 558
+10601	. 345 361
+10602	. 520 352
+10603	. 487 274
+10604	. 75 368
+10605	. 211 109
+10606	. 215 495
+10607	. 315 238
+10608	. 520 352
+10609	. 284 705
+10610	. 145 310
+10611	. 416 272
+10612	. 80 303
+10613	. 72 498
+10614	. 106 547
+10615	. 523 415
+10616	. 541 45
+10617	. 72 121
+10618	. 518 480
+10619	. 89 746
+10620	. 285 569
+10621	. 615 49
+10622	. 72 498
+10623	. 583 379
+10624	. 459 558
+10625	. 609 553
+10626	. 594 338
+10701	. 75 368
+10702	. 541 45
+10703	. 615 49
+10704	. 284 705
+10705	. 520 352
+10706	. 553 285
+10707	. 145 310
+10708	. 345 361
+10709	. 523 415
+10710	. 72 498
+10711	. 626 291
+10712	. 487 274
+10713	. 72 498
+10714	. 106 547
+10715	. 518 480
+10716	. 285 569
+10717	. 80 303
+10718	. 211 109
+10719	. 416 272
+10720	. 215 495
+10721	. 315 238
+10722	. 89 746
+10723	. 583 379
+10724	. 459 558
+10725	. 609 553
+10726	. 594 338
+10801	. 70 581
+10802	. 69 664
+10803	. 132 660
+10804	. 184 566
+10805	. 285 567
+10806	. 272 636
+10807	. 191 667
+10808	. 345 563
+10809	. 400 570
+10810	. 68 806
+10811	. 140 811
+10812	. 189 722
+10813	. 274 722
+10814	.233 780
+10815	. 318 780
+10816	. 273 833
+10817	.356 717
+10818	.412 712
+10819	. 372 776
+10820	. 354 840
+10821	. 366 817
+10822	. 420 841
+10823	. 94 846
+10824	. 63 864
+10825	. 131 866
+10826	. 59 920
+10827	. 91 940
+10828	. 135 919
+10829	. 194 870
+10830	. 243 862
+10831	. 312 861
+10832	. 373 893
+10833	. 406 880
+10834	. 422 935
+10835	. 500 807
+11000	Strażnik Wsi
+11001	Egzekutor Bitewny
+11002	Strażnik Wsi
+11003	Egzekutor Bitewny
+11004	Strażnik Wsi
+11005	Egzekutor Bitewny
+11100	Strażnik Wsi
+11101	Egzekutor Bitewny
+11102	Strażnik Wsi
+11103	Egzekutor Bitewny
+11104	Strażnik Wsi
+11105	Egzekutor Bitewny
+11106	???
+11107	???
+11108	???
+11109	???
+11110	???
+11111	???
+11112	???
+11113	???
+11114	???
+11115	???
+11116	???
+11117	???
+11505	Złota ¯aba
+11506	??
+11507	??
+11508	??
+11509	??
+11510	??
+12000	Ognisko Obozowe
+13000	Drewniana Brama
+13001	Kamienna Brama
+14000	Warsztat
+14001	Warsztat
+14002	Warsztat
+14003	Warsztat
+14004	Warsztat
+14005	Warsztat
+14006	Warsztat
+14007	Warsztat
+14008	Warsztat
+14009	Warsztat
+14010	Ołtarz
+14011	Ołtarz
+14012	Ołtarz
+14013	Ołtarz
+14014	Ołtarz
+14015	Ołtarz
+14016	Ołtarz
+14017	Ołtarz
+14018	Ołtarz
+14019	Ołtarz
+14020	Kwatera Dowództwa
+14021	Kwatera Dowództwa
+14022	Kwatera Dowództwa
+14023	Kwatera Dowództwa
+14024	Kwatera Dowództwa
+14025	Kwatera Dowództwa
+14026	Kwatera Dowództwa
+14027	Kwatera Dowództwa
+14028	Kwatera Dowództwa
+14029	Kwatera Dowództwa
+14030	Obóz Treningowy
+14031	Obóz Treningowy
+14032	Obóz Treningowy
+14033	Obóz Treningowy
+14034	Obóz Treningowy
+14035	Obóz Treningowy
+14036	Obóz Treningowy
+14037	Obóz Treningowy
+14038	Obóz Treningowy
+14039	Obóz Treningowy
+14040	Piec
+14041	Piec
+14042	Piec
+14043	Piec
+14044	Piec
+14045	Piec
+14046	Piec
+14047	Piec
+14048	Piec
+14049	Piec
+20001	Alchemik
+20002	Aranyo
+20003	Ah-Yu
+20004	¯ebrak
+20005	Yonah
+20006	Mirine
+20007	Dozorca
+20008	Octavio
+20009	Staruszek
+20010	Domokrążca
+20011	Uriel
+20012	Yu-Rang
+20013	Rybak
+20014	Taurean
+20015	Deokbae
+20016	Kowal
+20017	Yu-Hwan
+20018	Baek-Go
+20019	Yang-Shin
+20020	Zdrajca Balso
+20021	Ariyoung
+20022	Huahn-So
+20023	Soon
+20024	Harang
+20026	Ji-Ryu
+20027	Gillian
+20028	Brat Mirine
+20029	Kucyk
+20030	Koń
+20031	Święty Mikołaj
+20032	Świąteczna Choinka
+20033	Świąteczna Choinka
+20034	Świąteczna Choinka
+20035	Flaga
+20036	Flaga
+20037	Flaga
+20038	..
+20040	Agent Lądowy
+20041	NiepokaŸny Pieszy
+20042	Wędrujący Domokrążca
+20044	Stanley-Brońmistrz
+20045	Stanton-Płatnerz
+20046	Starbuck-Jubiler
+20047	¯yła Diamentu
+20048	¯yła Bursztynu
+20049	¯yła Skamieniał. Drzewa
+20050	¯yła Miedzi
+20051	¯yła Srebra
+20052	¯yła Złota
+20053	¯yła Jadeitu
+20054	¯yła Ebonitu
+20055	Sterta Muszli
+20056	¯yła Białego Złota
+20057	¯yła Kryształu
+20058	¯yła Ametystu
+20059	¯yła Niebiańskich Łez
+20060	Diamentowy Alchemik
+20061	Bursztynowy Alchemik
+20062	Drewniany Alch. Kopalny
+20063	Miedziany Alchemik
+20064	Srebrny Alchemik
+20065	Złoty Alchem.
+20066	Jadeitowy Alchemik
+20067	Earl-Ebonitowy Alchemik
+20068	Shellby-Perłowy Alchemik
+20069	Alchemik Białego Złota
+20070	Kryształowy Alchemik
+20071	Ametystowy Alchemik
+20072	Alchemik Nieb. Łez
+20073	Starożytna Pieczęć
+20074	Brońmistrz Wieży Demon.
+20075	Płatnerz Wieży Demonów
+20076	Jubiler Wieży Demonów
+20077	Strażnik Ołtarza
+20078	Strażnik Ołtarza
+20079	Strażnik Ołtarza
+20080	Przyw. Treningu
+20081	Skradz. Pieczęć Przejśc.
+20082	Mistrz
+20083	Jegal-Tunseok
+20084	Biolog Chaegirab
+20085	Jimjunja
+20086	Handu-Up
+20087	Wonda-Rim
+20088	Chuk-Sal
+20089	Pung-Ho
+20090	Heuk-Young
+20091	Seon-Pyeong
+20092	Hwa-Hee
+20093	Koe-Pung
+20094	Hong-Hae
+20095	Seon-Hae
+20096	??? ???
+20097	Brama Zamku
+20098	Brama Zamku
+20099	Brama Zamku
+20100	Orkowa Pieczęć 
+20101	Biały Koń
+20102	Brąz. Koń
+20103	Czar. Koń
+20104	Biały Koń
+20105	Brąz. Koń
+20106	Czar. Koń
+20107	Biały Koń
+20108	Brąz. Koń
+20109	Czar. Koń
+20110	Dzik
+20111	Wilk
+20112	Tygrys
+20113	Lew
+20114	white lion
+20115	Dzik Wojenny
+20116	Wilk Wojenny
+20117	Szarżujący Tygrys
+20118	Waleczny Lew
+20119	Elit. Czarny Koń
+20120	?????
+20121	?????
+20122	?????
+20123	?????
+20124	?????
+20125	?????
+20126	Święty Mikołaj
+20127	Rocznicowy baner 1
+20128	Baner rocznicowy 2
+20129	Rocznicowy Baner 3
+20130	Anniversary Banner 4
+20131	Anniversary Banner 5
+20132	Rocznicowy Baner 6
+20133	Rocznicowy Banner 7
+20134	Słoneczny sztandar
+20138	Ramadan banner
+20139	Baner gildii (fioletowy)
+20140	Guild Banner (Blue/Gr.)
+20141	Baner gildii (Czerwony/Złoty)
+20143	Brązowy Husky
+20144	Świąteczny Potwór 
+20145	Pani Święta Klara
+20146	Grey Husky
+20147	Czarny Husky 
+20148	Święty Mikołaj 
+20149	Schlitten
+20157	Sharki1
+20158	Sharki2
+20159	Sharki3
+20160	Wasser Echse
+20161	Wasser Beast
+20162	Ariel
+20163	Sea Fee
+20164	Grumpy Fish
+20201	??????
+20202	??????
+20203	?????
+20204	???????
+20205	?????? ??????
+20206	?????? ??????
+20207	?????? ?????
+20208	?????? ???????
+20209	?????? ??????
+20210	?????? ??????
+20211	?????? ?????
+20212	?????? ???????
+20213	?????????
+20214	?????? ?????????
+20215	?????? ?????????
+20216	????????
+20217	?????? ????????
+20218	?????? ????????
+20219	blackpony
+20220	Komet
+20221	test
+20222	test
+20223	test
+20224	test
+20225	test
+20226	ÈćÀ¯´ÏÄÜ
+20227	test
+20228	test
+20229	test
+20230	test
+20231	test
+20232	test
+20233	Muffin (brązowe dodatki)
+20234	Nugget (brązowe dodatki)
+20235	Muffin (nieb. dodatki)
+20236	Nugget (nieb. dodatki)
+20237	Muffin (zielone dodatki)
+20238	Nugget (zielone dodatki)
+20239	Błyskawiczny
+20240	Profesorek
+20241	Samorodek (granatowy)
+20242	Muffin (Różowy)
+20243	NoNAme
+20244	Smok Nirwany
+20245	Smok Samsara
+20246	Manni
+20247	Ellie
+20248	Brown Fight-Tulu
+20249	Czarny Fight-Tulu
+20253	Appaloosa
+20300	Trener Mocy Ciała
+20301	Trener Mocy Duchowej
+20302	Trener Mocy Ostrza
+20303	Trener Mocy Łuku
+20304	Trener Mocy Broni
+20305	Trener Mocy Czarn. Magii
+20306	Trener Mocy Smoka
+20307	Trener Mocy Leczenia
+20320	Trener Mocy Ciała
+20321	Trener Mocy Duchowej
+20322	Trener Mocy Ostrza
+20323	Trener Mocy Łuku
+20324	Trener Mocy Broni
+20325	Trener Mocy Czarn. Magii
+20326	Trener Mocy Smoka
+20327	Trener Mocy Leczenia
+20340	Trener Mocy Ciała
+20341	Trener Mocy Duchowej
+20342	Trener Mocy Ostrza
+20343	Trener Mocy Łuku
+20344	Trener Mocy Broni
+20345	Trener Mocy Czarn. Magii
+20346	Trener Mocy Smoka
+20347	Trener Mocy Leczenia
+20348	Strażnik Wieży Demonów
+20349	Stajenny
+20350	Strażnik Legowiska
+20351	Strażnik Dworski
+20352	Kam. Pomnik Hasuna
+20353	Kam. Pomnik Seul Ronga
+20354	Strażnik Miejski
+20355	Kapitan
+20356	Kolekcjoner Ginseng
+20357	Pomnik Woela
+20358	Bezimienne Kwiaty
+20359	Zagubione Pudełko
+20360	Pomnik Wha
+20361	Pomnik Su
+20362	Pomnik Moka
+20363	Pomnik Gum
+20364	Nakajima
+20365	Pomnik To
+20366	Sa-Soe
+20367	Strażnik Katakumb
+20368	Domokrążca
+20369	Lee Chung
+20370	Zatruty ¯ołnierz
+20371	Stary Nagrobek
+20372	Zwietrzała Płyta
+20373	Gwardia Ochronna
+20374	Strażnik
+20375	Drewniana Barykada
+20376	Kim Rim
+20377	Yak-Hwan
+20378	Admirał Angmur
+20379	Ranny ¯ołnierz
+20380	Yon-I-Walker
+20381	Konfucjusz
+20382	Skalny Kwiat
+20383	Jae-Seon Kim
+20384	Świąteczna Choinka
+20385	Gardziel Am-heha
+20386	Stela Isfet
+20387	Zamek Losu
+20388	Smocza Brama
+20389	NoNAme
+20390	Nagrobek Taramora
+20391	Słoneczne Zioło
+20392	Poległy ¯ołnierz
+20393	Ranny ¯ołnierz
+20394	Strażnik Ziemi Ognistej
+20395	Strażnik Lodowej Ziemi
+20396	test
+20397	Lodowy Lew
+20398	Arktyczna Kostka
+20399	Kolumna Smoka Północy
+20400	Waffenkostüm Handel II
+20401	Strażnik Kolonii
+20402	Strażnik Portalu
+20403	Amarok
+20404	Nagual
+20405	Waheela
+20406	NoNAme
+20407	Fenrir
+20408	Strażnik Świątyni
+20409	Strażnik Lasu
+20410	Zwiadowca Lasu
+20411	Badacz Lasu
+20412	Przywódca Straż. Lasu
+20413	Kawuco
+20414	NoNAme
+20415	Portal
+20416	Sam Pumpkin
+20417	Stół do Okeya
+20419	Strażnik 
+20420	Skrzynia Złotego Smoka
+20421	Strażnik Smoków Jaharr
+20422	Smocze Jajo
+20423	Alchemista Kryształu Duszy
+20424	Alchemista Rubinu
+20425	Alchemik Granatu
+20426	Alchemista Emeraldów
+20427	Alchemik Szafiru
+20428	Alchemista Tourmaline
+20429	Obserwator strefy walki
+20430	Cherie
+20431	Rocznicowy Handlarz 
+20432	Jajo Hydry
+20433	Statua Wojownika
+20434	Maszt
+20435	Meleys Lane
+20436	Kierownica
+20437	Napraw Drzewo 
+20438	Babawahdan
+20470	Milbon Monk
+20471	Statua You
+20472	Statua Chou
+20473	Statua Xu
+20474	Statua Chen
+20475	Statua Wu
+20476	Statua Shen
+20477	Statua Zi
+20478	Statua Hai
+20479	Statua Mao
+20480	Statua Wei
+20481	Statua Si
+20482	Statua Yin
+20483	Portal (You)
+20484	Portal (Chou)
+20485	Portal (Xu)
+20486	Portal (Chen)
+20487	Portal (Wu)
+20488	Portal (Shen)
+20489	Portal (Zi)
+20490	Portal (Hai)
+20491	Portal (Mao)
+20492	Portal (Wei)
+20493	Portal (Si)
+20494	Portal (Yin)
+20500	Smocze Jajo
+20501	Gayachest
+20502	Stół Yutnori
+20503	Kupiec Gaya
+20504	Sklep Gaya
+20505	Yut Rods
+20600	Omae Wa-Mou
+30000	test
+30001	test
+30002	1001 Nocy
+30003	Król BBQ
+30004	Łowca Skarbów
+30005	Frugal Flame
+30006	Sklep z kostiumami do broni
+30007	Sklep z Kostiumami Zbroi
+30008	Alchemik
+30009	Ibn Yebiu
+30101	Statua Kuda
+30102	Bazaltowy Obelisk
+30103	¯ółwia Skała
+30104	Runiczny Pal
+30111	1. Wrota Potępienia
+30112	2. Wrota Potępienia
+30113	3. Wrota Potępienia
+30114	4. Wrota Potępienia
+30115	5. Wrota Potępienia
+30116	6. Wrota Potępienia
+30117	7. Wrota Potępienia
+30118	8. Wrota Potępienia
+30119	9. Wrota Potępienia
+30120	Sakiewka na Zioła
+30121	Duch Sura
+30122	Duch Wojownika
+30123	Mroczny Ołtarz
+30124	Szkielet-Sura 1
+30125	Szkielet-Sura 2
+30126	Szkielet-Sura 3
+30127	Szkielet-Sura 4
+30128	Szkielet-Sura 5
+30129	Zając wielkanocny
+30130	Nagrobek
+30131	Mr B.
+30132	Mr B.
+30301	¯yła Kryształu Duszy
+30302	¯yła Rubinu
+30303	¯yła Granatu
+30304	¯yła Szmaragdu
+30305	¯yła Szafiru
+30306	¯yła Rudy Turmalinu
+30307	Lato
+33001	?????? ???
+33002	Historyk
+33003	Poszczący Mieszkaniec
+33004	Poszczący Mieszkaniec
+33005	Poszczący Mieszkaniec
+33006	Poszczący Mieszkaniec
+33007	Poszczący Mieszkaniec
+33008	Jack Pumpkin
+34001	phoenix1
+34002	??? ???
+34003	?????????
+34004	test
+34005	Boczuś
+34006	Rufus
+34007	Khan
+34008	Leonidas
+34009	test
+34010	Bambi
+34011	test
+34012	test
+34013	test
+34014	test
+34016	test
+34017	test
+34018	test
+34019	test
+34020	test
+34021	test
+34022	test
+34023	test
+34024	test
+34026	Dyniowa Główka
+34027	Mała Miotełka
+34028	Płatek Śniegu
+34029	Dzwoneczek
+34030	test
+34032	Niebieski Sierp
+34033	Czerwony Sierp
+34034	Owieczka Ola
+34035	Baran Bartek
+34036	Mały Smok
+34037	Mały Smok (bohater)
+34039	test
+34041	Mały Małpiszon
+34042	Mały Małpiszon (bohater)
+34045	Mały Pająk
+34046	Mały Pająk (bohater)
+34049	Mały Razador
+34050	Mały Razador (bohater)
+34053	Mały Nemere
+34054	Mały Nemere (bohater)
+34055	Bruce
+34056	Wayne
+34057	Robin
+34058	Walentyn
+34059	Walentynka
+34060	Walentyn
+34061	Walentynka
+34062	Lantern Moon (Orange)
+34063	Latarnia Księżyca (niebieska)
+34064	Mini Meley
+34065	Mini Meley
+34066	Bonsai
+34067	Ms Jiangshi+
+34068	Mr Jiangshi+
+34069	Jiangshi Jnr
+34070	test
+34071	test
+34072	test
+34084	Donnie
+34085	Frank
+35000	Mały Lew
+35001	Mały wojownik
+35035	Candy Cane Fred
+35036	Metin Świątyni
+35037	Seelenklemptner
+35060	Anioł Zwierzak
+35061	Demoniczy Zwierzak
+35070	Pillar of fasting (easy)
+35071	Pillar of fasting (medium)
+35072	Pillar of fasting (difficult)
+35073	Pillar of fasting (expert)
+35074	Kukła
+35075	Lymar
+35076	Ayaka
+35077	Ayumi
+35078	Drzwi ogrodowe
+35079	Botani
+35081	Stare pudełko 
+35082	Zaczarowana fontanna
+35083	Zatruty Botani
+35084	Grzyby 
+35085	Honey hive
+35101	Sindarin
+35102	Thranduil
+35103	Metin Lasu
+35104	Thranduils Shrine
+35105	Sindarin's offspring
+35200	Kamień Ogrodu
+35201	Plant stone
+35202	Zły Kamień Ogrodu
+36079	Boss2
+36082	Stół do Blackjacka
+36085	Mistrz Strefy Walki
+36100	Ibn Kilab
+53276	Ross Nocturnos
+53277	Spektralross
+60000	Zarządca Gildii
+60001	Zarządzanie gildią
+60002	Zarządzanie gildii
+60003	Theowahdan
+60004	Trenowanie kowala
+60005	Hungriger Pirat
+60006	Wilder Pirat
+60007	Dämonischer Pirat
+60008	Extremer Pirat
+60009	Strażnik Bram Nieba
+60010	Obrońca Podziemi
+98431	Kamień Ogrodu
+98432	Plant stone
+98433	Zły Kamień Ogrodu
+99439	Drzwi ogrodowe
+99441	Botani
+99442	Stare pudełko 
+99443	Zaczarowana fontanna
+99444	Zatruty Botani
+99445	Grzyby 
+99446	Honey hive

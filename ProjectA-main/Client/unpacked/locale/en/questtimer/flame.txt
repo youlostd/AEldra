@@ -1,0 +1,22 @@
+[COLOR r;255|g;195|b;0]"Specularity"[/COLOR r;255|g;195|b;0][ENTER]
+You can only enter the dungeon within Level 95-109.
+[ENTER]
+[COLOR r;0|g;195|b;255]Phase 1[/COLOR r;255|g;195|b;0][ENTER]
+Defeat all the Ignators and put the Golden Cog Wheels in the Pillar.
+[ENTER]
+[COLOR r;0|g;195|b;255]Phase 2[/COLOR r;255|g;195|b;0][ENTER]
+Defeat all the monsters and drag the key to the Stele.
+[ENTER]
+[COLOR r;0|g;195|b;255]Phase 3[/COLOR r;255|g;195|b;0][ENTER]
+Destroy the Metinstones in the correct order. 
+A red arrow above the Metinstone will help you.
+[ENTER]
+[COLOR r;0|g;195|b;255]Phase 4[/COLOR r;255|g;195|b;0][ENTER]
+Defeat all monsters.
+[ENTER]
+[COLOR r;0|g;195|b;255]Phase 5[/COLOR r;255|g;195|b;0][ENTER]
+Destroy the Metinstone.
+Unique Feature: At 45% HP, a monster wave will spawn. Defeat it to proceed.
+[ENTER]
+[COLOR r;0|g;195|b;255]Phase 6[/COLOR r;255|g;195|b;0][ENTER]
+Defeat Razador.

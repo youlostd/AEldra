@@ -1,0 +1,74 @@
+VNUM	NAME
+14013	Zbrojíø
+14014	Platnéø
+14015	Klenotník
+14033	Cvièištì
+14043	Pec na diamanty
+14045	Pec na zkam. døevo
+14046	Pec na mìï
+14047	Pec na støíbro
+14048	Pec na zlato
+14049	Pec na nefrit
+14050	Pec na eben. døevo
+14051	Pec na perly
+14052	Pec na bílé zlato
+14053	Pec na køišály
+14054	Pec na ametyst
+14055	Pec na nebeské slzy
+14061	Oltáø síly
+14062	Oltáø síly
+14063	Oltáø síly
+14071	Cechovní skladištì
+14072	Cechovní skladištì
+14073	Cechovní skladištì
+14074	Pec na krystaly duše
+14075	Pec na rubíny
+14076	Pec na granáty
+14077	Pec na smaragdy
+14078	Pec na safíry
+14079	Pec na turmalíny
+14100	Dùm (1)
+14101	Kamenná zeï (1-1)
+14102	Kamenná zeï (1-2)
+14103	Kamenná zeï (1-3)
+14104	Brána (1)
+14105	Zeï (1)
+14110	Dùm (2)
+14111	Kamenná zeï (2-1)
+14112	Kamenná zeï (2-2)
+14113	Kamenná zeï (2-3)
+14114	Brána (2)
+14115	Zeï (2)
+14120	Dùm (3)
+14121	Kamenná zeï (3-1)
+14122	Kamenná zeï (3-2)
+14123	Kamenná zeï (3-3)
+14124	Brána (3)
+14125	Zeï (3)
+14200	Symbol cechu
+14201	Pøední zeï
+14202	Zadní zeï
+14203	Levá zeï
+14204	Pravá zeï
+14300	Kámen (1)
+14301	Kámen (2)
+14302	Kámen (3)
+14303	Kámen (4)
+14304	Kámen (5)
+14305	Kámen (6)
+14306	Kámen (7)
+14307	Kámen (8)
+14308	Kámen (9)
+14309	Kámen (10)
+14400	Strom (1)
+14401	Strom (2)
+14402	Strom (3)
+14403	Strom (4)
+14404	Strom (5)
+14405	Strom (6)
+14406	Strom (7)
+14407	Strom (8)
+14408	Strom (9)
+20139	Vlajka cechu (purpurová)
+20140	Vlajka cechu (modrá/zelená)
+20141	Vlajka cechu (èervená/zlatá)

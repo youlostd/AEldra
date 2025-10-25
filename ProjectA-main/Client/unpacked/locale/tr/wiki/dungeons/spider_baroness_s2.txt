@@ -1,0 +1,28 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/spiderbaroness.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Gereksinimler:
+*Seviye Aralığı: 60 - 85
+*Giriş Eşyası: Arachnida Anahtarı 
+[IMG=d:/ymir work/ui/wiki/rahmen.tga; Y=5; X=460]
+[IMG=d:/ymir work/ui/wiki/30324.tga; Y=15; X=482]
+
+
+[X_PADDING=467]Arachnida Anahtarı
+[COLOR=0xffd700;FONT_SIZE=15]Özellikler:
+*Örümcek Baronesi'nin Yuvası, 1 saat bekleme süresine sahiptir.
+*Örümcek Baronesi'nin Yuvası'na grup halinde ya da bireysel olarak girilebilir.
+*Örümcek Baronesi'nin Yuvası görevi, 20 dakika içerisinde tamamlanmalıdır.
+*Yalnızca grup liderinin Arachnida Anahtarı'na sahip olması yeterlidir.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=148; CENTER_ALIGN]
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 1
+
+[X_PADDING=20]Örümcek Baronu'nu öldür ve elde ettiğin Arachnida Flütü'nü aktifleştir.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 2
+
+[X_PADDING=20]Örümcek Baronesi'ni öldür.
+[IMG=d:/ymir work/ui/wiki/Spinnenbaroness.tga; Y=160; X=320]

@@ -1,0 +1,62 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/banner_weapons.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Gereksinimler:
+*Gerekli Seviye: 110
+*Giriş Eşyası: Geçit Bileti+
+[RIGHT_ALIGN]Geçit Bileti+
+[IMG=d:/ymir work/ui/wiki/93264.tga; Y=5; X=500]
+
+[COLOR=0xffd700;FONT_SIZE=15]Özellikler:
+*Zindanı tamamlamak için sadece 45 dakikan var!
+
+
+[CENTER_ALIGN;FONT_SIZE=18]Aşamalar:
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=145; CENTER_ALIGN]
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 1
+
+[X_PADDING=20]Bütün canavarları ve metin taşlarını yok et.
+[X_PADDING=20]Zehiri, Eski Konteyner'a sürükle.
+[X_PADDING=20]Sonra, anahtarla geçidi aç.
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 2
+
+[X_PADDING=20]4 metin taşını ve ardından çıkacak canavar dalgasını yok et.
+[X_PADDING=20]Son olarak, bitkiyi öldür ve anahtarla geçidi aç.
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 3
+
+[X_PADDING=20]Bu aşamadaki amaç tüm Büyülü Kaynakları yok etmek.
+[X_PADDING=20]Bütün canavarları ve sonra metin taşını yok et.
+[X_PADDING=20]Düşürülen taşı Büyülü Kaynağın üzerine sürükle.
+[X_PADDING=20]Sonra metin taşlarını tekrar yok et ve düşürdüğün
+[X_PADDING=20]taşı yine Büyülü Kaynağın üzerine sürükle.
+[X_PADDING=20]Bütün canavarları ve sonra metin taşını yok et.
+[X_PADDING=20]Düşürdüğün taşı Büyülü Kaynağa sürükle ve ortaya çıkan
+[X_PADDING=20]2 bitkiyi yok et.
+[X_PADDING=20]Düşürdüğün taşı Büyülü Kaynağa sürükle ve ortaya çıkan
+[X_PADDING=20]bitkileri yok et.
+[X_PADDING=20]Son olarak, düşürdüğün taşı son Büyülü Kaynağa sürükle
+[X_PADDING=20]ve anahtarla geçidi aç.
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 4
+
+[X_PADDING=20]4 metin taşını ve ardından çıkacak canavar dalgasını yok et.
+[X_PADDING=20]Ve tekrarla, bütün metin taşlarını ve yeni canavar dalgalarını yok et.
+[X_PADDING=20]Son olarak, Raguwan'ı öldür ve düşürdüğün anahtar ile geçidi aç.
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 5
+
+[X_PADDING=20]Yerdeki Zehirlenmiş Botani'ye tıkla.
+[X_PADDING=20]Sonra, bütün canavarları yok et.
+[X_PADDING=20]Elde ettiğin bahçe suyunu, Zehirlenmiş Botani'ye götür.
+[X_PADDING=20]Şimdi, mantarları ara. Onlara tıkla ve Zehirlenmiş Botani'ye mantar getir.
+[X_PADDING=20]Son olarak, düşürdüğün taş ile geçidi aç.
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 6
+
+[X_PADDING=20]Kötü Bahçe Ateşi elde edene kadar bütün canavarları ve metin taşlarını yok et.
+[X_PADDING=20]Sonra onu al ve Kovan'ın içine sürükle.
+[X_PADDING=20]Bütün kovanları yok et ve Lanetli Arılar'ı öldür.
+[X_PADDING=20]Kötü Bahçe Ateşi yardımıyla bütün Kovan'ları yok et.
+[X_PADDING=20]Raguwan'ı ve bölüm sonu patronunu öldür.

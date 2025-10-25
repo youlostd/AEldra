@@ -1,0 +1,17 @@
+1	Tribus Hit	Every 3rd hit the enemy recieves extra dmg
+2	Blood Rush	Every 9th normal hit does extra dmg.
+3	Cold Feets	Your first basic attack against any target will heal you by 20% of the damage dealt and gives you 100 movement speed for 1.5 seconds. 
+13	Lightning	Performing 3 basic attacks or skills under 3 seconds against players will deal 1000 true damage against the currently selected player. 
+14	Flash	        When you are out of combat for 1 second, you receive a given amount of movement speed.
+15	Seelenraub	With your first blow, add a soul-filled damage to your opponent. Collect the souls of bosses, from level 90. Each soul gives 1 attack value (max. 300)
+25	Attack = Defense Your attacks and spells generate a shield that absorbs 500Dmg
+26	Time Jump	Every 5th skill causes 10% more damage!
+27	Beserk	Attacking players under 3 seconds with 3 skills or basic attacks will give you a given amount of movement speed for 1.5 seconds
+36	Mount paralyze	When you hit an enemy, he receives a debuff "Paralyzed" and he can't mount for next 5 seconds.
+37	Skill Master	Hitting your opponent with 4 normal attacks or skills adds extra damage to your opponent percentage of your life.
+38	Transfusion	When you kill a given number of players, your party members' health is restored to 100%. Only party members receive this heal.
+39	Mantra Shield	Using a skill, your party member will recieve a magic shield
+49	Skill Specialist	Beeing 10 secons in combat your spellspeed will increase.
+50	Slowdown	Your first strike slows the enemy.
+51	Thief	Has the chance to get a double loot.
+57	Leadership	Increases your leadership bonus by 20%.

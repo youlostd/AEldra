@@ -1,0 +1,48 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/bosshunt.tga]
+[CENTER_ALIGN;FONT_SIZE=18]Boss-Hunting Event
+
+[COLOR=0xffd700;FONT_SIZE=15]Content List:
+*1. Informazioni Generali
+*2. Istruizioni per l 'evento
+*3. Contatore Punti per ricompensa
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=85; CENTER_ALIGN]
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1.Informazioni Generali
+
+L'evento è solo per i player di Lv30+ .
+Un colpo infligge 1 di danno agli Hp del boss e riceverai il danno inflitto , sarà possibili vedere i punti conquistati
+in basso a sinistra dell'UI, sopra la barra degli HP.
+
+Puoi scambiare i punti ottenuti da Uriel.
+Quando attacherai questo boss, la tua velocita di attaco e ridotta di 100.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=210; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2.Istruizioni per l 'evento:
+
+Il Guerriero Ombra apparirà nellle mappe neutrali quali Valle degli orchi , Monte shoan, 
+Doyyumhwaji Paper e Deserto Yongbi (2 per ogni canale).
+Attorno al Guerriero Ombra , la Funzione PvP è disabilitata.
+Per ogni colpo al Guerriero Ombra ricevi 1 punto. 
+
+Il Guerriero Ombra Brutale apparirà nelle mappe beta quali Capo Fuoco Drago , Monti Tonanti, 
+Baya Nefrite e Guitama cliff (2 per ogni canale).
+Attorno al Guerriero Ombra Butale, la Funzione PvP è abilitata .
+Per ogni colpo al Guerriero Ombra Brutale ricevi 2 punti.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=400; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Contatore Colpi per Ricompense
+
+Puoi scambiare i punti ottenuti da Uriel  a tua scelta per un Baule Decimo di bronzo ,Baule Argento Decimo , 
+Baule Oro Decimo e Baule Magnifico Decimo
+Attenzione: I punti sparariranno appena l'evento finirà,quindi assicurati di scambiarli in tempo.
+
+*500 Punti: Baule Bronzo Decimo
+*1000 Punti: Baule Argento Decimo
+*2000 Punti: Baule Oro Decimo
+*5000 Punti:Baule Magnifico Decimo
+

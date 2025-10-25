@@ -1,0 +1,22 @@
+[COLOR r;255|g;195|b;0]"Özellikler"[/COLOR r;255|g;195|b;0][ENTER]
+Zindana yalnızca 90-109 seviye aralığında girebilirsin.
+[ENTER]
+[COLOR r;0|g;195|b;255]Aşama 1[/COLOR r;255|g;195|b;0][ENTER]
+Bütün Ayaz Metinlerini yok et ve Kuzey Yıldızı'nı küpe sürükle.
+[ENTER]
+[COLOR r;0|g;195|b;255]Aşama 2[/COLOR r;255|g;195|b;0][ENTER]
+Bütün canavarları yok et.
+[ENTER]
+[COLOR r;0|g;195|b;255]Aşama 3[/COLOR r;255|g;195|b;0][ENTER]
+Metin taşını yok et.[ENTER]
+Özel Durum: Metin taşları ışınlanabilir.
+[ENTER]
+[COLOR r;0|g;195|b;255]Aşama 4[/COLOR r;255|g;195|b;0][ENTER]
+Szel'i yok et.
+[ENTER]
+[COLOR r;0|g;195|b;255]Aşama 5[/COLOR r;255|g;195|b;0][ENTER]
+10x Buz Anahtarı elde edene kadar canavarları yok et.[ENTER]
+Anahtarları Buz Aslanı'na sürükle.
+[ENTER]
+[COLOR r;0|g;195|b;255]Aşama 6[/COLOR r;255|g;195|b;0][ENTER]
+Nemereyi öldür.

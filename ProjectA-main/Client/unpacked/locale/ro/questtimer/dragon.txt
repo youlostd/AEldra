@@ -1,0 +1,11 @@
+[DELAY value;0]
+[COLOR r;0|g;195|b;255]Phase 1[/COLOR r;255|g;195|b;0][ENTER]
+[ENTER]Distruge pietrele metin pana cand piatra metin dorita se va spawna.[ENTER]
+Fiecare piatra metin are un efect special, care va fi marit in functie de numarul pietrelor metin de acelasi fel.[ENTER]
+-> Totalul de  HP-regenerare al dragonului va fi crescut de Metinul Arogantei.[ENTER]
+-> Damage-ul dragonului va fi crescut de Metinul Razbunarii.[ENTER]
+-> Viteza de regenerare HP va fi crescuta de Metinul Singuratatii.[ENTER]
+-> Apararea dragonului va fi crescuta de  Metinul Muntelui. [ENTER]
+[ENTER]
+[COLOR r;0|g;195|b;255]Phase 2[/COLOR r;255|g;195|b;0][ENTER]
+Kill Beran-Setaou.

@@ -1,0 +1,22 @@
+[COLOR r;255|g;195|b;0]"Besonderheit"[/COLOR r;255|g;195|b;0][ENTER]
+Du kannst den Dungeon nur mit Level 95-109 betreten!
+[ENTER]
+[COLOR r;0|g;195|b;255]Phase 1[/COLOR r;255|g;195|b;0][ENTER]
+Töte alle Ignator und ziehe die Goldenen Zahnräder auf die Säulen
+[ENTER]
+[COLOR r;0|g;195|b;255]Phase 2 [/COLOR r;255|g;195|b;0][ENTER]
+Töte alle Monster und ziehe den Schlüsselstein auf die Säule
+[ENTER]
+[COLOR r;0|g;195|b;255]Phase 3[/COLOR r;255|g;195|b;0][ENTER]
+Töte alle Monster
+[ENTER]
+[COLOR r;0|g;195|b;255]Phase 4[/COLOR r;255|g;195|b;0][ENTER]
+Töte die Metinsteine in der richtigen Reihenfolge. Der Questpfeil über
+dem richtigen Metinstein hilft dir.
+[ENTER]
+[COLOR r;0|g;195|b;255]Phase 5[/COLOR r;255|g;195|b;0][ENTER]
+Töte den Metinstein. Besonderheit: Bei 45% spawnt eine Monsterwelle, die du
+besiegen musst.
+[ENTER]
+[COLOR r;0|g;195|b;255]Phase 6[/COLOR r;255|g;195|b;0][ENTER]
+Töte Razador

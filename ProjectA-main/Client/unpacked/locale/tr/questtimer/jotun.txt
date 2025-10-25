@@ -1,0 +1,11 @@
+[DELAY value;0]
+[COLOR r;255|g;195|b;0]"Özellikler"[/COLOR r;255|g;195|b;0][ENTER]
+Binek kullanılamaz.[ENTER]
+Jotun Thrym kendi canını yenilemesi için Şifacı grupları çağırabilir.[ENTER]
+[ENTER]
+[COLOR r;0|g;195|b;255]Aşama 1[/COLOR r;0|g;195|b;255][ENTER]
+Jotun Thyrm odasına gir ve Bagjanamu'yu öldür.[ENTER]
+[ENTER]
+[COLOR r;0|g;195|b;255]Aşama 2[/COLOR r;0|g;195|b;255][ENTER]
+Jotun Thrym'i öldür.
+[ENTER]

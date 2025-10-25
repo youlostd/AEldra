@@ -1,0 +1,141 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/dragonstone.tga]
+[CENTER_ALIGN]Alchimia suflteului dragonului este un sistem destinat jucatorilor de nivel mai mare cu scopul
+[CENTER_ALIGN]de a imputernicii caracterul intr-o anumita directie.
+
+
+[COLOR=0xffd700;FONT_SIZE=15]Cuprins:
+*1. Informatii Generale.
+*2. Cor Draconis
+*3. Bonusurile Pietrelor dragonului.
+*4. Cum sa imbunatatesti Piatra Dragonului.
+*5. Cum sa reumplii timpul Pietrei Dragonului.
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=130; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Informatii generale.
+
+Din Patcul 3.1, Puteti avea alchimie de la nivelul 1. Puteti farma pana la 200 Cor Draconis in fiecare zi cu ajutorul questului "Puterea Ochiului Dragonului". 10 Bucati de Piatra Dragonului se vor transforma automat in Cor Draconis (dur).
+Fereastra pentru Alchimia Pietrei Dragonului poate fi deschisa cu ajutorul butonului verde din inventar sau prin apasarea butonului "O".
+Puteti activa prima pagina de Alchimie cu ajutorul "STRG + O" si a doua pagina cu ajutorul "STRG + P".
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=250; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Cor Draconis
+
+Un Cor Draconis (dur) contine o piatra dragon (dur) la intamplare, din toate feluri (Rubin, Diamant, Jad, Safir, Granat, Onyx). Sunt prezente mai multe tipuri de Cor cum ar fi: Cor Draconis (dur), Cor Draconis (taiat), Cor Draconis (rar), Cor Draconis (antic), Cor Draconis (Legendar). Cor Atrum (normal), Cor Diamas (normal), Cor Granatum (normal), Cor Jadeit (normal), Cor Rubinum (normal), Cor Sapphirum (normal). Fiecare cor contine 6 cor specific culorii sale.
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=360; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Bonusuri
+
+[CENTER_ALIGN]Piatra Dragonului are 4 aspecte diferite care pot fi imbunatatite:
+[CENTER_ALIGN]Clasa: Dur, Rar, Antic, Legendar.
+[CENTER_ALIGN]Cu cat clasa este mai mare, astfel Piatra va avea mai multe bonusuri.
+
+[COLOR=ef4f00;FONT_SIZE=15]3.1 Claritatea: Opac, Clar, Perfect, Stralucitor, Excelent.
+
+[X_PADDING=20]Cu cat claritatea este mai mare, cu atat bonusurile sunt mai mari.
+
+[COLOR=ef4f00;FONT_SIZE=15]3.2 Nivele: +0 pana la +6
+
+[X_PADDING=20]Cu cat nivelul este mai mare, cu atat bonusurile sunt mai puternice.
+
+[COLOR=ef4f00;FONT_SIZE=15]3.3 Bonusuri: 2-5 bonusuri.
+
+[X_PADDING=20]O Piatra Dragon Legendara are 2 bonusuri de baza, si poate avea pana la 3 bonusuri extra pentru un
+[X_PADDING=20]total de 5 bonusuri. Bonusurile Pietrei Dragonului pot fi schimbate folosind "Incantarea Rafinarii".
+
+[COLOR=ef4f00;FONT_SIZE=15]3.4 Bonusurile maxime
+
+[COLOR=ef4f00]*3.4.1 Diamant (Toate pietrele)
+
+[X_PADDING=20]*Inteligenta +10
+[X_PADDING=20]*Rezistenta la Gheata +10%
+[X_PADDING=20]*Rezistenta impotriva Abilitatilor 15%
+[X_PADDING=20]*Paguba Abilitatii 15%
+[X_PADDING=20]*Valoarea atacului magic +15
+[X_PADDING=20]*Aparare Magica +15
+
+[COLOR=ef4f00]*3.4.2 Rubin (Toate pietrele)
+
+[X_PADDING=20]*Putere +10
+[X_PADDING=20]*Rezistenta la foc +10%
+[X_PADDING=20]*Paguba Medie +15%
+[X_PADDING=20]*Aparare +100
+[X_PADDING=20]*Valoarea atacului +120
+[X_PADDING=20]*Rezistenta la Paguba Medie +15%
+
+[COLOR=ef4f00]*3.4.3 Jad (Toate pietrele)
+
+[X_PADDING=20]*+500 MP
+[X_PADDING=20]*Apararea impotriva Vantului +10%
+[X_PADDING=20]*Max PV +2500
+[X_PADDING=20]*Max PV +15%
+[X_PADDING=20]*10% din daune vor fi absorbite de PV
+[X_PADDING=20]*Regenerarea PV +10%
+
+[COLOR=ef4f00]*3.4.4 Safir (Toate pietrele)
+
+[X_PADDING=20]*Dexteritate +10
+[X_PADDING=20]*Rezistenta la Pamant +10%
+[X_PADDING=20]*Puternic impotriva Sura/Razboinic/Saman/Ninja +15%
+[X_PADDING=20]*Aparare impotriva atacului ninja +15%
+
+[COLOR=ef4f00]*3.4.5 Granat (Toate pietrele)
+
+[X_PADDING=20]*Max PV +1500
+[X_PADDING=20]*Rezistenta la Fulger +10%
+[X_PADDING=20]*Max PM +1800
+[X_PADDING=20]*Max MP +15%
+[X_PADDING=20]*10% daune vor fi absorbite de PM
+[X_PADDING=20]*Regenerare PM +10%
+
+[COLOR=ef4f00]*3.4.6 Onyx (Toate pietrele)
+
+[X_PADDING=20]*Vitalitate +10
+[X_PADDING=20]*Rezistenta la Intuneric +10%
+[X_PADDING=20]*Aparare impotriva atacurilor critice +10%
+[X_PADDING=20]*Aparare impotriva atacurilor patrunzatoare +10%
+[X_PADDING=20]*Sansa de a blocat un atac corporal +10%
+[X_PADDING=20]*Sansa de a reflecta un atac corporal +10%
+[X_PADDING=20]*Sansa de a evita atacul cu sageti +10%
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=1330; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]4. Cum sa imbunatatesti Piatra Dragonului.
+
+
+Dupa cum am metionat mai devreme, o Piatra Dragon are toate cele 4 aspecte maxate. Pentru a incepe, trebuie sa le maxezi in ordinea corecta: Clasa -> Claritate -> Nivel.
+Pentru a îmbunatati clasa ai nevoie de mai multe Pietre Dragon de aceeasi clasa.
+Pune pietrele dragon necesare în fereastra si apoi click pe "Rafineaza" sau "Rafinare totala". De indata ce Piatra Dragonului devine legendare, poti incepe sa ii imbunatatesti claritatea.
+Sa imbunatatesti claritatea ai nevoie de o Piatra Dragon de aceeasi claritatea. Puneti Pietrele dragon in slotul bun si apasati "Rafineaza". De indata ce piatra devine Excelenta, puteti incepe sa ii imbunatatiti nivelul. Pentru a imbunatatii nivelul aveti nevoie de Fasole Dragon Verde, Fasole dragon Albastra sau Fasole Dragon Roz. Puneti fasolea si piatra dragon dorita si apasati "Rafineaza". Procesul poate esua, iar in acest caz nivelul pietrei o sa fie redus cu 1.
+Tineti minte ca fasolea albastra si cea roz au o sansa mai mare de succes, dar tot vor reduce nivelul pietrei daca aceasta esueaza.
+
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=1525; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]5. Cum sa adaugati timp Pietrei Dragonului.
+
+Clestii timpului iti permit sa creezi un Elixir al Timpului (S). Pentru a-l creea, trebuie sa il tragi pe o piatra dragon neechipata.
+Piatra Dragon o sa dispara din inventarul tau al alchimiei, iar elixirul o sa apara in inventarul tau.
+Procesul poate esua. De asemenea poti obtine Elixirul timpului (m) ca recompensa din Cufarul Decimus Auriu, Regele Dragonilor de Cristal, Battlepass-ul Copacilor, Cartea Misiunii (Greu) si de la Kawuco. De asemenea puteti crafta Elixirul Timpului (L) la Kawuco. Cand timpul este scurs, aceasta devine neutilizabila si nu o sa mai primesti bonusurile sale. Aceasta nu o sa dispara
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=1660; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]6. Bonusurile Setului de Alchimie
+
+Daca ai 6 pietre dragon echipate, de nivel +6, primesti urmatoarele bonusuri:
+*Max PV +2500
+*10% tare impotriva semi-oamenilor
+*10% tare impotriva pietrelor metin

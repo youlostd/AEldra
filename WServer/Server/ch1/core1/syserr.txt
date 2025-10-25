@@ -1,0 +1,4 @@
+SYSERR: Oct 21 02:48:44 :: CHARACTER::PointChange: CHARACTER::PointChange: devsd: unknown point change type 144
+SYSERR: Oct 21 02:52:56 :: CAsyncSQL::ChildLoop: AsyncSQL: query failed: Unknown column 'id' in 'order clause' (query: UPDATE connect_log SET logout_time=NOW(), playtime=TIMEDIFF(logout_time,login_time) WHERE account_id=1 AND pid=1 ORDER BY id DESC LIMIT 1 errno: 1054)
+SYSERR: Oct 21 02:52:56 :: CHARACTER::PointChange: CHARACTER::PointChange: devsd: unknown point change type 144
+SYSERR: Oct 21 02:55:17 :: socket_read: about to lose connection

@@ -1,0 +1,51 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/skilcolor.tga]
+[CENTER_ALIGN]Beceri Renklendirme sistemi, becerilerini daha kişisel hale getirmene olanak sağlar. 
+[CENTER_ALIGN]Becerilerini özel renklerle özelleştir!
+
+[COLOR=0xffd700;FONT_SIZE=15]İçerik Listesi:
+*1. 'Kendini Özelleştir?' Görevi
+*2. Becerileri Özelleştirme
+*3. Özelleştirilebilir Bölgeler & Havalı Kombinasyonlar
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=100; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. 'Kendini Özelleştir?' Görevi
+
+Açıklama: Gaya Tüccarı'na git.
+Görev: 85 seviye üstü 250 tane metin taşı yok et.
+Ödül: Belirli bir beceriyi özelleştirme yetkisine sahip olursun.
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=200; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Becerileri Özelleştirme
+
+Bir Beceri Boyası kullanarak özelleştirmek istenilen beceri seçilir(Buffi becerileri dahil).  O beceri için renk paleti açılmış olur, 
+palet simgesine sağ tıklayıp istediğin renk kombinasyonlarını deneyebilirsin.
+İstediğin zaman 'Standart' butonuna tıklayıp beceriyi standard rengine sıfırlayabilirsin.
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=295; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Özelleştirilebilir Bölgeler & Havalı Kombinasyonlar
+
+Bir beceri birden fazla bölgenin birleşmesiyle oluşur. Özelleştirme işlemininin işlevini arttırabilmek için 
+her beceriyi 5 ayrı bölgeye ayırdık. Böylelikle becerilerini 100%e kadar özelleştirebilirsin.
+5 bölgeden yalnızca 1ini değiştirmek o becerinin rengini 100% seçtiğiniz renk yapmaz.
+Sadece seçtiğiniz bölge belirlenen renkle boyanır.
+
+[IMG=d:/ymir work/ui/wiki/divider_small.tga; Y=410; CENTER_ALIGN]
+
+[COLOR=ef4f00;FONT_SIZE=15]3.1 Havalı Kombinasyonlar
+
+[X_PADDING=20]*0% Kırmızı + 0% Yeşil + 0% Mavi = Siyah
+[X_PADDING=20]*100% Kırmızı + 100% Yeşil + 100% Mavi = Beyaz
+[X_PADDING=20]*100% Kırmızı + 100% Yeşil + 0% Mavi = Sarı
+[X_PADDING=20]*100% Kırmızı + 0% Yeşil + 100% Mavi = Mor
+[X_PADDING=20]*0% Kırmızı + 100% Yeşil + 100% Mavi = Açık Mavi
+[X_PADDING=20]*50% Kırmızı + 50% Yeşil + 50% Mavi = Gri
+
+[X_PADDING=20]Ve daha nice renkler... O zaman renklerle oynama zamanı!
+
+

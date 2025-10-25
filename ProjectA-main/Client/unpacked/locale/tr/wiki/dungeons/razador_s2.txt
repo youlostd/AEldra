@@ -1,0 +1,62 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/razador.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Gereksinimler:
+*Seviye Aralığı: 100 - 105
+*Giriş Eşyası: Geçit Bileti
+[IMG=d:/ymir work/ui/wiki/rahmen.tga; Y=5; X=460]
+[IMG=d:/ymir work/ui/wiki/71095.tga; Y=15; X=482]
+
+
+[X_PADDING=469]Geçit Bileti
+[COLOR=0xffd700;FONT_SIZE=15]Özellikler:
+*Kırmızı Ejderha Kalesi, 3 saat bekleme süresine sahiptir.
+*Kırmızı Ejderha Kalesi'ne grup halinde ya da bireysel olarak girilebilir.
+*Kırmızı Ejderha Kalesi görevi, 60 dakika içerisinde tamamlanmalıdır.
+*Her oyuncu Geçit Bileti'ne sahip olmalıdır.
+
+[CENTER_ALIGN;COLOR=0xffd700]Bir sonraki aşama rastgeledir, patron aşaması hariç.
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=170; CENTER_ALIGN]
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 1
+
+[X_PADDING=20]Bütün canavarları öldür.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 2
+[IMG=d:/ymir work/ui/wiki/rahmen_small.tga; Y=255; X=490]
+[IMG=d:/ymir work/ui/wiki/30329.tga; Y=261; X=496]
+
+[X_PADDING=20]Altın Dişli Çark elde edene kadar canavarları öldür.
+[X_PADDING=20]Altın Dişli Çarkları sürükle ve doğru İsfet Steli'nin üzerine bırak.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 3
+
+[X_PADDING=20]Bütün canavarları öldür.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 4
+
+[X_PADDING=20]Ignator'u öldür.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 5
+[IMG=d:/ymir work/ui/wiki/rahmen_small.tga; Y=455; X=490]
+[IMG=d:/ymir work/ui/wiki/30306.tga; Y=461; X=496]
+
+[X_PADDING=20]Maat Taşı elde edene kadar canavarları öldür.
+[X_PADDING=20]Maat Taşlarını, sürükle ve 7 tane İsfet Steli'nin üzerine ayrı ayrı bırakarak onları yok et.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 6
+
+[X_PADDING=20]Cehennem Ateşi Metini'ni yok et.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 7
+
+[X_PADDING=20]Razador'u öldür.
+[IMG=d:/ymir work/ui/wiki/Razador.tga; Y=520; X=402]
+
+

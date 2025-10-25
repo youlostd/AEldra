@@ -1,0 +1,31 @@
+[DELAY value;0]
+[COLOR r;0|g;195|b;255]"Zone 1"[/COLOR r;0|g;195|b;255][ENTER]
+Beschwöre 100 Monster, innerhalb 90 Sekunden, in dem du immer mehr Monster tötest. Für jedes getötete Monster erscheint die doppelte Anzahl![ENTER]
+Sobald 100 Monster beschworen wurden, habt ihr 60 Sekunden Zeit um alle Monster zu töten![ENTER]
+[ENTER]
+
+[COLOR r;0|g;195|b;255]"Zone 2"[/COLOR r;0|g;195|b;255][ENTER]
+Zerstöre den richtigen Metinstein.[ENTER]
+[ENTER]
+
+[COLOR r;0|g;195|b;255]"Zone 3"[/COLOR r;0|g;195|b;255][ENTER]
+Sammelt Schlüssel von den kommenden Monsterwellen.[ENTER]
+Diese Schlüssel werden benötigt um Sindarins Sprössling zu zerstören! Jeder Schlüssel zieht dem Sprössling 10% des Lebens ab![ENTER]
+[ENTER]
+
+[COLOR r;0|g;195|b;255]"Zone 4"[/COLOR r;0|g;195|b;255][ENTER]
+Töte Sindarin und seine gefährten!.[ENTER]
+[ENTER]
+
+[COLOR r;0|g;195|b;255]"Zone 5"[/COLOR r;0|g;195|b;255][ENTER]
+Überlebe 3 Minuten und besiege alle Monster.[ENTER]
+Alle 30 Sekunden erscheint eine Safezone auf dem Boden, solltet ihr diese nicht rechtzeitig erreichen, sterbt ihr und müsst die Ebene von vorne beginnen![ENTER]
+
+[COLOR r;0|g;195|b;255]"Zone 6"[/COLOR r;0|g;195|b;255][ENTER]
+Besiege alle 3 Monster Wellen innerhalb von 3 Minuten. Schaffst du dies nicht, beginnt die Ebene von vorne![ENTER]
+[ENTER]
+
+[COLOR r;0|g;195|b;255]"Boss Zone"[/COLOR r;0|g;195|b;255][ENTER]
+Besiege Thranduil![ENTER]
+Solltet ihr es schaffen Thranduil zu besiegen, besteht eine kleine Chance, dass ihr den Wächter des Waldes des Waldes herbei beschwört. [ENTER]
+Bei diesem ihr das neue Equipment Craften können!

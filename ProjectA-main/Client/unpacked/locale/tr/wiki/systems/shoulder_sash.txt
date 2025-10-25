@@ -1,0 +1,97 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/shoulder.tga]
+[CENTER_ALIGN]Omuz Kuşakları diğer oyuncular tarafından görülebilir ekipman parçalarıdır. 
+[CENTER_ALIGN]Omuz kuşakları diğer ekipmanlar gibi giyilebilir, omuz kuşakları için envanterin sağ üstünde
+[CENTER_ALIGN]bir slot bulunmaktadır. Omuz kuşakları sınırsızdır ve 1.seviyeden itibaren kullanılabilir. 
+[CENTER_ALIGN]Detayları aşağıda bulabilirsin:
+
+[COLOR=0xffd700;FONT_SIZE=15]İçerik Listesi:
+*1. Omuz Kuşağı Türleri ve Elde Etme
+*2. Omuz Kuşağı Geliştirme
+*3. Silah/Zırh Emilimi
+*4. Bonus Kaldırma
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=135; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Omuz Kuşağı Türleri ve Elde Etme
+
+[CENTER_ALIGN] Oyunda birçok omuz kuşağı mevcuttur: 
+[CENTER_ALIGN] Usta Kuşağı, Hakim Kuşağı, Kral Kuşağı, Bey Kuşağı, Yıldönümü Kuşağı. 
+[CENTER_ALIGN] Kuşaklar arasındaki fark görünümleri ve elde ediliş şekilleridir.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]1.1 Usta Kuşağı
+[X_PADDING=20]Usta Kuşağı (basit), 10x İnce Kumaş karşılığında Theowahdan'dan alınabilir.
+
+[X_PADDING=20]İnce Kumaş ise drop from Lusifer, Örümcek Baroness, Azrail, Beran Setaou, Razador, Nemere, 
+[X_PADDING=20]Ork Reisi Sandığı, Dokuz Kuyruk Sandığı, Dev Çöl K. Sandığı, Alev Kral Sandığı, Sarı Kaplan H. Sandığı, Kraliçe Meley Sandığı, 
+[X_PADDING=20]Ejderha Bekçisi Sandığı, Ayışığı Dezarif Sandığı, Altın Decimus Sandığı ve Altın Balık Sandığı. 
+
+[X_PADDING=20]Ayrıca, Usta Kuşağı (basit); Görev Kitabı (Normal), Görev Kitabı (Zor),
+[X_PADDING=20] Görev Kitabı (Uzman) ve Görev Kitabı (Asil)'den elde edilebilir.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]1.2 Hakim Kuşağı
+[X_PADDING=20]Hakim Kuşağı (basit); Görev Kitabı (Zor), Görev Kitabı (Uzman), 
+[X_PADDING=20]Görev Kitabı (Asil), Altın Decimus Sandığı ve Nesne Market'ten elde edilebilir.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]1.3 Kral Kuşağı
+[X_PADDING=20]Kral Kuşağı (basit); Görev Kitabı (Zor), Görev Kitabı (Uzman), Görev Kitabı (Asil),
+[X_PADDING=20] Altın Decimus Sandığı, Razador Sandığı ve Nemere Sandığı'ndan elde edilebilir.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]1.4 Bey Kuşağı
+[X_PADDING=20]Bey Kuşağı (basit); Görev Kitabı (Zor), Görev Kitabı (Uzman), Görev Kitabı (Asil),
+[X_PADDING=20]Altın Decimus Sandığı, Razador Sandığı ve Nemere Sandığı'ndan elde edilebilir.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]1.5 Yıldönümü Kuşağı
+[X_PADDING=20]Yıldönümü Kuşağı, 16.07.2018 - 22.07.2018 tarihleri arasında Nesne Market'te satılan özel bir kuşaktı.
+[X_PADDING=20]Şu anda müzede sergileniyor...
+
+
+[COLOR=ef4f00;FONT_SIZE=15]1.6 Yılbaşı Kuşağı
+[X_PADDING=20]Yılbaşı Kuşağı, 2018 yılındaki Yılbaşı Etkinliği'nin bir parçasıydı.
+[X_PADDING=20]Nesne Market'ten ve Özel Savaş Pasosu(Yılbaşı)'ndan elde edildi.
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=690; CENTER_ALIGN]
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Omuz Kuşağı Geliştirme
+
+Bir omuz kuşağı 4 farklı kaliteye sahiptir: basit, zarif, asil ve kişiye özel.
+Aynı kalitedeki kuşaklar birleştirilrek bir üst kalitedeki kuşaklar elde edilebilir. Bu işlem başarısız olabilir.
+İşlem başarısız olursa, geliştirme ekranında 2.slotta bulunan kuşak yok olur. Geliştirme penceresine 
+Theowahdan'daki 'Birleştir' menüsünden ulaşabilirsin. Bir kişiye özel kuşak herhangi türdeki başka bir kişiye özel 
+kuşak ile birleştirilebilir. Geliştirme işlemi başarılı olursa emiş derecesi %1-5 arası artar.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=815; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Silah/Zırh Emilimi
+
+Herhangi bir silah ya da zırhın bonusları kuşak tarafından emilebilir.
+Emilimi gerçekleştirilen silah veya zırh YOK OLUR!
+
+*Basit Kuşaklar emdirilen zırh ya da silahın bonuslarının 1% kadarını absorbe ederler.
+*Zarif Kuşaklar emdirilen zırh ya da silahın bonuslarının 5% kadarını absorbe ederler.
+*Asil Kuşaklar emdirilen zırh ya da silahın bonuslarının 10% kadarını absorbe ederler.
+*Kişiye Özel Kuşaklar emdirilen zırh ya da silahın bonuslarının 11% - 25% kadarını absorbe ederler.
+
+Bonus Emilimi penceresine Theowahdan'dan ulaşabilirsin.
+Kuşağı sol, silah/zırhı ise sağ slota yerleştirdikten sonra emilimi yapmış kuşak aşağıda görünecektir.
+Bu işlem sonucunda silahın ya da zırhın bonuslarının ve statülerinin belli yüzdesi(%) kuşağa aktarılır.
+(Tüm ondalık basamaklar azalan şekilde yuvarlanır.)
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=1025; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]4. Bonus Kaldırma
+
+Bir kuşağa yanlış bir silah ya da zırh absorbe etmen durumunda(ki bu herkesin başına gelebilir...belki de gelmez)
+silah ya da zırhı geri alamasan da kuşağın emdiği bonusları Dönüşüm Parşömeni yardımıyla
+temizleyebilirsin.
+
+

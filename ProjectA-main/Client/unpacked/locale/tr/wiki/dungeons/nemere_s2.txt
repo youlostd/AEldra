@@ -1,0 +1,83 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/nemere.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Gereksinimler:
+*Seviye Aralığı: 100 - 105
+*Giriş Eşyası: Geçit Bileti
+[IMG=d:/ymir work/ui/wiki/rahmen.tga; Y=5; X=460]
+[IMG=d:/ymir work/ui/wiki/71095.tga; Y=15; X=482]
+
+
+[X_PADDING=469]Geçit Bileti
+[COLOR=0xffd700;FONT_SIZE=15]Özellikler:
+*Nemere Gözetleme Kulesi, 3 saat bekleme süresine sahiptir.
+*Nemere Gözetleme Kulesi'ne grup halinde ya da bireysel olarak girilebilir.
+*Nemere Gözetleme Kulesi görevi, 60 dakika içerisinde tamamlanmalıdır.
+*Her oyuncu Geçit Bileti'ne sahip olmalıdır.
+
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=150; CENTER_ALIGN]
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 1
+
+[X_PADDING=20]Bütün canavarları öldür.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 2
+[IMG=d:/ymir work/ui/wiki/rahmen_small.tga; Y=240; X=490]
+[IMG=d:/ymir work/ui/wiki/30331.tga; Y=246; X=496]
+
+[X_PADDING=20]Buz Anahtarı elde edene kadar canavarları öldür.
+[X_PADDING=20]Doğru Buz Anahtarı'nı aktifleştir.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 3
+
+[X_PADDING=20]Bütün canavarları öldür.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 4
+
+[X_PADDING=20]Bütün canavarları öldür.
+[X_PADDING=20]Öldürmen gereken 2 canavar dalgası mevcut.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 5
+[IMG=d:/ymir work/ui/wiki/rahmen_small.tga; Y=460; X=490]
+[IMG=d:/ymir work/ui/wiki/30332.tga; Y=466; X=497]
+
+[X_PADDING=20]Kuzey Yıldızı elde edene kadar canavarları öldür.
+[X_PADDING=20]Kuzey Yıldızlarını sürükle ve Arktik Küp'lerin üstüne bırak. Bütün Küpleri yok et.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 6
+
+[X_PADDING=20]Bütün canavarları öldür.
+[X_PADDING=20]Ayaz Metini'ni yok et.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 7
+
+[X_PADDING=20]Doğru Szel'i öldür.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 8
+[IMG=d:/ymir work/ui/wiki/rahmen_small.tga; Y=680; X=490]
+[IMG=d:/ymir work/ui/wiki/30333.tga; Y=686; X=496]
+
+[X_PADDING=20]Buzçiçeği Anahtarı elde edene kadar bütün canavarları öldür.
+[X_PADDING=20]Doğru Buzçiçeği Anahtarı'nı aktifleştir.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 9
+
+[X_PADDING=20]Kuzeyli Ejderha Sütunu'nu yok et.
+[X_PADDING=20]Buz Aslanı'na tıkla.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 10
+
+[X_PADDING=20]Nemere'yi öldür.
+[IMG=d:/ymir work/ui/wiki/Nemere.tga; Y=750; X=402]
+
+
+

@@ -1,0 +1,24 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/jotun.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Gereksinimler:
+*Gereken Seviye: 105
+*Giriş Eşyası: Orman Perisi Taşı
+[RIGHT_ALIGN]Orman Perisi Taşı
+[IMG=d:/ymir work/ui/wiki/30613.tga; Y=5; X=500]
+
+[COLOR=0xffd700;FONT_SIZE=15]Özellikler:
+*Jotun Thrym 'in yenilenme süresi 180 dakikadır.
+*Zindana hem grupla hem tek başına girebilirsin.
+*Binek kullanılamaz.
+*Jotun Thrym öldüğünde 5 ile 10 adet arasında sandık düşebilir.
+
+
+[CENTER_ALIGN;FONT_SIZE=18]Aşamalar:
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=140; CENTER_ALIGN]
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 1
+
+[X_PADDING=20]Bagjanamu 'yu öldür.
+
+[COLOR=ef4f00;FONT_SIZE=15]Phase2
+
+[X_PADDING=20]Jotun Thrym 'i öldür.

@@ -1,0 +1,154 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/dragonstone.tga]
+[CENTER_ALIGN]Ejderha Taşı Simyası, yüksek seviyeli oyuncuların karakterlerini belli yönlerde geliştirmelerine 
+[CENTER_ALIGN]olanak sağlayan bir sistemdir.
+
+[COLOR=0xffd700;FONT_SIZE=15]İçerik Listesi:
+*1. Genel Bilgiler
+*2. Cor Draconis
+*3. Ejderha Taşı Bonusları
+*4. Ejderha Taşı Geliştirmesi
+*5. Ejderha Taşı Yenilemesi
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=130; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Genel Bilgiler
+
+3.1 yamasıyla birlikte, 1.seviyeden itibaren kullanıma açılmıştır. Ejderha Gözü Gücü göreviyle birlikte günlük 200 tane  
+Cor Draconis toplanabilir. Toplanan 10x Ejderha Taşı Parçası otomatik olarak Cor Draconis(ham)'a dönüşür..
+Ejderha Taşı Şimyası penceresi, envanterde bulunan yeşil buton ya da "O" tuşuyla açılır.
+İlk simya sayfası "CTRL + O", ikinci simya sayfası ise "CTRL + P" kısayolları ile aktifleştirilir.
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=250; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Cor Draconis
+
+Bir Cor Draconis(ham); Elmas, Yakut, Yeşim, Safir, Grena ve Oniks türlerinden rastgele bir Ejderha Taşı(ham) içerir.
+Farklı seviyelerde Cor Draconis'ler vardır: Cor Draconis (Ham), Cor Draconis (Yontulmamış), Cor Draconis (Ender), 
+Cor Draconis (Antika) ve Cor Draconis (Efsanevi). Ayrıca farklı türleri de mevcuttur: Cor Atrum (normal), Cor Diamas (normal), 
+Cor Granatum (normal) ,Cor Jadeit (normal), Cor Rubinum (normal), Cor Sapphirum (normal). Bu Cor'lar renklerinde bir Ejderha Taşı içerirler.
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=360; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Ejderha Taşı Bonusları
+
+[CENTER_ALIGN]Ejderha taşlarının iyileştirilebilecek 4 farklı yönü vardır:
+[CENTER_ALIGN]Sınıf: Ham, Yontulmamış, Ender, Antik, Efsanevi.
+[CENTER_ALIGN]Ejderha taşının sınıfı ne kadar yüksek olursa, o kadar fazla  bonusa sahip olur.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]3.1 Saflık: Mat, Parlak, Tertemiz, Mükemmel, Kusursuz.
+
+[X_PADDING=20]Ejderha taşının saflık derecesi ne kadar yüksek olursa, o kadar yüksek bonusa sahip olur.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]3.2 Seviye: +0 - +6
+
+[X_PADDING=20]Ejderha taşının saflık derecesi ne kadar yüksek olursa, o kadar yüksek bonusa sahip olur.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]3.3 Bonus: 2.-5. Bonuslar
+
+[X_PADDING=20]Bir Efsanevi Ejderha Taşı 2 basit bonusa sahiptir, 3 ekstra bonus ile birlikte toplamda 
+[X_PADDING=20]5 bonusa sahip olabilir. Ejderha Taşı bonusları 'Rafine Efsun Nesnesi' ile değiştirilebilir.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]3.4 Maksimum Bonuslar
+
+[COLOR=ef4f00]*3.4.1 Elmas (bütün taşlar):
+
+[X_PADDING=20]*Zeka +10
+[X_PADDING=20]*Buz Dayanıklılığı +10%
+[X_PADDING=20]*Beceri Hasarına Direniş 15%
+[X_PADDING=20]*Beceri Hasarı 15%
+[X_PADDING=20]*Büyülü Saldırı Değeri +15
+[X_PADDING=20]*Büyülü Savunma +15
+
+[COLOR=ef4f00]*3.4.2 Yakut (bütün taşlar):
+
+[X_PADDING=20]*Güç +10
+[X_PADDING=20]*Ateş Dayanıklılığı +10%
+[X_PADDING=20]*Ortalama Zarar +15%
+[X_PADDING=20]*Savunma +100
+[X_PADDING=20]*Saldırı Değeri +120
+[X_PADDING=20]*Ortalama Zarara Direniş +15%
+
+[COLOR=ef4f00]*3.4.3 Yeşim (bütün taşlar):
+
+[X_PADDING=20]*Maks. SP +500
+[X_PADDING=20]*Rüzgar Dayanıklılığı +10%
+[X_PADDING=20]*Maks. HP +2500
+[X_PADDING=20]*Maks. HP +15%
+[X_PADDING=20]*10% Hasar, HP tarafından absorbe edilecek
+[X_PADDING=20]*HP Üretimi +10%
+
+[COLOR=ef4f00]*3.4.4 Safir (bütün taşlar):
+
+[X_PADDING=20]*Çeviklik +10
+[X_PADDING=20]*Toprak Dayanıklılığı +10%
+[X_PADDING=20]*Sura/Savaşçı/Şaman/Ninjalara Karşı Güç +15%
+[X_PADDING=20]*Sura/Savaşçı/Şaman/Ninja saldırılarına karşı savunma şansı: +15%
+
+[COLOR=ef4f00]*3.4.5 Grena (bütün taşlar):
+
+[X_PADDING=20]*Maks. HP +1500
+[X_PADDING=20]*Şimşek Dayanıklılığı +10%
+[X_PADDING=20]*Maks. SP +1800
+[X_PADDING=20]*Maks. SP +15%
+[X_PADDING=20]*10% Hasar, SP tarafından absorbe edilecek
+[X_PADDING=20]*SP Üretimi +10%
+
+[COLOR=ef4f00]*3.4.6 Oniks (bütün taşlar):
+
+[X_PADDING=20]*Canlılık +10
+[X_PADDING=20]*Karanlık Dayanıklılığı +10%
+[X_PADDING=20]*Kritik Hasara Direniş +10%
+[X_PADDING=20]*Delici Hasara Direniş +10%
+[X_PADDING=20]*Yakın dövüş saldırıları bloklama şansı: +10%
+[X_PADDING=20]*Yakın dövüş vuruşlarını yansıtma şansı: +10%
+[X_PADDING=20]*Oklardan korunma şansı +10%
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=1330; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]4. Ejderha Taşı Geliştirmesi
+
+Sylendiği gibi ejderha taşlarının iyileştirilebilecek 4 farklı yönü vardır. Başlamak gerekirse,  
+Sınıf -> Saflık Derecesi -> Seviye sırasına göre geliştirilmelidir. Bir Ejderha Taşının sınıfını geliştirmek için, 
+aynı sınıfta taşlara sahip olmalısın. Bu işlem için gereken ejderha taşını gerekli bölgeye koyun ve "Arındır"
+ya da "Tümünü Rafine Et" butonuna basın. Ejderha Taşı Efsanevi olduktan sonra, taşın saflık derecesini geliştirmeye başlayabilirsin.
+Bir Ejderha Taşının saflık derecesini geliştirmek için, aynı saflıkta birçok taşa ihtiyacın olacak. Bu işlem için gereken ejderha taşını 
+gerekli bölgeye koyun ve "Arındır" butonuna basın. Ejderha Taşı Kusursuz olduktan sonra, taşın seviyesini arttırmaya
+başlayabilirsin. Bir Ejderha Taşının seviyesini geliştirmek için, Yeşil Ejderha Fasulyesi ya da Mavi Ejderha Fasulyesi ya da Pembe Ejderha
+Fasulyesine ihtiyaç vardır. Bu işlem için gereken ejderha taşını ve fasulyeyi gerekli bölgeye koyun ve "Arındır" butonuna basın. Bu işlem
+başarısız olabilir bu durumda taşın seviyesi 1 derece düşer. Hatırlatma: Mavi ve Pembe Ejderha Fasulyeleri daha 
+yüksek geliştirme şansına sahiptir, ancak başarısız olma durumunda seviyesi yine düşer.
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=1525; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]5. Ejderha Taşı Yenilemesi
+
+Süre Kerpeteni, Süre Özütü (K) üretmene olanak sağlar. Üretmek için, kerpeteni kuşanılmamış bir ejderha taşına
+sürükle. (taş, ejderha taşı envanterinden kaldırılır ve süre özütü envantere gelir.)
+Bu işlem başarısız olabilir. Ayrıca Süre Özütü(O) eşyasını Altın Decimus Sandığı, Kristal Ejderha Kralı, 
+Ağaç Savaşı Pasosu(Görev: 'Denizkızı Adası'), Görevi Kitabı (zor) ve Kawuco'dan elde edebilirsin.
+Ayrıca Süre Özütü(B) eşyasını da Kawuco'dan üretebilirsin. Ejderha Taşının süresi dolduğunda, taş 
+kullanılamaz hale gelir ve süresi doldurulana kadar özellik vermez. Taş yok olmaz.
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=1660; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]6. Simya Seti Bonusu
+
+6 tane Ejderha Taşı+6 kuşandığında Simya Seti Bonuslarına sahip olursun: 
+
+*Maks. HP +2500 
+*Yarı İnsanlara Karşı Güç +10%
+*Metin Taşlarına Karşı Güç +10%
+
+
+

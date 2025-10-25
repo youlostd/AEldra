@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Games\Metin2\Aeldra\Tools\libjpeg-master\build\CMakeFiles\39dbd6039d2d3ba8ee39c9de6409b335\PACKAGE_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{3C75AFB3-770C-376A-8137-13CA2E62C633}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

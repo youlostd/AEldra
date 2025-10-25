@@ -1,0 +1,39 @@
+*3.Personalizari & Combinatii.
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=100; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1.Misiunea "Personalizeaza-te".
+
+Descriere: Du-te la Negustorul Gaya.
+Misiune: Distruge 250 de Pietre Metin cu nivel de peste 85.
+Recompensa: Ai voie sa schimbi culoarea unui skill ales de tine.
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=200; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Cum sa iti personalizezi abilitatile.
+
+Folosind o Vopsea, iti poti selecta o abilitate pe care sa o personalizezi (incluzand abilitatile lui Buffi).
+Cand ai deblocat paletele de culor, apesi click dreapta si alegi toate culorile care iti plac pentru abilitatea ta.
+Oricand doresti, poti reseta culoarea abilitatilor la cele standard apasand pe botul "Standard".
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=295; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3.Personalizari & Combinatii.
+
+O abilitate consta intr-o combinatie de mai multe campuri. Cu scopul de a avea o individualitate mai mare, am impartit fiecare abilitate in 5 campuri diferite pe care le poti colora, obtinand o abilitate 100% personalizata.
+Daca schimb doar 1 din cele 5 campuri, asta nu inseamna ca abilitatea ta va fii 100% culoarea pe carea ai ales-o.
+Doar o parte din aceasta o sa fie. Deci mai bine incepe sa te joci cu culorile..
+
+[IMG=d:/ymir work/ui/wiki/divider_small.tga; Y=410; CENTER_ALIGN]
+
+[COLOR=ef4f00;FONT_SIZE=15]3.1 Combinatii frumoase.
+
+[X_PADDING=20]*0% Rosu + 0% Verde + 0% Albastru = Negru.
+[X_PADDING=20]*100% Rosu + 100% Verde + 100% Albastru = Alb.
+[X_PADDING=20]*100% Rosu + 100% Verde + 0% Albastru = Galben.
+[X_PADDING=20]*100% Rosu + 0% Verde + 100% Albastru = Violet.
+[X_PADDING=20]*0% Rosu + 100% Verde + 100% Albastru = Albastru deschis.
+[X_PADDING=20]*50% Rosu + 50% Verde + 50% Albastru = Gri.
+
+[X_PADDING=20]Continua sa colorezi ! 

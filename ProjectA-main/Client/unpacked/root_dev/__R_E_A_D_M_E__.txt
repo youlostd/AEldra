@@ -1,0 +1,31 @@
+The files here wont be uploaded to the live server. If you are using the uncythonized launcher
+(which is most likely for dev server) this files will be used when you pack root_dev.
+
+Otherwise they will be cythonized. To do that select Cython_live configuration in visual studio, or
+go to source\client\cython and run runcythonize.py (you have to install python27 first and add (if not
+exists) python to your enviroment variables (pointing to python.exe) and PYTHONPATH (pointing to 
+the python root folder))
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+By default the cythonizer will only rebuild the new/modified files, but if there is an error durning
+the process its recommended to do a full rebuild (the cythonizer wont miss any file but the
+compiler would since I just pass the new files to it in a txt manually)
+
+To perform a full rebuild first run the FullClear.bat manually inside cython\root or uiscript\cyTemp
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+If you remove a .py file do a full rebuild with the cythonizer or just remove its files from
+Source\client\cython\root or uiscript lib\cyTemp (its not important however, wont have any negative
+effect except on the size of the .exe)
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+The cythonizer is              C  A  S  E       S  E  N  S  I  T  I  V  E             for filenames
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+which means if you add a new file lets say newfile.py and you use it like "import newFile" then 
+the filename have to be newFile.py or you can add it to the 
+Source\client\cython\RootLib\rootlibcythonizer.py's capNameList. (this is not necessary for uiscript
+files)

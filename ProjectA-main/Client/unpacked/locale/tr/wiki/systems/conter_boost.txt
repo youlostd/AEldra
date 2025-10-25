@@ -1,0 +1,54 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/conterboost.tga]
+[CENTER_ALIGN]Güçlendirme ve Misilleme becerileri karakterini belli bir doğrultuda geliştirmeni sağlar. 
+[CENTER_ALIGN]Böylelikle karakterine bazı özel beceriler öğretebilirsin.
+
+
+[COLOR=0xffd700;FONT_SIZE=15]İçerik Listesi:
+*1. Genel Bilgiler & Nasıl Öğrenilir
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=90; CENTER_ALIGN]
+
+
+
+[COLOR=ef4f00;FONT_SIZE=15]1. Genel Bilgiler
+[X_PADDING=20]*Güçlendirme ve Misilleme becerileri karakterinin saldırı ve savunmasını daha da geliştirmeni sağlayacak eşsiz bir yoldur.
+[X_PADDING=20]*1 Güçlendirme ve 8 Misilleme becerisini, P1 seviyesine kadar geliştirebilirsin.
+[X_PADDING=20]*Beceriyi 0'dan M1 seviyesine geliştirebilmek için o becerinin 20 beceri kitabını okumalı ya da 20 Beceri Puanı'nı bu beceri için feda etmelisin.
+[X_PADDING=20]*Beceriyi M1 seviyesinden G1 seviyesine geliştirebilmek için toplamda 55 Güçlendirme ya da Misilleme kitabı okumalısın.
+[X_PADDING=20]*Beceriyi G1 sevyesinden P1 seviyesine geliştirebilmek için Ruh Taşı+ kullanmalısın.
+[X_PADDING=20]*Bu kitapları okurken Kötü Ruh Kovma Kağıdı ve Münzevi Tavsiyesi yerine
+[X_PADDING=20]Efsanevi Kötü Ruh Kovma Kağıdı ve Efsanevi Münzevi Tavsiyesi kullanmalısın.
+
+[IMG=d:/ymir work/ui/wiki/divider_small.tga; Y=230; CENTER_ALIGN]
+
+
+[COLOR=ef4f00;FONT_SIZE=15]1.1 Misilleme Becerileri
+[X_PADDING=20]Misilleme becerileri belli bir beceriden alınan hasarı düşürür. Beceriler:
+[X_PADDING=20]*Kılıç Çevirme
+[X_PADDING=20]*Şimşek Çağırma
+[X_PADDING=20]*Karanlık Vuruş
+[X_PADDING=20]*Ateşli Ok
+[X_PADDING=20]*Ruh Vuruşu
+[X_PADDING=20]*Ejderha Atışı
+[X_PADDING=20]*Parmak Darbesi
+[X_PADDING=20]*Suikast
+[X_PADDING=20]Beceri ne kadar çok geliştirilirse alınan hasar o kadar azalır.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_small.tga; Y=400; CENTER_ALIGN]
+
+[COLOR=ef4f00;FONT_SIZE=15]1.2 Güçlendirme Becerileri
+[X_PADDING=20]Güçlendirme becerileri, belli bir becerinin verdiği hasarı arttırır. Beceriler:
+[X_PADDING=20]*Bedensel Savaşçı: Kılıç Çevirme.
+[X_PADDING=20]*Zihinsel Savaşçı: Ruh Vuruşu.
+[X_PADDING=20]*Büyülü Silah Sura: Parmak Darbesi.
+[X_PADDING=20]*Kara Büyü Sura: Karanlık Vuruş.
+[X_PADDING=20]*Bıçakçı Ninja: Suikast.
+[X_PADDING=20]*Okçu Ninja: Ateşli Ok.
+[X_PADDING=20]*İyileştirmeci Şaman: Şimşek Çağırma.
+[X_PADDING=20]*Ejderha Gücü Şaman: Ejderha Atışı.
+[X_PADDING=20]Yalnızca 1 güçlendirme becerisine sahip olabilirsin. Bu beceri sınıfına bağlı olarak otomatik seçilir.
+[X_PADDING=20]Beceri ne kadar çok geliştirilirse becerinin verdiği hasar o kadar artar.
+
+
+

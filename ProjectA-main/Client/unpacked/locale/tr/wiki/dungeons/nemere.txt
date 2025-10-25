@@ -1,0 +1,44 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/nemere.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Gereksinimler:
+*Gereken Seviye: 95-109
+*Giriş Eşyası: Buzlu Geçit Mührü
+[RIGHT_ALIGN]Buzlu Geçit Mührü
+[IMG=d:/ymir work/ui/wiki/31089.tga; Y=5; X=500]
+
+[COLOR=0xffd700;FONT_SIZE=15]Özellikler:
+*Zindanın yenilenme süresi 90 dakikadır.
+*Bu zindana hem grupla hem tek başına girebilirsin.
+*Zindanı 60 dakika içerisinde tamamlamalısın.
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18]Aşamalar:
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=140; CENTER_ALIGN]
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 1
+
+[X_PADDING=20]Bütün Ayaz Metinlerini yok et ve Kuzey Yıldızı'nı küpe sürükle.
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 2
+
+[X_PADDING=20]Bütün canavarları yok et.
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 3
+
+[X_PADDING=20]Metin taşını yok et.
+[X_PADDING=20]Hatırlatma: Metin taşları ışınlanabilir.
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 4
+
+[X_PADDING=20]Szel'i yok et.
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 5
+
+[X_PADDING=20]10x Buz Anahtarı elde edene kadar canavarları yok et.
+[X_PADDING=20]Anahtarları Buz Aslanı'na sürükle.
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 6
+
+[X_PADDING=20]Nemereyi öldür.
+
+

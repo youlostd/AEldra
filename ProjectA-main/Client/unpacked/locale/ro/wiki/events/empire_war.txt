@@ -1,0 +1,42 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/empirewar.tga]
+[CENTER_ALIGN;FONT_SIZE=18]Razboiul imperiilor
+
+[COLOR=0xffd700;FONT_SIZE=15]Continut 
+*1. Informatii Generale
+*2. Instructiuni
+*3. Recompense
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=100; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Informatii Generale:
+
+Razboiul imperiilor este un eveniment de tip Open PVP care are loc intr-o harta speciala.
+Fiecare jucator de cel putin nivelul 75 poate participa si lupta pentru imperiul sau, impotriva celorlalte doua imperii.
+Teleportarea in aceasta mapa se face cu ajutorul unei ferestre care apare in mijlocul ecranului, cand portile au fost deschise. Imperiul, care dupa 20 de minute are cel mai bun scor, va castiga razboiul Imperiilor
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=200; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Instructiuni
+
+Cand te teleportezi in aceasta mapa speciala, o sa realizezi ca toti ceilalti jucatori, in afara de cei din imperiul tau, iti sunt inamici. Hei prietene! Nu iti uita armele acasa. Nu exista nici o zona sigura care sa te protejeze, asa ca fi sigur sa iti echipezi accesoriile bune la timp. Timpul se scurge. Nu uita ca golul este sa atingi cel mai bun raport de Eliminari/Decese in 20 de minute. Atat timpul cat si performanta imperiului tau sunt critice.
+Pentru binele tuturor, urmatoarele iteme sunt dezactivate in timpul bataliei:
+
+*Sigiliu Buffi
+*Mounti
+*Inel de Nunta
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=380; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Recompense
+
+Imperiul care atinge cel mai bun raport Ucideri/Decese castiga Razboiul Imperiile primeste urmatoarele rate timp de 6 ore:
+
+*100% Experienta
+*10% Tare impotriva pietrelor metin
+*10% Tare impotriva bossilor
+Nota: Schimbarea regatului este dezactivata timp de 6 ore dupa Razboiul Imperiilor.
+
+

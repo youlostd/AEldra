@@ -1,0 +1,7 @@
+import sys
+sys.dont_write_bytecode = True
+
+from bin import pack
+
+x = pack.Packer("Client")
+x.Run()

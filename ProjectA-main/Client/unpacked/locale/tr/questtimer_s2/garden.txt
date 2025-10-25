@@ -1,0 +1,44 @@
+[COLOR r;255|g;195|b;0]"Özellikler"[/COLOR r;255|g;195|b;0][ENTER]
+Zindanı tamamlamak için sadece 45 dakikan var!
+[ENTER]
+[COLOR r;0|g;195|b;255]Aşama 1[/COLOR r;255|g;195|b;0][ENTER]
+Bütün canavarları ve metin taşlarını yok et.[ENTER]
+Zehiri, Eski Konteyner'a sürükle.[ENTER]
+Sonra, anahtarla geçidi aç.
+[ENTER]
+[COLOR r;0|g;195|b;255]Aşama 2[/COLOR r;255|g;195|b;0][ENTER]
+4 metin taşını ve ardından çıkacak canavar dalgasını yok et.[ENTER]
+Son olarak, bitkiyi öldür ve anahtarla geçidi aç.
+[ENTER]
+[COLOR r;0|g;195|b;255]Aşama 3[/COLOR r;255|g;195|b;0][ENTER]
+Bu aşamadaki amaç tüm Büyülü Kaynakları yok etmek.[ENTER]
+Bütün canavarları ve sonra metin taşını yok et.[ENTER]
+Düşürülen taşı Büyülü Kaynağın üzerine sürükle.[ENTER]
+Sonra metin taşlarını tekrar yok et ve düşürdüğün
+anahtarı Büyülü Kaynağın üzerine sürükle.[ENTER]
+Bütün canavarları ve sonra metin taşını yok et.[ENTER]
+Düşürdüğün taşı Büyülü Kaynağa sürükle ve ortaya çıkan
+2 bitkiyi yok et.[ENTER]
+Düşürdüğün taşı Büyülü Kaynağa sürükle ve ortaya çıkan
+bitkileri yok et.[ENTER]
+Son olarak, düşürdüğün taşı Büyülü Kaynağa sürükle
+ve anahtarla geçidi aç.[ENTER]
+[ENTER]
+[COLOR r;0|g;195|b;255]Aşama 4[/COLOR r;255|g;195|b;0][ENTER]
+4 metin taşını ve ardından çıkacak canavar dalgasını yok et.[ENTER]
+Ve tekrarla, bütün metin taşlarını ve yeni canavar dalgalarını yok et.[ENTER]
+Son olarak, Raguwan'ı öldür ve düşürdüğün anahtar ile geçidi aç.[ENTER]
+[ENTER]
+[COLOR r;0|g;195|b;255]Aşama 5[/COLOR r;255|g;195|b;0][ENTER]
+Yerdeki Zehirlenmiş Botani'ye tıkla.[ENTER]
+Sonra, bütün canavarları yok et.[ENTER]
+Elde ettiğin bahçe suyunu, Zehirlenmiş Botani'ye götür.
+Şimdi, mantarları ara. Onlara tıkla ve Zehirlenmiş Botani'ye mantar getir.[ENTER]
+Son olarak, düşürdüğün taş ile geçidi aç.[ENTER]
+[ENTER]
+[COLOR r;0|g;195|b;255]Aşama 6[/COLOR r;255|g;195|b;0][ENTER]
+Kötü Bahçe Ateşi elde edene kadar bütün canavarları ve metin taşlarını yok et.
+Sonra onu al ve Kovan'ın içine sürükle. [ENTER]
+Bütün kovanları yok et ve Lanetli Arılar'ı öldür.[ENTER]
+Kötü Bahçe Ateşi yardımıyla bütün Kovan'ları yok et.[ENTER]
+Raguwan'ı ve bölüm sonu patronunu öldür.[ENTER]

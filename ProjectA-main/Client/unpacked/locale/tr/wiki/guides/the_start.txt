@@ -1,0 +1,254 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/thestart.tga]
+[CENTER_ALIGN]Sevgili acemi.
+[CENTER_ALIGN]Bu kılavuzda, oyuna yeni başlamanızla alakalı bilgiler edinip
+[CENTER_ALIGN]günden güne nasıl daha güçlü olabileceğini öğreneceksin.
+
+[COLOR=0xffd700;FONT_SIZE=15]İçerik Listesi:
+*1. Başlamadan Önce Temel Sunucu Özellikleri ve Sistemleri
+*2. Savaş Pasosu, İlk Görevler ve Eğitim
+*3. Toplamaya Başladığınız ve Almanız Gereken Eşyalar
+*4. Seviye Atlamanın Yolları: 30Lv, 50Lv, 75Lv+
+*5. Hasarımı Nasıl Arttırabilirim?
+*6. İlk Zindan Tecrübesi
+*7. Nasıl Milyoner Olurum?
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=160; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Başlamadan Önce Temel Sunucu Özellikleri ve Sistemleri
+
+Başlangıçta, sunucumuzdaki yenilikleri ve temel özellikleri nasıl kullanacağınızı keşfetmek için zaman ayırmalısınız. 
+Bu bir yarış değil, bir an önce seviye atlamaya çalışmayın! Ayrıca, Aeldranın maceralarına atılmadan önce şehri iyice gezip tüm NPCleri keşfetmeyi unutmayın.
+Bizden, başlangıç hediyesi olarak oyuna daha kolay bir başlangıç yapabilmeniz adına 7 günlük binek, evcil hayvan, kostüm vb. eşyalar alacaksınız.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]1.1. Depolar, Pazar Arama ve Efsun Botu
+
+Envanterinizi açtığınızda (I), sol üst köşede 3 yeni buton göreceksiniz. Hadi ne olduklarını inceleyelim.
+İlk buton sizin deponuzu açacaktır. 5 farkı depo kısmı bulunur: Materyaller, Kitaplar, Taşlar, Efsunlar ve Kostümler. 
+Yerden topladığınız eşyalar, envanterinizi düzenli ve temiz tutabilmeniz için otomatik olarak ait olduğu depoya toplanacaktır.
+İkinci buton Pazar Arama sayfasını açar. Bu sizin favori butonunuz olacak, çünkü oyunun bütün evrelerinde kullanıyor olacaksınız.
+Pazar arama sistemi, sizin için tüm pazarları arayıp en iyi fiyatta satılanı bulur ve satın alma olanağı sağlar.
+Aramış olduğunuz eşyanın üzerine tıklayarak o eşyayı satan pazarın haritadaki konumunu öğrenebilirsiniz. Hadi deneyin,bu sistem bedavadır!
+Son olarak üçüncü buton Efsun Botunu açacaktır. Burada her şey çok basit. Efsunlamak istediğin eşyayı sürükle bırak, istediğin bonusları seç ve bırak sistem senin için istediğin bonuslar gelene kadar efsun atsın.
+
+[COLOR=ef4f00;FONT_SIZE=15]1.2. F6 Kısayolu - Görev Zamanlayıcısı
+
+Olabildiğince fazla bilgi toplamak ve bunları işlevsel hale getirmek için benzersiz bir sistem tasarladık. 
+F6 tuşuna basarak bu sistemi gözlerinizin önüne getirebilirsiniz.
+Bu sistemde biyolog görevlerinizi, zindan girişlerinizi ve bekleme sürelerini kontrol edebilirsiniz. 
+Sizce de süper değil mi? Bu sistemi zamanlayıcıları kontrol etmek ve ilgili yerlere ışınlanmak için kullanın. 
+
+
+[COLOR=ef4f00;FONT_SIZE=15]1.3 Bonus İçin Oyla
+Şimdiye kadar, 'Bonus İçin Oyla' adında bir göreviniz olduğunu fark etmiş olmalısınız. 
+Web sitemize giriş yaparak sunucumuzu oylayabilir ve görevler kısmından 24 saatlik bir bonusa sahip olabilirsiniz.
+Merak etmeyin... 24 saat sonra bu işlemi tekrarlayıp aşağıdaki bonuslardan birine sonsuza kadar sahip olabilirsiniz:
+
+*20% Tecrübe Bonusu
+*20% Hayvanlara Karşı Güç
+*20% Eşya Düşürme Şansı
+
+
+[COLOR=ef4f00;FONT_SIZE=15]1.4 Dükkan
+
+Envanterinizde bir 'Dükkan' düğmesi olduğunu farketmişsinizdir.
+100.000 yang vererek bir dükkan oluşturabilirsiniz. Oradan çevrimiçi olmanıza gerek olmaksızın eşyalarınızı satabilirsiniz. 
+Yapmanız gereken yalnızca eşyalarınızı dükkana koyup birilerinin sizi zengin etmesini beklemek!
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=703; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Savaş Pasosu, İlk Görevler ve Eğitim
+
+Bir çırak sandığına sahip olmadığınızı da farketmişsinizdir. Kim ihtiyaç duyuyormuş ona?
+Sizin Savaş Pasonuz var.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]2.1 Savaş Pasosu
+
+Bu eşyaya sağ tıklayarak, 7 normal ve 3 efsanevi görev edineceksiniz. Bu, büyük ihtimalle başlangıçtaki bir oyuncu için en önemli özellik.
+Her görevi tamamlamanız oldukça basit ve karşılığında: Rün Eşyaları, Usta Kuşağı (kişiye özel), Cor Draconis(efsanevi) ve benzeri eşyalar kazanabilirsiniz.
+Bu görevi bir an önce başlatmalısınız.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]2.2 İlk Görevler
+Tamam, savaş pasosuyla ilgili her şeyi çözdük. Peki ya diğer görevler?
+5. seviyeyi geçtiğiniz anda görev yolculuğunuz başladı demektir. Uriel ve Biyolog sürekli sizinle iletişim halinde olacak,
+dolayısıyla onları sıkça kontrol etmeyi unutmayın.
+Daha sonra bazı değerli ödüllerin keyfini çıkarabilmeniz için, görevleri erkenden bitirmenizde fayfa var!
+
+[COLOR=ef4f00;FONT_SIZE=15]2.3 Eğitim
+5. seviyeye ulaştığında, beceri sınıfını seçersin ve eğitimin başlar. Yeteneklerin M1 olana kadar puanlarını ver,
+ardından daha da geliştirmek için öğretmenden edineceğin kitapları kullan.
+Hong-Hae 'den Kötü Ruh Kovma Kağıdı ve Münzevi Tavsiyesi almayı unutma. Her şey sizin istediğiniz gibi!
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=1025; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Toplamaya Başladığınız ve Almanız Gereken Eşyalar
+
+[COLOR=ef4f00;FONT_SIZE=15]3.1 Kristaller
+Bu zamana kadar bir kaç metin kırıp onlardan kristal parçaları düştüğünü farketmişsinizdir (Materyal Deponuzda)
+Bunun için güzel bir sebep var. Turmalin, Zümrüt, Safir, Yakut ve Grena Kristaller, NPClerde ikinci bir para birimi gibi çalışırlar.
+İşte bu yüzden size bu kadar toplama olanağı sağlıyoruz, her zaman kolaylıkla istediğiniz eşyayı satın alabilin diye.
+Bizim önerimiz her zaman onları kendiniz için saklamanız yönünde,
+Fakat paranız azaldığında onları satmanız da sizin için kullanışlı olabilir.
+Pazar arama sistemini kullanarak satacağınız kristallerin ortalama fiyatlarını kontrol etmeyi unutmayın,
+Bu şekilde 	kazıklanmazsınız.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]3.2 Büyü Sandığı ve Bitki Sandığı
+Bu güzel görünen sandıklar tam da size layık.
+Büyü sandıkları size ekipmanlarınızı geliştirebilmeniz için Efsun Nesnesi, Arttırma Kağıdı ve Kutsama Küresi sağlar.
+Bitki Sandıkları size Huahn-So (Jayang, Bokjung, Bakra) NPCsinde şebnem oluşturabilmeniz için gereken tüm eşyaları sağlamaktadır.
+İki sandıkta hem yeni başlayanlar hem de ileri oyun için çok gerekli sandıklardır.	
+
+[COLOR=ef4f00;FONT_SIZE=15]3.3 Satın almanız gereken eşyalar
+Bu eşyalardan bahsetmek için henüz erken, fakat sağlam bir hedefinizin olması neye yönelmeniz konusunda epey yardımcı olacaktır: 
+
+*80. seviye kasklar
+[COLOR=808476;X_PADDING=20]*Beran-Setaou 'dan elde edilebilir.
+
+*Titan Kalkanı
+[COLOR=808476;X_PADDING=20]*Beran-Setaou ve Azrail 'den elde edilebilir.
+
+*Ruh Kristali Kolye
+[COLOR=808476;X_PADDING=20]*Azrail ve Ork Labirenti 'nden elde edilebilir.
+
+*Ruh Kristali Bilezik
+[COLOR=808476;X_PADDING=20]*Azrail ve Ork Labirenti 'nden elde edilebilir.
+
+*Ruh Kristali Küpe
+[COLOR=808476;X_PADDING=20]*Azrail ve Ork Labirenti 'nden elde edilebilir.
+
+*Keten Kemer
+[COLOR=808476;X_PADDING=20]*Simyacıdan oluşturabilirsiniz.
+
+Başlangıçta elde ettiğiniz şeyler sonsuza kadar sizinle olmayacak,
+Aşağıdaki 3 şey için para biriktirmeye başlasanız iyi edersiniz.
+
+*Cesur Domuz Mührü:
+[COLOR=808476;X_PADDING=20]*30% Metin Taşlarına Karşı Güç
+
+*Bebek Aslan Mührü:
+[COLOR=808476;X_PADDING=20]*Maks. HP 2.000
+[COLOR=808476;X_PADDING=20]*Hayvanlara Karşı Güçlü 15%
+[COLOR=808476;X_PADDING=20]*Metinlere Karşı Güçlü 10%
+
+*Buffi:
+[COLOR=808476;X_PADDING=20]*Sizi her yerde takip edip durmadan buff veren bir şaman.
+[COLOR=808476;X_PADDING=20]*Yetenekleri en fazla P olabilir.
+[COLOR=808476;X_PADDING=20]*En yüksek seviyede sağladığı bonuslar 35% değerindedir.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=1720; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]4. Seviye Atlamanın Yolları: 30Lv, 50Lv, 75Lv+
+
+İşte burada seviyenizi yükseltmek için en uygun ve kolay yerler:
+
+[COLOR=ef4f00]Seviye 1 - Seviye 30
+*Shinsoo
+*Yajang
+
+*Chunjo
+*Bokjung
+
+*Jinno
+*Bakra
+
+[COLOR=ef4f00]Seviye 30 - Seviye 42
+*Seungryong Vadisi
+*Örümcek Zindanı 1
+*Örümcek Zindanı 2
+
+[COLOR=ef4f00]Seviye 42 - Seviye 61
+*Sohan Dağı
+*Hwang Tapınağı
+*Örümcek Zindanı 2
+*Örümcek Zindanı 3
+
+[COLOR=ef4f00]Seviye 61 - Seviye 81
+*Hayalet Orman
+*Kızıl Orman
+*Örümcek Zindanı 3
+
+[COLOR=ef4f00]Seviye 81 - Seviye 90
+*Kızıl Orman
+*Sürgün Mağarası 1
+*Sürgün Mağarası 2
+
+Unutmayın; seviyenizi en üstlere taşımak, eşya düşürme konusunda her zaman sizi tatmin etmeyecektir. Örneğin:
+Zaman ayırıp Örümcek Zindanında değil de Hayalet / Kızıl Ormanda seviye kasmanız sizin için daha iyi olacaktır,
+çünkü Hayalet / Kızıl orman yang cennetiniz olacaktır.
+Bu rehber 'Başlangıç' için hazırlanmış bir rehberdir, bu sebeple daha ileri seviyeleri burada açıklamayalım.
+
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=2230; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]5. Hasarımı Nasıl Arttırabilirim?
+
+Bu noktada, hasarınız sizi rahatsız etmeye başlayacaktır.
+Vaktin nakit olduğunu fark edecek ve ulaşabileceğiniz en iyi sonuca ulaşmaya çalışacaksınız.
+
+O halde, buyrun size rehberlik edelim:
+
+[COLOR=ef4f00;FONT_SIZE=15]5.1 Hava Kılıcı / Büyülü Keskinlik L
+Eğer bir Büyülü Silah Sura veya Bedensel Savaşçı iseniz, bu iki yetenekleri en yüksek seviye yapmanız gerekir.
+En yüksek seviye, şaşırtıcı şekilde, P değildir. Yetenekler Efsanevi Ruh Taşı ile L (Legendary) 'ye kadar yükseltilebilir.
+
+[COLOR=ef4f00;FONT_SIZE=15]5.2 Bonus İçin Oyla (20% Hayvanlara Karşı Güç)
+Bu noktaya kadar, 20% EXP Bonusu hiçte fena değildi. Fakat eğer metinlerden gelen kaynağınızı arttırmak istiyorsanız %20 Hayvanlara Karşı Güç bonusu tam size göre! 
+
+[COLOR=ef4f00;FONT_SIZE=15]5.3 Ejderha Taşı Simyaları
+Simyalara uyum sağlamaya başlayacak kadar 'Cor Draconis' biriktirmişsindir. Sıradaki hedefin en az 15 Ortalama Hasar,
+120 Saldırı Değeri ve Savunmalı bir Efsanevi Ejderha Yakutu oluşturmak olmalı. Bunun üzerinde çalış.
+
+[COLOR=ef4f00;FONT_SIZE=15]5.4 En az %13 ortalama hasarlı bir kuşak.
+Bahsedilen kuşak tam size göre, bu doğru. Hasarınızı en üstlere çıkarmak için en az
+%13 Ortalama Hasar ve +3 Güç içeren bir kuşak bulmalısınız.
+
+[COLOR=ef4f00;FONT_SIZE=15]5.5 Rün Sistemi (F5)
+Rün Sistemi karmaşık bir sistemdir ve başka bir kılavuzda ayrıntılı olarak açıklanmıştır. Yine de, özetle, 
+size kesinlikle ihtiyacınız olacak olan %20 değerlerinde PvE bonusları sağlamaktadır. Rünler için hazırladığımız rehbere göz atmayı unutmayın.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]5.6 Şebnemler
+Şebnem oluşturmak oyunumuzun olmazsa olmazıdır ve Huahn-So 'da mutlaka denemelisiniz!
+İlerde, şebnemlerinizi onların sınırsız versiyonlarını oluşturmak için kullanacaksınız.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=2650; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]6. İlk Zindan Tecrübesi
+
+Şimdiye kadar hiç bir zindanın yanından geçmediğinizi düşünüyorsunuz değil mi? Yanlış!
+30. seviyeden itibaren zindanlara giriş yapmaya başlayabilirsiniz.
+Ork Labirenti, Örümcek Baroness ve Azrail, başlangıç için ideal zindanlardandır.
+Zindanlara giriş yapmadan önce 'Zindanlar' rehberine göz atmanızda fayda var.
+
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=2750; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]7. Nasıl Milyoner Olurum?
+
+Bu noktada, sizin zaten bir milyoner olabilmeniz için güzel bir şansınız var.
+Fakat oyunun erken safhalarında yeterince zengin olmak için neler yapmamız gerekiyor?
+Elbette bazı ipuçlarımız var. Hayalet / Kızıl Orman, daha önce de belirttiğimiz gibi
+85.seviye civarındaki oyuncular için tam bir yang cennetidir.
+Peki neden? Çünkü bu haritalardaki metinlerden kolayca Zümrüt Kristali ve Yang Kuponları elde edebilirsiniz.
+Zümrüt Kristali yalnızca 90.seviye metinlere kadar düşebiliyor, dolayısıyla bu haritada onları bolca farmlamalısın.
+Ayrıca Zümrüt Kristaller; Ruh Kristali eşyaları, 75.seviye silahlar ve diğer ekipmanlarını
+kolayca satın almana yardımcı olacak fiyatlarda satılabiliyor.
+Bilge, yaşlı bir adam bir keresinde şöyle dedi:
+Yukarıda bahsedilen, ilerde işine yarayacak tüm eşyaları satın alana kadar Kızıl Ormanda kal.
+Ardından macerana 90.seviye haritalarda devam et.
+Buraya kadar her şey mükemmel gittiyse, artık 105. seviye ve üzeri
+için hazırlamış olduğumuz rehberimizi okuyabilirsiniz. İyi eğlenceler!
+
+
+
+ 

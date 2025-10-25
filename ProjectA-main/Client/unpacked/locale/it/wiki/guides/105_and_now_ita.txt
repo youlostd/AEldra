@@ -1,0 +1,123 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/105andnow.tga]
+[CENTER_ALIGN]Fellow Aeldra players,
+[CENTER_ALIGN]Se stai leggendo questa guida, c'è una grande possibilità che tu ti perda da qualche parte nelle
+[CENTER_ALIGN]avventure di aeldra. lascia che questa ti guida ti mostri come procedere..
+
+
+[COLOR=0xffd700;FONT_SIZE=15]Content List:
+*1. Le avventure dopo 105Lv e il Battlepass dell'Albero
+*2. Cos'hanno quei costumi?
+*3. Una breve spiegazione dei sotterranei
+*4. Equipaggiamento Tormalina
+*5. Come sconfiggere quelle scimmie.
+*6. Ho finito il server ora?
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=160; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Le avventure dopo 105Lv e il Battlepass dell'Albero
+
+A questo punto, sei considerato un giocatore di fascia media dal momento che sei vicino a raggiungere il massimo livello. 
+Anche se, probabilmente avrai notato che le cose si fanno un po' più impegnative...
+
+
+[COLOR=ef4f00;FONT_SIZE=15]1.1 Foresta incantata e foresta oscura
+
+Ora sei in grado di teletrasportarti sulle tue nuove mappe, Foresta incantata & Foresta Oscura. Queste mappe sono piene 
+di piccoli tesori che scoprirete uno per uno. In primo luogo, è necessario regolare l'equipaggiamento, 
+perché come detto prima: Le cose diventano un po 'più impegnative. I mostri qui non hanno un 
+bonus di razza attiva, anche se sono etichettati 'Terra', il che significa che un Talismano della Terra +49 è ottimo da usare. 
+Inoltre, il loro danno è aumentato in modo notevole, rispetto alle mappe  di 90Lv, massimizzando la tua 'Possibilita di blocco corporale', 
+'Max. HP' e bonus 'Assorbiti da HP' sarà utile per reggere il loro danno. Un Onice Leggendario del Drago & Giada (supponendo che già 
+avete un Rubino +6) insieme alle pietre+5 dell'evasione e difesa nella vostra armatura vi assicurerà di rimanere in vita, mentre 
+farmerete le  Metins degli Creature Arboree.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]1.2 Libri Missioni (royal) ?
+
+Ora inizierai anche a droppare i Libri missione (royal) d'ora in avanti. Contengo una serie di missioni, 
+una alla volta, che saranno ricompensate dopo il completamento. La maggior parte delle missioni sono legate ai dungeon, 
+quindi se ti senti a tuo agio, attivali. In caso contrario, anche venderli è un'opzione. Attenzione che il 
+le ricompense sono succose (Pietre dell'Anima Leggendarie, Boss Roll(heavy), ecc.)
+
+
+[COLOR=ef4f00;FONT_SIZE=15]1.3 Battlepass degli alberi
+
+Hai visto ? Di nuovo il Battlepass, ai vecchi tempi eri 1Lv. Ecco che ritorna, un po' rielaborato.
+Include 7 missioni normali e 3 missioni leggendarie. I premi sono adattati alle vostre esigenze, 
+in modo da lavorare su di loro il più presto possibile.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=580; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Cosa fare con questi costumi?
+
+Fino ad ora, probabilmente sei stato costretto a ricostruire quei costumi per principianti 3x10% o sei riuscito a prendere qualche costume 
+con le 3x15%. Beh, non è finita qui. Eventi speciali si svolgono di volta in volta e di solito 
+includono bonus costume 20% sia per la vostra arma o il costume capelli. Dovresti iniziare a cercarli...
+
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=680; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3.una breve spiegazione dei dungeon
+
+Hai appena sbloccato le porte di Jotun Thrym e Ship Defense, i Dungeon di fascia alta, insieme a Nemere 
+E Razador da prima (95Lv). Sembra che tutti i Dungeon hanno bisogno di ticket d'ingresso... Beh, non è così drammatico come pensi. 
+Afferrare un biglietto del passaggio [o Boss Room Ticket (nemere)] ti darà accesso anche alla Difesa della Nave 
+(da Nemere droppa 100% Blue Crystal Essence) Stessa logica, Razador droppa al 100% Quarzo Inferno Rosso, utilizzato per 
+Grotta dei Draghi di Cristallo. Quindi, in pratica basta fare i dungeon in catena ed insieme e si riesce a fare un profitto significativo.
+Tieni presente che  la Grotta dei draghi di cristallo  & Jotun Thrym sono dungeon basati sui danni che richiedono il massimo
+Bonus. Resta in contatto con il nostro forum per maggiori informazioni...
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=830; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]4. Equipaggiamento tormalina
+
+
+Non pensi che sia il momento di sbarazzarsi di quegli oggetti di basso livello tipo il set Cristallo dell'Anima? Lo è, davvero.
+Orecchini Tormalina & Collana ti garantiscono il 15% di forza contro mostri e Metinstones, un 
+miglioramento dei danni non indifferente . il Bracciale tormalina ti offre il 15% di forza contro mostri e boss, 
+che vi permetterà di iniziare a fare alcuni dungeon di fascia alta da soli. In generale, tutto l'equipaggiamento  
+insieme a Scarpe di Fuoco, Cintura di Cristallo Drago, Scudo Dio Drago & Elmo Serpente dei mari sono craftabili da Badawahdan 
+(Cape Dragon Village). Dai un'occhiata anche lì.
+
+
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=970; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]5. Come sconfiggere queste scimmie.
+
+Non ci vorrà molto prima di sbloccare anche il Tempio di Wukong (mappa 110Lv), che affinerà il modo in cui si Farma.
+Ottenuto tutto l'alchima leggendaria+6 (per il bonus extra),il  Talismano del vento +99, La stola e avremo massimizzato
+i danni inizieremo a disturbarti seriamente ogni tanto. In questa mappa, si inizia a farmare grandi quantità 
+di forziere del rifornimento, Dream & Sky Souls, Forziere di abilità (per le vostre abilità speciali), così come l'aggiornamento 
+materiali per i vostri equipaggiamenti di fascia alta. Vendeteli o utilizzateli per il proprio equipaggiamento , sarà sia 
+un modo di trarre profitto e diventare abbastanza ricco per gli elementi menzionati prima. Dovresti anche iniziare a chiederti 
+cosa sta succedendo al Tempio dello zodiaco e al Thranduil, giusto...?
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=1120; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]6. Ho finito il server Ora?
+
+Arrivare al Livello massimo, non significa apparentemente che hai visitato tutti gli aspetti del game. 
+Sono sicuro che anche te lo sai.
+
+[COLOR=ef4f00;FONT_SIZE=15]6.1 Tempo dello Zodiaco
+
+Acune delle avventure più difficili si terranno qui, nel Tempio dello zodiaco. E 'tempo per voi di trovare un team 
+ o una gilda per aiutarvi attraverso questo Dungeon. Ci sono tonnellate di nuove caratteristiche, piani dungeon 
+e ricompense in questo aspetto gigantesco del gioco e non sarà facile completarlo da solo. Massimizza  
+il tuo equipaggiamento, Uppa tutti i tuo talismani a +99  e la formazione di una Team  capace di condurti fino al 40esimo piano...
+In breve tempo , ti libererai della tua amata arma 75Lv e inizierai a girare i bonus  e potenziare la tua arma zodiaca. 
+Lo stesso vale per la tua armatura. Trattare con i 12 Dei zodiaci non è la tua solita tazza di tè, quindi assicurati di 
+consultare il nostro forum per informazioni dettagliate.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]6.2 il covo di Thranduil
+
+
+Questo dungeon constiste in nuovi boss, piani e molta versatilità. 
+Troverete alcune nuove tecniche all'interno di questo covo e forse qualche attrezzatura Kyanite? chi sà...

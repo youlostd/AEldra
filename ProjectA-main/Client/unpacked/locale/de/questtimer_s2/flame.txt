@@ -1,0 +1,24 @@
+[COLOR r;255|g;195|b;0]"Besonderheit"[/COLOR r;255|g;195|b;0][ENTER]
+Du kannst den Dungeon nur mit Level 100-105 betreten![ENTER]
+Es ist immer zufällig welche Ebene als nächstes kommt, ausgeschlossen davon ist Ebene 7!
+[ENTER]
+[COLOR r;0|g;195|b;255]Phase 1[/COLOR r;255|g;195|b;0][ENTER]
+Tötet alle Monster.
+[ENTER]
+[COLOR r;0|g;195|b;255]Phase 2 [/COLOR r;255|g;195|b;0][ENTER]
+Tötet Monster und erhalte Goldenes Zahnrad, ziehe anschließend das richtige Goldene Zahnrad auf die Stele der Isfet.
+[ENTER]
+[COLOR r;0|g;195|b;255]Phase 3[/COLOR r;255|g;195|b;0][ENTER]
+Tötet alle Monster.
+[ENTER]
+[COLOR r;0|g;195|b;255]Phase 4[/COLOR r;255|g;195|b;0][ENTER]
+Tötet den Ignator.
+[ENTER]
+[COLOR r;0|g;195|b;255]Phase 5[/COLOR r;255|g;195|b;0][ENTER]
+Tötet Monster und erhalte Stein der Maat, ziehe anschließend den Stein der Maat auf die Stelen der Isfet bis alle verschwunden sind.
+[ENTER]
+[COLOR r;0|g;195|b;255]Phase 6[/COLOR r;255|g;195|b;0][ENTER]
+Zerstört den Metin des Fegefeuers.
+[ENTER]
+[COLOR r;0|g;195|b;255]Phase 7[/COLOR r;255|g;195|b;0][ENTER]
+Besiegt den Razador.

@@ -1,0 +1,38 @@
+
+[BANNER_IMG = ]
+[COLOR=0xffd700;FONT_SIZE=15]Gereksinimler:
+*Gerekli Seviye: 75
+*Giriş Eşyası: Küçülen Kafa
+[RIGHT_ALIGN]Küçülen Kafa
+[IMG=d:/ymir work/ui/wiki/30319.tga; Y=5; X=493]
+
+[COLOR=0xffd700;FONT_SIZE=15]Özellikler:
+*Zindan içerisinde sadece 15 dakikan var !
+
+
+[CENTER_ALIGN;FONT_SIZE=18]Aşamalar:
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=145; CENTER_ALIGN]
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 1
+
+[X_PADDING=20]Balçık Metin taşını yok et!
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 2
+
+[X_PADDING=20]Bütün canavarları yok et !
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 3
+
+[X_PADDING=20]Mühür Taşı'nı yakından incele !
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 4
+
+[X_PADDING=20]Bütün metin taşlarını yok et!
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 5
+
+[X_PADDING=20]Balçık Şişesini balçık ile doldur ve Mühür Taşı'na sürükle ! 
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 6
+
+[X_PADDING=20]Balçık Kraliçesi' ni yok et!

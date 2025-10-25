@@ -1,0 +1,10 @@
+[DELAY value;0]
+[COLOR r;0|g;195|b;255]1ª Fase[/COLOR r;0|g;195|b;255][ENTER]
+Derrota a Aranha-Barão.[ENTER]
+[ENTER]
+[COLOR r;0|g;195|b;255]2ª Fase[/COLOR r;0|g;195|b;255][ENTER]
+Usa o Apito do Aracnídeo para invocar a Aranha Baronesa.[ENTER]
+[ENTER]
+[COLOR r;0|g;195|b;255]3ª Fase[/COLOR r;0|g;195|b;255][ENTER]
+Mata a Aranha Baronesa.
+

@@ -1,0 +1,115 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/runes.tga]
+[CENTER_ALIGN]Geçtiğimiz yıllarda, Rünlerin ünü Aeldra etrafında yayılmaya başladı.
+[CENTER_ALIGN] Dünyanın en parlak zekâları, şamanlar, eski oymaları detaylı
+[CENTER_ALIGN]bir şekilde inceledi,tarihin derinliklerinden bilgiler edindi ve  
+[CENTER_ALIGN]sahip olabilecekleri güçleri toplamak için adımlar atmaya başladı. 
+[CENTER_ALIGN]İçlerinde bulundurdukları güç anlayabiliceğimizden ve öğrenebiliceğimizden daha fazlasıydı. 
+[CENTER_ALIGN]Bazıları, şamanların bu olağanüstü gücünün, Aeldra dünyasındaki Jotun Thrym 'e borçlu olduğunu düşünüyordu.
+[CENTER_ALIGN]Şu anda bu gücü kullanabilenler, kontrol altına alabildiğimiz şamanlardır. Metin2 'nin derinliklerinde daha neler olduğunu kimler bilebilir? 
+
+[COLOR=0xffd700;FONT_SIZE=15]İçerik Listesi:
+*1. Rün Sistemi Tanıtımı
+*2. Yeni Rün Açma
+*3. Sık Kullanılan Rün Kombinasyonları ve İpuçları
+*4. Rün Geliştirme
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=190; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Rün Sistemi Tanıtımı
+
+Sistem; bir sürü rünler arasında seçimler yaptırarak oyuncuların PvP, PvM gibi özel durumlar için kendilerini 
+şekillendirmelerine olanak sağlar. Bu sisteme F5 tuşunu kullanarak erişebilirsin.
+
+[COLOR=ef4f00;FONT_SIZE=15]1.1 Birincil Yollar
+
+Oyuncuların seçebileceği 5 Birincil Yol çeşidi bulunur: 
+
+*İsabet
+*Hakimiyet
+*Büyücülük
+*Azim
+*İlham
+
+Oyuncu Birincil Yolunu seçtikten sonra,ihtiyacı olan şeylere göre bir anahtar rün ve 3 normal rün
+seçip ağacı tamamlayabilir.
+
+[COLOR=ef4f00;FONT_SIZE=15]1.2 İkincil Yollar
+
+İkincil yollar, rün sayfanızı tamamlayabilmeniz için Birincil Yoldaki rünler ile kombine edilir.
+Oyuncu kombine edeceği başka bir yol seçtikten sonra o yoldan(Anahtar rünler hariç) 2 rün daha açabilir.
+
+[COLOR=ef4f00;FONT_SIZE=15]1.3 Kontrol Düğmeleri
+
+Rün Sistemi sayfasının sağ üstünde, 4 adet kontrol düğmesi göreceksin:  
+
+*Sıfırla
+*Puanları Sıfırla
+*Puan Satın Al
+*Kaydet
+
+Rün Sistemi sayfasının sağ altında, 'Rün Sistemi Hakkında' kısmına ulaşabilirsin.
+Ayrıca sağ altta rünlerinizi kaydedebileceğiniz 4 ayrı rün sayfası mevcuttur.
+Rün yolunuzu değiştirmek için, rünlerinizi kaydetmeden önce sayfada bulunan Rün Ağacı ikonuna tıkla.
+Sayfadaki 6 rünü de açıp aktif hale getirdikten sonra, özelliklerin karakterine işlenmesi için 'Kaydet' tuşuna bas.
+Kaydettiğin rünleri 'Puanları Sıfırla' tuşuyla, kaydettiğin rün sayfalarını ise 'Sıfırla' tuşuyla sıfırlayabilirsin.
+Aktif etmiş olduğun Anahtar Rün, ekranının sol üstündeki etkiler kısmında görünecektir.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=700; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Yeni Rün Açma
+
+Bir Anahtar(veya normal) rün açabilmeniz için 12 puana ihtiyacınız var.
+
+[COLOR=ef4f00;FONT_SIZE=15]2.1 Rün Puanları
+
+Rün Ekranının sağ üstünde bulunan "Puan Satın Al" düğmesine tıklayıp 1 Rün Puanı satın alabilirsin.
+Başlangıçta, 145 Rün Puanına sahip olana dek, rün puanı alabilmen için 90.seviye haritalarındaki 
+110.seviye metinlerden düşen eşyalar ve 6.000.000 yang istenecektir. 145. rün puanından 720(son) rün puanına dek 
+105. seviye haritasındaki 'Ağaç Yaratığı Metni' adlı metinden düşen eşyalar ve 6.000.000 yang istenecektir.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]2.2 Rün Açma ve Seçme
+
+12 puanın olduktan sonra, açmak istediğin rünün üzerine tıkla. Rünü açtıktan sonra rüne sol tıklayarak 
+aktifleştirdikten sonra sayfanın sol üstündeki 'Kaydet' tuşuna basarak bonusunu aktifleştirebilirsin.
+Dikkat! : Sayfanı kaydettin ve artık rün yolunu değiştiremezsin. Rün yolunu değiştirmek istersen 
+sağ alttan ikinci rün sayfanı seçip baştan yeni bir yol oluşturmalısın.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=960; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Sık Kullanılan Rün Kombinasyonları ve İpuçları
+
+[COLOR=ef4f00;FONT_SIZE=15]3.1 PvM Rün Yolu Kombinasyonu-1 (Metin Taşları için)
+
+Birincil Yol, Hakimiyet: Ruh Soygunu, Canavar, Patron, Metin.
+İkincil Yol, İsabet: Ortalama Hasar, Kritik Hasar.
+
+[COLOR=ef4f00;FONT_SIZE=15]3.2 PvM Rün Yolu Kombinasyonu-2 (Patronlar için)
+
+Patron keserken, metin için yapmış olduğun rün yolunun aynısını, yalnızca 'Metin' rününü o an
+kesmekte olduğun patronla değiştirerek kullanabilirsin. Örneğin; Zodyak Tapınağındaysan, 
+'Metin' rününü 'Zodyak' olarak değiştir.
+
+[COLOR=ef4f00;FONT_SIZE=15]3.3 İpuçları
+
+Patron keserken,rün sayfanı son anda 'Hırsız' ve 'Eşya Düşürme' içeren bir rün sayfasına değiştirmek, 
+patrondan düşecek olan değerli eşya şansını arttıracaktır. 'İksir Etkisi Güçlendirme' rününü şebnemlerini
+basmadan önce aktif etmek, şebnemlerden gelecek etkiyi 20% arttırmanı sağlayacaktır.
+Tüm rünleri açmak için 90. seviye haritasından elde ettiğin rün eşyalarından toplamda 1140 adet,  
+105. seviye haritasından elde ettiğin rün eşyalarından ise toplamda 3450 adet toplaman gerekmekte.
+Birincil yoldaki 12 rünü açtığında, 15% Yarı İnsanlara Karşı Güç ve 10% Yarı İnsanlara Karşı Koyma kazanırsın.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=1260; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]4. Rün Geliştirme
+
+İlk aşamadaki tüm rünleri açmak Seviye 2 rünlere erişme hakkı tanıyacaktır. (+) butonuna tıklayarak
+belirli rünleri seviye 2'ye yükseltebilir, gelişmiş bonuslarından faydalanabilirsiniz. (Anahtar Rünler hariç).
+
+
+

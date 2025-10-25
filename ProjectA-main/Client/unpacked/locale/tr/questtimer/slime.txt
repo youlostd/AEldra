@@ -1,0 +1,22 @@
+[DELAY value;0]
+[COLOR r;255|g;195|b;0]"Özellikler"[/COLOR r;255|g;195|b;0][ENTER]
+Zindan içerisinde sadece 15 dakikan var !
+[ENTER]
+[COLOR r;0|g;195|b;255]Aşama 1[/COLOR r;0|g;195|b;255][ENTER]
+Balçık Metin taşını yok et!
+[ENTER]
+[COLOR r;0|g;195|b;255]Aşama 2[/COLOR r;0|g;195|b;255][ENTER]
+Bütün canavarları yok et !
+[ENTER]
+[COLOR r;0|g;195|b;255]Aşama 3[/COLOR r;0|g;195|b;255][ENTER]
+Mühür Taşı'nı yakından incele !
+[ENTER]
+[COLOR r;0|g;195|b;255]Aşama 4[/COLOR r;0|g;195|b;255][ENTER]
+Bütün metin taşlarını yok et!
+[ENTER]
+[COLOR r;0|g;195|b;255]Aşama 5[/COLOR r;0|g;195|b;255][ENTER]
+Balçık Şişesini balçık ile doldur ve Mühür Taşı'na sürükle !
+[ENTER]
+[COLOR r;0|g;195|b;255]Aşama 6[/COLOR r;0|g;195|b;255][ENTER]
+Balçık Kraliçesi' ni yok et!
+[ENTER]

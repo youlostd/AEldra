@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Games\Metin2\Aeldra\Tools\libjpeg-master\jmemnobs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Games\Metin2\Aeldra\Tools\libjpeg-master\jaricom.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Games\Metin2\Aeldra\Tools\libjpeg-master\jcapimin.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Games\Metin2\Aeldra\Tools\libjpeg-master\jcapistd.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Games\Metin2\Aeldra\Tools\libjpeg-master\jcarith.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Games\Metin2\Aeldra\Tools\libjpeg-master\jccoefct.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Games\Metin2\Aeldra\Tools\libjpeg-master\jccolor.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Games\Metin2\Aeldra\Tools\libjpeg-master\jcdctmgr.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Games\Metin2\Aeldra\Tools\libjpeg-master\jchuff.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Games\Metin2\Aeldra\Tools\libjpeg-master\jcinit.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Games\Metin2\Aeldra\Tools\libjpeg-master\jcmainct.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Games\Metin2\Aeldra\Tools\libjpeg-master\jcmarker.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Games\Metin2\Aeldra\Tools\libjpeg-master\jcmaster.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Games\Metin2\Aeldra\Tools\libjpeg-master\jcomapi.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Games\Metin2\Aeldra\Tools\libjpeg-master\jcparam.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Games\Metin2\Aeldra\Tools\libjpeg-master\jcprepct.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Games\Metin2\Aeldra\Tools\libjpeg-master\jcsample.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Games\Metin2\Aeldra\Tools\libjpeg-master\jctrans.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Games\Metin2\Aeldra\Tools\libjpeg-master\jdapimin.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Games\Metin2\Aeldra\Tools\libjpeg-master\jdapistd.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Games\Metin2\Aeldra\Tools\libjpeg-master\jdarith.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Games\Metin2\Aeldra\Tools\libjpeg-master\jdatadst.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Games\Metin2\Aeldra\Tools\libjpeg-master\jdatasrc.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Games\Metin2\Aeldra\Tools\libjpeg-master\jdcoefct.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Games\Metin2\Aeldra\Tools\libjpeg-master\jdcolor.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Games\Metin2\Aeldra\Tools\libjpeg-master\jddctmgr.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Games\Metin2\Aeldra\Tools\libjpeg-master\jdhuff.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Games\Metin2\Aeldra\Tools\libjpeg-master\jdinput.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Games\Metin2\Aeldra\Tools\libjpeg-master\jdmainct.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Games\Metin2\Aeldra\Tools\libjpeg-master\jdmarker.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Games\Metin2\Aeldra\Tools\libjpeg-master\jdmaster.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Games\Metin2\Aeldra\Tools\libjpeg-master\jdmerge.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Games\Metin2\Aeldra\Tools\libjpeg-master\jdpostct.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Games\Metin2\Aeldra\Tools\libjpeg-master\jdsample.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Games\Metin2\Aeldra\Tools\libjpeg-master\jdtrans.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Games\Metin2\Aeldra\Tools\libjpeg-master\jerror.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Games\Metin2\Aeldra\Tools\libjpeg-master\jfdctflt.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Games\Metin2\Aeldra\Tools\libjpeg-master\jfdctfst.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Games\Metin2\Aeldra\Tools\libjpeg-master\jfdctint.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Games\Metin2\Aeldra\Tools\libjpeg-master\jidctflt.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Games\Metin2\Aeldra\Tools\libjpeg-master\jidctfst.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Games\Metin2\Aeldra\Tools\libjpeg-master\jidctint.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Games\Metin2\Aeldra\Tools\libjpeg-master\jquant1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Games\Metin2\Aeldra\Tools\libjpeg-master\jquant2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Games\Metin2\Aeldra\Tools\libjpeg-master\jutils.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Games\Metin2\Aeldra\Tools\libjpeg-master\jmemmgr.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\Games\Metin2\Aeldra\Tools\libjpeg-master\cderror.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Games\Metin2\Aeldra\Tools\libjpeg-master\cdjpeg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Games\Metin2\Aeldra\Tools\libjpeg-master\jdct.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Games\Metin2\Aeldra\Tools\libjpeg-master\jinclude.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Games\Metin2\Aeldra\Tools\libjpeg-master\jmemsys.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Games\Metin2\Aeldra\Tools\libjpeg-master\jpegint.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Games\Metin2\Aeldra\Tools\libjpeg-master\jversion.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Games\Metin2\Aeldra\Tools\libjpeg-master\transupp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Games\Metin2\Aeldra\Tools\libjpeg-master\jerror.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Games\Metin2\Aeldra\Tools\libjpeg-master\jmorecfg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Games\Metin2\Aeldra\Tools\libjpeg-master\jpeglib.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Games\Metin2\Aeldra\Tools\libjpeg-master\build\jconfig.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Games\Metin2\Aeldra\Tools\libjpeg-master\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{707B845D-F3B9-31BC-B49E-2ED6A8EACA1B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{FD22ED73-97A4-3A7C-87DA-9CC74FCA9DE6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

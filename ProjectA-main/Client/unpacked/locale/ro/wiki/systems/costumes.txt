@@ -1,0 +1,107 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/costumes.tga]
+[CENTER_ALIGN]Un costum este o bucata de echipament foarte valoroasa pentru a te decora, de asemenea au bonusuri foarte utile.
+[CENTER_ALIGN]Costumul se echipeaza in fereastra sistemului de costume, care se deschide cu ajutorul butonului pentru sistemul de costume
+[CENTER_ALIGN]din inventarul jucatorului.
+
+[COLOR=0xffd700;FONT_SIZE=15]Cuprins
+*1. Informatii generale
+*2. Bonusurile costumului de armura
+*3. Bonusurile costumului de arma
+*4. Bonusurile frezei
+*5. Costum pentru mounturi
+*6. Cum sa transferi bonusurile unui costum
+*7. Cum sa stergi bonusurile unui costum
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=160; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Informatii generale
+Un costum poatea avea un numar maxim de 5 bonusuri. Pana la al 3-lea bonus, ele sunt adaugate folosind Ranforsare Costum Arma (), Ranforsare costum armura () & Ranforsare freza ().
+
+Al 4-lea si al 5-lea bonus sunt adaugate folosind Ranforsare Costum Arma+ (), Ranforsare costum armura+ () & Ranforsare freza+ ().
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=280; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Bonusurile Costumului de armura
+
+*Max PV: 2000, 2500, 3000
+*Aparare impotriva sabiei: 10%
+*Aparare impotriva armelor de 2-maini: 10%
+*Aparare impotriva pumnalelor 10%
+*Rezistenta la sageti 10%
+*Aparare impotriva clopotului 10%
+*Aparare impotriva evantaiului 10%
+*Rezistenta la magie 10%
+*Sansa de a bloca un atac corporal 10%
+*Sansa de a evita atacul cu sageti 10%
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=460; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Bonusurile costumul de armura
+
+
+*Vitalitate +12
+*Inteligenta +12
+*Putere +12
+*Dexteritate +12
+*Tare impotriva semi-oamenilor 10%
+*Sansa de lovitura critica 10%
+*Sansa de lovitura patrunzatoare 10%
+*Tare impotriva animalelor 20%
+*Tare impotriva Orcilor 20%
+*Tare impotriva Misticilor 20%
+*Tare impotriva Diavolilor 20%
+*Tare impotriva Vampirilor 20%
+*Tare impotriva Bossilor : 10,15,20%
+*Tare impotriva Monstrilor: 10,15,20%
+*Tare impotriva Pietrelor Metin: 10,15,20%
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=710; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]4. Bonusurile frezelor
+
+
+*Max PV: 1500
+*Tare impotriva semi-oamenilor 5%
+*Tare impotriva Animalelor 10%
+*Tare impotriva Orcilor 10%
+*Tare impotriva esotericilor 10%
+*Tare impotriva diavolului 10%
+*Tare impotriva vampirilor 10%
+*Fracturarea apararii sabie 5%
+*Fracturarea apararii 2-maini 5%
+*Fracturarea apararii pumnal 5%
+*Fracturarea rezistentei la sageti 5%
+*Fracturarea apararii clopotului 5%
+*Fracturarea apararii evantaiului 5%
+*Rezistenta la otrava 10%
+*Tare impotriva Bossilor : 10,15,20%
+*Tare impotriva Monstrilor: 10,15,20%
+*Tare impotriva Pietrelor Metin: 10,15,20%
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=980; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]5. Costumele de mounturi
+
+Costumele de mounturi nu ofera bonusuri, dar iti ofera un look frumos.
+De asemenea, unele costume ofera o viteza de miscare ridicata.
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=1080; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]6. Cum sa transferi bonusurile unui Costum.
+
+Puteti transfera bonusurile unui costum catrea altul folosind 'Transfer bonus costum' la Teowahdan.
+Costumul din stanga va fi golit, iar bonusurile vor fi transferate costumului din dreapta.
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=1165; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]7. Cum sa stergi bonusurile unui costum.
+
+Poti sterge bonusurile unui costum folosing 'Elimina bonus costum'. Acest item iti permite sa selectezi un bonus pentru a fi sters de pe costum. NU primiti bonusul inapoi!

@@ -1,0 +1,12 @@
+[DELAY value;0]
+[COLOR r;0|g;195|b;255]Phase 1[/COLOR r;255|g;195|b;0][ENTER]
+[ENTER]
+Zerstöre Metinsteine, bis deine gewünschten Metinsteine erscheinen.[ENTER]
+Jeder Metinstein hat eine besondere Wirkung, die durch die Anzahl des selben Metinsteines erhöht wird.[ENTER]
+-> Die TP-Regenerations-Menge des Drachens wird durch den Metin des Hochmuts vergößert.[ENTER]
+-> Der Schaden den der Drache verteilt wird durch den Metin der Rache vergrößert.[ENTER]
+-> Die TP Regenerations- Geschwindigkeit wird durch den Metin der Einsamkeit gesteigert.[ENTER]
+-> Die Verteidigung des Drachens wird durch den Metin des Berges gesteigert. [ENTER]
+[ENTER]
+[COLOR r;0|g;195|b;255]Phase 2[/COLOR r;255|g;195|b;0][ENTER]
+Töte Beran-Setaou

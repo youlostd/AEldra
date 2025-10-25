@@ -1,0 +1,1182 @@
+Oct 19 01:17:56.328000	[328000]	 :: SYSTEM: BINDING TCP PORT ON [30001] (fd 608)
+Oct 19 01:17:56.328000	[1000000]	 :: SYSTEM: BINDING TCP PORT ON [30006] (fd 612)
+Oct 19 01:17:56.328000	[1000000]	 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+Oct 19 01:17:56.328000	[1000000]	 :: SYSTEM: connected to server (fd 436, ptr 0366B928)
+Oct 19 01:18:32.265000	[1000000]	 :: socket_read: WSAGetLastError returned 10054
+SYSERR: Oct 19 01:18:32 :: socket_read: about to lose connection
+Oct 19 01:18:32.312000	[1000000]	 :: PARTY Disable
+Oct 19 01:18:32.312000	[1000000]	 :: SYSTEM: closing client socket. DESC #436
+Oct 19 01:18:35.109000	[1000000]	 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Oct 19 01:18:37 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Oct 19 01:19:10.296000	[296000]	 :: SYSTEM: BINDING TCP PORT ON [30001] (fd 740)
+Oct 19 01:19:10.296000	[1000000]	 :: SYSTEM: BINDING TCP PORT ON [30006] (fd 744)
+Oct 19 01:19:10.296000	[1000000]	 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+Oct 19 01:19:10.296000	[1000000]	 :: SYSTEM: connected to server (fd 552, ptr 03BA3AE0)
+Oct 19 01:22:34.781000	[781000]	 :: SYSTEM: BINDING TCP PORT ON [30001] (fd 684)
+Oct 19 01:22:34.781000	[1000000]	 :: SYSTEM: BINDING TCP PORT ON [30006] (fd 688)
+Oct 19 01:22:34.781000	[1000000]	 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+Oct 19 01:22:34.781000	[1000000]	 :: SYSTEM: connected to server (fd 692, ptr 0064EC58)
+Oct 19 01:24:48.984000	[1000000]	 :: SYSTEM: new connection from [127.0.0.1] fd: 804 handshake 2975231875 output input_len 0, ptr 0198BA08
+Oct 19 01:24:48.984000	[1000000]	 :: new connection from 127.0.0.1
+Oct 19 01:24:48.62000	[1000000]	 :: AUTH_PHASE 0198BA08
+Oct 19 01:24:49.140000	[1000000]	 :: CInputAuth::Analyze : 9
+Oct 19 01:24:49.218000	[1000000]	 :: CInputAuth::Analyze : 10
+Oct 19 01:24:49.218000	[1000000]	 :: InputAuth::Login : admin(5) desc 0198BA08
+Oct 19 01:24:49.218000	[1000000]	 :: SetLoginKey 25553
+Oct 19 01:24:49.218000	[1000000]	 :: InputAuth::Login : key 25553 login admin
+Oct 19 01:24:49.265000	[47000]	 :: QID_AUTH_LOGIN: START 25553 0198BA08
+SYSERR: Oct 19 01:24:49 :: DBManager::AnalyzeReturnQuery: New Pass: 3ac5c74b9c0043c31ad2b18a38748e11651f89ac210d074b3cdc6fd380f325a8
+Oct 19 01:24:49.265000	[1000000]	 :: Create_Time 0 19700101
+Oct 19 01:24:49.265000	[1000000]	 :: Set Trade Block! ['5aa20770088f9d98976080309d887bbc' => '5a58efd5e711b4d8d557110a566e888f']
+Oct 19 01:24:49.265000	[1000000]	 :: SendAuthLogin admin acc 1
+Oct 19 01:24:49.265000	[1000000]	 :: QID_AUTH_LOGIN: SUCCESS
+Oct 19 01:24:49.375000	[1000000]	 :: AuthLogin result 1 key 25553
+Oct 19 01:24:49.468000	[1000000]	 :: SYSTEM: closing socket. DESC #804
+Oct 19 01:28:10.781000	[1000000]	 :: SYSTEM: new connection from [127.0.0.1] fd: 976 handshake 2948571110 output input_len 0, ptr 018D5C78
+Oct 19 01:28:10.781000	[1000000]	 :: new connection from 127.0.0.1
+Oct 19 01:28:10.906000	[1000000]	 :: AUTH_PHASE 018D5C78
+Oct 19 01:28:10.984000	[1000000]	 :: CInputAuth::Analyze : 9
+Oct 19 01:28:10.62000	[1000000]	 :: CInputAuth::Analyze : 10
+Oct 19 01:28:10.62000	[1000000]	 :: InputAuth::Login : frù"(4) desc 018D5C78
+Oct 19 01:28:10.62000	[1000000]	 :: InputAuth::Login : IS_NOT_VALID_LOGIN_STRING(frù") desc 018D5C78
+Oct 19 01:28:12.828000	[1000000]	 :: CInputAuth::Analyze : 2
+Oct 19 01:28:23.468000	[1000000]	 :: SYSTEM: new connection from [127.0.0.1] fd: 280 handshake 4228955011 output input_len 0, ptr 0198B910
+Oct 19 01:28:23.468000	[1000000]	 :: new connection from 127.0.0.1
+Oct 19 01:28:23.500000	[1000000]	 :: SYSTEM: closing socket. DESC #976
+Oct 19 01:28:23.546000	[1000000]	 :: AUTH_PHASE 0198B910
+Oct 19 01:28:23.625000	[1000000]	 :: CInputAuth::Analyze : 9
+Oct 19 01:28:23.703000	[1000000]	 :: CInputAuth::Analyze : 10
+Oct 19 01:28:23.703000	[1000000]	 :: InputAuth::Login : admin(5) desc 0198B910
+Oct 19 01:28:23.703000	[1000000]	 :: SetLoginKey 19908
+Oct 19 01:28:23.703000	[1000000]	 :: InputAuth::Login : key 19908 login admin
+Oct 19 01:28:23.734000	[31000]	 :: QID_AUTH_LOGIN: START 19908 0198B910
+SYSERR: Oct 19 01:28:23 :: DBManager::AnalyzeReturnQuery: New Pass: 3ac5c74b9c0043c31ad2b18a38748e11651f89ac210d074b3cdc6fd380f325a8
+Oct 19 01:28:23.734000	[1000000]	 :: Create_Time 0 19700101
+Oct 19 01:28:23.734000	[1000000]	 :: SendAuthLogin admin acc 1
+Oct 19 01:28:23.734000	[1000000]	 :: QID_AUTH_LOGIN: SUCCESS
+Oct 19 01:28:23.859000	[1000000]	 :: AuthLogin result 1 key 19908
+Oct 19 01:28:23.937000	[1000000]	 :: SYSTEM: closing socket. DESC #280
+Oct 19 01:28:51.515000	[1000000]	 :: SYSTEM: new connection from [127.0.0.1] fd: 952 handshake 2090293136 output input_len 0, ptr 018D5C78
+Oct 19 01:28:53.968000	[453000]	 :: new connection from 127.0.0.1
+Oct 19 01:28:53.968000	[1000000]	 :: PING_EVENT: no pong 127.0.0.1
+SYSERR: Oct 19 01:28:53 :: ping_event: no handshake response in time, dropping connection (ip: 127.0.0.1)
+Oct 19 01:28:53.968000	[1000000]	 :: SYSTEM: closing socket. DESC #952
+Oct 19 01:29:45.703000	[1000000]	 :: SYSTEM: new connection from [127.0.0.1] fd: 856 handshake 450664979 output input_len 0, ptr 0198B910
+Oct 19 01:29:45.703000	[1000000]	 :: new connection from 127.0.0.1
+Oct 19 01:29:45.781000	[1000000]	 :: AUTH_PHASE 0198B910
+Oct 19 01:29:45.859000	[1000000]	 :: CInputAuth::Analyze : 9
+Oct 19 01:29:45.937000	[1000000]	 :: CInputAuth::Analyze : 10
+Oct 19 01:29:45.937000	[1000000]	 :: InputAuth::Login : admin(5) desc 0198B910
+Oct 19 01:29:45.937000	[1000000]	 :: SetLoginKey 23613
+Oct 19 01:29:45.937000	[1000000]	 :: InputAuth::Login : key 23613 login admin
+Oct 19 01:29:45.984000	[47000]	 :: QID_AUTH_LOGIN: START 23613 0198B910
+SYSERR: Oct 19 01:29:45 :: DBManager::AnalyzeReturnQuery: New Pass: 3ac5c74b9c0043c31ad2b18a38748e11651f89ac210d074b3cdc6fd380f325a8
+Oct 19 01:29:45.984000	[1000000]	 :: Create_Time 0 19700101
+Oct 19 01:29:45.984000	[1000000]	 :: SendAuthLogin admin acc 1
+Oct 19 01:29:45.984000	[1000000]	 :: QID_AUTH_LOGIN: SUCCESS
+Oct 19 01:29:46.93000	[1000000]	 :: AuthLogin result 1 key 23613
+Oct 19 01:29:46.171000	[1000000]	 :: SYSTEM: closing socket. DESC #856
+Oct 19 01:31:50.671000	[1000000]	 :: SYSTEM: new connection from [127.0.0.1] fd: 452 handshake 2779613134 output input_len 0, ptr 018D5C78
+Oct 19 01:31:50.671000	[1000000]	 :: new connection from 127.0.0.1
+Oct 19 01:31:50.750000	[1000000]	 :: AUTH_PHASE 018D5C78
+Oct 19 01:31:50.875000	[1000000]	 :: CInputAuth::Analyze : 9
+Oct 19 01:31:50.953000	[1000000]	 :: CInputAuth::Analyze : 10
+Oct 19 01:31:50.953000	[1000000]	 :: InputAuth::Login : admin(5) desc 018D5C78
+Oct 19 01:31:50.953000	[1000000]	 :: SetLoginKey 17437
+Oct 19 01:31:50.953000	[1000000]	 :: InputAuth::Login : key 17437 login admin
+Oct 19 01:31:50.984000	[31000]	 :: QID_AUTH_LOGIN: START 17437 018D5C78
+SYSERR: Oct 19 01:31:50 :: DBManager::AnalyzeReturnQuery: New Pass: 3ac5c74b9c0043c31ad2b18a38748e11651f89ac210d074b3cdc6fd380f325a8
+Oct 19 01:31:50.984000	[1000000]	 :: Create_Time 0 19700101
+Oct 19 01:31:50.984000	[1000000]	 :: SendAuthLogin admin acc 1
+Oct 19 01:31:50.984000	[1000000]	 :: QID_AUTH_LOGIN: SUCCESS
+Oct 19 01:31:50.78000	[1000000]	 :: AuthLogin result 1 key 17437
+Oct 19 01:31:51.156000	[1000000]	 :: SYSTEM: closing socket. DESC #452
+Oct 19 01:32:00.500000	[1000000]	 :: SYSTEM: new connection from [127.0.0.1] fd: 784 handshake 3802624143 output input_len 0, ptr 018D5C78
+Oct 19 01:32:00.500000	[1000000]	 :: new connection from 127.0.0.1
+Oct 19 01:32:00.625000	[1000000]	 :: AUTH_PHASE 018D5C78
+Oct 19 01:32:00.703000	[1000000]	 :: CInputAuth::Analyze : 9
+Oct 19 01:32:00.781000	[1000000]	 :: CInputAuth::Analyze : 10
+Oct 19 01:32:00.781000	[1000000]	 :: InputAuth::Login : admin2(6) desc 018D5C78
+Oct 19 01:32:00.781000	[1000000]	 :: SetLoginKey 28708
+Oct 19 01:32:00.781000	[1000000]	 :: InputAuth::Login : key 28708 login admin2
+Oct 19 01:32:00.828000	[47000]	 :: QID_AUTH_LOGIN: START 28708 018D5C78
+SYSERR: Oct 19 01:32:00 :: DBManager::AnalyzeReturnQuery: New Pass: 142c073ed37bf1162b752ce3a9b649f691de64ed8742dcdc4cc68d58bf1cba48
+Oct 19 01:32:00.828000	[1000000]	 :: Create_Time 0 19700101
+Oct 19 01:32:00.828000	[1000000]	 :: Set Trade Block! ['5aa20770088f9d98976080309d887bbc' => '5a58efd5e711b4d8d557110a566e888f']
+Oct 19 01:32:00.828000	[1000000]	 :: SendAuthLogin admin2 acc 2
+Oct 19 01:32:00.828000	[1000000]	 :: QID_AUTH_LOGIN: SUCCESS
+Oct 19 01:32:00.937000	[1000000]	 :: AuthLogin result 1 key 28708
+Oct 19 01:32:00.15000	[1000000]	 :: SYSTEM: closing socket. DESC #784
+Oct 19 01:32:19.703000	[1000000]	 :: SYSTEM: new connection from [127.0.0.1] fd: 932 handshake 3976420025 output input_len 0, ptr 018D5C78
+Oct 19 01:32:19.703000	[1000000]	 :: new connection from 127.0.0.1
+Oct 19 01:32:19.828000	[1000000]	 :: AUTH_PHASE 018D5C78
+Oct 19 01:32:19.953000	[1000000]	 :: CInputAuth::Analyze : 9
+Oct 19 01:32:19.31000	[1000000]	 :: CInputAuth::Analyze : 10
+Oct 19 01:32:19.31000	[1000000]	 :: InputAuth::Login : admin2(6) desc 018D5C78
+Oct 19 01:32:19.31000	[1000000]	 :: SetLoginKey 12722
+Oct 19 01:32:19.31000	[1000000]	 :: InputAuth::Login : key 12722 login admin2
+Oct 19 01:32:19.62000	[31000]	 :: QID_AUTH_LOGIN: START 12722 018D5C78
+SYSERR: Oct 19 01:32:19 :: DBManager::AnalyzeReturnQuery: New Pass: 142c073ed37bf1162b752ce3a9b649f691de64ed8742dcdc4cc68d58bf1cba48
+Oct 19 01:32:19.62000	[1000000]	 :: Create_Time 0 19700101
+Oct 19 01:32:19.62000	[1000000]	 :: SendAuthLogin admin2 acc 2
+Oct 19 01:32:19.62000	[1000000]	 :: QID_AUTH_LOGIN: SUCCESS
+Oct 19 01:32:20.109000	[1000000]	 :: AuthLogin result 1 key 12722
+Oct 19 01:32:20.187000	[1000000]	 :: SYSTEM: closing socket. DESC #932
+Oct 19 01:41:38.921000	[1000000]	 :: SYSTEM: new connection from [127.0.0.1] fd: 840 handshake 2669919514 output input_len 0, ptr 018D5C78
+Oct 19 01:41:38.921000	[1000000]	 :: new connection from 127.0.0.1
+Oct 19 01:41:38.984000	[1000000]	 :: AUTH_PHASE 018D5C78
+Oct 19 01:41:38.62000	[1000000]	 :: CInputAuth::Analyze : 9
+Oct 19 01:41:39.140000	[1000000]	 :: CInputAuth::Analyze : 10
+Oct 19 01:41:39.140000	[1000000]	 :: InputAuth::Login : admin(5) desc 018D5C78
+Oct 19 01:41:39.140000	[1000000]	 :: SetLoginKey 29775
+Oct 19 01:41:39.140000	[1000000]	 :: InputAuth::Login : key 29775 login admin
+Oct 19 01:41:39.187000	[47000]	 :: QID_AUTH_LOGIN: START 29775 018D5C78
+SYSERR: Oct 19 01:41:39 :: DBManager::AnalyzeReturnQuery: New Pass: 3ac5c74b9c0043c31ad2b18a38748e11651f89ac210d074b3cdc6fd380f325a8
+Oct 19 01:41:39.187000	[1000000]	 :: Create_Time 0 19700101
+Oct 19 01:41:39.187000	[1000000]	 :: SendAuthLogin admin acc 1
+Oct 19 01:41:39.187000	[1000000]	 :: QID_AUTH_LOGIN: SUCCESS
+Oct 19 01:41:39.296000	[1000000]	 :: AuthLogin result 1 key 29775
+Oct 19 01:41:39.390000	[1000000]	 :: SYSTEM: closing socket. DESC #840
+Oct 19 01:46:20.171000	[1000000]	 :: socket_read: WSAGetLastError returned 10054
+SYSERR: Oct 19 01:46:20 :: socket_read: about to lose connection
+Oct 19 01:46:20.203000	[1000000]	 :: PARTY Disable
+Oct 19 01:46:20.203000	[1000000]	 :: socket_read: WSAGetLastError returned 10054
+Oct 19 01:46:20.203000	[1000000]	 :: SYSTEM: closing client socket. DESC #692
+SYSERR: Oct 19 01:46:20 :: socket_read: about to lose connection
+Oct 19 01:46:20.234000	[1000000]	 :: PARTY Disable
+Oct 19 01:46:20.234000	[1000000]	 :: SYSTEM: closing client socket. DESC #552
+Oct 19 01:46:22.93000	[1000000]	 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+Oct 19 01:46:22.93000	[1000000]	 :: SYSTEM: connected to server (fd 760, ptr 0064EC58)
+Oct 19 01:48:28.593000	[593000]	 :: SYSTEM: BINDING TCP PORT ON [30001] (fd 704)
+Oct 19 01:48:28.593000	[1000000]	 :: SYSTEM: BINDING TCP PORT ON [30006] (fd 708)
+Oct 19 01:48:28.593000	[1000000]	 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+Oct 19 01:48:28.593000	[1000000]	 :: SYSTEM: connected to server (fd 380, ptr 03B91480)
+Oct 19 01:50:21.343000	[343000]	 :: SYSTEM: BINDING TCP PORT ON [30001] (fd 720)
+Oct 19 01:50:21.343000	[1000000]	 :: SYSTEM: BINDING TCP PORT ON [30006] (fd 724)
+Oct 19 01:50:21.343000	[1000000]	 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+Oct 19 01:50:21.359000	[16000]	 :: SYSTEM: connected to server (fd 728, ptr 037E23A8)
+Oct 19 01:54:10.359000	[359000]	 :: SYSTEM: BINDING TCP PORT ON [30001] (fd 720)
+Oct 19 01:54:10.359000	[1000000]	 :: SYSTEM: BINDING TCP PORT ON [30006] (fd 676)
+Oct 19 01:54:10.359000	[1000000]	 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+Oct 19 01:54:10.359000	[1000000]	 :: SYSTEM: connected to server (fd 724, ptr 016BE9B8)
+Oct 19 01:54:32.421000	[1000000]	 :: SYSTEM: new connection from [127.0.0.1] fd: 740 handshake 1522741707 output input_len 0, ptr 016BED88
+Oct 19 01:54:32.421000	[1000000]	 :: new connection from 127.0.0.1
+Oct 19 01:54:32.515000	[1000000]	 :: AUTH_PHASE 016BED88
+Oct 19 01:54:32.593000	[1000000]	 :: CInputAuth::Analyze : 9
+Oct 19 01:54:32.671000	[1000000]	 :: CInputAuth::Analyze : 10
+Oct 19 01:54:32.671000	[1000000]	 :: InputAuth::Login : frù"(4) desc 016BED88
+Oct 19 01:54:32.671000	[1000000]	 :: InputAuth::Login : IS_NOT_VALID_LOGIN_STRING(frù") desc 016BED88
+Oct 19 01:54:33.906000	[1000000]	 :: SYSTEM: new connection from [127.0.0.1] fd: 736 handshake 655617337 output input_len 0, ptr 03918A28
+Oct 19 01:54:33.906000	[1000000]	 :: new connection from 127.0.0.1
+Oct 19 01:54:33.953000	[1000000]	 :: SYSTEM: closing socket. DESC #740
+Oct 19 01:54:33.31000	[1000000]	 :: AUTH_PHASE 03918A28
+Oct 19 01:54:34.109000	[1000000]	 :: CInputAuth::Analyze : 9
+Oct 19 01:54:34.187000	[1000000]	 :: CInputAuth::Analyze : 10
+Oct 19 01:54:34.187000	[1000000]	 :: InputAuth::Login : admin(5) desc 03918A28
+Oct 19 01:54:34.187000	[1000000]	 :: SetLoginKey 8307
+Oct 19 01:54:34.187000	[1000000]	 :: InputAuth::Login : key 8307 login admin
+Oct 19 01:54:34.234000	[47000]	 :: QID_AUTH_LOGIN: START 8307 03918A28
+SYSERR: Oct 19 01:54:34 :: DBManager::AnalyzeReturnQuery: New Pass: 3ac5c74b9c0043c31ad2b18a38748e11651f89ac210d074b3cdc6fd380f325a8
+Oct 19 01:54:34.234000	[1000000]	 :: Create_Time 0 19700101
+Oct 19 01:54:34.234000	[1000000]	 :: SendAuthLogin admin acc 1
+Oct 19 01:54:34.234000	[1000000]	 :: QID_AUTH_LOGIN: SUCCESS
+Oct 19 01:54:34.359000	[1000000]	 :: AuthLogin result 1 key 8307
+Oct 19 01:54:34.421000	[1000000]	 :: SYSTEM: closing socket. DESC #736
+Oct 19 01:55:26.890000	[1000000]	 :: SYSTEM: new connection from [127.0.0.1] fd: 748 handshake 631740042 output input_len 0, ptr 015C4F18
+Oct 19 01:55:26.890000	[1000000]	 :: new connection from 127.0.0.1
+Oct 19 01:55:26.15000	[1000000]	 :: AUTH_PHASE 015C4F18
+Oct 19 01:55:27.93000	[1000000]	 :: CInputAuth::Analyze : 9
+Oct 19 01:55:27.171000	[1000000]	 :: CInputAuth::Analyze : 10
+Oct 19 01:55:27.171000	[1000000]	 :: InputAuth::Login : admin(5) desc 015C4F18
+Oct 19 01:55:27.171000	[1000000]	 :: SetLoginKey 246
+Oct 19 01:55:27.171000	[1000000]	 :: InputAuth::Login : key 246 login admin
+Oct 19 01:55:27.218000	[47000]	 :: QID_AUTH_LOGIN: START 246 015C4F18
+SYSERR: Oct 19 01:55:27 :: DBManager::AnalyzeReturnQuery: New Pass: 3ac5c74b9c0043c31ad2b18a38748e11651f89ac210d074b3cdc6fd380f325a8
+Oct 19 01:55:27.218000	[1000000]	 :: Create_Time 0 19700101
+Oct 19 01:55:27.218000	[1000000]	 :: SendAuthLogin admin acc 1
+Oct 19 01:55:27.218000	[1000000]	 :: QID_AUTH_LOGIN: SUCCESS
+Oct 19 01:55:27.343000	[1000000]	 :: AuthLogin result 1 key 246
+Oct 19 01:55:27.421000	[1000000]	 :: SYSTEM: closing socket. DESC #748
+Oct 19 01:56:29.937000	[1000000]	 :: SYSTEM: new connection from [127.0.0.1] fd: 672 handshake 2384982547 output input_len 0, ptr 015C4F18
+Oct 19 01:56:29.937000	[1000000]	 :: new connection from 127.0.0.1
+Oct 19 01:56:29.15000	[1000000]	 :: AUTH_PHASE 015C4F18
+Oct 19 01:56:30.93000	[1000000]	 :: CInputAuth::Analyze : 9
+Oct 19 01:56:30.171000	[1000000]	 :: CInputAuth::Analyze : 10
+Oct 19 01:56:30.171000	[1000000]	 :: InputAuth::Login : admin3(6) desc 015C4F18
+Oct 19 01:56:30.171000	[1000000]	 :: SetLoginKey 10680
+Oct 19 01:56:30.171000	[1000000]	 :: InputAuth::Login : key 10680 login admin3
+Oct 19 01:56:30.218000	[47000]	 :: QID_AUTH_LOGIN: START 10680 015C4F18
+SYSERR: Oct 19 01:56:30 :: DBManager::AnalyzeReturnQuery: New Pass: 92088bc80be6fd13dff9efed187819804055eb9cf95732eed4372d90529ce8f8
+Oct 19 01:56:30.218000	[1000000]	 :: Create_Time 0 19700101
+Oct 19 01:56:30.218000	[1000000]	 ::    WRONGPWD
+Oct 19 01:56:31.15000	[1000000]	 :: CInputAuth::Analyze : 2
+Oct 19 01:56:33.609000	[1000000]	 :: SYSTEM: new connection from [127.0.0.1] fd: 756 handshake 3772380127 output input_len 0, ptr 03918930
+Oct 19 01:56:33.609000	[1000000]	 :: new connection from 127.0.0.1
+Oct 19 01:56:33.656000	[1000000]	 :: SYSTEM: closing socket. DESC #672
+Oct 19 01:56:33.734000	[1000000]	 :: AUTH_PHASE 03918930
+Oct 19 01:56:33.812000	[1000000]	 :: CInputAuth::Analyze : 9
+Oct 19 01:56:33.890000	[1000000]	 :: CInputAuth::Analyze : 10
+Oct 19 01:56:33.890000	[1000000]	 :: InputAuth::Login : admin2(6) desc 03918930
+Oct 19 01:56:33.890000	[1000000]	 :: SetLoginKey 4476
+Oct 19 01:56:33.890000	[1000000]	 :: InputAuth::Login : key 4476 login admin2
+Oct 19 01:56:33.937000	[47000]	 :: QID_AUTH_LOGIN: START 4476 03918930
+SYSERR: Oct 19 01:56:33 :: DBManager::AnalyzeReturnQuery: New Pass: 142c073ed37bf1162b752ce3a9b649f691de64ed8742dcdc4cc68d58bf1cba48
+Oct 19 01:56:33.937000	[1000000]	 :: Create_Time 0 19700101
+Oct 19 01:56:33.937000	[1000000]	 :: SendAuthLogin admin2 acc 2
+Oct 19 01:56:33.937000	[1000000]	 :: QID_AUTH_LOGIN: SUCCESS
+Oct 19 01:56:33.15000	[1000000]	 :: AuthLogin result 1 key 4476
+Oct 19 01:56:34.78000	[1000000]	 :: SYSTEM: closing socket. DESC #756
+Oct 19 01:56:38.921000	[1000000]	 :: SYSTEM: new connection from [127.0.0.1] fd: 752 handshake 1105172414 output input_len 0, ptr 015C6220
+Oct 19 01:56:38.921000	[1000000]	 :: new connection from 127.0.0.1
+Oct 19 01:56:38.31000	[1000000]	 :: AUTH_PHASE 015C6220
+Oct 19 01:56:39.125000	[1000000]	 :: CInputAuth::Analyze : 9
+Oct 19 01:56:39.203000	[1000000]	 :: CInputAuth::Analyze : 10
+Oct 19 01:56:39.203000	[1000000]	 :: InputAuth::Login : admin3(6) desc 015C6220
+Oct 19 01:56:39.203000	[1000000]	 :: SetLoginKey 12171
+Oct 19 01:56:39.203000	[1000000]	 :: InputAuth::Login : key 12171 login admin3
+Oct 19 01:56:39.234000	[31000]	 :: QID_AUTH_LOGIN: START 12171 015C6220
+SYSERR: Oct 19 01:56:39 :: DBManager::AnalyzeReturnQuery: New Pass: 92088bc80be6fd13dff9efed187819804055eb9cf95732eed4372d90529ce8f8
+Oct 19 01:56:39.234000	[1000000]	 :: Create_Time 0 19700101
+Oct 19 01:56:39.234000	[1000000]	 ::    WRONGPWD
+Oct 19 01:56:40.953000	[1000000]	 :: CInputAuth::Analyze : 2
+Oct 19 01:59:40.671000	[1000000]	 :: CInputAuth::Analyze : 2
+Oct 19 02:00:00.93000	[1000000]	 :: SYSTEM: LOG ROTATE (2025-10-19 1)
+Oct 19 02:02:25.500000	[1000000]	 :: SYSTEM: new connection from [127.0.0.1] fd: 812 handshake 790683898 output input_len 0, ptr 03918930
+Oct 19 02:02:25.500000	[1000000]	 :: new connection from 127.0.0.1
+Oct 19 02:02:25.531000	[1000000]	 :: SYSTEM: closing socket. DESC #752
+Oct 19 02:02:25.609000	[1000000]	 :: AUTH_PHASE 03918930
+Oct 19 02:02:25.687000	[1000000]	 :: CInputAuth::Analyze : 9
+Oct 19 02:02:25.765000	[1000000]	 :: CInputAuth::Analyze : 10
+Oct 19 02:02:25.765000	[1000000]	 :: InputAuth::Login : admin2(6) desc 03918930
+Oct 19 02:02:25.765000	[1000000]	 :: SetLoginKey 18787
+Oct 19 02:02:25.765000	[1000000]	 :: InputAuth::Login : key 18787 login admin2
+Oct 19 02:02:25.812000	[47000]	 :: QID_AUTH_LOGIN: START 18787 03918930
+SYSERR: Oct 19 02:02:25 :: DBManager::AnalyzeReturnQuery: New Pass: 142c073ed37bf1162b752ce3a9b649f691de64ed8742dcdc4cc68d58bf1cba48
+Oct 19 02:02:25.812000	[1000000]	 :: Create_Time 0 19700101
+Oct 19 02:02:25.812000	[1000000]	 :: SendAuthLogin admin2 acc 2
+Oct 19 02:02:25.812000	[1000000]	 :: QID_AUTH_LOGIN: SUCCESS
+Oct 19 02:02:25.921000	[1000000]	 :: AuthLogin result 1 key 18787
+Oct 19 02:02:25.15000	[1000000]	 :: SYSTEM: closing socket. DESC #812
+Oct 19 02:02:31.671000	[1000000]	 :: SYSTEM: new connection from [127.0.0.1] fd: 408 handshake 1382273562 output input_len 0, ptr 015C4F18
+Oct 19 02:02:31.671000	[1000000]	 :: new connection from 127.0.0.1
+Oct 19 02:02:31.796000	[1000000]	 :: AUTH_PHASE 015C4F18
+Oct 19 02:02:31.875000	[1000000]	 :: CInputAuth::Analyze : 9
+Oct 19 02:02:31.953000	[1000000]	 :: CInputAuth::Analyze : 10
+Oct 19 02:02:31.953000	[1000000]	 :: InputAuth::Login : admin2(6) desc 015C4F18
+Oct 19 02:02:31.953000	[1000000]	 :: SetLoginKey 2497
+Oct 19 02:02:31.953000	[1000000]	 :: InputAuth::Login : key 2497 login admin2
+Oct 19 02:02:31.0	[47000]	 :: QID_AUTH_LOGIN: START 2497 015C4F18
+SYSERR: Oct 19 02:02:31 :: DBManager::AnalyzeReturnQuery: New Pass: cf3833cac4e1413b607fb8a59f0700f6502ff55d5e87703805fab4f0d49cea6a
+Oct 19 02:02:31.0	[1000000]	 :: Create_Time 0 19700101
+Oct 19 02:02:31.0	[1000000]	 ::    WRONGPWD
+Oct 19 02:02:33.718000	[1000000]	 :: CInputAuth::Analyze : 2
+Oct 19 02:02:34.953000	[1000000]	 :: SYSTEM: new connection from [127.0.0.1] fd: 744 handshake 3791501503 output input_len 0, ptr 03918930
+Oct 19 02:02:34.953000	[1000000]	 :: new connection from 127.0.0.1
+Oct 19 02:02:34.0	[1000000]	 :: SYSTEM: closing socket. DESC #408
+Oct 19 02:02:34.78000	[1000000]	 :: AUTH_PHASE 03918930
+Oct 19 02:02:35.156000	[1000000]	 :: CInputAuth::Analyze : 9
+Oct 19 02:02:35.234000	[1000000]	 :: CInputAuth::Analyze : 10
+Oct 19 02:02:35.234000	[1000000]	 :: InputAuth::Login : admin(5) desc 03918930
+Oct 19 02:02:35.234000	[1000000]	 :: SetLoginKey 644
+Oct 19 02:02:35.234000	[1000000]	 :: InputAuth::Login : key 644 login admin
+Oct 19 02:02:35.281000	[47000]	 :: QID_AUTH_LOGIN: START 644 03918930
+SYSERR: Oct 19 02:02:35 :: DBManager::AnalyzeReturnQuery: New Pass: 3ac5c74b9c0043c31ad2b18a38748e11651f89ac210d074b3cdc6fd380f325a8
+Oct 19 02:02:35.281000	[1000000]	 :: Create_Time 0 19700101
+Oct 19 02:02:35.281000	[1000000]	 :: SendAuthLogin admin acc 1
+Oct 19 02:02:35.281000	[1000000]	 :: QID_AUTH_LOGIN: SUCCESS
+Oct 19 02:02:35.390000	[1000000]	 :: AuthLogin result 1 key 644
+Oct 19 02:02:35.468000	[1000000]	 :: SYSTEM: closing socket. DESC #744
+Oct 19 02:03:44.109000	[1000000]	 :: SYSTEM: new connection from [127.0.0.1] fd: 784 handshake 3068733204 output input_len 0, ptr 015C6220
+Oct 19 02:03:44.109000	[1000000]	 :: new connection from 127.0.0.1
+Oct 19 02:03:44.187000	[1000000]	 :: AUTH_PHASE 015C6220
+Oct 19 02:03:44.265000	[1000000]	 :: CInputAuth::Analyze : 9
+Oct 19 02:03:44.343000	[1000000]	 :: CInputAuth::Analyze : 10
+Oct 19 02:03:44.343000	[1000000]	 :: InputAuth::Login : admin(5) desc 015C6220
+Oct 19 02:03:44.343000	[1000000]	 :: SetLoginKey 31238
+Oct 19 02:03:44.343000	[1000000]	 :: InputAuth::Login : key 31238 login admin
+Oct 19 02:03:44.390000	[47000]	 :: QID_AUTH_LOGIN: START 31238 015C6220
+SYSERR: Oct 19 02:03:44 :: DBManager::AnalyzeReturnQuery: New Pass: 3ac5c74b9c0043c31ad2b18a38748e11651f89ac210d074b3cdc6fd380f325a8
+Oct 19 02:03:44.390000	[1000000]	 :: Create_Time 0 19700101
+Oct 19 02:03:44.390000	[1000000]	 :: SendAuthLogin admin acc 1
+Oct 19 02:03:44.390000	[1000000]	 :: QID_AUTH_LOGIN: SUCCESS
+Oct 19 02:03:44.468000	[1000000]	 :: AuthLogin result 1 key 31238
+Oct 19 02:03:44.546000	[1000000]	 :: SYSTEM: closing socket. DESC #784
+Oct 19 02:04:07.578000	[1000000]	 :: SYSTEM: new connection from [127.0.0.1] fd: 740 handshake 89359261 output input_len 0, ptr 015C6220
+Oct 19 02:04:07.578000	[1000000]	 :: new connection from 127.0.0.1
+Oct 19 02:04:07.656000	[1000000]	 :: AUTH_PHASE 015C6220
+Oct 19 02:04:07.734000	[1000000]	 :: CInputAuth::Analyze : 9
+Oct 19 02:04:07.812000	[1000000]	 :: CInputAuth::Analyze : 10
+Oct 19 02:04:07.812000	[1000000]	 :: InputAuth::Login : frù"(4) desc 015C6220
+Oct 19 02:04:07.812000	[1000000]	 :: InputAuth::Login : IS_NOT_VALID_LOGIN_STRING(frù") desc 015C6220
+Oct 19 02:04:08.46000	[1000000]	 :: SYSTEM: new connection from [127.0.0.1] fd: 764 handshake 577962433 output input_len 0, ptr 03918930
+Oct 19 02:04:08.46000	[1000000]	 :: new connection from 127.0.0.1
+Oct 19 02:04:09.93000	[1000000]	 :: SYSTEM: closing socket. DESC #740
+Oct 19 02:04:09.140000	[1000000]	 :: AUTH_PHASE 03918930
+Oct 19 02:04:09.218000	[1000000]	 :: CInputAuth::Analyze : 9
+Oct 19 02:04:09.296000	[1000000]	 :: CInputAuth::Analyze : 10
+Oct 19 02:04:09.296000	[1000000]	 :: InputAuth::Login : admin(5) desc 03918930
+Oct 19 02:04:09.296000	[1000000]	 :: SetLoginKey 8143
+Oct 19 02:04:09.296000	[1000000]	 :: InputAuth::Login : key 8143 login admin
+Oct 19 02:04:09.328000	[32000]	 :: QID_AUTH_LOGIN: START 8143 03918930
+SYSERR: Oct 19 02:04:09 :: DBManager::AnalyzeReturnQuery: New Pass: 3ac5c74b9c0043c31ad2b18a38748e11651f89ac210d074b3cdc6fd380f325a8
+Oct 19 02:04:09.328000	[1000000]	 :: Create_Time 0 19700101
+Oct 19 02:04:09.328000	[1000000]	 :: SendAuthLogin admin acc 1
+Oct 19 02:04:09.328000	[1000000]	 :: QID_AUTH_LOGIN: SUCCESS
+Oct 19 02:04:09.453000	[1000000]	 :: AuthLogin result 1 key 8143
+Oct 19 02:04:09.531000	[1000000]	 :: SYSTEM: closing socket. DESC #764
+Oct 19 02:05:20.625000	[1000000]	 :: SYSTEM: new connection from [127.0.0.1] fd: 752 handshake 3996597158 output input_len 0, ptr 015C4F18
+Oct 19 02:05:20.625000	[1000000]	 :: new connection from 127.0.0.1
+Oct 19 02:05:20.750000	[1000000]	 :: AUTH_PHASE 015C4F18
+Oct 19 02:05:20.828000	[1000000]	 :: CInputAuth::Analyze : 9
+Oct 19 02:05:20.906000	[1000000]	 :: CInputAuth::Analyze : 10
+Oct 19 02:05:20.906000	[1000000]	 :: InputAuth::Login : admin2(6) desc 015C4F18
+Oct 19 02:05:20.906000	[1000000]	 :: SetLoginKey 5248
+Oct 19 02:05:20.906000	[1000000]	 :: InputAuth::Login : key 5248 login admin2
+Oct 19 02:05:20.953000	[47000]	 :: QID_AUTH_LOGIN: START 5248 015C4F18
+SYSERR: Oct 19 02:05:20 :: DBManager::AnalyzeReturnQuery: New Pass: 142c073ed37bf1162b752ce3a9b649f691de64ed8742dcdc4cc68d58bf1cba48
+Oct 19 02:05:20.953000	[1000000]	 :: Create_Time 0 19700101
+Oct 19 02:05:20.953000	[1000000]	 :: SendAuthLogin admin2 acc 2
+Oct 19 02:05:20.953000	[1000000]	 :: QID_AUTH_LOGIN: SUCCESS
+Oct 19 02:05:20.78000	[1000000]	 :: AuthLogin result 1 key 5248
+Oct 19 02:05:21.140000	[1000000]	 :: SYSTEM: closing socket. DESC #752
+Oct 19 02:07:50.281000	[281000]	 :: SYSTEM: BINDING TCP PORT ON [30001] (fd 548)
+Oct 19 02:07:50.281000	[1000000]	 :: SYSTEM: BINDING TCP PORT ON [30006] (fd 540)
+Oct 19 02:07:50.281000	[1000000]	 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+Oct 19 02:07:50.281000	[1000000]	 :: SYSTEM: connected to server (fd 536, ptr 0170B438)
+Oct 19 02:08:31.890000	[1000000]	 :: SYSTEM: new connection from [127.0.0.1] fd: 512 handshake 2494569926 output input_len 0, ptr 01614F18
+Oct 19 02:08:31.890000	[1000000]	 :: new connection from 127.0.0.1
+Oct 19 02:08:31.15000	[1000000]	 :: AUTH_PHASE 01614F18
+Oct 19 02:08:32.93000	[1000000]	 :: CInputAuth::Analyze : 9
+Oct 19 02:08:32.171000	[1000000]	 :: CInputAuth::Analyze : 10
+Oct 19 02:08:32.171000	[1000000]	 :: InputAuth::Login : admin(5) desc 01614F18
+Oct 19 02:08:32.171000	[1000000]	 :: SetLoginKey 22278
+Oct 19 02:08:32.171000	[1000000]	 :: InputAuth::Login : key 22278 login admin
+Oct 19 02:08:32.218000	[47000]	 :: QID_AUTH_LOGIN: START 22278 01614F18
+SYSERR: Oct 19 02:08:32 :: DBManager::AnalyzeReturnQuery: New Pass: 3ac5c74b9c0043c31ad2b18a38748e11651f89ac210d074b3cdc6fd380f325a8
+Oct 19 02:08:32.218000	[1000000]	 :: Create_Time 0 19700101
+Oct 19 02:08:32.218000	[1000000]	 :: SendAuthLogin admin acc 1
+Oct 19 02:08:32.218000	[1000000]	 :: QID_AUTH_LOGIN: SUCCESS
+Oct 19 02:08:32.296000	[1000000]	 :: AuthLogin result 1 key 22278
+Oct 19 02:08:32.375000	[1000000]	 :: SYSTEM: closing socket. DESC #512
+Oct 19 02:09:40.671000	[1000000]	 :: SYSTEM: new connection from [127.0.0.1] fd: 1000 handshake 2966866560 output input_len 0, ptr 01614F18
+Oct 19 02:09:40.671000	[1000000]	 :: new connection from 127.0.0.1
+Oct 19 02:09:40.750000	[1000000]	 :: AUTH_PHASE 01614F18
+Oct 19 02:09:40.828000	[1000000]	 :: CInputAuth::Analyze : 9
+Oct 19 02:09:40.953000	[1000000]	 :: CInputAuth::Analyze : 10
+Oct 19 02:09:40.953000	[1000000]	 :: InputAuth::Login : admin2(6) desc 01614F18
+Oct 19 02:09:40.953000	[1000000]	 :: SetLoginKey 7465
+Oct 19 02:09:40.953000	[1000000]	 :: InputAuth::Login : key 7465 login admin2
+Oct 19 02:09:40.984000	[31000]	 :: QID_AUTH_LOGIN: START 7465 01614F18
+SYSERR: Oct 19 02:09:40 :: DBManager::AnalyzeReturnQuery: New Pass: 142c073ed37bf1162b752ce3a9b649f691de64ed8742dcdc4cc68d58bf1cba48
+Oct 19 02:09:40.984000	[1000000]	 :: Create_Time 0 19700101
+Oct 19 02:09:40.984000	[1000000]	 :: SendAuthLogin admin2 acc 2
+Oct 19 02:09:40.984000	[1000000]	 :: QID_AUTH_LOGIN: SUCCESS
+Oct 19 02:09:41.109000	[1000000]	 :: AuthLogin result 1 key 7465
+Oct 19 02:09:41.187000	[1000000]	 :: SYSTEM: closing socket. DESC #1000
+Oct 19 02:09:51.171000	[1000000]	 :: SYSTEM: new connection from [127.0.0.1] fd: 908 handshake 3390260755 output input_len 0, ptr 01614F18
+Oct 19 02:09:51.171000	[1000000]	 :: new connection from 127.0.0.1
+Oct 19 02:09:51.296000	[1000000]	 :: AUTH_PHASE 01614F18
+Oct 19 02:09:51.375000	[1000000]	 :: CInputAuth::Analyze : 9
+Oct 19 02:09:51.453000	[1000000]	 :: CInputAuth::Analyze : 10
+Oct 19 02:09:51.453000	[1000000]	 :: InputAuth::Login : admin3(6) desc 01614F18
+Oct 19 02:09:51.453000	[1000000]	 :: SetLoginKey 20292
+Oct 19 02:09:51.453000	[1000000]	 :: InputAuth::Login : key 20292 login admin3
+Oct 19 02:09:51.500000	[47000]	 :: QID_AUTH_LOGIN: START 20292 01614F18
+SYSERR: Oct 19 02:09:51 :: DBManager::AnalyzeReturnQuery: New Pass: 92088bc80be6fd13dff9efed187819804055eb9cf95732eed4372d90529ce8f8
+Oct 19 02:09:51.500000	[1000000]	 :: Create_Time 0 19700101
+Oct 19 02:09:51.500000	[1000000]	 ::    WRONGPWD
+Oct 19 02:09:53.234000	[1000000]	 :: CInputAuth::Analyze : 2
+Oct 19 02:10:38.890000	[1000000]	 :: SYSTEM: new connection from [127.0.0.1] fd: 896 handshake 1762065548 output input_len 0, ptr 016C7798
+Oct 19 02:10:38.890000	[1000000]	 :: new connection from 127.0.0.1
+Oct 19 02:10:38.921000	[1000000]	 :: SYSTEM: closing socket. DESC #908
+Oct 19 02:10:38.968000	[1000000]	 :: AUTH_PHASE 016C7798
+Oct 19 02:10:38.46000	[1000000]	 :: CInputAuth::Analyze : 9
+Oct 19 02:10:39.125000	[1000000]	 :: CInputAuth::Analyze : 10
+Oct 19 02:10:39.125000	[1000000]	 :: InputAuth::Login : admin5(6) desc 016C7798
+Oct 19 02:10:39.125000	[1000000]	 :: SetLoginKey 22245
+Oct 19 02:10:39.125000	[1000000]	 :: InputAuth::Login : key 22245 login admin5
+Oct 19 02:10:39.156000	[16000]	 :: QID_AUTH_LOGIN: START 22245 016C7798
+Oct 19 02:10:39.156000	[1000000]	 ::    NOID
+Oct 19 02:10:40.921000	[1000000]	 :: CInputAuth::Analyze : 2
+Oct 19 02:11:50.953000	[1000000]	 :: SYSTEM: new connection from [127.0.0.1] fd: 1020 handshake 199265092 output input_len 0, ptr 01614F18
+Oct 19 02:11:50.953000	[1000000]	 :: new connection from 127.0.0.1
+Oct 19 02:11:50.0	[1000000]	 :: SYSTEM: closing socket. DESC #896
+Oct 19 02:11:50.78000	[1000000]	 :: AUTH_PHASE 01614F18
+Oct 19 02:11:51.156000	[1000000]	 :: CInputAuth::Analyze : 9
+Oct 19 02:11:51.234000	[1000000]	 :: CInputAuth::Analyze : 10
+Oct 19 02:11:51.234000	[1000000]	 :: InputAuth::Login : sefa(4) desc 01614F18
+Oct 19 02:11:51.234000	[1000000]	 :: SetLoginKey 31540
+Oct 19 02:11:51.234000	[1000000]	 :: InputAuth::Login : key 31540 login sefa
+Oct 19 02:11:51.281000	[47000]	 :: QID_AUTH_LOGIN: START 31540 01614F18
+Oct 19 02:11:51.281000	[1000000]	 ::    NOID
+Oct 19 02:11:52.0	[1000000]	 :: CInputAuth::Analyze : 2
+Oct 19 02:12:29.390000	[1000000]	 :: SYSTEM: new connection from [127.0.0.1] fd: 464 handshake 768632068 output input_len 0, ptr 016C7798
+Oct 19 02:12:29.390000	[1000000]	 :: new connection from 127.0.0.1
+Oct 19 02:12:29.437000	[1000000]	 :: SYSTEM: closing socket. DESC #1020
+Oct 19 02:12:29.531000	[1000000]	 :: AUTH_PHASE 016C7798
+Oct 19 02:12:29.593000	[1000000]	 :: CInputAuth::Analyze : 9
+Oct 19 02:12:29.671000	[1000000]	 :: CInputAuth::Analyze : 10
+Oct 19 02:12:29.671000	[1000000]	 :: InputAuth::Login : sefa(4) desc 016C7798
+Oct 19 02:12:29.671000	[1000000]	 :: SetLoginKey 3713
+Oct 19 02:12:29.671000	[1000000]	 :: InputAuth::Login : key 3713 login sefa
+Oct 19 02:12:29.718000	[47000]	 :: QID_AUTH_LOGIN: START 3713 016C7798
+SYSERR: Oct 19 02:12:29 :: DBManager::AnalyzeReturnQuery: New Pass: 6ff6d83e41c36d61486251ae986d451e70ef85bdb03141bad50f337e0d013637
+Oct 19 02:12:29.718000	[1000000]	 :: Create_Time 0 19700101
+Oct 19 02:12:29.718000	[1000000]	 ::    WRONGPWD
+Oct 19 02:12:31.437000	[1000000]	 :: CInputAuth::Analyze : 2
+Oct 19 02:12:42.140000	[1000000]	 :: SYSTEM: new connection from [127.0.0.1] fd: 924 handshake 804616198 output input_len 0, ptr 01614F18
+Oct 19 02:12:42.140000	[1000000]	 :: new connection from 127.0.0.1
+Oct 19 02:12:42.187000	[1000000]	 :: SYSTEM: closing socket. DESC #464
+Oct 19 02:12:42.265000	[1000000]	 :: AUTH_PHASE 01614F18
+Oct 19 02:12:42.343000	[1000000]	 :: CInputAuth::Analyze : 9
+Oct 19 02:12:42.468000	[1000000]	 :: CInputAuth::Analyze : 10
+Oct 19 02:12:42.468000	[1000000]	 :: InputAuth::Login : admin(5) desc 01614F18
+Oct 19 02:12:42.468000	[1000000]	 :: SetLoginKey 32297
+Oct 19 02:12:42.468000	[1000000]	 :: InputAuth::Login : key 32297 login admin
+Oct 19 02:12:42.500000	[32000]	 :: QID_AUTH_LOGIN: START 32297 01614F18
+SYSERR: Oct 19 02:12:42 :: DBManager::AnalyzeReturnQuery: New Pass: 3ac5c74b9c0043c31ad2b18a38748e11651f89ac210d074b3cdc6fd380f325a8
+Oct 19 02:12:42.500000	[1000000]	 :: Create_Time 0 19700101
+Oct 19 02:12:42.500000	[1000000]	 :: SendAuthLogin admin acc 1
+Oct 19 02:12:42.500000	[1000000]	 :: QID_AUTH_LOGIN: SUCCESS
+Oct 19 02:12:42.625000	[1000000]	 :: AuthLogin result 1 key 32297
+Oct 19 02:12:42.703000	[1000000]	 :: SYSTEM: closing socket. DESC #924
+Oct 19 02:12:50.171000	[1000000]	 :: SYSTEM: new connection from [127.0.0.1] fd: 500 handshake 2783303893 output input_len 0, ptr 01614F18
+Oct 19 02:12:50.171000	[1000000]	 :: new connection from 127.0.0.1
+Oct 19 02:12:50.250000	[1000000]	 :: AUTH_PHASE 01614F18
+Oct 19 02:12:50.328000	[1000000]	 :: CInputAuth::Analyze : 9
+Oct 19 02:12:50.406000	[1000000]	 :: CInputAuth::Analyze : 10
+Oct 19 02:12:50.406000	[1000000]	 :: InputAuth::Login : admin(5) desc 01614F18
+Oct 19 02:12:50.406000	[1000000]	 :: SetLoginKey 21587
+Oct 19 02:12:50.406000	[1000000]	 :: InputAuth::Login : key 21587 login admin
+Oct 19 02:12:50.453000	[47000]	 :: QID_AUTH_LOGIN: START 21587 01614F18
+SYSERR: Oct 19 02:12:50 :: DBManager::AnalyzeReturnQuery: New Pass: 3ac5c74b9c0043c31ad2b18a38748e11651f89ac210d074b3cdc6fd380f325a8
+Oct 19 02:12:50.453000	[1000000]	 :: Create_Time 0 19700101
+Oct 19 02:12:50.453000	[1000000]	 :: SendAuthLogin admin acc 1
+Oct 19 02:12:50.453000	[1000000]	 :: QID_AUTH_LOGIN: SUCCESS
+Oct 19 02:12:50.562000	[1000000]	 :: AuthLogin result 1 key 21587
+Oct 19 02:12:50.640000	[1000000]	 :: SYSTEM: closing socket. DESC #500
+Oct 19 02:18:10.578000	[1000000]	 :: SYSTEM: new connection from [127.0.0.1] fd: 944 handshake 4213321781 output input_len 0, ptr 01614F18
+Oct 19 02:18:10.578000	[1000000]	 :: new connection from 127.0.0.1
+Oct 19 02:18:10.656000	[1000000]	 :: AUTH_PHASE 01614F18
+Oct 19 02:18:10.718000	[1000000]	 :: CInputAuth::Analyze : 9
+Oct 19 02:18:10.796000	[1000000]	 :: CInputAuth::Analyze : 10
+Oct 19 02:18:10.796000	[1000000]	 :: InputAuth::Login : admin(5) desc 01614F18
+Oct 19 02:18:10.796000	[1000000]	 :: SetLoginKey 26446
+Oct 19 02:18:10.796000	[1000000]	 :: InputAuth::Login : key 26446 login admin
+Oct 19 02:18:10.843000	[47000]	 :: QID_AUTH_LOGIN: START 26446 01614F18
+SYSERR: Oct 19 02:18:10 :: DBManager::AnalyzeReturnQuery: New Pass: 3ac5c74b9c0043c31ad2b18a38748e11651f89ac210d074b3cdc6fd380f325a8
+Oct 19 02:18:10.843000	[1000000]	 :: Create_Time 0 19700101
+Oct 19 02:18:10.843000	[1000000]	 :: SendAuthLogin admin acc 1
+Oct 19 02:18:10.843000	[1000000]	 :: QID_AUTH_LOGIN: SUCCESS
+Oct 19 02:18:10.968000	[1000000]	 :: AuthLogin result 1 key 26446
+Oct 19 02:18:10.46000	[1000000]	 :: SYSTEM: closing socket. DESC #944
+Oct 19 02:18:45.953000	[1000000]	 :: SYSTEM: new connection from [127.0.0.1] fd: 520 handshake 3829482073 output input_len 0, ptr 01614F18
+Oct 19 02:18:45.953000	[1000000]	 :: new connection from 127.0.0.1
+Oct 19 02:18:45.31000	[1000000]	 :: AUTH_PHASE 01614F18
+Oct 19 02:18:46.109000	[1000000]	 :: CInputAuth::Analyze : 9
+Oct 19 02:18:46.187000	[1000000]	 :: CInputAuth::Analyze : 10
+Oct 19 02:18:46.187000	[1000000]	 :: InputAuth::Login : admin(5) desc 01614F18
+Oct 19 02:18:46.187000	[1000000]	 :: SetLoginKey 27619
+Oct 19 02:18:46.187000	[1000000]	 :: InputAuth::Login : key 27619 login admin
+Oct 19 02:18:46.234000	[47000]	 :: QID_AUTH_LOGIN: START 27619 01614F18
+SYSERR: Oct 19 02:18:46 :: DBManager::AnalyzeReturnQuery: New Pass: 3ac5c74b9c0043c31ad2b18a38748e11651f89ac210d074b3cdc6fd380f325a8
+Oct 19 02:18:46.234000	[1000000]	 :: Create_Time 0 19700101
+Oct 19 02:18:46.234000	[1000000]	 :: SendAuthLogin admin acc 1
+Oct 19 02:18:46.234000	[1000000]	 :: QID_AUTH_LOGIN: SUCCESS
+Oct 19 02:18:46.343000	[1000000]	 :: AuthLogin result 1 key 27619
+Oct 19 02:18:46.421000	[1000000]	 :: SYSTEM: closing socket. DESC #520
+Oct 19 02:25:29.562000	[1000000]	 :: SYSTEM: new connection from [127.0.0.1] fd: 556 handshake 3013641419 output input_len 0, ptr 01614F18
+Oct 19 02:25:29.562000	[1000000]	 :: new connection from 127.0.0.1
+Oct 19 02:25:29.640000	[1000000]	 :: AUTH_PHASE 01614F18
+Oct 19 02:25:29.718000	[1000000]	 :: CInputAuth::Analyze : 9
+Oct 19 02:25:29.796000	[1000000]	 :: CInputAuth::Analyze : 10
+Oct 19 02:25:29.796000	[1000000]	 :: InputAuth::Login : admin(5) desc 01614F18
+Oct 19 02:25:29.796000	[1000000]	 :: SetLoginKey 6444
+Oct 19 02:25:29.796000	[1000000]	 :: InputAuth::Login : key 6444 login admin
+Oct 19 02:25:31.625000	[1000000]	 :: CInputAuth::Analyze : 2
+SYSERR: Oct 19 02:25:31 :: CAsyncSQL::ChildLoop: AsyncSQL: query failed: Can't connect to MySQL server on '127.0.0.1' (10061) (query: SELECT acc.id, LOWER(acc.login),PASSWORD('123'),acc.password,hwid_ban.from,TIMESTAMPDIFF(SECOND, NOW(), hwid_ban.expire),acc.social_id,acc.status,acc.availDt - NOW() > 0,TIME_TO_SEC(TIMEDIFF(acc.availDt, NOW())),UNIX_TIMESTAMP(acc.create_time), acc.hwid,IF(verified is null or verified = 1, 0, UNIX_TIMESTAMP(DATE_ADD(account_key.date, INTERVAL 3 DAY))),IFNULL(verified,3),IFNULL(TIMESTAMPDIFF(SECOND, NOW(), hwid_ban2.expire), 0),IFNULL(hwid_ban2.power, 0),IF(coins+special_coins > 0, 1, 0) FROM account AS acc LEFT JOIN hwid_ban ON hwid_ban.hwid = '5a58efd5e711b4d8d557110a566e888f' AND hwid_ban.expire > NOW()  LEFT JOIN hwid_ban2 ON hwid_ban2.hwid = 'DESKTOPVVQUHHH @ ismail' AND hwid_ban2.expire > NOW()  LEFT JOIN account_key ON account_key.id = acc.id AND account_key.hwid = '5a58efd5e711b4d8d557110a566e888f'  WHERE login='admin' errno: 2003)
+SYSERR: Oct 19 02:25:31 :: CAsyncSQL::ChildLoop: AsyncSQL: retrying
+Oct 19 02:28:31.484000	[1000000]	 :: CInputAuth::Analyze : 2
+Oct 19 02:31:31.281000	[1000000]	 :: CInputAuth::Analyze : 2
+Oct 19 02:32:57.656000	[1000000]	 :: SYSTEM: new connection from [127.0.0.1] fd: 872 handshake 1177502184 output input_len 0, ptr 0170B710
+Oct 19 02:32:57.656000	[1000000]	 :: new connection from 127.0.0.1
+Oct 19 02:32:57.703000	[1000000]	 :: SYSTEM: closing socket. DESC #556
+Oct 19 02:32:57.750000	[1000000]	 :: AUTH_PHASE 0170B710
+Oct 19 02:32:57.828000	[1000000]	 :: CInputAuth::Analyze : 9
+Oct 19 02:32:57.906000	[1000000]	 :: CInputAuth::Analyze : 10
+Oct 19 02:32:57.906000	[1000000]	 :: InputAuth::Login : admin(5) desc 0170B710
+Oct 19 02:32:57.906000	[1000000]	 :: SetLoginKey 29158
+Oct 19 02:32:57.906000	[1000000]	 :: InputAuth::Login : key 29158 login admin
+SYSERR: Oct 19 02:32:57 :: CAsyncSQL::ChildLoop: MySQL connection was reconnected. querying locale set
+Oct 19 02:32:57.906000	[1000000]	 :: 	--mysql_set_character_set(utf8)
+Oct 19 02:32:57.953000	[47000]	 :: QID_AUTH_LOGIN: START 29158 0170B710
+SYSERR: Oct 19 02:32:57 :: DBManager::AnalyzeReturnQuery: New Pass: 3ac5c74b9c0043c31ad2b18a38748e11651f89ac210d074b3cdc6fd380f325a8
+Oct 19 02:32:57.953000	[1000000]	 :: Create_Time 0 19700101
+Oct 19 02:32:57.953000	[1000000]	 :: SendAuthLogin admin acc 1
+Oct 19 02:32:57.953000	[1000000]	 :: QID_AUTH_LOGIN: SUCCESS
+Oct 19 02:32:57.62000	[1000000]	 :: AuthLogin result 1 key 29158
+Oct 19 02:32:58.140000	[1000000]	 :: SYSTEM: closing socket. DESC #872
+Oct 19 02:34:59.515000	[1000000]	 :: SYSTEM: new connection from [127.0.0.1] fd: 544 handshake 1728584631 output input_len 0, ptr 01614F18
+Oct 19 02:34:59.515000	[1000000]	 :: new connection from 127.0.0.1
+Oct 19 02:34:59.656000	[1000000]	 :: AUTH_PHASE 01614F18
+Oct 19 02:34:59.734000	[1000000]	 :: CInputAuth::Analyze : 9
+Oct 19 02:34:59.812000	[1000000]	 :: CInputAuth::Analyze : 10
+Oct 19 02:34:59.812000	[1000000]	 :: InputAuth::Login : admin(5) desc 01614F18
+Oct 19 02:34:59.812000	[1000000]	 :: SetLoginKey 2869
+Oct 19 02:34:59.812000	[1000000]	 :: InputAuth::Login : key 2869 login admin
+Oct 19 02:34:59.859000	[47000]	 :: QID_AUTH_LOGIN: START 2869 01614F18
+SYSERR: Oct 19 02:34:59 :: DBManager::AnalyzeReturnQuery: New Pass: 3ac5c74b9c0043c31ad2b18a38748e11651f89ac210d074b3cdc6fd380f325a8
+Oct 19 02:34:59.859000	[1000000]	 :: Create_Time 0 19700101
+SYSERR: Oct 19 02:34:59 :: CAsyncSQL::DirectQuery: MySQL connection was reconnected. querying locale set
+Oct 19 02:34:59.859000	[1000000]	 :: 	--mysql_set_character_set(utf8)
+Oct 19 02:34:59.859000	[1000000]	 :: SendAuthLogin admin acc 1
+Oct 19 02:34:59.859000	[1000000]	 :: QID_AUTH_LOGIN: SUCCESS
+Oct 19 02:34:59.937000	[1000000]	 :: AuthLogin result 1 key 2869
+Oct 19 02:34:59.15000	[1000000]	 :: SYSTEM: closing socket. DESC #544
+Oct 19 02:46:47.687000	[1000000]	 :: SYSTEM: new connection from [127.0.0.1] fd: 808 handshake 1626781609 output input_len 0, ptr 01614F18
+Oct 19 02:46:47.687000	[1000000]	 :: new connection from 127.0.0.1
+Oct 19 02:46:47.765000	[1000000]	 :: AUTH_PHASE 01614F18
+Oct 19 02:46:47.843000	[1000000]	 :: CInputAuth::Analyze : 9
+Oct 19 02:46:47.921000	[1000000]	 :: CInputAuth::Analyze : 10
+Oct 19 02:46:47.921000	[1000000]	 :: InputAuth::Login : admin(5) desc 01614F18
+Oct 19 02:46:47.921000	[1000000]	 :: SetLoginKey 28262
+Oct 19 02:46:47.921000	[1000000]	 :: InputAuth::Login : key 28262 login admin
+Oct 19 02:46:49.718000	[1000000]	 :: CInputAuth::Analyze : 2
+SYSERR: Oct 19 02:46:49 :: CAsyncSQL::ChildLoop: AsyncSQL: query failed: Can't connect to MySQL server on '127.0.0.1' (10061) (query: SELECT acc.id, LOWER(acc.login),PASSWORD('123'),acc.password,hwid_ban.from,TIMESTAMPDIFF(SECOND, NOW(), hwid_ban.expire),acc.social_id,acc.status,acc.availDt - NOW() > 0,TIME_TO_SEC(TIMEDIFF(acc.availDt, NOW())),UNIX_TIMESTAMP(acc.create_time), acc.hwid,IF(verified is null or verified = 1, 0, UNIX_TIMESTAMP(DATE_ADD(account_key.date, INTERVAL 3 DAY))),IFNULL(verified,3),IFNULL(TIMESTAMPDIFF(SECOND, NOW(), hwid_ban2.expire), 0),IFNULL(hwid_ban2.power, 0),IF(coins+special_coins > 0, 1, 0) FROM account AS acc LEFT JOIN hwid_ban ON hwid_ban.hwid = '5a58efd5e711b4d8d557110a566e888f' AND hwid_ban.expire > NOW()  LEFT JOIN hwid_ban2 ON hwid_ban2.hwid = 'DESKTOPVVQUHHH @ ismail' AND hwid_ban2.expire > NOW()  LEFT JOIN account_key ON account_key.id = acc.id AND account_key.hwid = '5a58efd5e711b4d8d557110a566e888f'  WHERE login='admin' errno: 2003)
+SYSERR: Oct 19 02:46:49 :: CAsyncSQL::ChildLoop: AsyncSQL: retrying
+Oct 19 02:49:12.406000	[1000000]	 :: SYSTEM: new connection from [127.0.0.1] fd: 512 handshake 1233077791 output input_len 0, ptr 016C8700
+Oct 19 02:49:12.406000	[1000000]	 :: new connection from 127.0.0.1
+Oct 19 02:49:12.453000	[1000000]	 :: SYSTEM: closing socket. DESC #808
+Oct 19 02:49:12.531000	[1000000]	 :: AUTH_PHASE 016C8700
+Oct 19 02:49:12.609000	[1000000]	 :: CInputAuth::Analyze : 9
+Oct 19 02:49:12.687000	[1000000]	 :: CInputAuth::Analyze : 10
+Oct 19 02:49:12.687000	[1000000]	 :: InputAuth::Login : admin(5) desc 016C8700
+Oct 19 02:49:12.687000	[1000000]	 :: SetLoginKey 15809
+Oct 19 02:49:12.687000	[1000000]	 :: InputAuth::Login : key 15809 login admin
+SYSERR: Oct 19 02:49:12 :: CAsyncSQL::ChildLoop: MySQL connection was reconnected. querying locale set
+Oct 19 02:49:12.687000	[1000000]	 :: 	--mysql_set_character_set(utf8)
+Oct 19 02:49:12.734000	[47000]	 :: QID_AUTH_LOGIN: START 15809 016C8700
+SYSERR: Oct 19 02:49:12 :: DBManager::AnalyzeReturnQuery: New Pass: 3ac5c74b9c0043c31ad2b18a38748e11651f89ac210d074b3cdc6fd380f325a8
+Oct 19 02:49:12.734000	[1000000]	 :: Create_Time 0 19700101
+Oct 19 02:49:12.734000	[1000000]	 :: Set Trade Block! ['f5acc3342018fd5d4084cfe417685018' => '5a58efd5e711b4d8d557110a566e888f']
+SYSERR: Oct 19 02:49:12 :: CAsyncSQL::DirectQuery: MySQL connection was reconnected. querying locale set
+Oct 19 02:49:12.734000	[1000000]	 :: 	--mysql_set_character_set(utf8)
+Oct 19 02:49:12.734000	[1000000]	 :: SendAuthLogin admin acc 1
+Oct 19 02:49:12.734000	[1000000]	 :: QID_AUTH_LOGIN: SUCCESS
+Oct 19 02:49:12.843000	[1000000]	 :: AuthLogin result 1 key 15809
+Oct 19 02:49:12.937000	[1000000]	 :: SYSTEM: closing socket. DESC #512
+Oct 19 02:50:13.765000	[1000000]	 :: SYSTEM: new connection from [127.0.0.1] fd: 884 handshake 3396708541 output input_len 0, ptr 01614F18
+Oct 19 02:50:13.765000	[1000000]	 :: new connection from 127.0.0.1
+Oct 19 02:50:13.859000	[1000000]	 :: AUTH_PHASE 01614F18
+Oct 19 02:50:13.937000	[1000000]	 :: CInputAuth::Analyze : 9
+Oct 19 02:50:13.15000	[1000000]	 :: CInputAuth::Analyze : 10
+Oct 19 02:50:13.15000	[1000000]	 :: InputAuth::Login : admin(5) desc 01614F18
+Oct 19 02:50:13.15000	[1000000]	 :: SetLoginKey 8667
+Oct 19 02:50:13.15000	[1000000]	 :: InputAuth::Login : key 8667 login admin
+Oct 19 02:50:13.46000	[31000]	 :: QID_AUTH_LOGIN: START 8667 01614F18
+SYSERR: Oct 19 02:50:13 :: DBManager::AnalyzeReturnQuery: New Pass: 3ac5c74b9c0043c31ad2b18a38748e11651f89ac210d074b3cdc6fd380f325a8
+Oct 19 02:50:13.46000	[1000000]	 :: Create_Time 0 19700101
+Oct 19 02:50:13.46000	[1000000]	 :: SendAuthLogin admin acc 1
+Oct 19 02:50:13.46000	[1000000]	 :: QID_AUTH_LOGIN: SUCCESS
+Oct 19 02:50:14.125000	[1000000]	 :: AuthLogin result 1 key 8667
+Oct 19 02:50:14.218000	[1000000]	 :: SYSTEM: closing socket. DESC #884
+Oct 19 02:50:44.140000	[1000000]	 :: SYSTEM: new connection from [127.0.0.1] fd: 776 handshake 2699171472 output input_len 0, ptr 01614F18
+Oct 19 02:50:44.140000	[1000000]	 :: new connection from 127.0.0.1
+Oct 19 02:50:44.234000	[1000000]	 :: AUTH_PHASE 01614F18
+Oct 19 02:50:44.312000	[1000000]	 :: CInputAuth::Analyze : 9
+Oct 19 02:50:44.390000	[1000000]	 :: CInputAuth::Analyze : 10
+Oct 19 02:50:44.390000	[1000000]	 :: InputAuth::Login : admin(5) desc 01614F18
+Oct 19 02:50:44.390000	[1000000]	 :: SetLoginKey 13067
+Oct 19 02:50:44.390000	[1000000]	 :: InputAuth::Login : key 13067 login admin
+Oct 19 02:50:44.421000	[31000]	 :: QID_AUTH_LOGIN: START 13067 01614F18
+SYSERR: Oct 19 02:50:44 :: DBManager::AnalyzeReturnQuery: New Pass: 3ac5c74b9c0043c31ad2b18a38748e11651f89ac210d074b3cdc6fd380f325a8
+Oct 19 02:50:44.421000	[1000000]	 :: Create_Time 0 19700101
+Oct 19 02:50:44.437000	[16000]	 :: SendAuthLogin admin acc 1
+Oct 19 02:50:44.437000	[1000000]	 :: QID_AUTH_LOGIN: SUCCESS
+Oct 19 02:50:44.515000	[1000000]	 :: AuthLogin result 1 key 13067
+Oct 19 02:50:44.593000	[1000000]	 :: SYSTEM: closing socket. DESC #776
+Oct 19 02:51:29.343000	[1000000]	 :: SYSTEM: new connection from [127.0.0.1] fd: 856 handshake 1882656086 output input_len 0, ptr 01614F18
+Oct 19 02:51:29.343000	[1000000]	 :: new connection from 127.0.0.1
+Oct 19 02:51:29.468000	[1000000]	 :: AUTH_PHASE 01614F18
+Oct 19 02:51:29.546000	[1000000]	 :: CInputAuth::Analyze : 9
+Oct 19 02:51:29.625000	[1000000]	 :: CInputAuth::Analyze : 10
+Oct 19 02:51:29.625000	[1000000]	 :: InputAuth::Login : admin(5) desc 01614F18
+Oct 19 02:51:29.625000	[1000000]	 :: SetLoginKey 30503
+Oct 19 02:51:29.625000	[1000000]	 :: InputAuth::Login : key 30503 login admin
+Oct 19 02:51:29.671000	[46000]	 :: QID_AUTH_LOGIN: START 30503 01614F18
+SYSERR: Oct 19 02:51:29 :: DBManager::AnalyzeReturnQuery: New Pass: 3ac5c74b9c0043c31ad2b18a38748e11651f89ac210d074b3cdc6fd380f325a8
+Oct 19 02:51:29.671000	[1000000]	 :: Create_Time 0 19700101
+Oct 19 02:51:29.671000	[1000000]	 :: SendAuthLogin admin acc 1
+Oct 19 02:51:29.671000	[1000000]	 :: QID_AUTH_LOGIN: SUCCESS
+Oct 19 02:51:29.750000	[1000000]	 :: AuthLogin result 1 key 30503
+Oct 19 02:51:29.828000	[1000000]	 :: SYSTEM: closing socket. DESC #856
+Oct 19 02:51:45.218000	[1000000]	 :: SYSTEM: new connection from [127.0.0.1] fd: 820 handshake 3286662555 output input_len 0, ptr 01614F18
+Oct 19 02:51:45.218000	[1000000]	 :: new connection from 127.0.0.1
+Oct 19 02:51:45.281000	[1000000]	 :: AUTH_PHASE 01614F18
+Oct 19 02:51:45.375000	[1000000]	 :: CInputAuth::Analyze : 9
+Oct 19 02:51:45.453000	[1000000]	 :: CInputAuth::Analyze : 10
+Oct 19 02:51:45.453000	[1000000]	 :: InputAuth::Login : admin(5) desc 01614F18
+Oct 19 02:51:45.453000	[1000000]	 :: SetLoginKey 24578
+Oct 19 02:51:45.453000	[1000000]	 :: InputAuth::Login : key 24578 login admin
+Oct 19 02:51:45.484000	[31000]	 :: QID_AUTH_LOGIN: START 24578 01614F18
+SYSERR: Oct 19 02:51:45 :: DBManager::AnalyzeReturnQuery: New Pass: 3ac5c74b9c0043c31ad2b18a38748e11651f89ac210d074b3cdc6fd380f325a8
+Oct 19 02:51:45.484000	[1000000]	 :: Create_Time 0 19700101
+Oct 19 02:51:45.484000	[1000000]	 :: SendAuthLogin admin acc 1
+Oct 19 02:51:45.484000	[1000000]	 :: QID_AUTH_LOGIN: SUCCESS
+Oct 19 02:51:45.562000	[1000000]	 :: AuthLogin result 1 key 24578
+Oct 19 02:51:45.656000	[1000000]	 :: SYSTEM: closing socket. DESC #820
+Oct 19 02:51:52.687000	[1000000]	 :: SYSTEM: new connection from [127.0.0.1] fd: 876 handshake 1094031662 output input_len 0, ptr 01614F18
+Oct 19 02:51:52.687000	[1000000]	 :: new connection from 127.0.0.1
+Oct 19 02:51:52.765000	[1000000]	 :: AUTH_PHASE 01614F18
+Oct 19 02:51:52.843000	[1000000]	 :: CInputAuth::Analyze : 9
+Oct 19 02:51:52.921000	[1000000]	 :: CInputAuth::Analyze : 10
+Oct 19 02:51:52.921000	[1000000]	 :: InputAuth::Login : admin(5) desc 01614F18
+Oct 19 02:51:52.921000	[1000000]	 :: SetLoginKey 7600
+Oct 19 02:51:52.921000	[1000000]	 :: InputAuth::Login : key 7600 login admin
+Oct 19 02:51:52.968000	[47000]	 :: QID_AUTH_LOGIN: START 7600 01614F18
+SYSERR: Oct 19 02:51:52 :: DBManager::AnalyzeReturnQuery: New Pass: 3ac5c74b9c0043c31ad2b18a38748e11651f89ac210d074b3cdc6fd380f325a8
+Oct 19 02:51:52.968000	[1000000]	 :: Create_Time 0 19700101
+Oct 19 02:51:52.968000	[1000000]	 :: SendAuthLogin admin acc 1
+Oct 19 02:51:52.968000	[1000000]	 :: QID_AUTH_LOGIN: SUCCESS
+Oct 19 02:51:52.46000	[1000000]	 :: AuthLogin result 1 key 7600
+Oct 19 02:51:53.125000	[1000000]	 :: SYSTEM: closing socket. DESC #876
+Oct 19 02:53:01.234000	[1000000]	 :: SYSTEM: new connection from [127.0.0.1] fd: 964 handshake 2188198527 output input_len 0, ptr 01614F18
+Oct 19 02:53:01.234000	[1000000]	 :: new connection from 127.0.0.1
+Oct 19 02:53:01.312000	[1000000]	 :: AUTH_PHASE 01614F18
+Oct 19 02:53:01.390000	[1000000]	 :: CInputAuth::Analyze : 9
+Oct 19 02:53:01.468000	[1000000]	 :: CInputAuth::Analyze : 10
+Oct 19 02:53:01.468000	[1000000]	 :: InputAuth::Login : admin(5) desc 01614F18
+Oct 19 02:53:01.468000	[1000000]	 :: SetLoginKey 24082
+Oct 19 02:53:01.468000	[1000000]	 :: InputAuth::Login : key 24082 login admin
+Oct 19 02:53:01.515000	[47000]	 :: QID_AUTH_LOGIN: START 24082 01614F18
+SYSERR: Oct 19 02:53:01 :: DBManager::AnalyzeReturnQuery: New Pass: 3ac5c74b9c0043c31ad2b18a38748e11651f89ac210d074b3cdc6fd380f325a8
+Oct 19 02:53:01.515000	[1000000]	 :: Create_Time 0 19700101
+Oct 19 02:53:01.515000	[1000000]	 :: SendAuthLogin admin acc 1
+Oct 19 02:53:01.515000	[1000000]	 :: QID_AUTH_LOGIN: SUCCESS
+Oct 19 02:53:01.625000	[1000000]	 :: AuthLogin result 1 key 24082
+Oct 19 02:53:01.703000	[1000000]	 :: SYSTEM: closing socket. DESC #964
+Oct 19 02:59:27.234000	[1000000]	 :: SYSTEM: new connection from [127.0.0.1] fd: 276 handshake 1324370588 output input_len 0, ptr 01614F18
+Oct 19 02:59:27.234000	[1000000]	 :: new connection from 127.0.0.1
+Oct 19 02:59:27.359000	[1000000]	 :: AUTH_PHASE 01614F18
+Oct 19 02:59:27.437000	[1000000]	 :: CInputAuth::Analyze : 9
+Oct 19 02:59:27.515000	[1000000]	 :: CInputAuth::Analyze : 10
+Oct 19 02:59:27.515000	[1000000]	 :: InputAuth::Login : admin(5) desc 01614F18
+Oct 19 02:59:27.515000	[1000000]	 :: SetLoginKey 13841
+Oct 19 02:59:27.515000	[1000000]	 :: InputAuth::Login : key 13841 login admin
+Oct 19 02:59:27.546000	[31000]	 :: QID_AUTH_LOGIN: START 13841 01614F18
+SYSERR: Oct 19 02:59:27 :: DBManager::AnalyzeReturnQuery: New Pass: 3ac5c74b9c0043c31ad2b18a38748e11651f89ac210d074b3cdc6fd380f325a8
+Oct 19 02:59:27.546000	[1000000]	 :: Create_Time 0 19700101
+Oct 19 02:59:27.546000	[1000000]	 :: SendAuthLogin admin acc 1
+Oct 19 02:59:27.546000	[1000000]	 :: QID_AUTH_LOGIN: SUCCESS
+Oct 19 02:59:27.671000	[1000000]	 :: AuthLogin result 1 key 13841
+Oct 19 02:59:27.750000	[1000000]	 :: SYSTEM: closing socket. DESC #276
+Oct 19 02:59:49.15000	[1000000]	 :: <shutdown> Starting...
+Oct 19 02:59:49.15000	[1000000]	 :: Queries 0
+Oct 19 02:59:49.15000	[1000000]	 :: <shutdown> Destroying CArenaManager...
+Oct 19 02:59:49.15000	[1000000]	 :: <shutdown> Shutting down CEventManager...
+SYSERR: Oct 19 02:59:49 :: CEventManager::P2P_CloseEventRegistration: no running event data !!!
+Oct 19 02:59:49.15000	[1000000]	 :: <shutdown> Destroying COXEventManager...
+Oct 19 02:59:49.15000	[1000000]	 :: <shutdown> Destroying CombatZone_manager...
+Oct 19 02:59:49.15000	[1000000]	 :: <shutdown> Disabling signal timer...
+Oct 19 02:59:49.15000	[1000000]	 :: <shutdown> Shutting down CHARACTER_MANAGER...
+Oct 19 02:59:49.15000	[1000000]	 :: <shutdown> Shutting down ITEM_MANAGER...
+Oct 19 02:59:49.15000	[1000000]	 :: <shutdown> Flushing db_clientdesc...
+Oct 19 02:59:49.15000	[1000000]	 :: FLUSH START 115
+Oct 19 02:59:49.15000	[1000000]	 :: FLUSH SUCCESS
+Oct 19 02:59:50.265000	[250000]	 :: <shutdown> Flushing p2p_manager...
+Oct 19 02:59:50.265000	[1000000]	 :: <shutdown> Destroying CShopManager...
+Oct 19 02:59:50.281000	[16000]	 :: <shutdown> Destroying CHARACTER_MANAGER...
+Oct 19 02:59:50.281000	[1000000]	 :: <shutdown> Destroying ITEM_MANAGER...
+Oct 19 02:59:50.281000	[1000000]	 :: <shutdown> Destroying DESC_MANAGER...
+Oct 19 02:59:50.281000	[1000000]	 :: PARTY Disable
+Oct 19 02:59:50.281000	[1000000]	 :: SYSTEM: closing client socket. DESC #536
+Oct 19 02:59:50.281000	[1000000]	 :: <shutdown> Destroying quest::CQuestManager...
+Oct 19 02:59:50.281000	[1000000]	 :: <shutdown> Destroying building::CManager...
+Oct 19 02:59:50.281000	[1000000]	 :: <shutdown> Destroying CHydraManager...
+Oct 19 02:59:50.281000	[1000000]	 :: <shutdown> regen_free()...
+Oct 19 02:59:50.281000	[1000000]	 :: <shutdown> Closing sockets...
+Oct 19 02:59:50.281000	[1000000]	 :: <shutdown> fdwatch_delete()...
+Oct 19 02:59:50.281000	[1000000]	 :: <shutdown> event_destroy()...
+Oct 19 02:59:50.281000	[1000000]	 :: <shutdown> CTextFileLoader::DestroySystem()...
+Oct 19 02:59:50.281000	[1000000]	 :: Destroy all managers...
+
+
+Oct 19 02:59:50.281000	[1000000]	 :: DESTROY MANAGER: meley_manager [01633120]
+
+Oct 19 02:59:50.281000	[1000000]	 :: Destroyed.
+
+Oct 19 02:59:50.281000	[1000000]	 :: DESTROY MANAGER: hydra_manager [016339A0]
+
+Oct 19 02:59:50.281000	[1000000]	 :: Destroyed.
+
+Oct 19 02:59:50.281000	[1000000]	 :: DESTROY MANAGER: sectree_manager [01634358]
+
+Oct 19 02:59:50.281000	[1000000]	 :: Destroyed.
+
+Oct 19 02:59:50.281000	[1000000]	 :: DESTROY MANAGER: char_manager [01659F78]
+
+Oct 19 02:59:50.281000	[1000000]	 :: Destroyed.
+
+Oct 19 02:59:50.281000	[1000000]	 :: DESTROY MANAGER: item_manager [016353C0]
+
+Oct 19 02:59:50.281000	[1000000]	 :: Destroyed.
+
+Oct 19 02:59:50.281000	[1000000]	 :: DESTROY MANAGER: shop_manager [0164AD60]
+
+Oct 19 02:59:50.281000	[1000000]	 :: Destroyed.
+
+Oct 19 02:59:50.296000	[15000]	 :: DESTROY MANAGER: mob_manager [016377D0]
+
+Oct 19 02:59:50.296000	[1000000]	 :: Destroyed.
+
+Oct 19 02:59:50.296000	[1000000]	 :: DESTROY MANAGER: motion_manager [01650838]
+
+Oct 19 02:59:50.296000	[1000000]	 :: Destroyed.
+
+Oct 19 02:59:50.296000	[1000000]	 :: DESTROY MANAGER: party_manager [0164B0A8]
+
+Oct 19 02:59:50.296000	[1000000]	 :: Destroyed.
+
+Oct 19 02:59:50.296000	[1000000]	 :: DESTROY MANAGER: skill_manager [01629B70]
+
+Oct 19 02:59:50.296000	[1000000]	 :: Destroyed.
+
+Oct 19 02:59:50.296000	[1000000]	 :: DESTROY MANAGER: pvp_manager [016505F8]
+
+Oct 19 02:59:50.296000	[1000000]	 :: Destroyed.
+
+Oct 19 02:59:50.296000	[1000000]	 :: DESTROY MANAGER: lzo_manager [01629440]
+
+Oct 19 02:59:50.296000	[1000000]	 :: Destroyed.
+
+Oct 19 02:59:50.296000	[1000000]	 :: DESTROY MANAGER: db_manager [01674838]
+
+Oct 19 02:59:50.296000	[1000000]	 :: AsyncSQL: closing mysql connection.
+Oct 19 02:59:50.296000	[1000000]	 :: AsyncSQL: closing mysql connection.
+Oct 19 02:59:50.296000	[1000000]	 :: Destroyed.
+
+Oct 19 02:59:50.296000	[1000000]	 :: DESTROY MANAGER: account_db [01675280]
+
+Oct 19 02:59:50.296000	[1000000]	 :: AsyncSQL: closing mysql connection.
+Oct 19 02:59:50.312000	[16000]	 :: AsyncSQL: closing mysql connection.
+Oct 19 02:59:50.312000	[1000000]	 :: Destroyed.
+
+Oct 19 02:59:50.312000	[1000000]	 :: DESTROY MANAGER: log_manager [01629B88]
+
+Oct 19 02:59:50.312000	[1000000]	 :: AsyncSQL: closing mysql connection.
+Oct 19 02:59:50.312000	[1000000]	 :: Destroyed.
+
+Oct 19 02:59:50.312000	[1000000]	 :: DESTROY MANAGER: messenger_manager [016302F8]
+
+Oct 19 02:59:50.312000	[1000000]	 :: Destroyed.
+
+Oct 19 02:59:50.312000	[1000000]	 :: DESTROY MANAGER: p2p_manager [01659A70]
+
+Oct 19 02:59:50.312000	[1000000]	 :: Destroyed.
+
+Oct 19 02:59:50.312000	[1000000]	 :: DESTROY MANAGER: guild_manager [01639440]
+
+Oct 19 02:59:50.312000	[1000000]	 :: Destroyed.
+
+Oct 19 02:59:50.312000	[1000000]	 :: DESTROY MANAGER: mark_manager [01630460]
+
+Oct 19 02:59:50.312000	[1000000]	 :: Destroyed.
+
+Oct 19 02:59:50.312000	[1000000]	 :: DESTROY MANAGER: dungeon_manager [0164ADB0]
+
+Oct 19 02:59:50.312000	[1000000]	 :: Destroyed.
+
+Oct 19 02:59:50.312000	[1000000]	 :: DESTROY MANAGER: refine_manager [01633A30]
+
+Oct 19 02:59:50.312000	[1000000]	 :: Destroyed.
+
+Oct 19 02:59:50.328000	[16000]	 :: DESTROY MANAGER: priv_manager [01630FB8]
+
+Oct 19 02:59:50.328000	[1000000]	 :: Destroyed.
+
+Oct 19 02:59:50.328000	[1000000]	 :: DESTROY MANAGER: war_map_manager [016A4A30]
+
+Oct 19 02:59:50.328000	[1000000]	 :: Destroyed.
+
+Oct 19 02:59:50.328000	[1000000]	 :: DESTROY MANAGER: building_manager [01647CC8]
+
+Oct 19 02:59:50.328000	[1000000]	 :: Destroyed.
+
+Oct 19 02:59:50.328000	[1000000]	 :: DESTROY MANAGER: target_manager [01633A60]
+
+Oct 19 02:59:50.328000	[1000000]	 :: Destroyed.
+
+Oct 19 02:59:50.328000	[1000000]	 :: DESTROY MANAGER: marriage_manager [01633B80]
+
+Oct 19 02:59:50.328000	[1000000]	 :: Destroyed.
+
+Oct 19 02:59:50.328000	[1000000]	 :: DESTROY MANAGER: wedding_manager [01633A00]
+
+Oct 19 02:59:50.328000	[1000000]	 :: Destroyed.
+
+Oct 19 02:59:50.328000	[1000000]	 :: DESTROY MANAGER: item_addon_manager [01629580]
+
+Oct 19 02:59:50.328000	[1000000]	 :: Destroyed.
+
+Oct 19 02:59:50.328000	[1000000]	 :: DESTROY MANAGER: arena_manager [01633AF0]
+
+Oct 19 02:59:50.328000	[1000000]	 :: Destroyed.
+
+Oct 19 02:59:50.328000	[1000000]	 :: DESTROY MANAGER: OXEvent_manager [01647EF8]
+
+Oct 19 02:59:50.328000	[1000000]	 :: Destroyed.
+
+Oct 19 02:59:50.328000	[1000000]	 :: DESTROY MANAGER: spam_manager [01633A78]
+
+Oct 19 02:59:50.328000	[1000000]	 :: Destroyed.
+
+Oct 19 02:59:50.328000	[1000000]	 :: DESTROY MANAGER: CombatZone_manager [01654608]
+
+Oct 19 02:59:50.328000	[1000000]	 :: Destroyed.
+
+Oct 19 02:59:50.328000	[1000000]	 :: DESTROY MANAGER: desc_manager [01628DD0]
+
+Oct 19 02:59:50.328000	[1000000]	 :: Destroyed.
+
+Oct 19 02:59:50.328000	[1000000]	 :: DESTROY MANAGER: SkillPowerByLevel [01633240]
+
+Oct 19 02:59:50.343000	[15000]	 :: Destroyed.
+
+Oct 19 02:59:50.343000	[1000000]	 :: DESTROY MANAGER: polymorph_utils [01615158]
+
+Oct 19 02:59:50.343000	[1000000]	 :: Destroyed.
+
+Oct 19 02:59:50.343000	[1000000]	 :: DESTROY MANAGER: profiler [016B4008]
+
+Oct 19 02:59:50.343000	[1000000]	 :: Destroyed.
+
+Oct 19 02:59:50.343000	[1000000]	 :: DESTROY MANAGER: o9r [01632FD0]
+
+Oct 19 02:59:50.343000	[1000000]	 :: Destroyed.
+
+Oct 19 02:59:50.343000	[1000000]	 :: DESTROY MANAGER: dl_manager [01633270]
+
+Oct 19 02:59:50.343000	[1000000]	 :: Destroyed.
+
+Oct 19 02:59:50.343000	[1000000]	 :: DESTROY MANAGER: localeManager [01631148]
+
+Oct 19 02:59:50.343000	[1000000]	 :: Destroyed.
+
+Oct 19 02:59:50.343000	[1000000]	 :: DESTROY MANAGER: generalManager [01654858]
+
+Oct 19 02:59:50.343000	[1000000]	 :: Destroyed.
+
+Oct 19 02:59:50.343000	[1000000]	 :: DESTROY MANAGER: quest_manager [016549B8]
+
+Oct 19 02:59:50.343000	[1000000]	 :: Destroyed.
+
+Oct 19 02:59:50.343000	[1000000]	 :: DESTROY MANAGER: dragonsoul_manager [01629590]
+
+Oct 19 02:59:50.343000	[1000000]	 :: Destroyed.
+
+Oct 19 02:59:50.343000	[1000000]	 :: DESTROY MANAGER: event_manager [0162BA20]
+
+Oct 19 02:59:50.343000	[1000000]	 :: Destroyed.
+
+Oct 19 02:59:50.343000	[1000000]	 :: DESTROY MANAGER: dmgranking_manager [0164B030]
+
+Oct 19 02:59:50.343000	[1000000]	 :: Destroyed.
+
+Oct 19 02:59:50.343000	[1000000]	 :: DESTROY MANAGER: auction_manager [016B5958]
+
+Oct 19 02:59:50.359000	[16000]	 :: Destroyed.
+
+Oct 19 02:59:50.359000	[1000000]	 :: DESTROY MANAGER: auction_shop_manager [01634128]
+
+Oct 19 02:59:50.359000	[1000000]	 :: Destroyed.
+
+Oct 19 02:59:50.359000	[1000000]	 :: <shutdown> thecore_destroy()...
+Oct 21 02:41:08.906000	[906000]	 :: SYSTEM: BINDING TCP PORT ON [30001] (fd 576)
+Oct 21 02:41:08.906000	[1000000]	 :: SYSTEM: BINDING TCP PORT ON [30006] (fd 568)
+Oct 21 02:41:08.906000	[1000000]	 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+Oct 21 02:41:08.906000	[1000000]	 :: SYSTEM: connected to server (fd 820, ptr 03B6C258)
+Oct 21 02:41:52.203000	[1000000]	 :: SYSTEM: new connection from [127.0.0.1] fd: 868 handshake 3829188263 output input_len 0, ptr 017851C8
+Oct 21 02:41:52.203000	[1000000]	 :: new connection from 127.0.0.1
+Oct 21 02:41:52.281000	[1000000]	 :: AUTH_PHASE 017851C8
+Oct 21 02:41:52.359000	[1000000]	 :: CInputAuth::Analyze : 9
+Oct 21 02:41:52.437000	[1000000]	 :: CInputAuth::Analyze : 10
+Oct 21 02:41:52.437000	[1000000]	 :: InputAuth::Login : admin(5) desc 017851C8
+Oct 21 02:41:52.437000	[1000000]	 :: SetLoginKey 17161
+Oct 21 02:41:52.437000	[1000000]	 :: InputAuth::Login : key 17161 login admin
+Oct 21 02:41:52.484000	[47000]	 :: QID_AUTH_LOGIN: START 17161 017851C8
+SYSERR: Oct 21 02:41:52 :: DBManager::AnalyzeReturnQuery: New Pass: 3ac5c74b9c0043c31ad2b18a38748e11651f89ac210d074b3cdc6fd380f325a8
+Oct 21 02:41:52.484000	[1000000]	 :: Create_Time 0 19700101
+Oct 21 02:41:52.484000	[1000000]	 :: Set Trade Block! ['5aa20770088f9d98976080309d887bbc' => '5a58efd5e711b4d8d557110a566e888f']
+Oct 21 02:41:52.484000	[1000000]	 :: SendAuthLogin admin acc 1
+Oct 21 02:41:52.484000	[1000000]	 :: QID_AUTH_LOGIN: SUCCESS
+Oct 21 02:41:52.593000	[1000000]	 :: AuthLogin result 1 key 17161
+Oct 21 02:41:53.671000	[1000000]	 :: SYSTEM: closing socket. DESC #868
+Oct 21 02:43:30.62000	[1000000]	 :: SYSTEM: new connection from [127.0.0.1] fd: 1004 handshake 1211453242 output input_len 0, ptr 01839178
+Oct 21 02:43:30.62000	[1000000]	 :: new connection from 127.0.0.1
+Oct 21 02:43:30.156000	[1000000]	 :: AUTH_PHASE 01839178
+Oct 21 02:43:30.234000	[1000000]	 :: CInputAuth::Analyze : 9
+Oct 21 02:43:30.312000	[1000000]	 :: CInputAuth::Analyze : 10
+Oct 21 02:43:30.312000	[1000000]	 :: InputAuth::Login : admin(5) desc 01839178
+Oct 21 02:43:30.312000	[1000000]	 :: SetLoginKey 697
+Oct 21 02:43:30.312000	[1000000]	 :: InputAuth::Login : key 697 login admin
+Oct 21 02:43:30.343000	[31000]	 :: QID_AUTH_LOGIN: START 697 01839178
+SYSERR: Oct 21 02:43:30 :: DBManager::AnalyzeReturnQuery: New Pass: 3ac5c74b9c0043c31ad2b18a38748e11651f89ac210d074b3cdc6fd380f325a8
+Oct 21 02:43:30.343000	[1000000]	 :: Create_Time 0 19700101
+Oct 21 02:43:30.343000	[1000000]	 :: SendAuthLogin admin acc 1
+Oct 21 02:43:30.343000	[1000000]	 :: QID_AUTH_LOGIN: SUCCESS
+Oct 21 02:43:30.468000	[1000000]	 :: AuthLogin result 1 key 697
+Oct 21 02:43:30.562000	[1000000]	 :: SYSTEM: closing socket. DESC #1004
+Oct 21 02:46:56.796000	[1000000]	 :: PARTY Disable
+Oct 21 02:46:56.796000	[1000000]	 :: SYSTEM: closing client socket. DESC #820
+Oct 21 02:46:57.671000	[1000000]	 :: <shutdown> Starting...
+Oct 21 02:46:57.671000	[1000000]	 :: Queries 0
+Oct 21 02:46:57.671000	[1000000]	 :: <shutdown> Destroying CArenaManager...
+Oct 21 02:46:57.671000	[1000000]	 :: <shutdown> Shutting down CEventManager...
+Oct 21 02:46:57.687000	[16000]	 :: CLIENT_DESC [db_clientdesc] trying Packet() while not connected
+Oct 21 02:46:57.687000	[1000000]	 :: CLIENT_DESC [db_clientdesc] trying Packet() while not connected
+Oct 21 02:46:57.687000	[1000000]	 :: CLIENT_DESC [db_clientdesc] trying Packet() while not connected
+SYSERR: Oct 21 02:46:57 :: CEventManager::P2P_CloseEventRegistration: no running event data !!!
+Oct 21 02:46:57.687000	[1000000]	 :: <shutdown> Destroying COXEventManager...
+Oct 21 02:46:57.687000	[1000000]	 :: CLIENT_DESC [db_clientdesc] trying Packet() while not connected
+Oct 21 02:46:57.687000	[1000000]	 :: CLIENT_DESC [db_clientdesc] trying Packet() while not connected
+Oct 21 02:46:57.687000	[1000000]	 :: CLIENT_DESC [db_clientdesc] trying Packet() while not connected
+Oct 21 02:46:57.687000	[1000000]	 :: CLIENT_DESC [db_clientdesc] trying Packet() while not connected
+Oct 21 02:46:57.687000	[1000000]	 :: CLIENT_DESC [db_clientdesc] trying Packet() while not connected
+Oct 21 02:46:57.687000	[1000000]	 :: CLIENT_DESC [db_clientdesc] trying Packet() while not connected
+Oct 21 02:46:57.687000	[1000000]	 :: <shutdown> Destroying CombatZone_manager...
+Oct 21 02:46:57.687000	[1000000]	 :: CLIENT_DESC [db_clientdesc] trying Packet() while not connected
+Oct 21 02:46:57.687000	[1000000]	 :: CLIENT_DESC [db_clientdesc] trying Packet() while not connected
+Oct 21 02:46:57.687000	[1000000]	 :: CLIENT_DESC [db_clientdesc] trying Packet() while not connected
+Oct 21 02:46:57.687000	[1000000]	 :: <shutdown> Disabling signal timer...
+Oct 21 02:46:57.687000	[1000000]	 :: <shutdown> Shutting down CHARACTER_MANAGER...
+Oct 21 02:46:57.687000	[1000000]	 :: <shutdown> Shutting down ITEM_MANAGER...
+Oct 21 02:46:57.687000	[1000000]	 :: <shutdown> Flushing db_clientdesc...
+Oct 21 02:46:57.687000	[1000000]	 :: <shutdown> Flushing p2p_manager...
+Oct 21 02:46:57.687000	[1000000]	 :: <shutdown> Destroying CShopManager...
+Oct 21 02:46:57.687000	[1000000]	 :: <shutdown> Destroying CHARACTER_MANAGER...
+Oct 21 02:46:57.687000	[1000000]	 :: <shutdown> Destroying ITEM_MANAGER...
+Oct 21 02:46:57.687000	[1000000]	 :: <shutdown> Destroying DESC_MANAGER...
+Oct 21 02:46:57.687000	[1000000]	 :: <shutdown> Destroying quest::CQuestManager...
+Oct 21 02:46:57.687000	[1000000]	 :: <shutdown> Destroying building::CManager...
+Oct 21 02:46:57.687000	[1000000]	 :: <shutdown> Destroying CHydraManager...
+Oct 21 02:46:57.687000	[1000000]	 :: <shutdown> regen_free()...
+Oct 21 02:46:57.687000	[1000000]	 :: <shutdown> Closing sockets...
+Oct 21 02:46:57.687000	[1000000]	 :: <shutdown> fdwatch_delete()...
+Oct 21 02:46:57.687000	[1000000]	 :: <shutdown> event_destroy()...
+Oct 21 02:46:57.703000	[16000]	 :: <shutdown> CTextFileLoader::DestroySystem()...
+Oct 21 02:46:57.703000	[1000000]	 :: Destroy all managers...
+
+
+Oct 21 02:46:57.703000	[1000000]	 :: DESTROY MANAGER: meley_manager [0179A8B8]
+
+Oct 21 02:46:57.703000	[1000000]	 :: Destroyed.
+
+Oct 21 02:46:57.703000	[1000000]	 :: DESTROY MANAGER: hydra_manager [0179E6D0]
+
+Oct 21 02:46:57.703000	[1000000]	 :: Destroyed.
+
+Oct 21 02:46:57.703000	[1000000]	 :: DESTROY MANAGER: sectree_manager [017A4C90]
+
+Oct 21 02:46:57.703000	[1000000]	 :: Destroyed.
+
+Oct 21 02:46:57.703000	[1000000]	 :: DESTROY MANAGER: char_manager [017C9F10]
+
+Oct 21 02:46:57.703000	[1000000]	 :: Destroyed.
+
+Oct 21 02:46:57.703000	[1000000]	 :: DESTROY MANAGER: item_manager [017BB640]
+
+Oct 21 02:46:57.703000	[1000000]	 :: Destroyed.
+
+Oct 21 02:46:57.703000	[1000000]	 :: DESTROY MANAGER: shop_manager [017BC718]
+
+Oct 21 02:46:57.703000	[1000000]	 :: Destroyed.
+
+Oct 21 02:46:57.703000	[1000000]	 :: DESTROY MANAGER: mob_manager [017AE1F8]
+
+Oct 21 02:46:57.703000	[1000000]	 :: Destroyed.
+
+Oct 21 02:46:57.703000	[1000000]	 :: DESTROY MANAGER: motion_manager [017AB310]
+
+Oct 21 02:46:57.703000	[1000000]	 :: Destroyed.
+
+Oct 21 02:46:57.703000	[1000000]	 :: DESTROY MANAGER: party_manager [017BC768]
+
+Oct 21 02:46:57.703000	[1000000]	 :: Destroyed.
+
+Oct 21 02:46:57.718000	[15000]	 :: DESTROY MANAGER: skill_manager [0179E628]
+
+Oct 21 02:46:57.718000	[1000000]	 :: Destroyed.
+
+Oct 21 02:46:57.718000	[1000000]	 :: DESTROY MANAGER: pvp_manager [017AB490]
+
+Oct 21 02:46:57.718000	[1000000]	 :: Destroyed.
+
+Oct 21 02:46:57.718000	[1000000]	 :: DESTROY MANAGER: lzo_manager [017986D8]
+
+Oct 21 02:46:57.718000	[1000000]	 :: Destroyed.
+
+Oct 21 02:46:57.718000	[1000000]	 :: DESTROY MANAGER: db_manager [017E47D0]
+
+Oct 21 02:46:57.718000	[1000000]	 :: AsyncSQL: closing mysql connection.
+Oct 21 02:46:57.718000	[1000000]	 :: AsyncSQL: closing mysql connection.
+Oct 21 02:46:57.718000	[1000000]	 :: Destroyed.
+
+Oct 21 02:46:57.718000	[1000000]	 :: DESTROY MANAGER: account_db [017E5218]
+
+Oct 21 02:46:57.718000	[1000000]	 :: AsyncSQL: closing mysql connection.
+Oct 21 02:46:57.718000	[1000000]	 :: AsyncSQL: closing mysql connection.
+Oct 21 02:46:57.718000	[1000000]	 :: Destroyed.
+
+Oct 21 02:46:57.718000	[1000000]	 :: DESTROY MANAGER: log_manager [0179E550]
+
+Oct 21 02:46:57.718000	[1000000]	 :: AsyncSQL: closing mysql connection.
+Oct 21 02:46:57.718000	[1000000]	 :: Destroyed.
+
+Oct 21 02:46:57.718000	[1000000]	 :: DESTROY MANAGER: messenger_manager [0179C6F8]
+
+Oct 21 02:46:57.718000	[1000000]	 :: Destroyed.
+
+Oct 21 02:46:57.718000	[1000000]	 :: DESTROY MANAGER: p2p_manager [017C41C0]
+
+Oct 21 02:46:57.734000	[16000]	 :: Destroyed.
+
+Oct 21 02:46:57.734000	[1000000]	 :: DESTROY MANAGER: guild_manager [01786D68]
+
+Oct 21 02:46:57.734000	[1000000]	 :: Destroyed.
+
+Oct 21 02:46:57.734000	[1000000]	 :: DESTROY MANAGER: mark_manager [0179C080]
+
+Oct 21 02:46:57.734000	[1000000]	 :: Destroyed.
+
+Oct 21 02:46:57.734000	[1000000]	 :: DESTROY MANAGER: dungeon_manager [017BC2B8]
+
+Oct 21 02:46:57.734000	[1000000]	 :: Destroyed.
+
+Oct 21 02:46:57.734000	[1000000]	 :: DESTROY MANAGER: refine_manager [0179E700]
+
+Oct 21 02:46:57.734000	[1000000]	 :: Destroyed.
+
+Oct 21 02:46:57.734000	[1000000]	 :: DESTROY MANAGER: priv_manager [017C3858]
+
+Oct 21 02:46:57.734000	[1000000]	 :: Destroyed.
+
+Oct 21 02:46:57.734000	[1000000]	 :: DESTROY MANAGER: war_map_manager [018167E0]
+
+Oct 21 02:46:57.734000	[1000000]	 :: Destroyed.
+
+Oct 21 02:46:57.734000	[1000000]	 :: DESTROY MANAGER: building_manager [017A8EE8]
+
+Oct 21 02:46:57.734000	[1000000]	 :: Destroyed.
+
+Oct 21 02:46:57.734000	[1000000]	 :: DESTROY MANAGER: target_manager [0179E640]
+
+Oct 21 02:46:57.750000	[16000]	 :: Destroyed.
+
+Oct 21 02:46:57.750000	[1000000]	 :: DESTROY MANAGER: marriage_manager [018244E8]
+
+Oct 21 02:46:57.750000	[1000000]	 :: Destroyed.
+
+Oct 21 02:46:57.750000	[1000000]	 :: DESTROY MANAGER: wedding_manager [0179E568]
+
+Oct 21 02:46:57.750000	[1000000]	 :: Destroyed.
+
+Oct 21 02:46:57.750000	[1000000]	 :: DESTROY MANAGER: item_addon_manager [017A57F8]
+
+Oct 21 02:46:57.750000	[1000000]	 :: Destroyed.
+
+Oct 21 02:46:57.750000	[1000000]	 :: DESTROY MANAGER: arena_manager [0179E598]
+
+Oct 21 02:46:57.750000	[1000000]	 :: Destroyed.
+
+Oct 21 02:46:57.750000	[1000000]	 :: DESTROY MANAGER: OXEvent_manager [017A8F20]
+
+Oct 21 02:46:57.750000	[1000000]	 :: Destroyed.
+
+Oct 21 02:46:57.750000	[1000000]	 :: DESTROY MANAGER: spam_manager [0179E5B0]
+
+Oct 21 02:46:57.750000	[1000000]	 :: Destroyed.
+
+Oct 21 02:46:57.750000	[1000000]	 :: DESTROY MANAGER: CombatZone_manager [017BCDA0]
+
+Oct 21 02:46:57.750000	[1000000]	 :: Destroyed.
+
+Oct 21 02:46:57.750000	[1000000]	 :: DESTROY MANAGER: desc_manager [017A0BB0]
+
+Oct 21 02:46:57.750000	[1000000]	 :: Destroyed.
+
+Oct 21 02:46:57.750000	[1000000]	 :: DESTROY MANAGER: SkillPowerByLevel [0179A9A8]
+
+Oct 21 02:46:57.750000	[1000000]	 :: Destroyed.
+
+Oct 21 02:46:57.750000	[1000000]	 :: DESTROY MANAGER: polymorph_utils [017BCFF0]
+
+Oct 21 02:46:57.765000	[15000]	 :: Destroyed.
+
+Oct 21 02:46:57.765000	[1000000]	 :: DESTROY MANAGER: profiler [01824CC8]
+
+Oct 21 02:46:57.765000	[1000000]	 :: Destroyed.
+
+Oct 21 02:46:57.765000	[1000000]	 :: DESTROY MANAGER: o9r [0179A798]
+
+Oct 21 02:46:57.765000	[1000000]	 :: Destroyed.
+
+Oct 21 02:46:57.765000	[1000000]	 :: DESTROY MANAGER: dl_manager [0179A408]
+
+Oct 21 02:46:57.765000	[1000000]	 :: Destroyed.
+
+Oct 21 02:46:57.765000	[1000000]	 :: DESTROY MANAGER: localeManager [0179B800]
+
+Oct 21 02:46:57.765000	[1000000]	 :: Destroyed.
+
+Oct 21 02:46:57.765000	[1000000]	 :: DESTROY MANAGER: generalManager [01827018]
+
+Oct 21 02:46:57.765000	[1000000]	 :: Destroyed.
+
+Oct 21 02:46:57.765000	[1000000]	 :: DESTROY MANAGER: quest_manager [017BB750]
+
+Oct 21 02:46:57.765000	[1000000]	 :: Destroyed.
+
+Oct 21 02:46:57.765000	[1000000]	 :: DESTROY MANAGER: dragonsoul_manager [017A5748]
+
+Oct 21 02:46:57.765000	[1000000]	 :: Destroyed.
+
+Oct 21 02:46:57.765000	[1000000]	 :: DESTROY MANAGER: event_manager [01827620]
+
+Oct 21 02:46:57.765000	[1000000]	 :: Destroyed.
+
+Oct 21 02:46:57.765000	[1000000]	 :: DESTROY MANAGER: dmgranking_manager [017BBEF8]
+
+Oct 21 02:46:57.765000	[1000000]	 :: Destroyed.
+
+Oct 21 02:46:57.765000	[1000000]	 :: DESTROY MANAGER: auction_manager [018278B0]
+
+Oct 21 02:46:57.765000	[1000000]	 :: Destroyed.
+
+Oct 21 02:46:57.781000	[16000]	 :: DESTROY MANAGER: auction_shop_manager [017A4880]
+
+Oct 21 02:46:57.781000	[1000000]	 :: Destroyed.
+
+Oct 21 02:46:57.781000	[1000000]	 :: <shutdown> thecore_destroy()...
+Oct 21 02:48:14.890000	[890000]	 :: SYSTEM: BINDING TCP PORT ON [30001] (fd 596)
+Oct 21 02:48:14.890000	[1000000]	 :: SYSTEM: BINDING TCP PORT ON [30006] (fd 864)
+Oct 21 02:48:14.890000	[1000000]	 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+Oct 21 02:48:14.890000	[1000000]	 :: SYSTEM: connected to server (fd 868, ptr 036F5D00)
+Oct 21 02:48:40.78000	[1000000]	 :: SYSTEM: new connection from [127.0.0.1] fd: 608 handshake 2860790360 output input_len 0, ptr 00D1BCD0
+Oct 21 02:48:40.78000	[1000000]	 :: new connection from 127.0.0.1
+Oct 21 02:48:40.203000	[1000000]	 :: AUTH_PHASE 00D1BCD0
+Oct 21 02:48:40.281000	[1000000]	 :: CInputAuth::Analyze : 9
+Oct 21 02:48:40.359000	[1000000]	 :: CInputAuth::Analyze : 10
+Oct 21 02:48:40.359000	[1000000]	 :: InputAuth::Login : admin(5) desc 00D1BCD0
+Oct 21 02:48:40.359000	[1000000]	 :: SetLoginKey 25122
+Oct 21 02:48:40.359000	[1000000]	 :: InputAuth::Login : key 25122 login admin
+Oct 21 02:48:40.406000	[47000]	 :: QID_AUTH_LOGIN: START 25122 00D1BCD0
+SYSERR: Oct 21 02:48:40 :: DBManager::AnalyzeReturnQuery: New Pass: 3ac5c74b9c0043c31ad2b18a38748e11651f89ac210d074b3cdc6fd380f325a8
+Oct 21 02:48:40.406000	[1000000]	 :: Create_Time 0 19700101
+Oct 21 02:48:40.406000	[1000000]	 :: SendAuthLogin admin acc 1
+Oct 21 02:48:40.406000	[1000000]	 :: QID_AUTH_LOGIN: SUCCESS
+Oct 21 02:48:40.531000	[1000000]	 :: AuthLogin result 1 key 25122
+Oct 21 02:48:40.609000	[1000000]	 :: SYSTEM: closing socket. DESC #608
+Oct 21 02:55:17.718000	[1000000]	 :: socket_read: WSAGetLastError returned 10054
+SYSERR: Oct 21 02:55:17 :: socket_read: about to lose connection
+Oct 21 02:55:17.765000	[1000000]	 :: PARTY Disable
+Oct 21 02:55:17.765000	[1000000]	 :: SYSTEM: closing client socket. DESC #868

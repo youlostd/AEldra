@@ -1,0 +1,249 @@
+﻿
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/thestart.tga]
+[CENTER_ALIGN]Hooray incepatorule. 
+[CENTER_ALIGN]In acest ghid vei gasii informatii despre inceputurile tale pe acest server 
+[CENTER_ALIGN]si cum sa devii din ce in ce mai bun. 
+
+[COLOR=0xffd700;FONT_SIZE=15]Content List:
+*1. Caracteristicile / sistemele de bază ale serverului înainte de a începe.
+*2. Battlepass, Primele Misiuni & Antrenamentul.
+*3. Iteme pe care le începeți sa le colectati & ce trebuie sa cumparati.
+*4. Pasii pe nivele: 30Lv, 50Lv, 75Lv+.
+*5. Cum imi maresc damage-ul.
+*6. Primele temnite.
+*7. Cum sa devii milionar...
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=160; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Caracteristicile / sistemele de bază ale serverului înainte de a începe.
+
+În început, ar trebui să vă faceți timp pentru a descoperi ce este nou pe serverul nostru și cum să utilizați caracteristicile de bază.
+Nu vă grăbiți să ridicați nivelul, nu este o cursă! De asemenea, asigurați-vă că vă plimbați prin oraș și explorați înainte NPC-urile
+începeți aventurile în Aeldra ... Ca un cadou de la noi, aveți un mount de 7 zile, un animal de companie, Inelul Bucuriei și altele
+pentru a vă oferi un început cat mai usor.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]1.1. Inventarul, Shop Search & Switchbot
+
+Prin deschiderea inventarului (I), ar trebui să vedeți 3 butoane noi în colțul din dreapta sus al acestuia. Să vedem ce sunt.
+Primul vă deschide Magazinele. Există 5 camere diferite: Materiale, Cărți, Pietre, Îmbrăcăminte și Costume.
+Elementele pe care le colectați vor fi atribuite automat unui depozit pentru a vă păstra inventarul clar și organizat.
+Al doilea buton deschide Search Shopul. Aceasta va fi butonul dvs. preferat, deoarece il veți folosi tot timpul.
+Este ajutorul vostru in cautare, găsește elementul pe care îl doresti lan cel mai bun preț și iti permite să-l cumperi fără prea multe probleme.
+Faceți clic pe numele elementului căutat pentru a marca locația magazinului. Încercați, este gratuit ... Ultimul
+butonul deschide Switchbot. Lucrurile sunt simple aici. Glisați și plasați un articol, alegeți bonusurile pe care le doriți și le permiteți
+sistemul îl schimbe până când aveti bonusurile dorite.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]1.2. F6 tasta rapida - Cronometru misiuni
+
+Am creat o filă unică pentru a strânge cât mai multe informații și a le face super funcționale.
+Prin apăsarea butonului F6, îl aveți în fața ochilor. Acum veți găsi misiunile dvs. de biolog și dvs.
+Intrari si cooldown-uri din temnite. Super cool, nu? Utilizați-l pentru a verifica cronometrele și pentru a teleporta la locatii.
+
+[COLOR=ef4f00;FONT_SIZE=15]1.3 Voteaza pentru un buff
+Până acum, ați fi observat că aveți o misiune numită "Vote4Buff". Prin conectarea la site-ul nostru
+puteți vota serverul nostru și puteți primi un buff de 24 de ore. Nu vă faceți griji ... După 24 de ore, puteți sa
+repetați procesul pentru a vă bucura definitiv de unul dintre următoarele bonusuri:
+
+*20% Bonus de experienta
+*20% Monstrii
+*20% Sansa de drop
+
+
+[COLOR=ef4f00;FONT_SIZE=15]1.4 Magazinul privat
+
+Sigur că ați observat că există un buton Shop în inventarul dvs. Cu 100.000 yang,
+puteți deschide un magazin. De acolo, puteți vinde produse fără a fi chiar online.
+Doar adăugați-i acolo și așteptați ca cineva să vă faca bogati.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=703; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Battlepass, Primele Misiuni & Antrenamentul.
+
+S-ar putea să fi observat, de asemenea, că nu aveți clasicul Cufarul incepatorului. Cine are nevoie de el?
+Aveți Battlepass.
+
+[COLOR=ef4f00;FONT_SIZE=15]2.1 Battlepass
+
+Făcând clic pe acest element, veți avea 7 misiuni normale și 3 misiuni legendare. Probabil asta este
+cea mai importantă caracteristică pe care o ai ca începător. Finalizarea fiecărei misiuni este destul de simplă si 
+te recompenseaza cu echipamente fundamentale, cum ar fi: Articolele Rune, Esarfa Master (avansata), Cor Draconis (Legendarul), etc ...
+Asigurați-vă că începeți misiunile cât mai curând posibil.
+
+[COLOR=ef4f00;FONT_SIZE=15]2.2 Primele Misiuni
+Bine, am stabilit cu Battlepass-ul. Ce-i cu celelalte misiuni?
+Ei bine, momentul în care ajungeți la nivel 5 începe misiunea voastră. Uriel & Biologul vor păstra întotdeauna
+contactul cu dvs. Asigurați-vă că verificati de fiecare data de ce au nevoie. Alchimistul iti va atribui, de asemenea
+o misiune de a debloca sistemul de alchimie Dragon. Indepliniti misiunea sa la nivelul 30
+Este recomandat să porniți misiunile suficient de devreme pentru a vă bucura de recompense valoroase mai târziu.
+
+[COLOR=ef4f00;FONT_SIZE=15]2.3 Antrenamentul
+Când ajungi la nivel 5, poți să îți alegi clasa și să începi educația. Adăugați puncte pentru 
+abilități până la M1 și apoi folositi cărțile furnizate de profesori pentru a le instrui mai departe.
+Nu uitați să cumpărați Citit Concentrat & Pergamentul exorcizarii de la Hong-Hae. Totul este la cererea ta 
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=1025; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Iteme pe care le începeți sa le colectati & ce trebuie sa cumparati.
+
+[COLOR=ef4f00;FONT_SIZE=15]3.1 Cristalele
+În acest timp trebuie să fi distrus câteva pietre metin și vi-ati dat seama că dropati destule de multe
+cristale (în depozitul dvs. de materiale). Există un motiv mare pentru asta. Turmalină, smarald, safir,
+Cristalele Rubin & Granat ele functionand ca o monedă în multe NPC-uri. De aceea începem să oferim multe,
+astfel încât să cumpărați întotdeauna ceea ce aveți nevoie. Se recomandă să le păstrați pentru uz personal,
+dar vânzarea lor vine la îndemână atunci când nu mai aveți bani. Asigurați-vă că verificați prețul mediu din .
+magazin pentru a avea o idee mai bună a prețurilor. Nu te păcăli ...
+
+[COLOR=ef4f00;FONT_SIZE=15]3.2 Cufarul Magiei & Cufarul Ierburilor
+Aceste cufere dragute sunt foarte valoroase pentru dumneavoastra.
+Cufarul Magiilor vă oferă Intarirea Obiectului, Vrajeste și marmură binecuvantata
+pentru a vă personaliza bonusurile pentru echipamente. Cuferele de plante includ tot felul de ingrediente
+pentru fabricarea poțiunilor de la Huahn-So (Jayang, Bokjung, Bakra).
+Ambele sunt extrem de utile pentru începători și chiar pentru profesioniști.
+
+[COLOR=ef4f00;FONT_SIZE=15]3.3 Ce trebuie sa cumparati
+Este destul de devreme să menționăm aceste elemente, dar având o țintă solidă vă va ajuta să indreptati spre ele:
+
+*Level 80 Coiful pentru rasa dumneavoastra
+[COLOR=808476;X_PADDING=20]*Poate fi obtinut de la Beran-Setaou
+
+*Scut Titan
+[COLOR=808476;X_PADDING=20]*Poate fi obtinut de la Beran-Setaou sau Azrael
+
+*Colier Suflet Cristal
+[COLOR=808476;X_PADDING=20]*Poate fi obtinut de la Azrael and Labirintul Orcilor
+
+*Bratara Suflet Cristal
+[COLOR=808476;X_PADDING=20]*Poate fi obtinut de la Azrael and Labirintul Orcilor
+
+
+*Cercei Suflet Cristal
+[COLOR=808476;X_PADDING=20]*Poate fi obtinut de la Azrael and Labirintul Orcilor
+
+
+*Curea de in
+[COLOR=808476;X_PADDING=20]*Se poate crafta la Alchimist
+
+Cele pe care le primiți la început nu vor dura pentru totdeauna, așa că începeți mai bine
+colectati bani pentru acesti 3 companioni ...
+
+*Sigiliu Mistret Curajos:
+[COLOR=808476;X_PADDING=20]*30% Tare impotriva Metinelor.
+
+*Sigiliu Pui de leu:
+[COLOR=808476;X_PADDING=20]*Max. HP 2.000
+[COLOR=808476;X_PADDING=20]*Tare impotriva monstrilor 15%
+[COLOR=808476;X_PADDING=20]*Tare impotriva metinelor 10%
+
+*Buffi:
+[COLOR=808476;X_PADDING=20]*Un shaman ce se va tine dupa tine si iti va acorda buff.
+[COLOR=808476;X_PADDING=20]*Skillurile maxime sunt P
+[COLOR=808476;X_PADDING=20]*La nivel maxim de skiluri iti va acorda un buff de 45%
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=1720; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]4. Pasii pe nivele: 30Lv, 50Lv, 75Lv+.
+
+Iata pasii pentru a creste cat mai usor in nivel:
+
+[COLOR=ef4f00]Nivel 1 - Nivel 30
+*Shinsoo
+*Yajang
+
+*Chunjo
+*Bokjung
+
+*Jinno
+*Bakra
+
+[COLOR=ef4f00]Nivel 30 - Nivel 42
+*Valea Seungryong
+*Temnita Paianjenilor 1
+*Temnita Paianjenilor 2
+
+[COLOR=ef4f00]Nivel 42 - Nivel 61
+*Muntele Sohan
+*Templul Hwang
+*Temnita Paianjenilor 2
+*Temnita Paianjenilor 3
+
+[COLOR=ef4f00]Nivel 61 - Nivel 81
+*Ghost Woods
+*Red Forest
+*Spider Dungeon 3
+
+[COLOR=ef4f00]Nivel 81 - Nivel 90
+*Red Forest 
+*Grotto of Exile 1
+*Grotto of Exile 2
+
+Amintiți-vă, împingându-te pentru a face  niveluri dropul nu va mai fii la fel de bun. De exemplu, 
+este de preferat farmul in Padurea Fantomelor & Padurea Rosie inainte de a da nivel 
+în Temnita Paianjenilor, Padurea Fantomelor & Padurea Rosie sunt locurile unde faceti yang foarte bine. 
+Acest ghid este totul despre  "Start ", așa că haideți să nu ne extindem prea mult...
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=2230; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]5. Cum imi maresc damage-ul.
+
+În acest moment,damageul ar trebui să înceapă să vă deranjeze.
+Îți dai seama că timpul este bani și vrei cel mai bun rezultat posibil.
+Ei bine, iată îndrumarea dvs.:
+
+[COLOR=ef4f00;FONT_SIZE=15]5.1 Aura Sabiei / Tais Vrajit L
+Daca esti Sura Arme sau War Corporal ai nevoie de aceste skilluri la nivel maxim.
+Care, surprinzător, nu este P. Abilitățile se extind până la L (Legendar) și pot fi
+antrenate cu Piatra Spiritului Legendara.
+
+[COLOR=ef4f00;FONT_SIZE=15]5.2 Voteaza pentru Buff (20% Tare impotriva monstrilor)
+Până în acest moment, bonusul de experiență de 20% nu era într-adevăr rău. Dacă doriți să vă maximizați profiturile din metine,
+20% tare împotriva monștrilor este calea ta de a merge ...
+
+[COLOR=ef4f00;FONT_SIZE=15]5.3 Alchimia Piatra Dragon
+Ar trebui să ai destul de multe Cor Draconis pentru a începe rafinarea. Scopul tău pentru moment este să faci un
+Rubin Dragon Legendar (Excelent) +6, cu cel puțin 15% Paguba Medie, 120 Valoarea atacului si De. Lucrează la ea ..
+
+[COLOR=ef4f00;FONT_SIZE=15]5.4 Esarfa cu cel putin 13% Paguba Medie
+O esarfa iti va venii perfect. Incepe sa cauti una cu 
+cel putin 13% Paguba Medie si 3% Putere.
+
+[COLOR=ef4f00;FONT_SIZE=15]5.5 Sistemul de Rune (F5)
+Sistemul Rune este unul complex și este descris detaliat într-un alt ghid. Va ofera in total un bonus 
+de 20% pentru bonusurile pvm si statusurile de care ai nevoie.Aruncă o privire. 
+[COLOR=ef4f00;FONT_SIZE=15]5.6 Roua
+Producerea de roua  este un aspect important al jocului și ar trebui să încercați cu siguranță la Huahn-So.
+Mai târziu, puteți utiliza aceste tipuri de roua pentru a produce versiunile permanente ale acestora.
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=2650; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]6.Primele Temnite
+
+S-ar putea să te gândești că nu ești nicăieri lângă o temniță, nu? Gresit! Puteți începe să terminați temnițele
+de la nivel 30. Orc Maze, Baroneasa Paianjen & Catacombele Diavolului sunt câteva temnițe cu care puteti incepe.
+Asigurați-vă că verificati ghidurile inainte de a incepe temnitele..
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=2750; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]7. um sa devii milionar
+
+În acest moment, există o mare șansă să fii deja "milionar".
+Dar ce te va face destul de bogat in stadiile incipiente ale serverului?
+Ei bine, există cu siguranță câteva sfaturi. Padurea Fantomelor si Padurea Rosie, așa cum am menționat mai înainte,
+este un paradis de  yang pentru jucatorii de nivel 85. De ce e așa? Pentru că poți farma cu ușurință
+Cristalele de Emerald și cupoanele de Yang de la pietrele metin. Cristalele de smarald sunt numai
+până la metinele de nivel 90, astfel va aflati in cele mai bune mape pentru a le farma.
+Ele sunt vândute la prețuri care vă vor permite să apucați cu ușurință sa cumparati iteme suflet  cristal și, de asemenea, să faceți suficienți bani
+pentru a arta / cumpara o arma buna 75Lv & alte echipamente pentru harti viitoare. Un bătrân înțelept a spus odată:
+Rămâneți în Pădurea Roșie până când veți avea toate itemele mentionate mai sus.
+Apoi continuați aventurile în hărțile 90Lv +. De acum puteți vizita ghidul
+105 și ce acum? pentru a continua aventurile ... Distreaza-te!
+
+
+
+ 

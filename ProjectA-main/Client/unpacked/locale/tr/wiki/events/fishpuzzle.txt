@@ -1,0 +1,47 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/fichpuzzle.tga]
+[CENTER_ALIGN;FONT_SIZE=18]Balıkçılık Yapbozu
+
+[COLOR=0xffd700;FONT_SIZE=15]İçerik Listesi:
+*1. Genel Bilgiler
+*2. Oyun Yönergesi
+*3. Raund Ödülleri
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=110; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Genel Bilgiler
+
+30+ Seviye üstü bütün oyuncular bu etkinliğe katılabilir.
+Olta ve solucan ya da hamura ihtiyacın var.
+Etkinlik sırasında sağ üstteki etknilik butonu ile yapboz sayfasına ulaşabilirsin.
+Etkinlik sırasında her başarılı Balıkçılık Yapbozu Sandığı yakaladığında 5 tane parça elde edeceksin.
+Balıkçılık Klavuzu ile yapılan balıkçılıklarda Lüks Balıkçılık Yapbozu Sandığı yakalama şansı vardır.
+(Balıkçılık Klavuzunu(3 saat) Nesne Market'ten alabilirsin.) Standart sandıklar rastgele yaboz parçaları 
+içerir. Lüks Sandıklar ise daha büyük parçalar içerir.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=250; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Oyun Yönergesi
+
+Oyunun amacı, mümkün olduğunca az hamle ile boş alanları bulmaca parçaları ile tamamlamaktır.
+Sandıkları açmak için sol tık kullan.
+Alt kutucukta Standart Sandıklar bulunurken üst kısımda Lüks Sandıklar bulunur.
+Sandıklar sol tıkla açılır ve çıkan parça mouse imleci ile istenilen yere yerleştirilir.
+İstenmeyen ya da uymayacağını düşündüğün kartları sağ tık ile yok edebilirsin.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=380; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Raund Ödülleri
+
+Yapboz tamamlandığında 30.000 EXP kazanırsın.
+Yapılan hamle sayısına bağlı olarak 3 farklı ödülden birini kazanırsın.
+Daha iyi bir ödül alabilmek için yapbozu daha az hamle ile tamamlamalsıın.
+
+*10 ya da daha azı: 3x Altın Balık Sandığı (B).
+*11 ila 24: 2x Altın Balık Sandığı (B).
+*25 ya da daha fazlası: 1x Altın Balık Sandığı (B).
+
+

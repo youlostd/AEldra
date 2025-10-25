@@ -1,0 +1,116 @@
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/105andnow.tga]
+[CENTER_ALIGN]Dragi jucatori Aeldra,
+[CENTER_ALIGN]Dacã cititi acest ghid, existã o mare sansã sã va fi pierdut undeva in
+[CENTER_ALIGN]aventurile Aeldra. Lãsasi acest ghid sã vã arate drumul de acum înainte ...
+
+[COLOR=0xffd700;FONT_SIZE=15]Continutul:
+*1. Aventurile dupa nivel 105  & Battlepassul Copacilor
+*2. Ce e cu costumele astea?
+*3. Scurtã explicatie a temnitelor
+*4. Echipamentele Turmalina
+*5. Cum sã învingã acele maimute.
+*6. Am terminat serverul acum?
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=160; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Aventurile dupa nivel 105  & Battlepassul Copacil
+
+În acest moment, sunteti considerat un jucãtor de mijloc, deoarece sunteti aproape de a deveni un nivel maxim.
+Desi, probabil, ati observat cã lucrurile devin putin mai provocatoare ...
+
+
+[COLOR=ef4f00;FONT_SIZE=15]1.1 Padurea Fermecata % Padurea Neagra
+
+Acum va puteti teleporta spre noile dvs. hãrti, durea Fermecata % Padurea Neagra. Aceste hãrti sunt pline
+de mici comori pe care le vei descoperi una câte una. În primul rând, va trebui sã vã ajustati echipamentul,
+deoarece asa cum am mentionat mai înainte: Lucrurile devin putin mai provocatoare. Monstrii de aici nu au
+bonus de rasã activã, desi acestea sunt etichetate "Pãmânt", ceea ce înseamnã cã un Talisman +49 Pãmânt este numai bun.
+De asemenea, damageul acestora este semnificativ crescut, comparativ cu hãrtile de nivel 90, maximizând astfel "sansa de a bloca"
+„Max. HP & Bonusurile "Absorb HP" vor fi la îndemânã. Onyx Dragon Legendar si Jad (presupunem cã deja
+aveti un Rubin+ 6) împreunã piatra protectiei si piatra eschive +5 pe armura dumneavoastrã vã va asigura sã rãmânã în viatã în timp ce
+farmati la metinele Fiintei Copacilor.
+
+[COLOR=ef4f00;FONT_SIZE=15]1.2 Mission Book (royal) ?
+
+Veti începe, de asemenea, sã abordati de acum înainte Mission Book (royal). Acesta contine un set de misiuni,
+una câte una, care va va recompensa dupã finalizarea cu succes. Majoritatea misiunilor sunt legate de temnite,
+astfel încât dacã sunteti confortabil mergeti mai departe si activatile. Dacã nu, vânzarea acestora este si ea o optiune. Aveti grija la faptul  
+ca recompensele sunt foarte bune (Piatra spiritului Legendara, boss roll (grele), etc ...)
+
+
+[COLOR=ef4f00;FONT_SIZE=15]1.3 Battlepassul Copacilor
+
+Ai vãzut Battlepass-ul din nou, înapoi în vremurile în care ai fost nivel 1. Aici revine putin schimbat.
+Include 7 misiuni normale si 3 misiuni legendare. Recompensele sunt ajustate la nevoile dvs.,
+asa cã lucreazã la ele cât mai curând posibil.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=580; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Ce e cu costumele astea?
+
+Pânã acum, probabil cã ati folosit acele costume de 3x10% pentru începãtori sau ati reusit sã folositi de 3x15%.
+Ei bine, nu ai terminat. Evenimentele speciale au loc din timp in timp
+si includ bonusuri de 20% pentru costum pentru arma sau coafura. Ar trebui sã începeti sã le cautati ...
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=680; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Scurtã explica?ie a temnitelor
+
+Tocmai ati deblocat portile lui Jotun Thrym si a Apãrãrii navei, dungeonurile de vârf, alãturi de Nemere
+& Razador de la nivelele mai mici (95). Se pare cã toate temnitele au nevoie de chei ... Nu e asa de dramatic cum crezi.
+Câstigarea unui bilet de trecere [sau Boss Room Ticket (nemere)] vã va acorda acces si la apãrarea navei
+(din moment ce la Nemerere dropezi 100% Esenta de Cristal Albastra) Aceeasi logicã, Razador dropezi 100% Quartz rosu blestemat, folosit pentru a intra în
+Pestera Dragonului de Cristal. Deci, practic doar incepeti dungeoanele împreunã ?i face?i un profit semnificativ.
+Retineti cã Pestera Dragonului Crystal & Jotun Thrym sunt o temnitã care au nevoie de maxim de
+bonusuri. Pãstrasi legãtura cu forumul nostru pentru mai multe informatii ...
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=830; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]4. Echipamentele Turmalina
+
+Nu credeti cã este timpul sã scãpati de acele iteme de nivel scãzut suflet de cristal? Exista intr-adevar.
+Colier & Cercei Turmalina care vã oferã 15% Tare împotriva Monstrilor si Metinelor, un fundament
+pentru marimea daunelor. Bratara turmalina va ofera o rezistenta de 15% impotriva monstrilor si sefilor,
+care vã va permite sã începeti singur sã faceti niste temnite de înaltã calitate. În general, echipamentul de turmalinã
+împreunã cu Papucii de Foc, Cureaua Dragon de Cristal, Scutul Zeului Dragon si Coifurile Sarpe de Mare sunt fabricate la Badawahdan
+(Cape Village Dragon). Aruncã o privire si acolo.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=970; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]5. Cum sã învingã acele maimute.
+
+Nu va dura prea mult pânã când veti debloca Templul lui Wukong (harta de nivel 110), care va îmbunãtãti modul în care veti farma.
+Obtinerea tuturor alchimiilor Pietre Dragon +6 (pentru bonusuri suplimentare), Talisman de Vant + 99, Costum Esarfa marind
+astfel damageul dvs.În aceastã hartã, începeti sã farmati cantitãti mari
+de Cufarul Suplimentelor, Sufletele Dream & Sky, Cufarul Skilurilor (pentru abilitãtile dvs. speciale), precum si iteme de upgrade
+pentru echipamentele dvs. high-end. Vândute sau folosindu-le pentru echipamentul propriu, va va aduce profit sau materiale necesare 
+pentru itemele mentionate anterior. De asemenea, ar trebui sã începeti sã vã întrebati
+ce se întâmplã cu templul Zodiac & Thranduil, corect ...?
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=1120; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]6. Am terminat serverul acum?
+
+Obtinerea nivelului maxim, nu înseamnã cã ati trecut prin toate aspectele jocului.
+Sunt sigur cã stii si asta.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]6.1 Templul Zodiac
+
+Unele dintre cele mai dure aventuri vor fi tinute aici, în Templul Zodiac. E timpul sã te socializezi
+si sa aduni o echipã sau o breaslã care sã vã ajute în acest proces. Existã tone de noi caracteristici, etaje de temnita
+si recompense în acest aspect gigantic al jocului si nu va fi usor sã treci singur. maximizarea
+echipamentul tau, imbunatatirea talismului tau la +99 si formarea unei echipe capabile sa te conduca la etajul 40 ...
+Per total, în curând veti scãpa de arma dvs. preferatã de nivel 75 si veti începe sã procurati si sa upgradati o arma zodiac.
+Acelasi lucru este pentru armura ta. Confruntarea cu cei 12 zei Zodiac nu este ca si cum ai bea o ceascã de ceai, asa cã asigurati-vã cã
+consultati forumul nostru pentru informatii detaliate.
+
+[COLOR=ef4f00;FONT_SIZE=15]6.2 Temnita Lui Thranduil
+
+Aceastã temnitã constã în noi sefi, etaje si multe versatilitãti.
+Veti gãsi niste tehnici noi în interiorul acestei temnite si, probabil, unele echipamente de tip kyanite? Cine stie...

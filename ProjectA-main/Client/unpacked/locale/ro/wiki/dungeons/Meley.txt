@@ -1,0 +1,35 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/meleyshort.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Cerinte:
+*Nivel necesar: 75
+*Ticket de intrare: Nu ai nevoie de un grup, dar trebuie sa faci parte dintr-o breasla.
+
+[COLOR=0xffd700;FONT_SIZE=15]Specificatii:
+*Adapostul lui Meley are un cooldown de 180 de minute.
+*Trebuie sa faci parte dintr-o breasla si ai nevoie de minim 4 caractere.
+*Trebuie sa iti alegi rasplata din cufarul de la sfarsitul dungeonului. Ai de ales dintre doua cufere.
+*Pot intra maximum 16 caractere in dungeon.
+
+
+[CENTER_ALIGN;FONT_SIZE=18]Nivele:
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=135; CENTER_ALIGN]
+[COLOR=ef4f00;FONT_SIZE=15]Nivelul 1
+[X_PADDING=20]Loveste Statuia Dragonului pana mai are 75% HP.
+[X_PADDING=20]Dupa aceea, un scut portocaliu va aparea deasupra statuii si nu mai poate fi atacata.
+
+[COLOR=ef4f00;FONT_SIZE=15]Nivelul 2
+[X_PADDING=20]Loveste Statuia Dragonului pana mai are 50% HP.
+[X_PADDING=20]Patru oua de dragon vor aparea la fiecare 2 minute si atat timp cat ele sunt prezente, statuile nu vor primii daune.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Nivelul 3
+[X_PADDING=20]Patru Minioni Idall apar si trebuiesc infranti. Statuile dragon apoi pot fi
+[X_PADDING=20] atacate pana la 0%. Patru oua de dragon apar la fiecare 2 minute si cat timp sunt in viata,
+[X_PADDING=20]statuile nu vor primi daune. Cand acestea ajung la 0% HP, Statuile vor devenii verzi.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Nivelul 4
+
+[X_PADDING=20]De indata ce toate cele 4 statui au ajung la 0% HP, patru playeri trebuie sa traga
+[X_PADDING=20]cate un Inel de Foc pe statuie in maximum 10 secunde. Meley este infrant si statuile dispar.
+[X_PADDING=20]Dupa aceea, Cufarul Dragon de Aur apare si iti poti alege recompensa.

@@ -1,0 +1,35 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/patchnotes.tga]
+[CENTER_ALIGN;FONT_SIZE=30]Patchnotes
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=30; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;COLOR=0xffd700;FONT_SIZE=15]Patch: 3.0.12
+
+[CENTER_ALIGN;COLOR=0xffd700;FONT_SIZE=15]Date: 20.04.2019
+
+
+
+[X_PADDING=20;COLOR=ef4f00;FONT_SIZE=15]New:
+[X_PADDING=20]*The new Wiki has been implemented, which you can open with F9.
+[X_PADDING=20]*There is now the option to move and save the position of the UI windows!
+
+
+[X_PADDING=20;COLOR=ef4f00;FONT_SIZE=15]Bugfixes:
+[X_PADDING=20]*Fixed a bug that caused the character to slip the name if you should wear a Shoulder Sash!
+[X_PADDING=20]*Ward & Boost skills can now be reset like normal skills!
+
+
+[X_PADDING=20;COLOR=ef4f00;FONT_SIZE=15]Changes:
+[X_PADDING=20]*The logout duration was set to 3 seconds, should monsters attack you,
+[X_PADDING=20]this process will no longer stop! 
+[X_PADDING=20]*You can now have up to 100.000.000.000 yang in your inventory. 
+[X_PADDING=20]*Items can now be sold up to 100.000.000.000 Yang!
+[X_PADDING=20]*You can now use the Dragon Stone Alchemy from Level 1 and you have no longer to complete a quest.
+
+
+
+
+[CENTER_ALIGN]Sincerely your
+[CENTER_ALIGN]Aeldra -Team
+

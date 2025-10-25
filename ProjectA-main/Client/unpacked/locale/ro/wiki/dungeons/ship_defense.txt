@@ -1,0 +1,58 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/shipdefense.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Cerinte:
+*Nivel necesar: 105
+*Permis de trecere: Nu ai nevoie.
+[RIGHT_ALIGN]Esenta Cristal Albastru
+[IMG=d:/ymir work/ui/wiki/31005.tga; Y=5; X=479]
+
+[COLOR=0xffd700;FONT_SIZE=15]Particularitati:
+*Apara nava are un cooldown de 180 de minute.
+*Dungeonul poate fi facut doar in grup.
+*Trebuie sa finalizezi dungeonul pana ce Catargul este distrus.
+*Trebuie sa iti alegi premiul de la cufarul de la finalul runului..
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18]Fazele:
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=140; CENTER_ALIGN]
+[COLOR=ef4f00;FONT_SIZE=15]Faza 1
+
+[X_PADDING=20]Distruge toti monstrii de pe punte si apara Catargul.
+
+[COLOR=ef4f00;FONT_SIZE=15]Faza 2
+
+[X_PADDING=20]Distruge toti monstrii de pe punte si apara Catargul.
+
+[COLOR=ef4f00;FONT_SIZE=15]Faza 3
+
+[X_PADDING=20]Distruge toate pietrele metin de pe punte si omoara monstrii. De indata ce debuff-ul de la Hydra a disparut, 
+[X_PADDING=20]poti distruge primul cap Hydra.
+
+[COLOR=ef4f00;FONT_SIZE=15]Faza 4
+
+[X_PADDING=20]Distruge toti monstrii de pe punte si apara Catargul.
+
+[COLOR=ef4f00;FONT_SIZE=15]Faza 5
+
+[X_PADDING=20]Distruge toti monstrii de pe punte si apara Catargul.
+
+[COLOR=ef4f00;FONT_SIZE=15]Faza 6
+
+[X_PADDING=20]Distruge toate pietrele metin de pe punte si omoara monstrii. De indata ce debuff-ul de la Hydra a disparut,
+[X_PADDING=20]poti distruge al doilea cap Hydra.
+
+[COLOR=ef4f00;FONT_SIZE=15]Faza 7
+
+[X_PADDING=20]Distruge toti monstrii de pe punte si apara Catargul.
+
+[COLOR=ef4f00;FONT_SIZE=15]Faza 8
+
+[X_PADDING=20]Distruge toti monstrii de pe punte si apara Catargul.
+
+[COLOR=ef4f00;FONT_SIZE=15]Faza 9
+
+[X_PADDING=20]Distruge toate pietrele metin de pe punte si omoara monstrii. De indata ce debuff-ul de la Hydra a disparut,
+[X_PADDING=20]poti distruge ultimul cap al Hydrai. Comoara Perlei Negre poate fi luata
+[X_PADDING=20]in schimbul unei Esente de Cristal Albastru de la cufarul Hydra.
+

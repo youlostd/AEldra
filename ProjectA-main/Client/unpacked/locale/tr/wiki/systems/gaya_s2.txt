@@ -1,0 +1,40 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/gaya.tga]
+
+[COLOR=0xffd700;FONT_SIZE=15]İçerik Listesi:
+*1. Genel Bilgiler
+*2. Gaya Elde Etme
+*3. Gaya ile Ne Alabilirim?
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=80; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Genel Bilgiler
+
+Mevcut Gaya bakiyeni, Yang bakiyenin solunda görebilirsin.
+Gaya, Gaya Mağazası'nda bulunan Gaya Kuponu karşılığı takas edilebilir.
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=165; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Gaya Elde Etme
+
+Gaya; 10 tane Kıymetli Taş, 1 tane Zırh/Silah Taşı +0 - +3 ve 500.000 karşılığında Gaya Tüccarı'ndan elde edilebilir.
+Ayrıca 10 adet Gaya üretimi seçeneği de mevcuttur. Bu durumda 100 tane Kıymetli Taş, 10 tane Zırh/Silah Taşı +0 - +3 ve 5.000.000 Yang gerekir.
+Gaya üretimi başarısız olamaz.
+
+[IMG=d:/ymir work/ui/wiki/divider_small.tga; Y=260; CENTER_ALIGN]
+
+[COLOR=ef4f00;FONT_SIZE=15]2.1 Kıymetli Taş Elde Etme
+
+Kıymetli Taş; patronlardan, patron sandıklarından ve ayrıca etkinliklerden elde edilebilir.
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=330; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Gaya ile Ne Alabilirim?
+
+Gaya ile Gaya Marketi'nde bulunan 12 değerli eşyadan istediklerini alabilirsin.
+
+
+
+

@@ -1,0 +1,35 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/meleyshort.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Követelmények:
+*Kötelezõ szint: 75
+*Belépési jegy: Nem kell hogy csoportban legyél, de egy céhhez kell hogy tartozz.
+
+[COLOR=0xffd700;FONT_SIZE=15]Sajátosságok:
+*A Meley dungeon-nek 180 perces cooldownja van.
+*Benne kell hogy legyél egy céhben, hogy beléphess a dungeon-be, és legalább 4 karakternek kell lennie bent.
+*Választhatsz egy jutalmat a ládából, a dungeon végén. Kettõ féle láda van, melybõl választhatsz.
+*Összesen 16 karakter mehet be.
+
+
+[CENTER_ALIGN;FONT_SIZE=18]Szintek:
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=135; CENTER_ALIGN]
+[COLOR=ef4f00;FONT_SIZE=15]1. Szint
+
+[X_PADDING=20]Sebezd a Sárkány oszlopokat ameddig 75% HP-juk nem marad. 
+[X_PADDING=20]Ez után, egy narancssárga pajzs jelenik meg az oszlopok felett, és nem lehet õket továbbá sebezni.
+
+[COLOR=ef4f00;FONT_SIZE=15]2. Szint
+
+[X_PADDING=20]Sebezd a Sárkány oszlopokat ameddig 50% HP-juk nem marad.  
+[X_PADDING=20]Négy sárkány tojás jelenik meg minden második percben, és ameddig el nem pusztítod õket, az oszlopok sebezhetetlenek.
+
+[COLOR=ef4f00;FONT_SIZE=15]3. Szint
+[X_PADDING=20]Négy darab Sárkányfigyelõ Idall jelenik meg, melyeket meg kell ölni. A Sárkány oszlopok 
+[X_PADDING=20]sebezhetõek 0%-ig. Négy sárkány tojás jelenik meg minden második percben, és ameddig el nem pusztítod õket,
+[X_PADDING=20]az oszlopok sebezhetetlenek. Ha elérted a 0% HP-t a szobrok zöldek lesznek.
+
+[COLOR=ef4f00;FONT_SIZE=15]4. Szint
+
+[X_PADDING=20]Miután mind a négy Sárkány oszlop elérte a 0% HP-t, 4 játékosnak rá kell húzni 
+[X_PADDING=20]egy Sárkánytûz gyûrû-t az oszlopokra 10 másodpercen belül. Meley-t legyõztétek, és az oszlopok eltûnnek.
+[X_PADDING=20]Ezután, egy Arany Sárkány Láda jelenik meg, amibõl kiválaszthatod a jutalmadat.

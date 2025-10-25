@@ -1,0 +1,31 @@
+[DELAY value;0]
+[COLOR r;0|g;195|b;255]"Aşama 1"[/COLOR r;0|g;195|b;255][ENTER]
+90 saniye içerisinde 100 canavar ortaya çıkar. Öldürülen her canavar için 2 canavar ortaya çıkar.[ENTER]
+100 canavar ortaya çıktıktan sonra 60 saniye içerisinde bütün canavarları öldürmelisin.[ENTER]
+[ENTER]
+
+[COLOR r;0|g;195|b;255]"Aşama 2"[/COLOR r;0|g;195|b;255][ENTER]
+Doğru Metin Taşını yok et.[ENTER]
+[ENTER]
+
+[COLOR r;0|g;195|b;255]"Aşama 3"[/COLOR r;0|g;195|b;255][ENTER]
+Gelen canavar dalgalarından anahtarlar topla.[ENTER]
+Anahtarlar, Sindarin Filizi'ni yok etmek için gereklidir! Her anahtar filizin canını 10% düşürür.[ENTER]
+[ENTER]
+
+[COLOR r;0|g;195|b;255]"Aşama 4"[/COLOR r;0|g;195|b;255][ENTER]
+Sindarin'i ve yandaşlarını öldür![ENTER]
+[ENTER]
+
+[COLOR r;0|g;195|b;255]"Aşama 5"[/COLOR r;0|g;195|b;255][ENTER]
+3 dakika boyunca hayatta kal ve bütün canavarları öldür.[ENTER]
+Her 30 saniyede bir güvenli bir alan ortaya çıkar. Zamanında o alana gitmez isen ölürsün ve baştan başlaman gerekir.[ENTER]
+
+[COLOR r;0|g;195|b;255]"Aşama 6"[/COLOR r;0|g;195|b;255][ENTER]
+3 dakika içinde 3 canavar dalgasını yok et. Başaramazsan, baştan başlamak zorunda kalırsın![ENTER]
+[ENTER]
+
+[COLOR r;0|g;195|b;255]"Patron Odası"[/COLOR r;0|g;195|b;255][ENTER]
+Thranduil'i öldür![ENTER]
+Thranduil'i öldürmeyi başarırsan, küçük bir şansla Orman Koruyucusu ortaya çıkabilir. [ENTER]
+Koruyucu'da yeni ekipmanlar üretebilirsin!

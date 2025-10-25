@@ -1,0 +1,36 @@
+191216  9:50:04 [Note] \bin\mysqld-opt.exe: ready for connections.
+Version: '5.0.67-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+200222 14:45:17 [Note] \bin\mysqld-opt.exe: ready for connections.
+Version: '5.0.67-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+200617 17:21:50 [Note] \bin\mysqld-opt.exe: ready for connections.
+Version: '5.0.67-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+200809 17:24:11 [Note] \bin\mysqld-opt.exe: ready for connections.
+Version: '5.0.67-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+200916  8:24:46 [Note] \bin\mysqld-opt.exe: ready for connections.
+Version: '5.0.67-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+201015 21:44:04 [Note] \bin\mysqld-opt.exe: ready for connections.
+Version: '5.0.67-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+201120  8:40:38 [Note] \bin\mysqld-opt.exe: ready for connections.
+Version: '5.0.67-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+201210  9:37:34 [Note] \bin\mysqld-opt.exe: ready for connections.
+Version: '5.0.67-community-nt'  socket: ''  port: 3307  MySQL Community Edition (GPL)
+210503 12:45:44 [Note] \bin\mysqld-opt.exe: ready for connections.
+Version: '5.0.67-community-nt'  socket: ''  port: 3307  MySQL Community Edition (GPL)
+210503 12:45:44 [ERROR] mysqld: Got error 10038 from select
+210611  9:32:20 [Note] \bin\mysqld-opt.exe: ready for connections.
+Version: '5.0.67-community-nt'  socket: ''  port: 3307  MySQL Community Edition (GPL)
+210709 10:45:07 [Note] \bin\mysqld-opt.exe: ready for connections.
+Version: '5.0.67-community-nt'  socket: ''  port: 3307  MySQL Community Edition (GPL)
+211023 19:51:44 [Note] \bin\mysqld-opt.exe: ready for connections.
+Version: '5.0.67-community-nt'  socket: ''  port: 3307  MySQL Community Edition (GPL)
+211119  8:08:40 [Note] \bin\mysqld-opt.exe: ready for connections.
+Version: '5.0.67-community-nt'  socket: ''  port: 3307  MySQL Community Edition (GPL)
+220122 19:54:42 [Note] \bin\mysqld-opt.exe: ready for connections.
+Version: '5.0.67-community-nt'  socket: ''  port: 3307  MySQL Community Edition (GPL)
+220223 19:15:48 [Note] \bin\mysqld-opt.exe: ready for connections.
+Version: '5.0.67-community-nt'  socket: ''  port: 3307  MySQL Community Edition (GPL)
+220901 23:45:29 [Note] \bin\mysqld-opt.exe: ready for connections.
+Version: '5.0.67-community-nt'  socket: ''  port: 3307  MySQL Community Edition (GPL)
+230205 18:51:24 [Note] \bin\mysqld-opt.exe: ready for connections.
+Version: '5.0.67-community-nt'  socket: ''  port: 3307  MySQL Community Edition (GPL)
+230205 18:51:24 [ERROR] mysqld: Got error 10022 from select

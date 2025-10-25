@@ -1,0 +1,18 @@
+[DELAY value;0]
+[COLOR r;0|g;195|b;255]1º Nível[/COLOR r;0|g;195|b;255][ENTER]
+Mata todos os monstros até que todos os portais se abram e encontra o caminho correto.[ENTER]
+[ENTER]
+[COLOR r;255|g;195|b;0]Especialidades:[/COLOR r;255|g;195|b;0][ENTER]
+Colecta uma Chave por participante para entrar no próximo nível.[ENTER]
+[ENTER]
+[COLOR r;0|g;195|b;255]2º Nível[/COLOR r;0|g;195|b;255][ENTER]
+Derrota o Chefe Ork e parte os selos com ajuda das Chaves. Depois o Coletor de Gingeng irá abrir os Portões.[ENTER]
+[ENTER]
+[COLOR r;0|g;195|b;255]3º Nível[/COLOR r;0|g;195|b;255][ENTER]
+Derrota o Chefe Ork Amaldiçoado.[ENTER]
+[ENTER]
+[COLOR r;0|g;195|b;255]4º Nível[/COLOR r;0|g;195|b;255][ENTER]
+Derrota o Rei Ork.[ENTER]
+[ENTER]
+
+

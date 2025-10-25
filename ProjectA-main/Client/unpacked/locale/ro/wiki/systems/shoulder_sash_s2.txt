@@ -1,0 +1,82 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/shoulder.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Lista de Continut:
+*1. Diferite tipuri de esarfe si cum le puteti obtine
+*2. Cum se imbunatatesc esarfele
+*3. Cum se adauga o arma pe esarfa
+*4. Cum se sterg bonusurile de pe esarfa
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=80; CENTER_ALIGN]
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Diferite tipuri de esarfe si cum le puteti obtine
+
+[COLOR=ef4f00;FONT_SIZE=15]1.1 Esarfele:
+Sunt 4 tipuri de esarfe:
+*Esarfa Lord
+*Esarfa Master
+*Esarfa Suveran
+*Esarfa Roiala
+
+Diferenta dintre ele este numai de aspect.
+[IMG=d:/ymir work/ui/wiki/divider_small.tga; Y=250; CENTER_ALIGN]
+
+
+[COLOR=ef4f00;FONT_SIZE=15]1.2 De unde pot obtine esarfele?
+Esarfele pot fi craftate la Theowahdan cu diferite panze
+Panzele pot fi obtinute de la pietrele din Peninsula Dragon Foc, Trecatoarea Nephrite,
+Muntii Thunder, Guatama Cliff.
+Sunt 4 panze diferite, fiecare este pentru un fel de esarfa:
+*10x Panza verde -> Esarfa Lord
+*10x Panza violet -> Esarfa Master
+*10x Panza albastra -> Esarfa Suveran
+*10x Panza galbena -> Esarfa Roiala
+Pentru a crafta esarfele aveti nevoie de 250.000 Yang si 10x panze de o culoare, craftarea nu poate sa esueze.
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=400; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Imbunatatirea esarfelor
+
+[COLOR=ef4f00]The Shoulder Sash has 4 different levels:
+*normala
+*fina
+*nobila
+*avansata
+
+Doua esarfe de acelasi nivel pot fi combinate la Theowahdan pentru a obtine una de un nivel mai mare.
+La procesur de combinare, esarfa de sus va fi imbunatatita si cea de jos va fi distrusa.
+Imbunatatirea esarfelor nu poate sa esueze
+Este posibil sa adaugati esarfele pe fereastra de combinatie prin tragere si plasare sau "ALT + click stanga"
+O esarfa avansata poate sa fie combinata cu alta esarfa avansata pentru a obtine 25%.
+Fiecare imbunatatire cu doua esarfe la nivelul avansat este de 100% si va ofera cate 1% in plus.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=620; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Cum se adauga o arma pe esarfa
+
+Poti adauga bonusurile de pe arma ta pe esarfa.
+Poti adauga bonusurile pe o esarfa la Theowahdan.
+> Arma va fi distrusa in acest proces.
+
+Esarfa iti va oferi un specific % a bonusurilor din arma.
+*Esarfa (normala) iti va oferi 1% din bonusurile armei.
+*Esarfa (fina) iti va oferi 5% din bonusurile armei.
+*Esarfa (nobila) iti va oferi 10% din bonusurile armei.
+*Esarfa (avansata) iti va oferi 11%-25% din bonusurile armei.
+
+Bonusurile vor fi rotunjite in jos. 
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=830; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]4. Cum sa stergeti bonusurile din esarfe.
+Cand adaugati o arma gresita in esarfa sau esarfa avea bonusuri gresite aveti o singura optiune:
+A elimina bonusurile din esarfa cu Certificatul de Anulare care poate sa fie cumparat din Itemshop.
+Certificatul de Anulare va elimina toate bonusurile din esarfa.
+Nu veti obtine inapoi arma absorbita in esarfa.
+

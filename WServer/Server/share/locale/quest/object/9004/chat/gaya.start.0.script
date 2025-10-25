@@ -1,0 +1,13 @@
+local s1 = select ( "What is the Gaya Market?" , "Close" ) 
+if s1 == 1 then 
+say ( "Have you heard about he Gaya Market?" ) 
+say ( "No? Ah, it's well worth a visit. You can purchase" ) 
+say ( "really fine goods there." ) 
+say ( "Sometimes you can even came across extremely" ) 
+say ( "valuable commodities." ) 
+say ( "Do you want to open the Gaya Market now ?" ) 
+local s2 = select ( "Yes" , "No" ) 
+if s2 == 1 then 
+npc . open_gaya_shop ( ) 
+end 
+end 

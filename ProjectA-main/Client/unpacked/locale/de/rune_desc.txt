@@ -1,0 +1,17 @@
+1	Tribusschlag	Nach jedem dritten Schlag fügst du deinem Gegner extra Schaden.
+2	Blutrausch	Jeder neunte normale Schlag fügt extra Schaten zu.
+3	Kalte Füße	Dein erster Schlag heilt dich um 20% deines Schadens und verleiht dir 100 Bewegungsgeschwindigkeit für 1,5 Sekunden.
+13	Blitzschlag	Einen Gegner innerhalb von 3 Sekunden mit 3 unterschiedlichen Angriffen oder Fähigkeiten zu treffen, verursacht zusätzlichen absoluten Schaden.
+14	Flash!	Erhalte außerhalb des Kampfes 100 Bewegungsgeschwindigkeit.
+15	Seelenraub	Sammle Seelen von Bossmonstern und Metinsteinen ab Level 90. Jede Seele gibt 1 Angriffswert. (max 300)
+25	Angriff = Verteidigung	Deine Angriffe und Fähigkeiten generieren einen Schild, der 500 Fertigkeitsschaden absorbiert.
+26	Zeitsprung	Jede 5te Fertigkeit verursacht 10% mehr Schaden!
+27	Berserker	Deinen Gegner innerhalb 3 Sekunden mit normalen Angriffen oder Fertigkeiten zu treffen gewährt dir Bewegungsgeschwindigkeit für 1,5 Sekunden.
+36	Mount paralyze	When you hit an enemy, he receives a debuff "Paralyzed" and he can't mount for next 5 seconds.
+37	Fertigkeitsmeister	Deinen Gegner mit 4 normalen Angriffen oder Fertigkeiten zu treffen fügt deinem Gegner extra Schaden prozentuell von deinem Leben.
+38	Transfusion	Wenn eine bestimmte Anzahl an Gegnern getötet wird, erhalten deine Gruppenmitglieder ein Schild, der Schaden absorbiert.
+39	Mantraschild	Wenn man eine Fertigkeit nutzt, bekommen deine Gruppenmitglieder ein Magieschild (Max. 3000).
+49	Fertigkeitsspezialist	Wenn man sich 10 Sekunden im Kampf befindet, erhält man erhöhte Zaubergeschwindigkeit.
+50	Verlangsamt	Dein erster Schlag verlangsamt deine Gegner für 2 Sekunden.
+51	Dieb	Chance, ein Item von einem Monster doppelt zu droppen.
+57	Gruppen Führer	Verstärkt deinen Führungs Bonus um 20%.

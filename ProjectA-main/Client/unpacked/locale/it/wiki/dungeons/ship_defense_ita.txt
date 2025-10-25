@@ -1,0 +1,49 @@
+
+[COLOR=0xffd700;FONT_SIZE=15]Peculiarity:
+*La difesa nave ha 180 minuti di cooldown.
+*Puoi avere accesso al dungeon solo in gruppo.
+*Devi completare il dungeon prima che l albero maestro sia distrutto.
+*Devi decidere la tua ricompensa dal baula alla fine del dungeon.
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18]Le fasi:
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=140; CENTER_ALIGN]
+[COLOR=ef4f00;FONT_SIZE=15]Fase 1
+
+[X_PADDING=20]uccidi tutti i mostri sul suolo della nave e proteggi l albero maestro.
+
+[COLOR=ef4f00;FONT_SIZE=15]Fase 2
+
+[X_PADDING=20]uccidi tutti i mostri sul suolo della nave e proteggi l albero maestro.
+
+[COLOR=ef4f00;FONT_SIZE=15]Fase 3
+
+[X_PADDING=20]uccidi tutti i mostri e i metin sul suolo della nave.Una volta che il debuff dell'hydra e sparito, 
+[X_PADDING=20]puoi sconfigerre la testa dell'hydra.
+
+[COLOR=ef4f00;FONT_SIZE=15]Fase 4
+[X_PADDING=20]uccidi tutti i mostri sul suolo della nave e proteggi l albero maestro.
+
+[COLOR=ef4f00;FONT_SIZE=15]Fase 5
+
+[X_PADDING=20]uccidi tutti i mostri sul suolo della nave e proteggi l albero maestro.
+
+[COLOR=ef4f00;FONT_SIZE=15]Fase 6
+
+[X_PADDING=20]uccidi tutti i mostri e i metin sul suolo della nave.Una volta che il debuff dell'hydra e sparito,
+[X_PADDING=20]puoi sconfiggere la seconda testa dell'hydra.
+
+[COLOR=ef4f00;FONT_SIZE=15]Fase 7
+
+[X_PADDING=20]uccidi tutti i mostri sul suolo della nave e proteggi l albero maestro.
+
+[COLOR=ef4f00;FONT_SIZE=15]Fase 8
+
+[X_PADDING=20]uccidi tutti i mostri sul suolo della nave e proteggi l albero maestro.
+
+[COLOR=ef4f00;FONT_SIZE=15]Fase 9
+
+[X_PADDING=20]uccidi tutti i mostri e i metin sul suolo della nave.Una volta che il debuff dell'hydra e sparito, 
+[X_PADDING=20]puoi sconfiggere l ultima testa dell'hydra. Puoi scambiare un essenza di cristallo blu 
+[X_PADDING=20]per un baule di perla nera dal baule dell'hydra.

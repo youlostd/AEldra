@@ -1,0 +1,48 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/empirewar.tga]
+[CENTER_ALIGN;FONT_SIZE=18]İmparatorluk Savaşı
+
+[COLOR=0xffd700;FONT_SIZE=15]İçerik Listesi:
+*1. Genel Bilgiler
+*2. Etkinlik Yönergesi
+*3. İmparatorluk Ödülleri
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=100; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Genel Bilgiler:
+
+İmparatorluk Savaşı, özel bir haritada gerçekleştirilen açık bir PvP etkinliğidir.
+75+ Seviye üstü bütün oyuncular kendi imparatorluğu için savaşabilir.
+Girişler açıldığı zaman ekranın ortasında beliren ışınlanma ekranıyla savaş alanına
+ışınlanabilirsin. 20 dakika sonra Ölme/Öldürme istatiği en iyi olan imparatorluk savaşı kazanır.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=200; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Etkinlik Yönergesi
+
+Savaş alanına ışınlandığında çevrende diğer imparatorluklardan birçok düşmanın olduğunu 
+fark edeceksin. Dostum! Sakın silahını evde bırakma. Korunabileceğin bir güvenli alan yok, 
+bu yüzden doğru zamanda doğru eşyalara sahip olduğundan emin ol. Zaman daralıyor...  Unutma, amacın
+20 dakika sonunda en iyi Ölme/Öldürme istatistiğine sahip olmak. Zaman ve performans en önemlileri!
+
+Savaş sırasında aşağıdaki eşyalar kullanılamaz:
+
+*Buffi Mührü
+*Binekler
+*Nikah Yüzüğü
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=380; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. İmparatorluk Ödülleri
+
+En iyi ölme/öldürme istatiğine sahip imparatorluk savaşı kazanır ve 6 saat boyunca geçerli aşağıdaki bonusları elde eder:
+
+*100% Tecrübe Puanı
+*10% Metin Taşlarına Karşı Güç
+*10% Patronlara Karşı Güç
+
+Not: İmparatorluk Savaşı'ndan sonra 6 saat boyunca imparatorluk değiştirmek mümkün değildir.
+
+

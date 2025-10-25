@@ -1,0 +1,40 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/gaya.tga]
+
+[COLOR=0xffd700;FONT_SIZE=15]Lista de Continut:
+*1. Informatii generale.
+*2. De unde pot obtine Gaya?
+*3. Ce pot cumpara cu Gaya?
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=80; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Informatii generale.
+
+Poti vedea balanta Gaya in stanga balantei Yangului.
+Gaya poate sa fie negociat cu un Voucher Gaya de la Piata Gaya
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=165; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Cum pot obtine Gaya?
+
+Gaya poate sa fie craftat la Negustor Gaya cu 10 piatra pretioasa, 500.000 Yang si 1 piatra +0 - 3.
+Este o obtiune in care puteti crafta 10 Gaya dintr-o data, pentru aceasta aveti nevoie de 100 piatra pretioasa, 5.000.000 Yang si 10 Pietre +0 - 3.
+Sansa craftatului Gata este mereu de 100% si nu poate sa esueze.
+
+[IMG=d:/ymir work/ui/wiki/divider_small.tga; Y=260; CENTER_ALIGN]
+
+[COLOR=ef4f00;FONT_SIZE=15]2.1 Cum pot obtine pietre pretioase?
+
+Pietrele Pretioase se pot obtine de la sefi si cuferele acestora, si evenimente. 
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=330; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Ce pot cumpara cu Gaya?
+
+Cu Gata puteti cumpara obiecte de valoare de la Piata Gaya care are mereu un total de 12 obiecte.
+
+
+
+

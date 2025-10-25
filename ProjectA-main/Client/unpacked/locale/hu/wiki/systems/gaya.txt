@@ -1,0 +1,41 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/gaya.tga]
+[CENTER_ALIGN]A gaya rendszer egy új valuta. 
+
+[COLOR=0xffd700;FONT_SIZE=15]Tartalom:
+*1. Általános információk.
+*2. Hogyan szerezhetek?
+*3. Mit vehetek?
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=90; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Általános információk.
+
+A pénzsávod mellett láthatod. 
+A gaya marketrõl vásárolhatsz tárgyakat gayával. 
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=185; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Hogyan szerezhetek?
+
+1 gayát 10db gemstone-bõl szerezhetsz, 500.000 yangból és egy +0-3-mas kõ betörösével, a Gaya merchantnál. 
+Ez az eljárás mindig sikeres. 
+
+[IMG=d:/ymir work/ui/wiki/divider_small.tga; Y=280; CENTER_ALIGN]
+
+[COLOR=ef4f00;FONT_SIZE=15]2.1 Hogyan szerezhetek gemstonet?
+ 
+Fõork, Kilencfarkú, Sivatagi Teknõs, Láng király, Pók bárónõ, Sárga tigris szelleme és további
+bossok a játék folyamán.
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=400; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Mit vehetek?
+
+Gayából összesen 12 itemet vehetsz. A legfontosabb a fémes arany festék. 
+Gyûrû, pet, 14 napos hátas is vásárolható. 
+
+
+

@@ -1,0 +1,27 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/spiderbaroness.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Cerinte:
+*Nivel necesar: 50-85
+*Permis de trecere: Piatra Arahnidelor (doar liderul grupului)
+[RIGHT_ALIGN]Piatra arahnidelor
+[IMG=d:/ymir work/ui/wiki/30324.tga; Y=5; X=493]
+[COLOR=0xffd700;FONT_SIZE=15]Particularitati:
+*Baroneasa paianjen are un cooldown de 90 de minute.
+*Dungeonul poate fi facut singur sau in grup. 
+*Aveti la dispozitie 20 de minute pentru a termina runul.
+*Daca este schimbat liderul grupului nu este afectat cooldownul.
+
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18]Fazele:
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=143; CENTER_ALIGN]
+
+[COLOR=ef4f00;FONT_SIZE=15]Faza 1
+
+[X_PADDING=20]Omoaral pe Regele Paianjen si activeaza Fluierul Arahnidelor pe care tocmai l-ai dropat.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Faza 2
+
+[X_PADDING=20]Omoara pe Baroneasa Paianjen.

@@ -1,0 +1,11 @@
+[DELAY value;0]
+[COLOR r;255|g;195|b;0]Specialities:[/COLOR r;255|g;195|b;0][ENTER]
+Mounts can not be used.[ENTER]
+Jotun Thrym spaws groups of healers who heal him.[ENTER]
+[ENTER]
+[COLOR r;0|g;195|b;255]Phase 1[/COLOR r;0|g;195|b;255][ENTER]
+Enter the boss room of Jotun Thyrm and defeat Bagjanamu.[ENTER]
+[ENTER]
+[COLOR r;0|g;195|b;255]Phase 2[/COLOR r;0|g;195|b;255][ENTER]
+Defeat Jotun Thrym.
+[ENTER]

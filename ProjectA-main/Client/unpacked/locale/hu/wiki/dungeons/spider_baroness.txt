@@ -1,0 +1,27 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/spiderbaroness.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Követelmények:
+*Kötelezõ szint: 50-85
+*Belépési jegy: Pók-kulcs (Csoportvezetõnek egyedül)
+[RIGHT_ALIGN]Arachnids Key 
+[IMG=d:/ymir work/ui/wiki/30324.tga; Y=5; X=493]
+[COLOR=0xffd700;FONT_SIZE=15]Sajátosságok:
+*A Pók-királnyõ fészkének 60 perces cooldownja van.
+*A dungeon-be bemehetsz egyedül, és csoportosan is.
+*Összesen 20 perc áll rendelkezésedre hogy teljesítsd a Pók-királnyõ fészkét.
+*Csoport vezetp cseréje nem rövidíti a cooldown-t.
+
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18]Szintek:
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=143; CENTER_ALIGN]
+
+[COLOR=ef4f00;FONT_SIZE=15]1. Szint
+
+[X_PADDING=20]Öld meg a Pók Királyt, és aktiváld Pók kulcsot, amit dob.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]2. Szint
+
+[X_PADDING=20]Öld meg a Pók Királynõt.

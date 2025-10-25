@@ -1,0 +1,525 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/runes.tga]
+[CENTER_ALIGN]Geçtiğimiz yıllarda, Rünlerin ünü Aeldra etrafında yayılmaya başladı.
+[CENTER_ALIGN] Dünyanın en parlak zekâları, şamanlar, eski oymaları detaylı
+[CENTER_ALIGN]bir şekilde inceledi,tarihin derinliklerinden bilgiler edindi ve  
+[CENTER_ALIGN]sahip olabilecekleri güçleri toplamak için adımlar atmaya başladı. 
+[CENTER_ALIGN]İçlerinde bulundurdukları güç anlayabiliceğimizden ve öğrenebiliceğimizden daha fazlasıydı. 
+[CENTER_ALIGN]Bazıları, şamanların bu olağanüstü gücünün, Aeldra dünyasındaki Jotun Thrym 'e borçlu olduğunu düşünüyordu.
+[CENTER_ALIGN]Şu anda bu gücü kullanabilenler, kontrol altına alabildiğimiz şamanlardır. Metin2 'nin derinliklerinde daha neler olduğunu kimler bilebilir? 
+
+[COLOR=0xffd700;FONT_SIZE=15]İçerik Listesi:
+*1. Rün Sistemi Tanıtımı
+*2. Yeni Rün Açma
+*3. Sık Kullanılan Rün Kombinasyonları ve İpuçları
+*4. Rün Geliştirme
+*5. Rünlerin Özellikleri ve İstatistikleri
+*6. Terimler
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=210; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Rün Sistemi Tanıtımı
+
+Sistem; bir sürü rünler arasında seçimler yaptırarak oyuncuların PvP, PvM gibi özel durumlar için kendilerini 
+şekillendirmelerine olanak sağlar. Bu sisteme F5 tuşunu kullanarak erişebilirsin.
+
+[COLOR=ef4f00;FONT_SIZE=15]1.1 Birincil Yollar
+Oyuncuların seçebileceği 5 Birincil Yol çeşidi bulunur: 
+
+*İsabet
+*Hakimiyet
+*Büyücülük
+*Azim
+*İlham
+
+Oyuncu Birincil Yolunu seçtikten sonra,ihtiyacı olan şeylere göre bir anahtar rün ve 3 normal rün
+seçip ağacı tamamlayabilir.
+
+[COLOR=ef4f00;FONT_SIZE=15]1.2 kincil Yollar
+İkincil yollar, rün sayfanızı tamamlayabilmeniz için Birincil Yoldaki rünler ile kombine edilir.
+Oyuncu kombine edeceği başka bir yol seçtikten sonra o yoldan(Anahtar rünler hariç) 2 rün daha açabilir.
+
+[COLOR=ef4f00;FONT_SIZE=15]1.3 Kontrol Düğmeleri
+Rün Sistemi sayfasının sağ üstünde, 4 adet kontrol düğmesi göreceksin: 
+
+*Sıfırla
+*Puanları Sıfırla
+*Puan Satın Al
+*Kaydet
+
+Rün Sistemi sayfasının sağ altında, 'Rün Sistemi Hakkında' kısmına ulaşabilirsin.
+Ayrıca sağ altta rünlerinizi kaydedebileceğiniz 4 ayrı rün sayfası mevcuttur.
+Rün yolunuzu değiştirmek için, rünlerinizi kaydetmeden önce sayfada bulunan Rün Ağacı ikonuna tıkla.
+Sayfadaki 6 rünü de açıp aktif hale getirdikten sonra, özelliklerin karakterine işlenmesi için 'Kaydet' tuşuna bas.
+Kaydettiğin rünleri 'Puanları Sıfırla' tuşuyla, kaydettiğin rün sayfalarını ise 'Sıfırla' tuşuyla sıfırlayabilirsin.
+Aktif etmiş olduğun Anahtar Rün, ekranının sol üstündeki etkiler kısmında görünecektir.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=680; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Yeni Rün Açma
+
+Bir Anahtar(veya normal) rün açabilmek için 12 puana ihtiyacın var.
+
+[COLOR=ef4f00;FONT_SIZE=15]2.1 Rün Puanları
+Rün Ekranının sağ üstünde bulunan "Puan Satın Al" düğmesine tıklayıp 1 Rün Puanı satın alabilirsin.
+Başlangıçta, 145 Rün Puanına sahip olana dek, rün puanı alabilmen için 90.seviye haritalarındaki 
+110.seviye metinlerden düşen eşyalar ve 6.000.000 yang istenecektir. 145. rün puanından 720(son) rün puanına dek 
+105. seviye haritasındaki 'Ağaç Yaratığı Metni' adlı metinden düşen eşyalar ve 6.000.000 yang istenecektir.
+
+[COLOR=ef4f00;FONT_SIZE=15]2.2 Rün Açma ve Seçme
+12 puanın olduktan sonra, açmak istediğin rünün üzerine tıkla. Rünü açtıktan sonra rüne sol tıklayarak 
+aktifleştirdikten sonra sayfanın sol üstündeki 'Kaydet' tuşuna basarak bonusunu aktifleştirebilirsin.
+Dikkat! : Sayfanı kaydettin ve artık rün yolunu değiştiremezsin. Rün yolunu değiştirmek istersen 
+sağ alttan ikinci rün sayfanı seçip baştan yeni bir yol oluşturmalısın.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=895; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Sık Kullanılan Rün Kombinasyonları ve İpuçları
+
+[COLOR=ef4f00;FONT_SIZE=15]3.1 PvM Rün Yolu Kombinasyonu-1 (Metin Taşları için)
+Birincil Yol, Hakimiyet: Ruh Soygunu, Canavar, Patron, Metin.
+İkincil Yol, İsabet: Ortalama Hasar, Kritik Hasar.
+
+[COLOR=ef4f00;FONT_SIZE=15]3.2 PvM Rün Yolu Kombinasyonu-2 (Patronlar için)
+Patron keserken, metin için yapmış olduğun rün yolunun aynısını, yalnızca 'Metin' rününü o an
+kesmekte olduğun patronla değiştirerek kullanabilirsin. Örneğin; Zodyak Tapınağındaysan, 
+'Metin' rününü 'Zodyak' olarak değiştir.
+
+[COLOR=ef4f00;FONT_SIZE=15]3.3 İpuçları
+Patron keserken,rün sayfanı son anda 'Hırsız' ve 'Eşya Düşürme' içeren bir rün sayfasına değiştirmek, 
+patrondan düşecek olan değerli eşya şansını arttıracaktır. 'İksir Etkisi Güçlendirme' rününü şebnemlerini
+basmadan önce aktif etmek, şebnemlerden gelecek etkiyi 20% arttırmanı sağlayacaktır.
+Tüm rünleri açmak için 90. seviye haritasından elde ettiğin rün eşyalarından toplamda 1140 adet,  
+105. seviye haritasından elde ettiğin rün eşyalarından ise toplamda 3450 adet toplaman gerekmekte.
+Birincil yoldaki 12 rünü açtığında, 15% Yarı İnsanlara Karşı Güç ve 10% Yarı İnsanlara Karşı Koyma kazanırsın.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=1180; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]4. Rün Geliştirme
+
+İlk aşamadaki tüm rünleri açmak Seviye 2 rünlere erişme hakkı tanıyacaktır. (+) butonuna tıklayarak
+belirli rünleri seviye 2'ye yükseltebilir, gelişmiş bonuslarından faydalanabilirsiniz. (Anahtar Rünler hariç).
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=1265; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]5. Rünlerin Özellikleri ve İstatistikleri
+
+Aşağıda rünlerin birer birer açıklaması ve istatistikleri bulunmakta, göz atın:
+
+
+[COLOR=ef4f00;FONT_SIZE=15]5.1 Hakimiyet
+Hakimiyet Rün Yolu genellikle PvM amaçlı kullanılır ve canavarlara karşı olan saldırıları güçlendirir.
+
+[COLOR=ef4f00]5.1.1 Şimşek (Anahtar Rün)
+Rün Özellikleri: 3 saniye içinde oyunculara karşı yapılan 3 normal saldırı ya da beceri saldırısı seçili oyuncuya 1000  
+gerçek hasar verir. Bu rün bekleme süresine sahiptir.
+Açıklama: Gerçek hasar, bütün savunmaları ve dirençleri yok sayar.
+
+[COLOR=ef4f00]5.1.1 Ani Işık (Anahtar Rün)
+Rün Özellikleri: 1 saniye boyunca savaşın dışında kalmak 100 hareket hızı kazandırır.
+Açıklama: Yürüyerek elde edebileceğin maksimum hız 250 civarıdır. Buna rağmen, at üstündeyken
+hızın oldukça fazla olur ve bu rün ile birlikte uzun yollar artık çok daha kısa!
+
+[COLOR=ef4f00]5.1.3 Ruh Soygunu (Anahtar Rün)
+Rün Özellikleri: 90. seviye üstü patron öldürmek toplanan ruh sayısını arttırır. Toplanan her ruh, oyuncu olmayan 
+düşmanlara karşı 1 saldırı hasarı kazandırır. Ruhlar belli bir sayıya kadar toplanabilir.(Maks. 300). 
+Bu rünü değiştirsen bile topladığın ruhlar kalacaktır, ama bu rün seçili değilken öldürülen patronlardan
+ruh toplayamazsın.
+Açıklama: Rün aktif olsa bile verdiği Saldırı Değeri etkisi Karakter Menüsünde(C) görünmez
+Ruh Soygunu'nda biriktirilen ruhları sol üstte bulunan etkiler menüsünden görebilirsin.
+
+[COLOR=ef4f00]5.1.4 Canavar
+Rün Özellikleri: Canavarlara Karşı Güç +20%
+Rün Özellikleri(Svy2.): Canavarlara Karşı Güç +25%
+Açıklama: Canavarlara Karşı Güç bonusu oyuncu olamayan her şeye etki eder.
+(Patronlar ve Metin Taşları dahil.).
+
+[COLOR=ef4f00]5.1.5 Şeytan
+Rün Özellikleri: Şeytanlara Karşı Güç +25%
+Rün Özellikleri(Svy2.): Şeytanlara Karşı Güç +30%
+Açıklama: Thranduil, Bagjanamu ve birçok patron 'Şeytan' ırkındandır. 
+Canavarların ırklarını kontrol etmek için canavar barında bulunan [ i ] butonuna tıklayın.
+
+[COLOR=ef4f00]5.1.6 Ork
+Rün Özellikleri: Orklara Karşı Güç +25%
+Rün Özellikleri(Svy2.): Orklara Karşı Güç +30%
+Açıklama: Jotun Thrym ve birçok patron 'Ork' ırkındandır.  
+Canavarların ırklarını kontrol etmek için canavar barında bulunan [ i ] butonuna tıklayın.
+
+[COLOR=ef4f00]5.1.7 Patron
+Rün Özellikleri: Patronlara Karşı Güçlü +20%
+Rün Özellikleri(Svy2.): Patronlara Karşı Güçlü +25%
+Açıklama: Kafasında mavi kuru kafa animasyonu bulunan her canavar, 
+Patron sınıfındadır.
+
+[COLOR=ef4f00]5.1.8 Hayvan
+Rün Özellikleri: Hayvanlara Karşı Güç +25%
+Rün Özellikleri(Svy2.): Hayvanlara Karşı Güç +30%
+Açıklama: Canavarların ırklarını kontrol etmek için canavar barında bulunan [ i ] butonuna tıklayın.
+
+[COLOR=ef4f00]5.1.9 Mistik
+Rün Özellikleri: Mistiklere Karşı Güç +25%
+Rün Özellikleri(Svy2.): Mistiklere Karşı Güç +30%
+Açıklama: Canavarların ırklarını kontrol etmek için canavar barında bulunan [ i ] butonuna tıklayın.
+
+[COLOR=ef4f00]5.1.10 Metin
+Rün Özellikleri: Metin Taşlarına Karşı Güç +20%
+Rün Özellikleri(Svy2.): Metin Taşlarına Karşı Güç +25%
+Açıklama: Oyundaki bütün metin taşları için etkisini gösterir.
+
+[COLOR=ef4f00]5.1.11 Ölümsüz
+Rün Özellikleri: Ölümsüzlere Karşı Güçlü +25%
+Rün Özellikleri(Svy2.): Ölümsüzlere Karşı Güçlü +30%
+Açıklama: Kristal Ejderha Kralı ve birçok patron 'Ölümsüz' ırkındandır. 
+Canavarların ırklarını kontrol etmek için canavar barında bulunan [ i ] butonuna tıklayın.
+
+[COLOR=ef4f00]5.1.12 Zodyak
+Rün Özellikleri: Zodyak Canavarlarına Karşı Güç +5%
+Rün Özellikleri(Svy2.): Zodyak Canavarlarına Karşı Güç +10%
+Açıklama: Zodyak Tapınağı'nda bulunan hemen hemen her şeye karşı etkilidir. 
+Canavarların ırklarını kontrol etmek için canavar barında bulunan [ i ] butonuna tıklayın.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_small.tga; Y=2230; CENTER_ALIGN]
+
+[COLOR=ef4f00;FONT_SIZE=15]5.2 İsabet
+Normal saldırılarını güçlendir!
+
+[COLOR=ef4f00]5.2.1 Üçüncül Saldırı (Anahtar Rün)
+Rün Özellikleri: Bir oyuncuya yapılan her 3. normal saldırı seçili rakibe ek olarak gerçek hasar verir. 
+Bu hasar 3. normal saldırı  hasarından farklıdır.
+Açıklama: Savaşçı sınıflar ve hızlı saldırganlar önemli ölçüde kazanç sağlayabilir.
+
+[COLOR=ef4f00]5.2.2 Kana Hücum (Anahtar Rün)
+Rün Özellikleri: 10 saniye içerisinde yapılan 8 normal saldırı, seçili rakibe karşı yapılan 
+9. saldırıyı belli oranda güçlendirir.
+Açıklama: Savaşçı sınıflar ve hızlı saldırganlar önemli ölçüde kazanç sağlayabilir; 
+ayrıca canavarlar için de işe yarar.
+
+[COLOR=ef4f00]5.2.3 Soğuk Ayaklar (Anahtar Rün)
+Rün Özellikleri: Herhangi bir rakibe yapılan normal saldırı, verilen hasarın 20%'si kadar iyileştirir 
+ve 1.5 saniyeliğine 100 hareket hızı kazandırır. Bu rün bekleme süresine sahiptir.
+Açıklama: İyileştirme Şaman ve Okçu Ninja gibi hızla yeniden konumlanması gereken sınıfların işine yarar.
+
+[COLOR=ef4f00]5.2.4 Ortalama Zarar
+Rün Özellikleri: Ortalama Zarar +10%
+Rün Özellikleri(Svy2.): Ortalama Zarar +12%
+Açıklama: Hem PvM hem de PvP için değerli bir rün.
+
+[COLOR=ef4f00]5.2.5 Mana Hasarı
+Rün Özellikleri: Maks. HP +1000
+Rün Özellikleri(Svy2.): Maks. Hp +1500
+Açıklama: HP hiçbir zaman değersiz değildir.
+
+[COLOR=ef4f00]5.2.6 Menzil
+Rün Özellikleri: Yay Menzili +50m
+Rün Özellikleri(Svy2.): Yay Menzili +100m
+Açıklama: Okçu Ninjalar savaşta her zaman menzile bağımlıdır.
+Düşmanının menzilini aşmak için bu rünü kullan.
+
+[COLOR=ef4f00]5.2.7 Zehirleme
+Rün Özellikleri: Zehirleme Şansı +10%
+Rün Özellikleri(Svy2.): Zehirleme Şansı +15%
+Açıklama: +/- 15 seviyedeki bir hedefi zehirleyebilirsin.
+
+[COLOR=ef4f00]5.2.8 Yavaşla
+Rün Özellikleri: Yavaşlatma Şansı +10%
+Rün Özellikleri(Svy2.): Yavaşlatma Şansı +15%
+Açıklama: Yavaşlatma etkisi, kimsenin bilmediği birçok yan etkiye sahiptir...
+
+[COLOR=ef4f00]5.2.9 Sersemletme
+Rün Özellikleri: Sersemletme Şansı +10%
+Rün Özellikleri(Svy2.): Sersemletme Şansı +15%
+Açıklama: Sersemletme rünü, Sersemlik Karşısında Bağışıklık bonusuna sahip olan hedeflerde işe yaramaz.
+
+[COLOR=ef4f00]5.2.10 Saldırı Değeri
+Rün Özellikleri: Saldırı Değeri +50
+Rün Özellikleri(Svy2.): Saldırı Değeri +75
+Açıklama: Saldırı üzerine kurulu bütün sınıflar için vazgeçilmez bir bonus.
+
+[COLOR=ef4f00]5.2.11 Büyülü Saldırı Değeri
+Rün Özellikleri: Büyülü Saldırı Değeri +50
+Rün Özellikleri(Svy2.): Büyülü Saldırı Değeri +75
+Açıklama: Şamanlar, Kara Büyü Suralar vb birçok karakter
+bu ründen yararlanabilir.
+
+[COLOR=ef4f00]5.2.12 Kritik Hasar
+Rün Özellikleri: Kritik Hasar +20%
+Rün Özellikleri(Svy2.): Kritik Hasar +25%
+Açıklama: Bu rün, yalnızca kritik vuruşun hasarını arttırır.
+Kritik Vuruş Şansı bonusu ile aynı değildir.
+
+[IMG=d:/ymir work/ui/wiki/divider_small.tga; Y=3050; CENTER_ALIGN]
+
+
+[COLOR=ef4f00;FONT_SIZE=15]5.3 Büyücülük
+Strengthen your Skills.
+
+[COLOR=ef4f00]5.3.1 Saldırı=Savunma (Anahtar Rün)
+Rün Özellikleri: Bir oyuncuya normal saldırı ya da büyü saldırısı yapmak, pasif bir kalkan kazandırır.
+Bu kalkan kendi kapasitesine ulaşınca , aktif hale gelir ve sana bir kalkan kazandırır. 
+Kalkan yok olduğunda yeniden yüklenebilir. Normal saldırılar 100 pasif kalkan, 
+beceriler ise 200 pasif kalkan üretir.
+Açıklama: Pasif kalkanın, tükendiğinde bile göstergesi yoktur, ancak yine de etkindir. PvP'de kullan.
+
+[COLOR=ef4f00]5.3.2 Zaman Atlaması (Anahtar Rün)
+Rün Özellikleri: 10 saniye içerisinde kullanılan 4 beceri saldırısı, son kullanılan becerinin bekleme süresini sıfırlar.
+Bu rün , Ateş Hayaleti becerisinin bekleme süresini sıfırlamaz. Ateş Hayaleti becerisinden önce kullanılan 
+becerinin bekleme süresini sıfırlar. Bu rün bekleme süresine sahiptir.
+Açıklama: Beceri temelli sınıflar, savaşçı ve isabet temelli sınıflara göre belli bir avantaja sahip olabilirler.
+
+[COLOR=ef4f00]5.3.3 Öfke (Anahtar Rün)
+Rün Özellikleri: 3 saniye içerisinde oyunculara yapılan 3 normal saldırı ya da beceri saldırısı 1.5 saniyeliğine  
+hareket hızını arttırır. Bu rün bekleme süresine sahiptir.
+Açıklama: Hem hızlı saldırganlar hem de büyücüler için uygun bir rün.
+
+[COLOR=ef4f00]5.3.4 Delici
+Rün Özellikleri: Delici Vuruş Şansı +20%
+Rün Özellikleri(Svy2.): Delici Vuruş Şansı +25%
+Açıklama: Delici vuruş şansı beceriler üzerinde de etkilidir...
+
+[COLOR=ef4f00]5.3.5 Beceri Hasarı
+Rün Özellikleri: Beceri Hasarı 8%
+Rün Özellikleri(Svy2.): Beceri Hasarı 10%
+Açıklama: Tüm sınıflardaki beceriler için ciddi bir hasar kaynağı.
+
+[COLOR=ef4f00]5.3.6 Binek Felci
+Rün Özellikleri: Düşmana yapılan bir saldırı onu felce uğratır ve 5 saniyeliğine 
+binek kullanamaz hale getirir.
+Rün Özellikleri(Svy2.): Düşmana yapılan bir saldırı onu felce uğratır ve 5 saniyeliğine 
+binek kullanamaz hale getirir.
+Açıklama: Sen büyücü müsün?
+
+[COLOR=ef4f00]5.3.7 Kritik
+Rün Özellikleri: Kritik Vuruş Şansı +20%
+Rün Özellikleri(Svy2.): Kritik Vuruş Şansı +25%
+Açıklama: Kritik vuruş şansını arttırır. Kritik Hasar rünüyle karıştırılmamalıdır.
+
+[COLOR=ef4f00]5.3.8 Yüzey Hasarı
+Rün Özellikleri: Alan Saldırısı Güçlendirme +5%
+Rün Özellikleri(Svy2.): Alan Saldırısı Güçlendirme +10%
+Açıklama: Alan etkili becerileri güçlendirir.
+
+[COLOR=ef4f00]5.3.9 Tekil Hasar
+Rün Özellikleri: Tek Hedef Saldırısı Güçlendirme +8%
+Rün Özellikleri(Svy2.): Tek Hedef Saldırısı Güçlendirme +10%
+Açıklama: Tek hedefe odaklı saldırıları güçlendirir.
+
+[COLOR=ef4f00]5.3.10 Hız
+Rün Özellikleri: Hareket Hızı +20%
+Rün Özellikleri(Svy2.): Hareket Hızı +25%
+Açıklama: Koş Forest, koş...
+
+[COLOR=ef4f00]5.3.11 Büyü Hızı
+Rün Özellikleri: Büyü Hızı +10%
+Rün Özellikleri(Svy2.): Büyü Hızı +15%
+Açıklama: Büyücüler bu rün ile iyi zaman geçirecekler.
+
+[COLOR=ef4f00]5.3.12 Saldırı Hızı
+Rün Özellikleri: Saldırı Hızı +15%
+Rün Özellikleri(Svy2.): Saldırı Hızı +20%
+Açıklama: Saldırıya bağımlı sınıflarda kullanılabilir. Maksimum Saldırı Hızı ise 200dür.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_small.tga; Y=3900; CENTER_ALIGN]
+
+[COLOR=ef4f00;FONT_SIZE=15]5.4 Azim
+Savunmanı güçlendir!
+
+[COLOR=ef4f00]5.4.1 Beceri Ustası (Anahtar Rün)
+Rün Özellikleri: Oyuncualra karşı yapılan her 4 beceri saldırısı ya da normal saldırı, sahip olunan maksimum ana canın  
+4%'ü kadar ek büyülü hasar verir. Bu rün bekleme süresine sahiptir.
+Açıklama: Tank karakterler etkili olabilir. Bir dakika, zaten herkes tank değil mi?
+
+[COLOR=ef4f00]5.4.2 Nakil (Anahtar Rün)
+Rün Özellikleri: Belli sayıda oyuncu öldürmek, grup üyelerinin canının 100% iyileşmesini sağlar. 
+Yalnızca grup üyelerini iyileştirir, karakterin kendisini değil.
+Açıklama: Bu zamana kadarki en destekleyici rün.
+
+[COLOR=ef4f00]5.4.3 Mantra Kalkanı (Anahtar Rün)
+Rün Özellikleri: Bir beceri kullanımı grup üyelerine 500 aktif büyü kalkanı kazandırır. Maksimum 3000 büyü kalkanı  
+olabilir. Kullanan karakterin kendisine etkisi yoktur. Bu rün bekleme süresine sahiptir.
+Örneğin: Grupta 2 kişi varsa, sizin dışınızdaki diğer kişi kalkana sahip olur. Bu rün bekleme süresine sahiptir.
+Açıklama: PvP ve Tank karakterler için inanılmaz yararlı.
+
+[COLOR=ef4f00]5.4.4 Savunma
+Rün Özellikleri: Savunma +100
+Rün Özellikleri(Svy2.): Savunma +200
+Açıklama: Savunma, düşmandan gelen hasar düşürür ve aynı zamanda düşmanın delici saldırısından 
+alınan hasarı arttırır.
+
+[COLOR=ef4f00]5.4.5 Büyülü Savunma
+Rün Özellikleri: Büyü Savunması +50
+Rün Özellikleri(Svy2.): Büyü Savunması +75
+Açıklama: Beceri odaklı karakterlere(Şaman vb.) karşı kullanılabilir.
+
+[COLOR=ef4f00]5.4.6 Savunma %
+Rün Özellikleri: Savunma +5%
+Rün Özellikleri(Svy2.): Savunma +10%
+Açıklama: Sayılar büyüdükçe ölçeklenir ...
+
+[COLOR=ef4f00]5.4.7 Beceri Dayanıklılığı
+Rün Özellikleri: Beceri Hasarına Direniş +10%
+Rün Özellikleri(Svy2.): Beceri Hasarına Direniş +15%
+Açıklama: Beceri odaklı karakterlere(Şaman vb.) karşı kullanılabilir.
+
+[COLOR=ef4f00]5.4.8 Saldırı Direnişi
+Rün Özellikleri: Ortalama Zarara Direniş +10%
+Rün Özellikleri(Svy2.): Ortalama Zarara Direniş +12%
+Açıklama: Savaşçı sınıflara karşı temel savunma.
+
+[COLOR=ef4f00]5.4.9 Her Şeye Direniş
+Rün Özellikleri: Savunma Bonusu +5%
+Rün Özellikleri(Svy2.): Savunma Bonusu +8%
+Açıklama: Bütün becerilerden alınan bütün hasarı düşürür.
+
+[COLOR=ef4f00]5.4.10 Bloklama
+Rün Özellikleri: Yakın Dövüş Saldırılarını Bloklama Şansı +5%
+Rün Özellikleri(Svy2.): Yakın Dövüş Saldırılarını Bloklama Şansı +10%
+Açıklama: Bir yakın dövüş saldırısını bloklamak demek hiç hasar almamak demektir.
+
+[COLOR=ef4f00]5.4.11 Kaçış
+Rün Özellikleri: Oklardan Korunma Şansı +10%
+Rün Özellikleri(Svy2.): Oklardan Korunma Şansı +15%
+Açıklama: Sadece Tekli Ok Saldırılarında çalışır, yeteneklerle değil.
+
+[COLOR=ef4f00]5.4.12 Yansıtma
+Rün Özellikleri: Yakın Dövüş Saldırılarını Yansıtma Şansı +10%
+Rün Özellikleri(Svy2.): Yakın Dövüş Saldırılarını Yansıtma Şansı +15%
+Açıklama: Bir yakın dövüş saldırısını yansıtmak karşı tarafın verdiği hasarı ona yansıtmak demektir.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_small.tga; Y=4700; CENTER_ALIGN]
+
+[COLOR=ef4f00;FONT_SIZE=15]5.5 İlham
+Arkadaşlarını güçlendir!
+
+[COLOR=ef4f00]5.5.1 Beceri Uzmanı (Anahtar Rün)
+Rün Özellikleri: 10 saniye boyunca savaşın içerisinde olmak büyü hızını 10 saniyeliğine arttırır. 
+4 saniye boyunca saldırı almamak ya da saldırı yapmamak sayacı sıfırlar. Bu rün 60 saniye
+bekleme süresine sahiptir.
+Açıklama: Büyücüler fayda sağlayacak.
+
+[COLOR=ef4f00]5.5.2 Yavaşla (Anahtar Rün)
+Rün Özellikleri: Bu rüne sahip olmayan bir oyuncuya yapılan ilk saldırı oyuncunun hareket ve saldırı hızını 
+2 saniyeliğine 10% azaltır.
+Bu yavaşlama, etki etkinleştikten sonra geçerli değeri ve gelen değerleri azaltır. Bu etkiden ortadan 
+kalktıktan sonra, hareket ve büyü hızı normale döner. Bu rün bekleme süresine sahiptir.
+Açıklama: Düşmanın eksiklğinden yararlanmak mı?
+
+[COLOR=ef4f00]5.5.3 Hırsız
+Rün Özellikleri: Canavarlardan, Metinlerden ya da Patronlardan elde edilen eşya şansını 5% şansla ikiye katlar.
+Açıklama: Eşya avcıları için vazgeçilmez bir rün. Bir patron ya da metin keserken son anda aktifleştir!
+
+[COLOR=ef4f00]5.5.4 Binek Bonusu
+Rün Özellikleri: Binek Güçlendirme +20%
+Rün Özellikleri(Svy2.): Binek Güçlendirme +25%
+Açıklama: Beklenmedik bir ründen gelen güzel bir etki...
+
+[COLOR=ef4f00]5.5.5 İksir Etkisi Güçlendirme
+Rün Özellikleri: İksir Etkisi Yükseltme +25%
+Rün Özellikleri(Svy2.): İksir Etkisi Yükseltme +30%
+Açıklama: Bu rünü şebnem kullanmadan önce aktifleştirmek verecekleri etkiyi arttırır.
+
+[COLOR=ef4f00]5.5.6 İyileştirme Etkisi Güçlendirme
+Rün Özellikleri: İyileştirme +10%
+Rün Özellikleri(Svy2.): İyileştirme +15%
+Açıklama: İksirlerden gelen iyileştirme etkisini arttırır.
+
+[COLOR=ef4f00]5.5.7 Bonus Güçlendirme
+Rün Özellikleri: Aura: Ekipman Güçlendirme +3%
+Rün Özellikleri(Svy2.): Aura: Ekipman Güçlendirme +5%
+Açıklama: Beklenmedik bir ründen gelen güzel bir etki...
+
+[COLOR=ef4f00]5.5.8 İyileştirme Etkisi Güçlendirme
+Rün Özellikleri: Aura: İyileştirme +5%
+Rün Özellikleri: Aura: İyileştirme +10%
+Açıklama: Bu rün sayesinden bütün iyileştirme etkileri artar.
+
+[COLOR=ef4f00]5.5.9 Liderlik
+Rün Özellikleri: Liderlik Bonusu Etkisi Arttırımı +15%
+Rün Özellikleri(Svy2.): Liderlik Bonusu Etkisi Arttırımı +20%
+Açıklama: Daha iyi liderlik becerileri için kullanılabilir.
+
+[COLOR=ef4f00]5.5.10 Tecrübe
+Rün Özellikleri: Tecrübe Bonusu 20%
+Rün Özellikleri(Svy2.): Tecrübe Bonusu 50%
+Açıklama: Tecrübe alımını arttırır.
+
+[COLOR=ef4f00]5.5.11 Eşya Düşürme
+Rün Özellikleri: Eşya Düşürme Şansı +20%
+Rün Özellikleri(Svy2.): Eşya Düşürme Şansı +50%
+Açıklama: Eşya avcıları için vazgeçilmez bir rün. Bir patron ya da metin keserken son anda aktifleştir!
+
+[COLOR=ef4f00]5.5.12 Yang
+Rün Özellikleri: Yang Düşürme Şansı +20%
+Rün Özellikleri(Svy2.): Yang Düşürme Şansı +50%
+Açıklama: Yang toplayıcıları, sahne sizin...
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=5500; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]6. Terimler
+
+Yukarıda açıklamalarda kullanılan terimlerin anlamları aşağıda sıralanmıştır:
+
+[COLOR=ef4f00;FONT_SIZE=15]6.1 Normal Saldırı
+Silahlarla ya da yumrukla yapılan her atak normal saldırı sayılır. Normal saldırı, atak animasyonu 
+başladığı an başlar ve animasyon bittiğinde sonra erer. Hançerler dışındaki bütün silahlar  
+(yumruklar dahil) 'Boşluk' tuşuna bir kez basıldığında 1 normal saldırı yaparlar.
+('Boşluk' tuşuna basılı tutmak elbette bu tanımda yer almıyor. Kombo vb. etkiler etkiler yüzünden).
+Hançer vuruşları 2 normal saldırı olarak sayılır.
+Normal saldırılar bir hedefe isabet etmez ya da isabet ettiği hedef tarafından bloklanır ya da 
+engellenirse, normal saldırı olarak sayılmaz. 
+Bir saldırı yaparak birden çok düşmana hasar verseniz bile, bir normal saldırı(hançerde 2) 
+(bloklama/engelleme etkisi yokken) yapmış olursunuz.
+
+[COLOR=ef4f00;FONT_SIZE=15]6.2 Beceri Saldırısı/Kullanımı
+Normal saldırı olamayan her beceri kullanımı için bu terimi kullanacağız. Kaç rakibe isabet ederse etsin 
+her bir beceri kullanımı 1 olarak sayılır. (kendi karakterin dışında). 
+Kullanılan beceri hiçbir şekilde herhangi bir oyuncuya isabet etmez ise
+0 olarak sayılır.
+Ateş Hayaleti becerisinden çıkan her ateş hasar verdiğinde bir beceri gerçekleştirilmiş sayılır.
+Bazı becerilerin hasar dalgası diğerlerinden farklı olduğu için farklı hesaplanır. Örneğin: Üç Yönlü 
+Kesme 3 beceri saldırısı olarak sayılır.
+
+[COLOR=ef4f00;FONT_SIZE=15]6.3 Savaş Dışında
+BElli bir süre boyunca herhangi bir şekilde hasar vermeyen/alamayan karakter savaş dışında sayılır. 
+Hasarlar, karşı koyma etkilerinden sonra sayılır.
+
+[COLOR=ef4f00;FONT_SIZE=15]6.4 Savaş İçinde
+Herhangi bir şekilde hasar veren/alan karakter savaş içinde sayılır.
+
+[COLOR=ef4f00;FONT_SIZE=15]6.5 Kalkan yada Büyü Kalkanı
+Yeni gelen Rün sistemi ile oyuna yeni bir element olan Kalkanları ekliyoruz. 
+Kalkanları ikiye ayırıyoruz: Büyü Kalkanı ve Normal Kalkan.
+
+[COLOR=ef4f00]6.5.1 Büyü kalkanı sadece büyü hasarlarını engellerken, normal kalkan her türlü hasarı engeller.
+Ayrıca kalkanlar iki farklı duruma sahiptir: Aktif ve Pasif
+
+[COLOR=ef4f00]6.5.2 Kalkan Fonksiyonu
+Kalkanların çalışma prensibi oldukça basittir. Karakterin aldığı hasarları engeller. Engelleme işlevi
+sadece aktif kalkanlar tarafından yapılır. Örneğin; 1000 aktif kalkanınız varsa ve 800 hasar  
+alırsanız, canınız azalmaz sadece aktif kalkanınız 200e iner. Kalkanlara gelen hasar 
+savunmalar/dayanıklılıktan sonra hesaplanır. Örneğin, gelen hasar önce karanlık koruma 
+tarafından engellenir. Ayrıca aynı zamanda hem normal kalkan hem de büyü kalkanına 
+sahipseniz ve büyü hasarı alıyorsanız önce büyü kalkanı kullanılır.
+
+[COLOR=ef4f00;FONT_SIZE=15]6.6 Gerçek Hasar
+Yeni bir hasar türü olan gerçek hasar, bütün savunmaları ve dirençleri yok sayar.
+Bu hasarlar sadece aktif kalkanlar tarafından engellenebilir. Ayrıca, Gemi Savunması haritasında 
+bulunan Hydra Güçsüzleştirmesi de bu etkiden sayılır.
+
+[COLOR=ef4f00;FONT_SIZE=15]6.7 Maksimum Ana Can
+Hiçbir bonus ekli olmadan sahip olunan maksimum HP değeri.
+
+[COLOR=ef4f00;FONT_SIZE=15]6.8 Oyundan çıkma, ışınlanma ya da rün değiştirme işlemleri rünlerle ilgili gelen etkileri sıfırlar, kalkanlar dahil. 
+Yalnızca 'Ruh Soygunu' rünü için toplanan patron ruhları kayıtlı kalır.
+
+
+

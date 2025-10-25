@@ -1,0 +1,111 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/costumes.tga]
+[CENTER_ALIGN]Kostümler, yararlı bonuslarla kullanılabilen değerli ekipman parçalarıdır.
+[CENTER_ALIGN]Kostüm penceresine, oyuncu envanterinin yanında bulunan kostüm sistemi butonu
+[CENTER_ALIGN]ile ulaşılabilir.
+
+[COLOR=0xffd700;FONT_SIZE=15]İçerik Listesi:
+*1. Genel Bilgiler
+*2. Zırh Kostümü Bonusları
+*3. Silah Kostümü Bonusları
+*4. Saç Stili Bonusları
+*5. Binek Kostümleri
+*6. Kostüm Bonusu Transferi
+*7. Kostüm Bonusu Kaldırma
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=160; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Genel Bilgiler
+
+Bir kostüm maksimum 5 bonusa sahip olabilir. 3. bonusa kadar aşağıdaki eşyalar kullanılır: 
+Silah Kostümü Güçlendirme(bonus ismi), Zırh Kostümü Güçlendirme(bonus ismi) & Saç Stili Güçlendirme (bonus ismi).
+
+4. ve 5. bonuslar ise aşağıdaki eşyalar ile eklenir:
+Silah Kostümü Güçlendirme+ (bonus ismi), Zırh Kostümü Güçlendirme+ (bonus ismi), Saç Stili Güçlendirme+ (bonus ismi).
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=280; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Zırh Kostümü Bonusları
+
+*Maks. HP: 2000, 2500, 3000
+*Kılıç Savunması: 10%
+*Çift El Savunması: 10%
+*Bıçak Savunması: 10%
+*Ok Dayanıklılığı: 10%
+*Çan Savunması: 10%
+*Yelpaze Savunması: 10%
+*Büyüye Karşı Dayanıklılık: 10%
+*Yakın Dövüş Saldırılarını Bloklama Şansı: 10%
+*Oklardan Korunma Şansı: 10 %
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=460; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Silah Kostümü Bonusları
+
+*Canlılık: +12
+*Zeka: +12
+*Güç: +12
+*Çeviklik: +12
+*Yarı İnsanlara Karşı Güç: 10%
+*Kritik Vuruş Şansı: 10%
+*Delici Vuruş Şansı: 10%
+*Hayvanlara Karşı Güç: 20 %
+*Orklara Karşı Güç: 20 %
+*Mistiklere Karşı Güç: 20 %
+*Şeytanlara Karşı Güç: 20 %
+*Ölümsüzlere Karşı Güç: 20 %
+*Patronlara Karşı Güç: 10,15,20 %
+*Canavarlara Karşı Güç: 10,15,20 %
+*Metin Taşlarına Karşı Güç: 10,15,20 %
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=710; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]4. Saç Stili Bonusları
+
+*Maks. HP: 1500
+*Yarı İnsanlara Karşı Güç: 5%
+*Hayvanlara Karşı Güç: 10 %
+*Orklara Karşı Güç: 10 %
+*Mistiklere Karşı Güç: 10 %
+*Şeytanlara Karşı Güç: 10 %
+*Ölümsüzlere Karşı Güç: 10 %
+*Kılıç Savunmasının Kırılması: 5%
+*Çift El Savunmasının Kırılması: 5%
+*Bıçak Savunmasının Kırılması: 5%
+*Ok Dayanıklılığının Kırılması: 5%
+*Çan Savunmasının Kırılması: 5%
+*Yelpaze Savunmasının Kırılması: 5%
+*Zehir Dayanıklılığı: 10%
+*Patronlara Karşı Güç: 10,15,20 %
+*Canavarlara Karşı Güç: 10,15,20 %
+*Metin Taşlarına Karşı Güç: 10,15,20 %
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=980; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]5. Binek Kostümleri
+
+Binek Kostümleri herhangi bir bonusa sahip değildir, sadece yeni bir görünüm kazandırır. 
+Sadece bazı kostümler haraket hızı sağlamaktadır.
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=1080; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]6. Kostüm Bonusu Transferi
+
+Bir kostümündeki bonuslar bir başka kostüme Theowahdan'dan transfer edilebilir.
+Sol tarafa yerleştirilen kostümün bonusları, sağ taraftaki kostüme aktarılır.
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=1165; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]7. Kostüm Bonusu Kaldırma
+
+Kostüm Efsunu Kaldırıcı eşyası ile kostümdeki bonuslar kaldırılabilir.. Bu eşya sana kostümdeki bir bonusu
+kaldırma opsiyonu verir. Bonus eşyasını tekrar almazsın.
+
+
+

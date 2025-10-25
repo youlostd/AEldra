@@ -1,0 +1,12 @@
+[DELAY value;0]
+[COLOR r;255|g;195|b;0]Especialidades:[/COLOR r;255|g;195|b;0][ENTER]
+Montadas não podem ser usadas[ENTER]
+Jotun Thrym evoca curandeiros que o curam.[ENTER]
+[ENTER]
+[COLOR r;0|g;195|b;255]1ª Fase[/COLOR r;0|g;195|b;255][ENTER]
+Entra na sala do boss Jotun Thyrm e derrota o Bagjanamu.[ENTER]
+[ENTER]
+[COLOR r;0|g;195|b;255]Phase 2[/COLOR r;0|g;195|b;255][ENTER]
+Após o Bagjanamu ser derrotado, o  Jotun Thrym é invocado. Mata o Jotun Thrym.
+[ENTER]
+

@@ -1,0 +1,17 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/moonlightchest.tga]
+[CENTER_ALIGN;FONT_SIZE=18]Cufar clar de luna
+
+[COLOR=0xffd700;FONT_SIZE=15]Continut:
+*1. Informatii generale
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=75; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Informatii generale:
+
+Cat timp evenimentul este activ, ai oportunitatea de a dropa cufarul clar de luna ca un drop alternativ.
+Monstrii vor dropa acest item la intamplare, in limita a +/- 15 nivele.
+
+Ai grija:
+Aceste evenimente "alternative" pot fi pornite spontan, fara un anunt.
+Fiti atenti pe forum.

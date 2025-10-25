@@ -1,0 +1,64 @@
+Module Name: E:\Aeldra\Client\Client\bin_aeldra_dev.exe
+Time Stamp: 0x654e037c - (null)
+
+Exception Type: 0xc0000005
+
+eax: 0x00000000	ebx: 0x00000000
+ecx: 0x0c03d6a0	edx: 0x00000000
+esi: 0x0cdfd1c0	edi: 0x006c56f0
+ebp: 0x0019eec8	esp: 0x0019eec8
+
+0x006c3274	E:\Aeldra\Client\Client\bin_aeldra_dev.exe
+0x006c572f	E:\Aeldra\Client\Client\bin_aeldra_dev.exe
+0x1e0a89a7	E:\Aeldra\Client\Client\python27.dll
+0x1e0eb707	E:\Aeldra\Client\Client\python27.dll
+0x1e0ed98e	E:\Aeldra\Client\Client\python27.dll
+0x1e0ee8fa	E:\Aeldra\Client\Client\python27.dll
+0x1e09c601	E:\Aeldra\Client\Client\python27.dll
+0x1e07a7dc	E:\Aeldra\Client\Client\python27.dll
+0x1e086420	E:\Aeldra\Client\Client\python27.dll
+0x1e07a7dc	E:\Aeldra\Client\Client\python27.dll
+0x1e0ea04c	E:\Aeldra\Client\Client\python27.dll
+0x1e07a782	E:\Aeldra\Client\Client\python27.dll
+0x00850523	E:\Aeldra\Client\Client\bin_aeldra_dev.exe
+0x0084fe76	E:\Aeldra\Client\Client\bin_aeldra_dev.exe
+0x007d3384	E:\Aeldra\Client\Client\bin_aeldra_dev.exe
+0x0069b190	E:\Aeldra\Client\Client\bin_aeldra_dev.exe
+0x1e0eb707	E:\Aeldra\Client\Client\python27.dll
+0x1e0ed98e	E:\Aeldra\Client\Client\python27.dll
+0x1e0ea211	E:\Aeldra\Client\Client\python27.dll
+0x1e0eb784	E:\Aeldra\Client\Client\python27.dll
+0x1e0ed98e	E:\Aeldra\Client\Client\python27.dll
+0x1e0ee8fa	E:\Aeldra\Client\Client\python27.dll
+0x1e0ee952	E:\Aeldra\Client\Client\python27.dll
+0x1e0eeb36	E:\Aeldra\Client\Client\python27.dll
+0x1e0ecb94	E:\Aeldra\Client\Client\python27.dll
+0x1e0ee8fa	E:\Aeldra\Client\Client\python27.dll
+0x1e0ea273	E:\Aeldra\Client\Client\python27.dll
+0x1e0eb784	E:\Aeldra\Client\Client\python27.dll
+0x1e0ed98e	E:\Aeldra\Client\Client\python27.dll
+0x1e0ea211	E:\Aeldra\Client\Client\python27.dll
+0x1e0eb784	E:\Aeldra\Client\Client\python27.dll
+0x1e0ed98e	E:\Aeldra\Client\Client\python27.dll
+0x1e0ea211	E:\Aeldra\Client\Client\python27.dll
+0x1e0eb784	E:\Aeldra\Client\Client\python27.dll
+0x1e0ed98e	E:\Aeldra\Client\Client\python27.dll
+0x1e0ee8fa	E:\Aeldra\Client\Client\python27.dll
+0x1e0ee952	E:\Aeldra\Client\Client\python27.dll
+0x1e0eeb36	E:\Aeldra\Client\Client\python27.dll
+0x1e0ecb94	E:\Aeldra\Client\Client\python27.dll
+0x1e0ee8fa	E:\Aeldra\Client\Client\python27.dll
+0x1e0ee952	E:\Aeldra\Client\Client\python27.dll
+0x1e1151cb	E:\Aeldra\Client\Client\python27.dll
+0x1e11621c	E:\Aeldra\Client\Client\python27.dll
+0x008510f8	E:\Aeldra\Client\Client\bin_aeldra_dev.exe
+0x0085135f	E:\Aeldra\Client\Client\bin_aeldra_dev.exe
+0x008510a9	E:\Aeldra\Client\Client\bin_aeldra_dev.exe
+0x0073f5c4	E:\Aeldra\Client\Client\bin_aeldra_dev.exe
+0x0073e970	E:\Aeldra\Client\Client\bin_aeldra_dev.exe
+0x0074017a	E:\Aeldra\Client\Client\bin_aeldra_dev.exe
+0x0087c9ec	E:\Aeldra\Client\Client\bin_aeldra_dev.exe
+0x75fffcc9	C:\WINDOWS\System32\KERNEL32.DLL
+0x77d47c6e	C:\WINDOWS\SYSTEM32\ntdll.dll
+0x77d47c3e	C:\WINDOWS\SYSTEM32\ntdll.dll
+

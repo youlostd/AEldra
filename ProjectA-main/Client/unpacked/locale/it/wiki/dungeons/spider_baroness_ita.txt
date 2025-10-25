@@ -1,0 +1,27 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/spiderbaroness.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Requisiti:
+*Livello Richiesto: 50-85
+*Ticket d'ingresso: Chiave degli aracnidi (solo il capogruppo)
+[RIGHT_ALIGN]chiave degli aracnidi 
+[IMG=d:/ymir work/ui/wiki/30324.tga; Y=5; X=493]
+[COLOR=0xffd700;FONT_SIZE=15]Peculiarità:
+*Il covo della Baronessa ha un cooldown di 60 minuti.
+*Si puo avere accesso al dungeon da soli o in gruppo. 
+*Hai un totale di 20 minuti per completare il dungeon.
+*Cambiare il capo gruppo non riduce il cooldown di attesa.
+
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18]Le Fasi:
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=143; CENTER_ALIGN]
+
+[COLOR=ef4f00;FONT_SIZE=15]Fase 1
+
+[X_PADDING=20]Uccidi il ragno Barone e utilizza il flauto degli aracnidi una volta droppato.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Fase 2
+
+[X_PADDING=20]Uccidi la Baronessa.

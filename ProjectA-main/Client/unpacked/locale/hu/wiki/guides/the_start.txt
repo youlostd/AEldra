@@ -1,0 +1,245 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/thestart.tga]
+[CENTER_ALIGN]Hurrá kezdő! 
+[CENTER_ALIGN]Ebben a guide-ban, pár információt találhatsz, a friss kezdésről a szerveren,
+[CENTER_ALIGN]és hogyan legyél erősebb napról napra
+
+[COLOR=0xffd700;FONT_SIZE=15]Tartalom:
+*1. Alapvető szerver jellemzők/rendszerek mielőtt kezdenél
+*2. Battlepass, első küldetések & oktatások.
+*3. Tárgyak melyeket gyűjts & kötelező tárgyak.
+*4. Fejlődési utak: 30Lv, 50Lv, 75Lv+.
+*5. Hogyan növelhetem a sebzésem?
+*6. Az első dungeonjaim.
+*7. Hogyan legyek milliomos...
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=160; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Alapvető szerver jellemzők/rendszerek mielőtt kezdenél
+
+A kezdetekben, időt kell szánnod arra, hogy felfedezd, mik az új rendszerek a szerveren, és ezeket hogyan kell használnod.
+Ne siess a fejlődéssel, ez nem egy verseny! És győzödj meg arról, hogy minden különböző NPC-t megnéznél a városokban, 
+mielőtt elkezded a kalandjaidat Aeldrán... Ajándékképp tőlünk, kapsz egy 7 napos hátast, egy petet és egy Örömgyűrűt.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]1.1. Raktárak, Bolt kereső & Switchbot
+
+Az leltárad megnyitásával (I), láthatsz 4 új gombot a bal felső sarokban. Nézzük hát meg mik ezek:
+Az első megnyitja a Tárolóhelyeidet. Összesen 5 különböző tárolóhely van: Fejlesztők, Könyvek, Kövek, Megbűvölő tárgyak, Kosztümök.
+A tárgyak, melyeket gyűjtesz, autómatikusan ide a megfelelő tároló raktáradba kerül.
+A második gomb megnyitja az ingame wikipédiát.  
+A harmedig gomb megnyitja a bolt keresőt. Ez lesz a kedvenced, mivel ezt sokat fogod használni. 
+Ez megkeres mindent, amit csak szeretnél, hogy a legjobb áron vehesd meg a kívánt tárgyat.
+Kattints a tárgy nevére, amit szeretnél, hogy megjelöld a bolt helyét. Adj egy esélyt neki... Ez ingyenes... 
+Az utolsó gomb megnyitja a Switchbotot. A dolgok eléggé egyszerűek itt. Húzz be egy tárgyat, és választ ki a kívánt bónuszokat, és hagyd hogy 
+a rendszer megcsinálja neked.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]1.2. F6 Gyorsbillentyű - Küldetés időzítő
+
+Mi megalkottunk egy egyedi ablakot, hogy összegyűjtsünk minden információt, ami csak kellhet.
+Az F6 megnyomásával, ezt te is megláthatod. Itt megtalálhatod a Biológus küldetéseidat, és 
+a dungeon bejáratokat, cooldownokat. Elég menő, nem? Ennek használatával megnézheted a hátralévő időt, és el is teleporthálhatsz.
+
+[COLOR=ef4f00;FONT_SIZE=15]1.3 Vote4Buff
+Mostanra biztosan észrevetted, hogy van egy küldetés "Vote4Buff" néven. Miután belépsz a weboldalunkra, 
+szavazhatsz a szerverünkre, minden 24 órában, a felhasználói panelen. Ne aggódj... 24 óra után, ezt megismételheted,  
+szóval örökösen élvezheted az egyiket a következp buffok közül: 
+
+*20% Tapasztalati bónusz
+*20% Szörnyek elleni erő
+*20% Tárgydobási esély
+
+
+[COLOR=ef4f00;FONT_SIZE=15]1.4 Privát bolt
+
+Biztosan észrevetted, hogy van egy Bolt gomb a Leltáradban. 100.000 yanggal, 
+megnyithatod a saját boltodat. Itt, eladhatsz dolgokat, úgy, hogy nem is vagy online.
+Csak rakd be ide a cuccaid, és várd hogy valaki gazdaggá tegyen. 
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=703; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Battlepass, első küldetések & oktatások.
+
+Valószínűleg azt is észrevetted, hogy nincsen az a klasszikus kezdő láda sem. Kinek kell az amúgy is... 
+Van helyette Battlepass
+
+[COLOR=ef4f00;FONT_SIZE=15]2.1 Battlepass
+
+Miután rányomsz erre a tárgyra, kapsz 7 darab normál küldetést, és 3 darab legendás küldetést. Talán ez lesz 
+az egyik legfontosabb dolog számodra, mint kezdő. A küldetések teljesítése eléggé egyszerű, és a jutalom 
+nem elhanyagolható, mint pl: Rúna tárgyak, Pántok, Alkímiák, stb... 
+Szóval minnél hamarabb kezdd el ezeket a küldetéseket. 
+
+[COLOR=ef4f00;FONT_SIZE=15]2.2 Első küldetések
+Oké, szóval megvan minden a Battlepassal. De mivan a többi küldetéssel? 
+Hát, miután elérted a lv5-öt, a küldetéseid megkezdődnek. Uriel és a biológus mindig is a közeledbe marad
+szóval győződj meg róla, hogy tudd, mi kell nekik.
+
+[COLOR=ef4f00;FONT_SIZE=15]2.3 Oktatások
+Miután elérted a lv5-öt, kiválaszthatod hogy milyen class szeretnél lenni. Adj pontokat 
+a képességeidhez, hogy M1 legyen, és ezután a megfelelő könnyvel, amiket az Oktatóktól vehetsz, tovább húzhasd.
+Ne felets el Koncentrált Olvasást és Ördögűző Tekercset venni Hong-Hae-től.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=1025; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Tárgyak melyeket gyűjts & kötelező tárgyak.
+
+[COLOR=ef4f00;FONT_SIZE=15]3.1 Kristályok
+Amire ezt olvasod, valószínűleg jónéhány metint elpusztítottál már, és rájöttél hogy jó pár kristályt is kaptál.
+Jó okkal kaptad ezeket. Turmalin, Emeráld, Zafír, 
+Rubin és Gránát kristályok egy úgymond másodlagos fizetőeszközként működnek, elég sok NPC-nél. Ezért kapsz már a kezdetekbe sokat, 
+hogy megvehesd azokat, ami kellenek. Azonban ajánlott ezeket megtartani, saját használatra,  
+de ezek eladása is jól jöhet, ha nincs pénzed. Győződj meg róla, hogy mennyi az átlag ára ezeknek, ne hagyd magad átveretni...
+
+[COLOR=ef4f00;FONT_SIZE=15]3.2 Enchantment Chest, Herb Chest
+Ezek a jól kinéző ládák, eléggé értékesek lehetnek számodra.
+Enchantment chest-ben találhatsz Optolót, Opt forgatót, és 5. opt hozzáadót. 
+Herb chest-ben pedig mindenféle alapanyagot 
+hogy különböző italokat gyárthass Huahn-So-nál (Jayang, Bokjung, Bakra).
+Mind a kettő nagyon fontos kezdőknek, és profiknak egyaránt. 
+
+[COLOR=ef4f00;FONT_SIZE=15]3.3 Kötelező felszerelés
+Lehet hogy korai ezeket még megemlíteni, de jó ha van egy támpontod, hogy miket kell beszerezned: 
+
+*Level 80 Sisak a kasztodnak megfelelően
+[COLOR=808476;X_PADDING=20]*Beran-Setaou-ból megszerezhető 
+
+*Titanshield
+[COLOR=808476;X_PADDING=20]*Beran-Setaou és Azraelből megszerezhető
+
+*Soul Crystal Necklace
+[COLOR=808476;X_PADDING=20]*Azrael és Orc Maze-ből megszerezhető
+
+*Soul Crystal Braclet
+[COLOR=808476;X_PADDING=20]*Azrael és Orc Maze-ből megszerezhető
+
+*Soul Crystal Earrings
+[COLOR=808476;X_PADDING=20]*Azrael és Orc Maze-ből megszerezhető
+
+*Linen Belt
+[COLOR=808476;X_PADDING=20]*Alkimistánál craftolható
+
+A dolgokat, amiket kezdéskor kaptál, nem tartanak örökkél, szóval jobb ha elkezded
+gyűjteni a pénzt erre a 3 örökös dologra... 
+
+*Brave Boar Seal:
+[COLOR=808476;X_PADDING=20]*30% Metinkövek elleni erő.
+
+*Baby Lion Seal:
+[COLOR=808476;X_PADDING=20]*Max. HP 2.000
+[COLOR=808476;X_PADDING=20]*15% Szörnyek elleni erő
+[COLOR=808476;X_PADDING=20]*10% Metinek elleni erő
+
+*Buffi:
+[COLOR=808476;X_PADDING=20]*Egy sámán "Pet" amely mindenhova követ téged, és buffokat ad. 
+[COLOR=808476;X_PADDING=20]*max. Skill szint a P
+[COLOR=808476;X_PADDING=20]*max. Skill szinten a maximálus buff az 35% 
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=1720; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]4. Fejlődési utak: 30Lv, 50Lv, 75Lv+.
+
+Itt láthatod a különböző könnyű, fejlődési utakat: 
+
+[COLOR=ef4f00]Level 1 - Level 30
+*Shinsoo
+*Yajang
+
+*Chunjo
+*Bokjung
+
+*Jinno
+*Bakra
+
+[COLOR=ef4f00]Level 30 - Level 42
+*Seungryong völgy
+*Pók barlang 1
+*Pók barlang 2
+
+[COLOR=ef4f00]Level 42 - Level 61
+*Sohan hegy
+*Hwang Templom
+*Pók barlang 3
+*Pók barlang 4
+
+[COLOR=ef4f00]Level 61 - Level 81
+*Szellem Erdő
+*Vörös Erdő
+*Pók barlang 3
+
+[COLOR=ef4f00]Level 81 - Level 90
+*Vörös Erdő
+*Lélekbarlang
+*Lélekbarlang 2
+
+Emlékezz rá, hogy gyorsan felfejlődni nem mindig jó, tárgyak szerzése helyett. 
+Például Szellem & Vörös Erdőben való farmolás ajánlott, mintsem a fejlődés a Pók Barlangban, 
+mivel ezek a helyek igazi Arany Bányák ezen a szinten.
+Ez a guide csak a Startról szól, szóval nem mélyedek bele a további szintezési metódusokba... 
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=2230; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]5. Hogyan növelhetem a sebzésem?
+
+Ezen a szinten valószínúleg a sebzésed zavarni fog.
+Gondolom észrevetted már, hogy az idő pénz, és a legjobb megoldásokat akarod. 
+Hát, itt egy kis segítség: 
+
+[COLOR=ef4f00;FONT_SIZE=15]5.1 Kard Aurája / Elvarázsolt penge L
+Ha Kardmágus vagy, vagy Testi Harcos akkor ezt a kettő képességet akarod a maximumra fejleszteni. 
+Ami, meglepő módon, nem P. A képességek ki vannak tolva egészen L-ig (Legendás) és ezeket Legendás Lélekkővel tudod fejleszteni. 
+
+[COLOR=ef4f00;FONT_SIZE=15]5.2 Vote4Buff (20% Szörnyek elleni erő)
+Eddig a pontig, 20% Tapasztalati bónusz egész jó volt. Ha maximalizálni akarod a profitodat a metinekből,
+20% Szörnyek elleni erő a te utad... 
+
+[COLOR=ef4f00;FONT_SIZE=15]5.3 Sárkánykő Alkímia
+Valószínűleg már elegendő Cor Draconisod van, hogy elkezdjed. A célod az hogy csinálj egy 
+Legendás Sárkány Rubintot (Kíválló)+6, 15% Átlagkárra, 120 támadó sebzéssel, és védelemmel... Dolgozz ezen... 
+
+[COLOR=ef4f00;FONT_SIZE=15]5.4 Pánt legalább 13% átlagkárral
+Egy pánt jól jönne neked, ez igaz. Szóval kezdj el keresni egyet, aminek 
+van legalább 13% Átlagkárja, és +3 Ereje, hogy tovább növeld a sebzésed. 
+
+[COLOR=ef4f00;FONT_SIZE=15]5.5 Rúnák (F5)
+A Rúna rendszer egy eléggé összetett rendszer, amit külön részletezve van egy másik guide-ban. De röviden,  
+ez biztosít számodra 20% PvE bónuszt, státusz pontokat, amik valószínűleg érdekelnek. Nézz rá. 
+
+[COLOR=ef4f00;FONT_SIZE=15]5.6 Harmatok
+A harmatok gyártása eléggé fontos eleme a játéknak, szóval mindenképp próbád ki Huahn-So-nál. 
+Később, ezeket leválthatod örökös verziókra. 
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=2650; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]6. Az első dungeonjaim.
+
+Valószínűleg azt gondolod, hogy sehol nem vagy még a dungeonok teljesítésétől, igaz? Hiba! Már Lv30-tól elkezdheted 
+a különböző dungeonok teljesítését. Orc Maze, Pók bárónő & Ördög Katakombája egy pár eléggé könnyű dungeon, amikkel kezdhetsz. 
+Nézd meg a guide-okat, amielőtt bemész... 
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=2750; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]7. Hogyan legyek milliomos
+
+Ezen a ponton valószínűleg már "milliomos" vagy. 
+De mi az ami eléggé gazdaggá tehet téged a szerver korai szakaszában? 
+Hát, biztosan van egy jópár tipp. Szellem Erdő & Vörös erőd, mint ahogy korábban említve lett,  
+egy aranybánya lv85 körül. Miért is? Mert könnyen szerezhetsz  
+Emeráld Kristályokat és Yang Kuponokat a metinekből. Az Emeráld Kristályok csak 
+a lv90-es metinekig esnek, szóval ez a legjobb farm map. 
+Olyan árakon tudod eladni őket, hogy könnyedén tudsz venni pár Lélekkristály felszerelést, és lesz pénzed
+hogy craftolj/vegyél egy jó lv75-ös fegyvert, és már felszerelést a következő pályákra.  Ahogy egy öreg ember egyszer mondta:  
+Maradj a Vörös Erdőben addig, ameddig nincsen meg minden kellő felszerelésed, amik fent említve vannak. 
+Ezután folytathatod a kalandjaidat a Lv90+ pályákra. Ezután megnézheted a 
+'105 és most?' guide-ot, hogy folytasd a kalandjaidat... Jó szórakozást!
+
+
+
+ 

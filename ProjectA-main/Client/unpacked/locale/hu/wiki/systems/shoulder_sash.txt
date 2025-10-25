@@ -1,0 +1,48 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/shoulder.tga]
+[CENTER_ALIGN]A vállpánt egy látható felszerelés, sokak számára ismerõs. 
+[CENTER_ALIGN]a pánt örökös, és lv1-tõl használható.
+[CENTER_ALIGN]Térjünk a részletekre: 
+
+[COLOR=0xffd700;FONT_SIZE=15]Tartalom
+*1. Különbözõ típusok
+*2. Hogyan fejleszd
+*3. Hogyan törj bele felszerelést
+*4. Hogyan szedj ki belõle bónuszt
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=135; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Különbözõ típusok
+
+[CENTER_ALIGN] Több különbözõ pánt van, pl: 
+[CENTER_ALIGN] Mester pánt, Lord Pánt, Királyi pánt, Szuverán pánt, Ünnepi pánt. 
+[CENTER_ALIGN] Ezek között a különbség csak a kinézet
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Hogyan fejleszd
+
+Egy pántnak összesen 4 különbözõ minõsége van: Alap, finom, nemes, egyedi. 
+Ugyan olyan minõségûek kombinálásával kaphatsz jobb minõségût, bár nem mindig sikeres. 
+Ha ez történik, a második pánt megsemmisül. 
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=815; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Hogyan törj bele felszerelést
+
+Beletörhetsz fegyver és páncél bónuszokat a pántodba. 
+A beletört felszerelés MEGSEMMISÜL. 
+
+*Alap pánt 1%-ot vesz át. 
+*Finom pánt 5%-ot vesz át. 
+*Nemes pánt 10%-ot vesz át. 
+*Egyedi 11% - 25%-ot vesz át. 
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=1025; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]4. Hogyan szedj ki belõle bónuszt
+
+Tegyük fel, hogy rossz felszerelést raktál a pántoba... Bárkivel elõfordul... vagy nem.
+Ebben az esetben nem kapod vissza a beletört felszerelést, de a pántból kiszedheted a bónuszokat
+Certificate of Reversal segítségével.
+
+

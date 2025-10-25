@@ -1,0 +1,48 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/azrael.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Requirements:
+*Livello Richiesto: 75
+*Ticket Entrata: Testa ristretta (non per l entrata ma per il 3zo piano)
+[RIGHT_ALIGN]Shrunken Head
+[IMG=d:/ymir work/ui/wiki/30319.tga; Y=5; X=493]
+
+[COLOR=0xffd700;FONT_SIZE=15]Peculiarity:
+*Le catacombe del diavolo sono accessibili sia con e senza gruppo. 
+*Entro un ora, il dungeon deve essere completato.
+*Con un Ticket stanza del boss (Azrael) Andrai direttamenta nella stanza del boss e potrai uccidere Azrael.
+*Le catacombe del diavolo hanno 60 minuti di cooldown.
+
+
+[CENTER_ALIGN;FONT_SIZE=18]The Levels:
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=145; CENTER_ALIGN]
+
+[COLOR=ef4f00;FONT_SIZE=15]Level 1
+
+[X_PADDING=20]uccidi tutti i monstri finche non droppi la chiave di cristallo. 
+[X_PADDING=20]Trascina la chiave nella statua di Kud situata alla fine del piano.
+
+[COLOR=ef4f00;FONT_SIZE=15]Level 2
+
+[X_PADDING=20]Dovrai lottare all interno del labiranto della dispersione affinche raggiugngerai
+[X_PADDING=20]la tartaruga di roccia alla fine del labirinto. Solo un player deve cliccare sulla tartaruga. 
+[X_PADDING=20](tutti i membri del gruppo hanno bisogno di una testa ristretta)
+
+[COLOR=ef4f00;FONT_SIZE=15]Level 3
+
+[X_PADDING=20]In questo piano troverai 7 rocce metin, chiamate metin della retalazione, 
+[X_PADDING=20]che devono essere distrutte.Solo una e quella coretta e ti permettera di accedere al prossimo livello.
+[COLOR=ef4f00;FONT_SIZE=15]Level 4
+
+[X_PADDING=20]trova e uccidi Tartaros, lui è in una delle stanze attorno al tempio. 
+[X_PADDING=20]prendi dopo aver droppato il totem della smorfia e portalo nel punto piu alto del tempio, e trascinala nell'obelisco del Balat.
+
+[COLOR=ef4f00;FONT_SIZE=15]Level 5
+
+[X_PADDING=20]Uccidi tutti i mostri sul piano , dopo, Uccidi Charon. dopo che tutti i mostri saranno sconfitti , 
+[X_PADDING=20]avrai accesso al prossimo piano.
+
+[COLOR=ef4f00;FONT_SIZE=15]Level 6
+
+[X_PADDING=20]Uccidi Azrael
+
+

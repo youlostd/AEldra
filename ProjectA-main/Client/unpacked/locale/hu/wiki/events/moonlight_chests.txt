@@ -1,0 +1,17 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/moonlightchest.tga]
+[CENTER_ALIGN;FONT_SIZE=18]Holdfény Kincsesláda
+
+[COLOR=0xffd700;FONT_SIZE=15]Tartalom:
+*1. Általános információk
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=75; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Általános információk:
+
+ikor az event aktív, van esélyed hogy kapj Holdfény Kincsesládát mint alternatív drop.
+A nálad 15 szintel kisebb, vagy nagyobb szörnyek véletlenszerûen dobják a ládát.
+
+Vigyázat: 
+Ilyen eventek spontán lehetnek, bejelentések nélkül. 
+Figyeld a fórumot...

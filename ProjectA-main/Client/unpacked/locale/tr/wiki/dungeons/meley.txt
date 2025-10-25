@@ -1,0 +1,38 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/meleyshort.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Gereksinimler:
+*Gereken Seviye: 75
+*Giriş Eşyası: Gruba ihtiyacın yok fakat bir loncaya katılmış olman gerekir.
+
+[COLOR=0xffd700;FONT_SIZE=15]Özellikler:
+*Meley'in bekleme süresi 180 dakikadır.
+*Zindana girebilmek için bir loncaya katılmış ve grupta en az 4 kişi olmanız gerekir.
+*Zindan tamamlandığında ödülünü sandıktan seçmelisin. Seçebileceğin 2 sandık bulunmakta.
+*En fazla 16 karakterle zindana giriş yapabiirsin.
+
+
+[CENTER_ALIGN;FONT_SIZE=18]Aşamalar:
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=135; CENTER_ALIGN]
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 1
+
+[X_PADDING=20]Canları 75% kalana kadar Ejderha Heykellerine saldır.  
+[X_PADDING=20]Daha sonra, mühürün üzerinde turuncu bir kalkan belirecek ve bu mühür artık hasar görmeyecek.
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 2
+
+[X_PADDING=20]Canları 50% kalana kadar Ejderha Heykellerine saldır. 
+[X_PADDING=20]Her iki dakikada dört Ejderha Yumurtası doğacaktır. Yumurtalar olduğu sürece heykeller hasar görmez.
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 3
+
+[X_PADDING=20]Dört adet Ejderha Bekçisi Idall ortaya çıkar, hepsini öldürmelisin. 
+[X_PADDING=20]Her iki dakikada dört Ejderha Yumurtası doğacaktır. Yumurtalar olduğu sürece 
+[X_PADDING=20]heykeller hasar görmez. Heykellerin canı %0 olduğunda renkleri yeşile dönecektir.
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 4
+
+[X_PADDING=20]Dört heykelin hepsi 0% cana ulaşınca dört oyuncu ellerindeki Ejderha Ateşi Yüzüğü'nü
+[X_PADDING=20]10 saniye içerisinde kullanmalıdır. Böylelikle Meley, heykeller tarafından yok edilecektir. 
+[X_PADDING=20]Daha sonra ortaya çıkacak olan Altın Ejderha Sandığı'na tıklayıp ödülünü seçebilirsin.
+
+

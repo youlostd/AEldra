@@ -1,0 +1,41 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/gaya.tga]
+[CENTER_ALIGN]Sistemul de Gaya introduce o noua moneda in joc pentru tranzatii de valoare.
+
+[COLOR=0xffd700;FONT_SIZE=15]Lista Continut:
+*1. Informatii generale.
+*2. Cum pot obtine Gaya?
+*3. Ce pot cumpara cu Gaya?
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=90; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Informatii generale.
+
+
+Numarul de Gaya pe care le detii este scris in partea stanga a barii de yang.
+Poti folosii Gaya pentru a cumpara obiecte din Magazinul Gaya. gaya nu se poate muta pe alte caractere si nu pot fi negociate.
+Gaya se pot obtine rafinand Bijuteri la Negustorul Gaya.
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=185; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Cum pot obtine Gaya?
+
+Poti obtine 1 Gaya rafinand 10x Bijuterie, 500.000 yang si o piatra +0 - +3 la Negustor Gaya (Pyungmoo, Yongan, Joan). Rafinarea nu poate esua.
+Poti rafina 10x Gaya daca duci 100x Bijuterie, 5.000.000 yang si 10 pietre +0 - +3 la Negustorul Gaya. Din nou, procesul nu poate esua.
+
+[IMG=d:/ymir work/ui/wiki/divider_small.tga; Y=280; CENTER_ALIGN]
+
+[COLOR=ef4f00;FONT_SIZE=15]2.1 Cum poti obtine bijuteri?
+
+Bijuteriile  se pot optine de la:
+
+Orc Sef, 9-cozi, Testoasa gigant, Regele foc, Regina paianjen, Fantoma tigrului galben, Ingerul cu Coasa, Baroneasa paianjen, Azrael, Beran-Setaou,
+Vrajitoarea de gheata, Razador, Nemere, Regele Dragonilor de Cristal, Cufarul lui Jotun Thrym.
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=400; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Ce pot cumpara cu Gaya?
+
+Cu Gaya poti cumpara 12 obiecte. Cel mai important obiect este Vopsea Auriu Metalizata.
+Se poate cumpara si un inel, un pet si un mount de 14 zile. Negostorului gaya ii place sa schimbe obiectele, asa ca nu uita sa verifici ce are pregatit pentru tine.

@@ -1,0 +1,87 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/okeycard.tga]
+[CENTER_ALIGN;FONT_SIZE=18]Okey Kartları
+
+[COLOR=0xffd700;FONT_SIZE=15]İçerik Listesi:
+*1. Genel Bilgiler
+*2. Oyun Yönergesi
+*3. Raund Ödülleri
+*4. Kombinasyonlar ve Puanlandırma
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=120; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Genel Bilgiler
+
+Etkinlik süresince canavar öldürerek Okey Koleksiyon Kartı toplayabilirsin.
+Okey Koleksiyon Kartlarını (-/+ 15) seviye aralığındaki bütün canavarlardan elde edebilirsin.
+24 tane Okey Koleksiyon Kartı topladığında otomatik olarak bir Okey Kart Seti kazanacaksın.
+Böylelikle oyunu oynamaya hak kazanacaksın.
+Etkinlik boyunca, küçük haritanın yanında görünen Okey Kart simgesine
+tıklayarak oyunu oynamaya başlayabilirsin.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=250; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Oyun Yönergesi
+
+Oyunun amacı, kart setlerini kullanarak belirli set kombinasyonları elde etmektir.
+Aynı numaraya sahip 3 karttan oluşan bir set elde edebilirsin. (örn. 7, 7, 7)
+Setteki sayı ne kadar yüksek olursa, kazanılan puan da o kadar yüksek olur.
+
+Sıralı numara dizinine sahip 3 karttan oluşan bir set elde edebilirsin. (örn. 6, 7, 8 ).
+Setteki sayı ne kadar yüksek olursa, kazanılan puan da o kadar yüksek olur.
+Aynı renkte olan sıralı numara dizinleri, renkli dizinlere göre daha çok puan kazandırır.
+
+Desteye sol tıklayarak desteden 5 kart çekilir.
+Puan kazanmak için 3 kart seçilir.. (NOT: Sol Tık = Kart Seç, Sağ Tık = Kartı Kalıcı Olarak Sil)
+Ödülün derecesi kazanılan puanın yüksekliğine bağlıdır.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=450; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Raund Ödülleri
+
+Kazanılacak sandığın türü elde edilen puana bağlıdır.
+Her raunddan sonra sandığı alabilmek için, "Son" butonuna basılmalıdır.
+
+*Genel Puan < 300: Bronz Okey Sandığı
+*Genel Puan 300-399: Gümüş Okey Sandığı
+*Genel Puan ≥ 400: Altın Okey Sandığı
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=590; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]4. Kombinasyonlar ve Puanlandırma
+
+[COLOR=ef4f00;FONT_SIZE=15]4.1 Aynı Numara Setleri
+
+*1-1-1 : 20 Puan
+*2-2-2 : 30 Puan
+*3-3-3 : 40 Puan
+*4-4-4 : 50 Puan
+*5-5-5 : 60 Puan
+*6-6-6 : 70 Puan
+*7-7-7 : 80 Puan
+*8-8-8 : 90 Puan
+
+[COLOR=ef4f00;FONT_SIZE=15]4.2 Sıralı Numara Dizini Setleri
+
+[COLOR=ef4f00]4.2.1 Sıralı Numara Dizini Setleri - Farklı Renkler:
+
+*1-2-3 : 10 Puan
+*2-3-4 : 20 Puan
+*3-4-5 : 30 Puan
+*4-5-6 : 40 Puan
+*5-6-7 : 50 Puan
+*6-7-8 : 60 Puan
+
+[COLOR=ef4f00]4.2.2 Sıralı Numara Dizini Setleri - Aynı Renkler:
+
+*1-2-3 : 100 Puan
+*2-3-4 : 100 Puan
+*3-4-5 : 100 Puan
+*4-5-6 : 100 Puan
+*5-6-7 : 100 Puan
+*6-7-8 : 100 Puan
+

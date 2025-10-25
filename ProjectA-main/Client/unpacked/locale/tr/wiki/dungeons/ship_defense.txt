@@ -1,0 +1,58 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/shipdefense.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Gereksinimler:
+*Gereken Seviye: 105
+*Entrance Ticket: Bir eşyaya ihtiyacın yok.
+[RIGHT_ALIGN]Mavi Kristal Esansı
+[IMG=d:/ymir work/ui/wiki/31005.tga; Y=5; X=479]
+
+[COLOR=0xffd700;FONT_SIZE=15]Özellikler:
+*Gemi Savunmasının yenilenme süresi 180 dakikadır.
+*Gemi Savunmasına yalnızca grubun varsa girebilirsin.
+*Zindanı Gemi Direği yok olmadan önce tamamlamalısın.
+*Zindanı tamamladığında ödülünü sandıktan seçmelisin.
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18]Aşamalar:
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=140; CENTER_ALIGN]
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 1
+
+[X_PADDING=20]Güvertede bulunan tüm canavarları öldür ve Gemi Direği 'ni koru.
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 2
+
+[X_PADDING=20]Güvertede bulunan tüm canavarları öldür ve Gemi Direği 'ni koru.
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 3
+
+[X_PADDING=20]Güvertede bulunan tüm canavar ve metin taşlarını yok et. Hidra yumurtası yok olduğunda, 
+[X_PADDING=20]ilk Hidra kafasını yok edebilirsin.
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 4
+
+[X_PADDING=20]Güvertede bulunan tüm canavarları öldür ve Gemi Direği 'ni koru.
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 5
+
+[X_PADDING=20]Güvertede bulunan tüm canavarları öldür ve Gemi Direği 'ni koru.
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 6
+
+[X_PADDING=20]Güvertede bulunan tüm canavar ve metin taşlarını yok et. Hidra yumurtası yok olduğunda, 
+[X_PADDING=20]ikinci Hidra kafasını yok edebilirsin.
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 7
+
+[X_PADDING=20]Güvertede bulunan tüm canavarları öldür ve Gemi Direği 'ni koru.
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 8
+
+[X_PADDING=20]Güvertede bulunan tüm canavarları öldür ve Gemi Direği 'ni koru.
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 9
+
+[X_PADDING=20]Güvertede bulunan tüm canavar ve metin taşlarını yok et. Hidra yumurtası yok olduğunda, 
+[X_PADDING=20]son Hidra kafasını yok edebilirsin. Mavi Kristal Esansını Siyah İnci Hazinesi Sandığı 
+[X_PADDING=20]ile takaslayabilirsin.
+

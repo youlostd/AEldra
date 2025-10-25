@@ -1,0 +1,67 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/pvptournament.tga]
+[CENTER_ALIGN;FONT_SIZE=18]PvP Bajnokság
+
+
+[COLOR=0xffd700;FONT_SIZE=15]Tartalom:
+*1. Általános információk
+*2. Event leírása
+*3. Szintek
+*4. Jutalmak
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=120; CENTER_ALIGN]
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Általános információk
+
+A PvP pályára egy küldetés által juthatsz be, vagy a kapitánynál. 
+Minden kör teljesen véletlenszerû. Szóval minden kaszt ellen teljesítened kell, nem csak 
+a sajhátod ellen. Amikor bemész a PvP pályára, beszélj Admiral Angurral, hogy regisztrálj a versenyre.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=210; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Event leírása
+
+Miután elteleportáltál erre a speciális pályára, melyen az event lesz, menj a pálya közepe felé.
+Ott megtalánod Admiral Angmurt, akivel beszélned kell, a regisztrációhoz.
+Hogy mindenkinek fair legyen, a PvP különbözõ szint bracketekben zajlik.
+A szintedtõl függ, hogy hova kerülsz, szóval itt az idõ, hogy megszerezd a kellõ felszerelést.
+4 darab külön aréna van, ahol a PvP egymástól teljesen külön zajlik.
+Amikor az Admirális talál egy szabad arénát neked, és az ellenfelednek, autómatikusan oda lesztek teleportálva.
+
+Miutána beteleportálódtál az arénába, 10 másodperced van hogy felkészülj.
+Ez az idõ alatt, csak buffolni tudod magad, és felkészülni, mozogni és harcolni nem. 
+A körök 'Best of 3'-ban zajlanak, ami azt jelenti, hogy 2 gyõzelem kell a továbbjutáshoz. 
+A PvP bajnokság kieséses, ami azt jelenti, hogy csak 1 gyõztes lehet. (minden szint bracketben)
+A harc alatt, a következõ felszerelések/funkciók kikapcsolva vannak:
+*Piros ital (S), (M) and (L)
+*Nap elixír (S), (M) and (L)
+*Hátasok
+*Kisállatok
+*Buffi
+*Csoport buffok
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=525; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Szintek
+
+Hogy minden játékos játszhasson, a PvP event 5 külön bracketre van bontva: 
+
+*Level 35-60
+*Level 61-75
+*Level 76-95
+*Level 96-105
+*Level 106-115
+
+Mindegyik bracketben 1 végsõ gyõztes lehet csak. 
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=690; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]4. Jutalmak:
+
+A PvP event jutalmai általában le vannak írva az "Events" szekcióban, a fórumon. 
+Ez változhat a játékosok vágyai alapján, eventrõl eventre.
+
+

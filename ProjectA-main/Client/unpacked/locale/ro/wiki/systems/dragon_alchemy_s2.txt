@@ -1,0 +1,143 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/dragonstone.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Lista de Continut:
+*1. Informatii Generale
+*2. Bonusurile Pietrelor Dragon
+*3. Aspectele Pietrelor Dragon
+*4. Timpul Pietrelor Dragon
+*5. Bonusul setului Alchimiei Pietre Dragon
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=90; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Informatii Generale
+
+Alchimia Pietre Dragon este valabila de la nivel 1, o poti echipa si activa. Puteti obtine Pietre Dragon
+din Cor Draconis. Fereastra Alchimiei Pietre Dragon poate sa fie deschisa prin butonul verde din inventar
+sau apasand butonul "O". Primul set de Alchimie Pietre Dragon poate sa fie activat sau dezactivat apasand "CTRL + O"
+si al doilea set cu "CTRL + P". Pietrele Dragon pot sa fie obtinute de la Cor Draconis care se pot obtine din pietre metin
+si sefi.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=230; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Bonusurile Pietrelor Dragon
+
+[CENTER_ALIGN]O Piatra Dragon Legendara are intotdeauna 2 bonusuri de baza si se poate sa aibe un total de 3 bonusuri extra 
+[CENTER_ALIGN]pentru un total de 5 bonusuri.
+
+[COLOR=ef4f00;FONT_SIZE=15]2.1 Bonusuri posibile pentru Pietre Dragon
+Bonusurile listate sunt de la Pietrele Dragon Legendare care sunt la nivelul excelent +6.
+
+[COLOR=00ef4f;FONT_SIZE=14]2.1.1 Diamant Dragon Legendar:
+
+*Inteligenta +10
+*Rezistenta la gheata +10%
+*Daunele abilitatii +10%
+*Daunele vor fi absorbite de PM +10%
+*Tare impotriva Monstrilor +15%
+*Valoarea Atacului Magic +25
+
+[COLOR=00ef4f;FONT_SIZE=14]2.1.2 Rubin Dragon Legendar:
+
+*Putere +10
+*Rezistenta la foc +10%
+*Rezistenta impotriva razboinicilor +10%
+*Tare impotriva razboinicilor +10%
+*Sansa bonus EXP +20%
+*Aparare +100
+*Valoarea Atacului +150
+
+[COLOR=00ef4f;FONT_SIZE=14]2.1.3 Jad Dragon Legendar:
+
+*Max. PM +500
+*Rezistenta la vant +10%
+*Rezistenta impotriva sura +10%
+*Tare impotriva sura +10%
+*Rezistenta impotriva daunelor magice +10%
+*Daunele vor fi absorbite de PV +10%
+*Rezistenta magie +25
+
+[COLOR=00ef4f;FONT_SIZE=14]2.1.4 Safir Dragon Legendar:
+
+*Dexteritate +10
+*Rezistenta la pamant +10%
+*Rezistenta impotriva samanilor +10%
+*Tare impotriva samanilor +10%
+*Tare impotriva Metinelor +10%
+*Regenerare PV +20%
+*Max. PV +10%
+
+[COLOR=00ef4f;FONT_SIZE=14]2.1.5 Granat Dragon Legendar:
+
+*Max. PV +1500
+*Rezistenta la fulger +10%
+*Rezistenta impotriva ninja +10%
+*Tare impotriva ninja +10%
+*Rezistenta paguba medie +10%
+*Max. PM +10%
+*Regenerare PM +20%
+
+[COLOR=00ef4f;FONT_SIZE=14]2.1.6 Onyx Dragon Legendar:
+
+*Vitalitate +10
+*Rezistenta la intuneric +10%
+*Rezistenta impotriva loviturilor critice +15%
+*Rezistenta impotriva loviturilor patrunzatoare +15%
+*Paguba medie +10%
+*Sansa de a evita atacul cu sageti +10%
+*Sansa de a bloca atacul corporal +10%
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=1080; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Aspectele Pietrelor Dragon 
+
+Pietrele Dragon au 3 aspecte diferite: clasa, claritate, si nivel.
+Fiecare aspect al lor este important si ridica puterea Pietrelor Dragon.
+
+[COLOR=ef4f00;FONT_SIZE=15]3.1 Clasa
+Pietrele Dragon au 5 clase diferite, care se pot imbunatati:
+> Clasa: Brut, Taiat, Rar, Antic si Legendar.
+Piatra Dragon va avea mai multe bonusuri daca clasa creste.
+Pentru a imbunatati clasa Pietrelor Dragon aveti nevoie de o a doua Piatra Dragon cu aceeasi clasa.
+
+[COLOR=ef4f00;FONT_SIZE=15]3.1 Claritate
+Pietrele Dragon au 5 claritati diferite, care pot fi imbunatatite:
+> Claritate: Opac, Clar, Perfect, Stralucitor si Excelent.
+Bonusurile Pietrelor Dragon cresc cu cresterea claritatii.
+Pentru a imbunatati claritatea Pietrelor Dragon aveti nevoie de o a doua Piatra cu aceeasi claritate.
+Este posibil sa cobori o Piatra Dragon Excelent catre Stralucitor.
+
+[COLOR=ef4f00;FONT_SIZE=15]3.2 Nivelul
+O Piatra Dragon la claritate excelenta poate sa fie imbunatatita pana la +6.
+Nivelul poate sa fie imbunatatit cu Boaba verde dragon , Boaba albastra dragon si Boaba roz dragon.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=1400; CENTER_ALIGN]
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]4. Timpul Pietrelor Dragon
+
+Pietrelor Dragon au un timp maxim de 24 ore care se consuma numai cand Alchimia Piatra Dragon este activata.
+Puteti umple timpul cu Elixirul Timpului
+Piatra Dragon nu va disparea cand ajunge la 0 minute.
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=1535; CENTER_ALIGN]
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]5. Bonusul setului Alchimiei Piatra Dragon
+
+Cand activati 6 Piatra Dragon legendare la claritate excelenta +6 bonusul setului Alchimiei Piatra Dragon va fi activat.
+Bonusurile setului va ofera urmatoarele bonusuri:
+
+*Max. PV +1500
+*Tare impotriva semi-oamenilor +5%
+*Tare impotriva Monstrilor +5%
+
+
+

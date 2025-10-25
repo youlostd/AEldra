@@ -1,0 +1,726 @@
+ACCE_ABSORB	Απορρόφηση των μπόνους
+ACCE_COMBINE	Συνδυασμός
+ACCE_MAIN	Κορδέλα 1
+ACCE_RESULT	Αποτέλεσμα
+ACCE_SERVE	Κορδέλα 2
+ACCEPT	ΟΚ
+ATTACH_METIN_INFO	Θέλεις να χρησιμοποιήσεις έναν Λίθο Πνεύματος;
+ATTACH_METIN_TITLE	Χρήση Λίθου Πνεύματος
+CANCEL	Ακύρωση
+CHANGE_PASSWORD_CONFIRM	Επιβεβαίωση νέου συνθηματικού
+CHANGE_PASSWORD_NEW	Νέο συνθηματικό
+CHANGE_PASSWORD_OLD	Παλιό συνθηματικό
+CHANGE_PASSWORD_TITLE	Αλλαγή συνθηματικού
+CHARACTER_ACTION	Ενέργειες
+CHARACTER_EMOTICON	Συναίσθημα
+CHARACTER_MAIN	Χαρακτήρας
+CHARACTER_MUTUAL_ACTION	Αλληλεπιδράσεις
+CHARACTER_NORMAL_ACTION	Κανονικές ενέργειες
+CHARACTER_QUEST	Αποστολές
+CHARACTER_SKILL	Ικανότητες
+CLOSE	Κλείσιμο
+CREATE_ATT_GRADE	STR
+CREATE_CREATE	Δημιούργησε
+CREATE_DEX_GRADE	DEX
+CREATE_HP	VIT
+CREATE_LAST_POINT	Βαθμοί
+CREATE_MAN	Άντρας
+CREATE_NAME	Όνομα
+CREATE_NEXT	Επόμενο
+CUBE_REQUIRE_MATERIAL	Απαιτούμενα υλικά
+CUBE_REQUIRE_MATERIAL_OR	ή
+CREATE_PREV	Πίσω
+CREATE_SEX	Φύλο
+CREATE_SHAPE	Εμφάνιση
+CREATE_SP	INT
+CREATE_STAT_RESET	Επαναφορά
+CREATE_WOMAN	Γυναίκα
+CUBE_TITLE	Κατασκεύασε
+EMPIRE_EXIT	Έξοδος
+EMPIRE_NEXT	Επόμενο
+EMPIRE_PREV	Πίσω
+EMPIRE_SELECT	Επιλογή
+EXCHANGE_ACCEPT	ΟΚ
+EXCHANGE_TITLE	Εμπόριο
+GAMEOPTION_TITLE	Επιλογές Παιχνιδιού
+GAME_EXIT_OBSERVER	Τέλος Observer Mode
+GAME_HELP	Βοήθεια
+GAME_QUEST	Αποστολές
+GAME_SKILL_UP	Αύξηση ικανοτήτων
+GAME_STAT_UP	Αύξηση Κατάστασης
+GUILDWINDOW_BASE_BUFF	Μπόνους συντεχνίας
+GUILD_BANKINFO_CLOSE	Κλείσιμο
+GUILD_BANKINFO_NAME	Μέλος
+GUILD_BANKINFO_TITLE	Αρχείο Αποθήκης συντεχνίας
+GUILD_BANKINFO_TYPE	Αντικείμ./Νόμισμα
+GUILD_BANKINFO_USETYPE	Προσφορά
+GUILD_BANK_CLOSE	Κλείσιμο
+GUILD_BANK_INFO	Σελ. αποθ.:
+GUILD_BANK_NUMBER	Αριθ. τράπ.
+GUILD_BASEINFO_BANK	Αποθήκη συντεχνίας
+GUILD_BASEINFO_BANKLASTOUT	Τελ. ανάλ. αντ.
+GUILD_BASEINFO_BUILDING	Κτίριο συντεχνίας
+GUILD_BASEINFO_DEAL	Πώληση γης συντεχνίας
+GUILD_BASEINFO_FACTORY	Σιδεράς συντεχνίας
+GUILD_BASEINFO_GOLDMANAGE	Συναλλαγή
+GUILD_BASEINFO_GUILDLAND	Γη συντεχνίας
+GUILD_BASEINFO_LANDABANDON	Διάλυση συντεχνίας
+GUILD_BASEINFO_LANDSCAPE	Άλλα
+GUILD_BASEINFO_LOCALE	Τοποθεσία
+GUILD_BASEINFO_MONEY	Κατάσταση λογαριασμού
+GUILD_BASEINFO_MONEYBANKINFO	Πληροφορίες τράπεζας συντεχνίας
+GUILD_BASEINFO_MONEYIN	Κατάθεση
+GUILD_BASEINFO_MONEYLASTOUT	Τελευταία ανάληψη
+GUILD_BASEINFO_MONEYOUT	Ανάληψη
+GUILD_BASEINFO_POWER	Βωμός της Δύναμης
+GUILD_BASEINFO_SMEITER	Αλχημιστής συντεχνίας
+GUILD_BASEINFO_TITLE	Στοιχεία γης
+GUILD_BASEINFO_VOTE	Δημοσκόπηση
+GUILD_BASENAME	Βασικό Όνομα
+GUILD_BOARD_ID	Όνομα
+GUILD_BOARD_REFRESH	Ανανέωση
+GUILD_BOARD_TEXT	Μήνυμα
+GUILD_BUILDING_CATEGORY_TITLE	Κατηγορίες Κτιρίων
+GUILD_BUILDING_CHANGE	Αλλαγή
+GUILD_BUILDING_DIRECTION	Κατεύθυνση
+GUILD_BUILDING_GRADE	Βαθμός
+GUILD_BUILDING_INFO	Πληροφορίες Κτιρίων και Κόστους
+GUILD_BUILDING_LIST_TITLE	Λίστα Κτιρίων
+GUILD_BUILDING_LOG	Κούτσουρο
+GUILD_BUILDING_NAME	Όνομα Κτιρίου
+GUILD_BUILDING_OPERATE	Λειτουργία
+GUILD_BUILDING_PLY	Καπλαμάς
+GUILD_BUILDING_POSITION	Θέση
+GUILD_BUILDING_PREVIEW	Προεπισκόπηση
+GUILD_BUILDING_PRICE	Τιμή
+GUILD_BUILDING_REFRESH	Ανανέωση
+GUILD_BUILDING_STONE	Λίθος
+GUILD_BUILDING_TITLE	Κτίριο Συντεχνίας
+GUILD_CRYSTAL	Κρύσταλλος
+GUILD_DEPOSIT	Κατάθεση
+GUILD_DROP_RESOURCE1	εδώ
+GUILD_DROP_RESOURCE2	Πέταγμα πρώτης ύλης
+GUILD_GEM	Πετράδι
+GUILD_GRADE_CHANGE_GRADE_NAME	Νέο όνομα Βαθμού
+GUILD_GRADE_NUM	Βαθμός
+GUILD_GRADE_PERMISSION_DELETE	Αφαίρεση από τη συντεχνία
+GUILD_GRADE_PERMISSION_JOIN	Μπορεί να δέχεται νέα μέλη στη συντεχνία.
+GUILD_GRADE_PERMISSION_NOTICE	Μπορεί να αφήνει σημειώσεις συντεχνίας.
+GUILD_GRADE_PERMISSION_SKILL	Ικανότητες συντεχνίας
+GUILD_GRADE_RANK	Βαθμός
+GUILD_GRADE_WRITE	Γράψιμο
+GUILD_INFO	Πληροφορίες Συντεχνίας
+GUILD_INFO_CUR_EXP	Εμπειρία
+GUILD_INFO_DECALRE_WAR	Κήρυξη Πολέμου
+GUILD_INFO_ENEMY_GUILD	Εχθρική Συντεχνία
+GUILD_INFO_ENEMY_GUILD_EMPTY	Κενό
+GUILD_INFO_LEVEL	Επίπεδο Συντεχνίας
+GUILD_INFO_MARK	Σήμα Συντεχνίας
+GUILD_INFO_MASTER	Ηγέτης
+GUILD_INFO_MASTER_VALUE	Ηγέτης
+GUILD_INFO_MEMBER_AVG_LEVEL	Μέσο Επίπεδο
+GUILD_INFO_MEMBER_NUM	Αριθμός μελών
+GUILD_INFO_NAME	Όνομα Συντεχνίας
+GUILD_INFO_NAME_VALUE	Αυτό είναι Όνομα Συντεχνίας
+GUILD_INFO_OFFER_EXP	Επένδυσε
+GUILD_INFO_REST_EXP	Απαιτούμενη Εμπ.
+GUILD_INFO_UPLOAD_MARK	Upload Σήμα
+GUILD_INFO_UPLOAD_SYMBOL	Upload Σημαία
+GUILD_MARK	Σήμα Συντεχνίας
+GUILD_MEMBER_JOB	Κλάση
+GUILD_MEMBER_KNIGHT	Πολεμιστής
+GUILD_MEMBER_LEVEL	Επίπεδο
+GUILD_MEMBER_NAME	Όνομα
+GUILD_MEMBER_RANK	Βαθμός
+GUILD_MEMBER_SPECIFIC_GRAVITY	Επενδ.
+GUILD_METIN_STONE	Λίθος Metin
+GUILD_MINENAL	Μετάλλευμα
+GUILD_MONEY	Yang
+GUILD_NAME	Συντεχνία
+GUILD_RESOURCE_INFO	Πληροφορίες Πόρων
+GUILD_SKILLPAGE_LADDER	Πόντοι κατάταξης
+GUILD_SKILLPAGE_RANK	Θέση
+GUILD_SKILL_ACTIVE	Ενεργητικό
+GUILD_SKIlL_HEAL_GSP	Αναπλήρωση
+GUILD_SKILL_PASSIVE	Παθητικό
+GUILD_SKILL_POWER	Ενέργεια
+GUILD_SKILL_STATE	Ικανότητα Συντεχνίας
+GUILD_SYMBOL	Σημαία Συντεχνίας
+GUILD_WAR_ACCEPT	Αποδοχή κήρυξης Πολέμου Συντεχνιών
+GUILD_WAR_ALLSCORE	Όλες οι μάχες
+GUILD_WAR_BATTLE_TYPE	Τύπος Μάχης
+GUILD_WAR_CTF	Σημαία
+GUILD_WAR_DECLARE	Κήρυξε Πόλεμο Συντεχνιών
+GUILD_WAR_ENEMY	Εχθροί
+GUILD_WAR_GAINSCORE	Πόντοι
+GUILD_WAR_GAINSCORE_FIFTY	50
+GUILD_WAR_GAINSCORE_HUNDRED	100
+GUILD_WAR_GAINSCORE_THIRTY	30
+GUILD_WAR_GAMETIME	Χρόνος μάχης
+GUILD_WAR_GAMETIME_SIXTY	60 λεπ.
+GUILD_WAR_GAMETIME_TEN	10 λεπ.
+GUILD_WAR_GAMETIME_THIRTY	30 λεπ.
+GUILD_WAR_JOINMEMBER	Μέλη
+GUILD_WAR_JOINMEMBER_COUNT	Μέλη
+GUILD_WAR_JOINMEMBER_FIFTEEN	15
+GUILD_WAR_JOINMEMBER_FIVE	5
+GUILD_WAR_JOINMEMBER_TEN	10
+GUILD_WAR_NORMAL	Στάδιο
+GUILD_WAR_REPORT	Επισκόπηση πολέμου
+GUILD_WAR_REPORTLIST	Επισκόπηση (Μάχες: Μ, Νίκες: Ν, Ήττες: Η, Ισοπαλίες: Ι)
+GUILD_WAR_SCORE	Επισκόπηση πολέμου
+GUILD_WAR_SKILL	Ικανότητες συντεχνίας
+GUILD_WAR_TYPE_DEFENSE	Μάχη ασπίδων
+GUILD_WAR_TYPE_DIE	Μάχη αρένας
+GUILD_WAR_TYPE_FLAG	Μάχη σημαίας
+GUILD_WAR_TYPE_NORMAL	Μάχη πεδίου
+GUILD_WAR_TYPE_TIGER	Μάχη καταστροφής
+GUILD_WAR_TYPE_TIME	Επίθεση χρόνου
+GUILD_WAR_WARP	Αρένα
+GUILD_WAR_WIN	Γύροι
+GUILD_WAR_WIN_FIVE	5
+GUILD_WAR_WIN_ONE	1
+GUILD_WAR_WIN_THREE	3
+GUILD_WATER	Νερό
+GUILD_WATER_STONE	Νερόλιθος
+GUILD_WITHDRAW	Πάρε
+HELP_ATTACK_KEY	Επίθεση: αριστερό κουμπί ποντικιού ή πλήκτρο space
+HELP_CHANGE_PK_MODE	Αλλαγή τρόπου επίθεσης: αλλαγή ρύθμισης αριστερού ποντικιού
+HELP_CHARACTER_BUTTON1	(Παράθυρο Χαρακτ., Παράθυρο Καταλ.,
+HELP_CHARACTER_BUTTON2	Λίστα φίλων και Ρυθμίσεις)
+HELP_CONTROL_CAMERA_BY_MIDDLEBUTTON	Θέση κάμερας: μεσαίο κουμπί ποντικιού
+HELP_CONTROL_CAMERA_BY_RIGHTBUTTON	Αλλαγή θέσης κάμερας: δεξί ή αριστερό κουμπί ποντικιού
+HELP_EXP	Εμπειρία
+HELP_FURY	Ingame Item Shop
+HELP_GUILD_WINDOW	Άνοιγμα παραθύρου: Alt + G
+HELP_HELP	Προβολή βοήθειας: Η
+HELP_HP	Πόντοι ζωής
+HELP_MESSENGER_WINDOW	Άνοιγμα λίστας φίλων: Alt + M
+HELP_MOUSE_LEFT	Λειτουργία αριστερού κουμπιού στο ποντίκι
+HELP_MOUSE_RIGHT	Λειτουργία δεξιού κουμπιού στο ποντίκι
+HELP_MOVE_KEY	Κίνηση: W, A, S, D ή βέλη
+HELP_OPEN_CHARACTER	Άνοιγμα παραθύρου χαρακτήρα: C
+HELP_OPEN_CHAT	Άνοιγμα παραθύρου chat: Enter
+HELP_OPEN_INVENTORY	Άνοιγμα παραθύρου καταλόγου: I
+HELP_OPEN_LOG	Εμφάνιση Chatlog: L
+HELP_OPEN_MINIMAP	Άνοιγμα μικρού χάρτη: Shift + M
+HELP_OPEN_QUEST	Άνοιγμα παραθύρου αποστολών: Ν
+HELP_OPEN_SKILL	Άνοιγμα παραθύρου ικανοτήτων: V
+HELP_OPEN_WHISPER	Άνοιγμα παραθύρου Ψιθύρων: Shift + Enter
+HELP_OPEN_ZONEMAP	Άνοιγμα μεγάλου χάρτη: M
+HELP_PICK_ITEM	Συλλογή αντικειμένων: Z, ~ ή αριστερό κλικ
+HELP_QUICKSLOT	Πεδία Γρήγορης Πρόσβασης
+HELP_SCREEN_CAPTURE	Αποθήκευση στιγμιότυπου: PrtSc (τόπος αποθήκευσης: Φάκελος «Metin2\screenshot»)
+HELP_SHOW_ALL_NAME	Εμφάνιση ονομάτων: Alt
+HELP_SP	Spell Points (SP)
+HELP_SYSTEM_BUTTON	Κουμπιά Συστήματος
+INVENTORY_PAGE_BUTTON_TOOLTIP	%d. Κατάλογος
+INVENTORY_TITLE	Κατάλογος
+ITEM_MALL	Item Shop
+LOAD_ERROR	Το αρχείο είναι κατεστραμμένο. Παρακαλούμε εγκατάστησε εκ νέου. Πάτα ESC.
+LOGIN_CONNECT	Σύνδεση
+LOGIN_CONNECTING	Συνδέεσαι με τον σέρβερ.
+LOGIN_DEFAULT_SERVERADDR	Όνομα σέρβερ, Κανάλι 1
+LOGIN_EXIT	Έξοδος
+LOGIN_REGION_TITLE	Επιλογή θέσης για την έκδοση τιμολογίου
+LOGIN_SELECT_BUTTON	Επιλογή
+LOGIN_SELECT_EXIT	Έξοδος
+LOGIN_SELECT_OK	ΟΚ
+LOGIN_SELECT_TITLE	Επιλογή σέρβερ
+MALL_PASSWORD_TITLE	Συνθηματικό
+MALL_TITLE	Αποθήκη Item Shop
+MARKET_TITLE	Φόρτωση
+MARKLIST_REFRESH	Ανανέωση
+MARKLIST_TITLE	Καταχώριση Σήματος Συντεχνίας
+MESSAGE	Αυτό είναι ένα μήνυμα
+MESSENGER_ADD_FRIEND	Προσθήκη φίλου
+MESSENGER_DELETE_FRIEND	Διαγραφή
+MESSENGER_MOBILE	Αποστολή SMS
+MESSENGER_OPEN_GUILD	Άνοιγμα παραθύρου συντεχνίας
+MESSENGER_TITLE	Φίλοι
+MESSENGER_USE_GUILD_MOVE_SKILL	Χρήση της Ικανότητας Μετακίνησης Συντεχνίας
+MESSENGER_WHISPER	Ψίθυρος
+MINIMIZE	Ελαχιστοποίηση
+MOUSEBUTTON_ATTACK	Επίθεση
+MOUSEBUTTON_AUTO_ATTACK	Αυτόματη επίθεση
+MOUSEBUTTON_CAMERA	Κάμερα
+MOUSEBUTTON_SKILL	Ικανότητες
+MUSICLIST_TITLE	Επιλογές Μουσικής
+NO	Όχι
+OK	ΟΚ
+OPTION_ALWAYS_SHOW_NAME	Όνομα
+OPTION_ALWAYS_SHOW_NAME_OFF	Περιορισμένο
+OPTION_ALWAYS_SHOW_NAME_ON	Πάντα
+OPTION_BLOCK	Φραγμός
+OPTION_BLOCK_EXCHANGE	Εμπόριο
+OPTION_BLOCK_FRIEND	Φίλοι
+OPTION_BLOCK_GUILD	Συντεχνία
+OPTION_BLOCK_PARTY	Ομάδα
+OPTION_BLOCK_PARTY_REQUEST	Αίτηση
+OPTION_BLOCK_WHISPER	Ψίθυρος
+OPTION_CAMERA_DISTANCE	Κάμερα
+OPTION_CAMERA_DISTANCE_LONG	Μακριά
+OPTION_CAMERA_DISTANCE_SHORT	Κοντά
+OPTION_DELETE_MOBILE_BUTTON	Διαγραφή Νούμερου Κινητού Τηλεφώνου
+OPTION_EFFECT	Χτυπήματα.
+OPTION_FOG	Ομίχλη
+OPTION_FOG_DENSE	Έντονη
+OPTION_FOG_LIGHT	Ελαφριά
+OPTION_FOG_MIDDLE	Μεσαία
+OPTION_INPUT_MOBILE_BUTTON	Εισαγωγή Νούμερου Κινητού Τηλεφώνου
+OPTION_MOBILE	Κινητό Τηλέφωνο
+OPTION_MUSIC	Μουσική
+OPTION_MUSIC_CHANGE	Αλλαγή
+OPTION_MUSIC_DEFAULT_THEMA	Συνήθης μουσική του Metin2
+OPTION_NAME_COLOR	Χρώμα
+OPTION_NAME_COLOR_EMPIRE	Χρώμα Βασ/ου
+OPTION_NAME_COLOR_NORMAL	Κανονικό
+OPTION_PVPMODE	Εφαρμογή PvP
+OPTION_PVPMODE_FREE	Ελεύθερο
+OPTION_PVPMODE_FREE_TOOLTIP	Μπορείς να επιτεθείς σε όλους τους παίκτες.
+OPTION_PVPMODE_GUILD	Συντεχνία
+OPTION_PVPMODE_GUILD_TOOLTIP	Μπορείς να επιτεθείς σε όλους του παίκτες, εκτός από τα μέλη της Συντεχνίας σου.
+OPTION_PVPMODE_PEACE	Ειρήνη
+OPTION_PVPMODE_PEACE_TOOLTIP	Δεν μπορείς να επιτεθείς σε παίκτες του Βασιλείου σου.
+OPTION_PVPMODE_REVENGE	Εχθρικό
+OPTION_PVPMODE_REVENGE_TOOLTIP	Μπορείς να επιτεθείς μόνο σε παίκτες αντίθετου ήθους.
+OPTION_SOUND	Ηχητικά Εφέ
+OPTION_TARGET_BOARD	Επιλογές Στόχου
+OPTION_TARGET_BOARD_NO_VIEW	Κλείσιμο
+OPTION_TARGET_BOARD_VIEW	Εμφάνιση
+OPTION_TILING	Γραφικά
+OPTION_TILING_APPLY	Εφαρμογή
+OPTION_TILING_CPU	CPU
+OPTION_TILING_GPU	GPU
+OPTION_TITLE	Επιλογές
+OPTION_VIEW_CHAT	Βλέπε Chat
+OPTION_VIEW_CHAT_OFF	Κρύψιμο
+OPTION_VIEW_CHAT_ON	Εμφάνιση
+PARTY_MEMBER_INFO_NAME	Όνομα μέλους της Ομάδας
+PASSWORD_DESC_1	Πληκτρολογήστε τον κωδικό σας,
+PASSWORD_DESC_2	για να ανοίξετε την αποθήκη.
+PASSWORD_DESC_3	Άλλαξες τον κωδικό σου;
+PASSWORD_DESC_4	Αν όχι, ο κωδικός σου είναι «000000».
+PASSWORD_DESC_5	Άλλαξε τον κωδικό σου στην αποθήκη.
+PASSWORD_TITLE	Συνθηματικό μνήμης
+PICK_MONEY_TITLE	Μοιρασιά
+PRIVATE_SHOP_CLOSE_BUTTON	Κλείσιμο καταστήματος
+PRIVATE_SHOP_NAME	Όνομα Καταστήματος
+PRIVATE_SHOP_TITLE	Άνοιξε Ιδιωτικό Κατάστημα
+OFFLINE_SHOP_CREATE_TITLE	Στήσε ένα offline κατάστημα
+REFINE_COST	Κόστος βελτίωσης: 0 Yang
+REFINE_INFO	Πιθανότητα επιτυχούς βελτίωσης: 100%
+REFINE_TTILE	Βελτιώσεις
+REPORT_VIOLENT_WHISPER	Sneak
+RESTART_HERE	Επανεκκίνηση εδώ
+RESTART_TOWN	Επανεκκίνηση στην Πόλη
+SAFE_CHANGE_PASSWORD	Αλλαγή Συνθηματικού
+SAFE_TITLE	Αποθήκη
+SELECT_ATT_GRADE	STR
+SELECT_CREATE	Δημιουργία
+SELECT_DELETE	Διαγραφή
+SELECT_DEX_GRADE	DEX
+SELECT_EMPIRE_NAME	Όνομα Βασιλείου
+SELECT_EXIT	Κλείσιμο
+SELECT_HP	VIT
+SELECT_LEVEL	Επίπεδο
+SELECT_METIN_STONE_TITLE	Επιλογή Λίθου Πνεύματος
+SELECT_NAME	Όνομα
+SELECT_NO_GUILD	Χωρίς Συντεχνία
+SELECT_PLAYTIME	Χρόνος παιχνιδιού
+SELECT_SELECT	Αρχή
+SELECT_SP	Ευφυία
+SELECT_TITLE	Επιλογή Τίτλου
+SHOP_BUY	Αγορά
+SHOP_SELL	Πώληση
+SHOP_TITLE	Κατάστημα
+SKILL_SUPPORT_TITLE	Βασικές Ικανότητες
+SYSTEMOPTION_TITLE	Επιλογές Συστήματος
+SYSTEM_CHANGE	Αλλαγή Χαρακτήρα
+SYSTEM_EXIT	Έξοδος από Παιχνίδι
+SYSTEM_HELP	Βοήθεια
+SYSTEM_LOGOUT	Αποσύνδεση
+SYSTEM_MALL	Item Shop
+SYSTEM_OPTION	Επιλογές Συστήματος
+TASKBAR_MONEY	Μπάρα Yang
+TASKBAR_CHARACTER	Χαρακτήρας [C/V/B/N]
+TASKBAR_CHAT	Παράθυρο Chat [Enter]
+TASKBAR_DISABLE	Απενεργοποιημένο
+TASKBAR_EXPAND	Μεγέθυνση παραθύρου
+TASKBAR_INVENTORY	Κατάλογος [I]
+TASKBAR_MESSENGER	Φίλοι [Alt+M]
+TASKBAR_NEXT_QUICKSLOT	Επόμενο Πεδίο Γρήγορης Πρόσβασης [Shift+Number, Alt]
+TASKBAR_PREV_QUICKSLOT	Προηγούμενο Πεδίο Γρήγορης Πρόσβασης [Shift+Number]
+TASKBAR_SYSTEM	Επιλογές[ESC]
+WHISPER_BAN	Φραγμός
+WHISPER_NAME	Ψίθυρος
+WHISPER_REPORT	Αναφορά
+WHISPER_SEND	Αποστολή
+YES	Ναι
+ZONE_MAP	Μεγάλος Χάρτης
+INVENTORY_SORT	Ξεχώρισε
+GUILD_SAFE_TITLE	Αποθήκη συντεχνίας
+GUILD_SAFEBOX_MONEY_TITLE	Αποθήκη Συντεχνίας - Yang
+GUILD_SAFEBOX_MONEY_INFO_TEXT	Πόσα Yang θες να καταθέσεις η να τραβήξεις;
+GUILD_SAFEBOX_MONEY_GIVE_BUTTON	Αποθήκευσε
+GUILD_SAFEBOX_MONEY_TAKE_BUTTON	Τράβηξε
+GUILD_SAFE_LOG_TITLE	Ιστορικό αποθήκης συντεχνίας
+GUILD_SAFE_LOG_BUTTON	Ιστορικά
+ACCOUNT_PASSWORD_Q	Ξεχάστηκες ;
+BDAY_EVENT_DESC_D1	Σκότωσε τα περισσότερα Boss
+ACCOUNT_USERNAME_Q	Ξέχασες το όνομα του λογαριασμού σου ;
+ACCOUNT_REGISTER	Εγγραφή;
+ACCOUNT_REGISTER_Q	You don't have an account?
+ACCOUNT_CHANNEL	Κανάλι %d
+ACCOUNT_USERNAME_LABEL	Όνομα λογαριασμού
+ACCOUNT_PASSWORD_LABEL	Κωδικός
+ACCOUNT_LOGIN	Σύνδεση
+ACCOUNT_YOUR_ACCLIST	Οι λογαριασμοί σου
+SELECT_LANGUAGE_TITLE	Γλώσσα
+LOGIN_EMPTY	[Save acc]
+COSTUME_WINDOW_TITLE	Φορεσιές
+COSTUME_TITLE	Άνοιγμα Φορεσιών
+SYSTEM_CHANNEL	Αλλαγή καναλιού
+SERVER_INFO_LABEL	Aeldra.net CH
+OFFLINE_SHOP_TITLE	Το offline κατάστημά μου
+PET_TITLE	Haustier-Übersicht
+PET_STAT1_NAME	Ζωτικότητα
+PET_STAT2_NAME	Δύναμη
+PET_STAT3_NAME	Ευφυία
+PET_STAT4_NAME	Agility
+MOUNT_TITLE	Reittier-Übersicht
+MOUNT_STAT1_NAME	Δυνατό ενάντια σε τέρατα
+MOUNT_STAT2_NAME	Άμυνα ενάντια σε τέρατα
+MOUNT_STAT3_NAME	Δυνατό ενάντια σε Metins
+MOUNT_STAT4_NAME	Δυνατό ενάντια σε τέρατα
+CHARACTER_VALUE	Ιδιότητες
+CHARACTER_STATISTIC	Μπόνους
+CHAR_STAT_MVSPD	Ταχύτητα κίνησης:
+CHAR_STAT_ATSPD	Attack Speed:
+CHAR_STAT_SPSPD	Ταχύτητα μαγείας:
+CHAR_STAT_MAGIC_ATK	Μαγική επίθεση:
+CHAR_STAT_NORMAL_ATK	Βασική επίθεση:
+CHAR_STAT_MAGIC_DEF	Μαγική άμυνα:
+CHAR_STAT_NORMAL_DEF	Κανονική άμυνα
+CHAR_STAT_DODGE	Αποφυγή:
+CHAR_MAIN_HP	Ζωτικότητα
+CHAR_MAIN_INT	(INT) Ευφυία
+CHAR_MAIN_STR	Δύναμη
+CHAR_MAIN_DEX	Ευκινησία:
+CHAR_MAIN_POINTS	Διαθέσιμοι πόντοι:
+CHARACTER_BONI_ATTACK	Επίθεση
+CHARACTER_BONI_DEFENSE	Άμυνα
+CHARACTER_BONI_PVM	Monster (PVM)
+CHARACTER_BONI_PVP	Παίχτης (PvP)
+CHAR_HP	(HP) Ζωή
+CHAR_MP	SP
+CHAR_EXP_OF	Of
+CHARACTER_ANTI_EXP_ACTIVE	Λήψη εμπειρίας: απενεργοποιημένη
+CHARACTER_ANTI_EXP_INACTIVE	Λήψη εμπειρίας: ενεργοποιημένη
+QUEST_CATEGORIE_1	Γενικό
+QUEST_CATEGORIE_2	Battlepass
+TASKBAR_OPEN_CHAT	Άνοιξε την κλήση
+DRAGONSOUL_ACTIVATE	Ενεργοποίηση
+DRAGONSOUL_REFINE_OPEN	Βελτίωση
+DRAGONSOUL_PAGE_BUTTON_1	Ακατέργαστο
+DRAGONSOUL_PAGE_BUTTON_2	Επεξεργασμένο
+DRAGONSOUL_PAGE_BUTTON_3	Σπάνιο
+DRAGONSOUL_PAGE_BUTTON_4	Αρχαίο
+DRAGONSOUL_PAGE_BUTTON_5	Θρυλικό
+DRAGONSOUL_REFINE_WINDOW_TITLE	Παράθυρο εξευγενισμού
+DRAGONSOUL_TAP_TITLE_1	Δρακοδιαμάντι
+DRAGONSOUL_TAP_TITLE_2	Δρακορουμπίνι
+DRAGONSOUL_TAP_TITLE_3	Δρακοϊάδης
+DRAGONSOUL_TAP_TITLE_4	Δρακοζαφείρι
+DRAGONSOUL_TAP_TITLE_5	Δρακογρανάτης
+DRAGONSOUL_TAP_TITLE_6	Δρακόνυχας
+DRAGONSOUL_TITLE	Αλχημεία Δρακόλιθων
+GRADE_SELECT	Βαθμίδα
+STEP_SELECT	Βαθμός καθαρότητας
+STRENGTH_SELECT	Επίπεδο
+DO_REFINE	Εξευγενισμός
+GAYA_SHOP_TITLE	Κατάστημα Gaya
+AUCTION_INFORMER_WINDOW_TITLE	Το αντικείμενου πουλήθηκε
+AUCTION_WINDOW_TITLE	Αναζήτηση καταστημάτων
+AUCTION_PAGE_BUTTON_BUY	Buy
+AUCTION_PAGE_BUTTON_SELL	Πώληση
+AUCTION_SEARCH_EDIT_OVERLAY_TEXT	Όνομα αντικειμένου
+AUCTION_SEARCH_BUTTON_TEXT	Αναζήτηση
+AUCTION_SEARCH_RESET_BUTTON_TEXT	Επαναφορά
+AUCTION_LV_TEXT_1	Όριο επιπέδου
+AUCTION_LV_TEXT_2	σε
+AUCTION_PRICE_TEXT_1	Όριο κόστους
+AUCTION_PRICE_TEXT_2	σε
+AUCTION_PRICE_OVERLAY_2	-(απεριόριστα)
+AUCTION_ONLY_AUCTIONHOUSE_CHECKBOX	Show auction house items only
+AUCTION_ONLY_SELF_CHECKBOX	Εμφάνισε μόνο τα δικά σου αντικείμενα
+AUCTION_ORDER_TITLE	Επιλογές διαχωρισμού
+AUCTION_ORDER_BUTTON_NAME	Όνομα αντικειμένου
+AUCTION_ORDER_BUTTON_PRICE	Τιμή
+AUCTION_ORDER_BUTTON_DATE	Ημερομηνία αγοράς
+AUCTION_SELL_NO_ITEM_TEXT	Τράβηξε ένα αντικείμενο σε αυτό το παράθυρο για να το πουλήσεις
+AUCTION_SELL_NO_ITEM_DISABLE_TEXT	Αυτή η επιλογή είναι απενεργοποιημένη για τη δημοπρασία.
+AUCTION_SELL_ITEM_PRICE_OVERLAY	Δώσε την τιμή
+AUCTION_SELL_ITEM_BUTTON	Όρισε
+AUCTION_SELL_PRICE_TAX_INFO	Items you place in the auction house will be charged 9% tax. The displayed price is the value that the player must pay. The value after you receive shows how much yang you get when you sell.
+AUCTION_ITEM_PAGE_BUTTON_LEFT_TOOLTIP	Δέκα σελίδες πίσω
+AUCTION_ITEM_PAGE_BUTTON_RIGHT_TOOLTIP	Δέκα σελίδες παρακάτω
+AUCTION_RACE_TEXT	Κλάση
+AUCTION_RACE_TEXT_1	Πολεμιστής
+AUCTION_RACE_TEXT_2	Νίντζα
+AUCTION_RACE_TEXT_3	Σούρα
+AUCTION_RACE_TEXT_4	Σαμάνος
+AUCTION_RACE_TEXT_5	Lykaner
+MINI_GAME_RUMI_DISCARD_TEXT	Ασφαλής λειτουργία
+MINI_GAME_RUMI_EXIT	Κλείσιμο
+MINI_GAME_RUMI_LBUTTON_DESC	Προσθήκη κάρτας με αριστερό κλικ
+MINI_GAME_RUMI_RBUTTON_DESC	Αφαίρεση κάρτας με δεξί κλικ
+MINI_GAME_RUMI_SCORE	Πόντοι
+MINI_GAME_RUMI_START_TEXT	Εκκίνηση
+MINI_GAME_RUMI_TITLE	Παιχνίδι Metin2 Okey
+OPTION_ITEM_HIGHLIGHT	Νέα αντικέιμενα
+OPTION_ITEM_HIGHLIGHT_ON	Σημάδι
+OPTION_ITEM_HIGHLIGHT_OFF	Τίποτα
+OPTION_GOLD_PICKUP	Μύνημα Yang
+OPTION_GOLD_PICKUP_ON	Ενεργό
+OPTION_GOLD_PICKUP_OFF	Inactive
+WEB_LOADING_TITLE	Φόρτωμα browser
+WEB_LOADING_DESC	Παρακαλώ κάντε υπομονή
+ANTIEXP_TOOLTIP	Πάγωμα Exp
+OPTION_DISABLE_PICKUP	Μην μαζεύεις
+OPTION_DISABLE_PICKUP_ARMOR	Πανοπλίες
+OPTION_DISABLE_PICKUP_WEAPON	Όπλα
+OPTION_DISABLE_PICKUP_ETC	Κοσμήματα
+GUILD_DRAGONLAIR_RANKING	Λίστα κατάταξης
+GUILD_DRAGONLAIR_RANKING_COUNT	Θέση
+GUILD_DRAGONLAIR_RANKING_MEMBER	Μέλη
+GUILD_DRAGONLAIR_RANKING_NAME	Συντεχνία
+GUILD_DRAGONLAIR_RANKING_TIME	Χρόνος
+FAKEBUFF_SKILL_TITLE	Ικανότητες Buffi
+ATTRTREE_TITLE_1	Πολεμιστής
+ATTRTREE_TITLE_2	Νίντζα
+ATTRTREE_TITLE_3	Σούρα
+ATTRTREE_TITLE_4	Σαμάνος
+ATTRTREE_TITLE_5	Ειδικό
+ATTRTREE_TITLE_6	Τέρας
+ATTRTREE_REFINE_TITLE	Βελτίωση
+ATTRTREE_REFINE_UPGRADE	Βελτίωση
+ATTRTREE_REFINE_CANCEL	Ακύρωση
+SELECT_METIN_DETACH_TITLE	Αφαίρεση λίθου
+SELECT_METIN_DETACH_INFO	Διάλεξε τον λίθο που θες να αφαιρέσεις.
+SELECT_METIN_DETACH_BUTTON	Αφαίρεση
+SELECT_ATTR_DETACH_TITLE	Αφαίρεση Μπόνους
+SELECT_ATTR_DETACH_INFO	Διάλεξε το μπόνους που θες να αφαιρέσεις
+SELECT_ATTR_DETACH_BUTTON	Αφαίρεση
+QUEST_CATEGORIE_3	Event-Battlepass
+QUEST_CATEGORIE_4	Απεριόριστο Μπάτλπας
+OFFLINE_SHOP_RENEW_BUTTON	Ανανέωση
+DO_REFINE_ALL	Αναβάθμισε τα όλα
+OPTION_QUEST_LETTER	Γράμματα αποστολών
+OPTION_QUEST_LETTER_SHOW	Show
+OPTION_QUEST_LETTER_HIDE	Απόκρυψη
+OPTION_PICKUP_ALL	Μάζεμα
+OPTION_PICKUP_FAST	Όλα 
+OPTION_PICKUP_SLOW	Single
+SHOP_SEARCH_SORT_DESC	Ξεχώρισε
+SHOP_SEARCH_SORT_ALPHA_AZ	Αλφαβητικά Α-Ω
+SHOP_SEARCH_SORT_ALPHA_ZA	Αλφαβητικά Ω-Α
+SHOP_SEARCH_SORT_PRICE_ASC	Τιμή με αυξανόμενη φορά
+SHOP_SEARCH_SORT_PRICE_DESC	Τιμή με φθίνουσα σειρά
+SHOP_SEARCH_CAT_DESC	Κατηγορίες
+SHOP_SEARCH_CAT_ALL	Όλα 
+SHOP_SEARCH_CAT_WEAPON	Όπλα
+SHOP_SEARCH_CAT_ARMOR	Πανοπλία
+SHOP_SEARCH_CAT_JEWELLERY	Κοσμήματα
+SHOP_SEARCH_CAT_TALISMAN	Φυλαχτό
+SHOP_SEARCH_CAT_DRAGONSOUL	Αλχημεία δράκου
+SHOP_SEARCH_CAT_COSTUME	Φορεσιά
+SHOP_SEARCH_CAT_COSTUME_BONI	Μπόνους φορεσιάς
+SHOP_SEARCH_CAT_SKILLS	Ικανότητες
+SHOP_SEARCH_CAT_POTIONS	Φίλτρα
+SHOP_SEARCH_CAT_USABLE	Αντικείμενα κατανάλωσης
+SHOP_SEARCH_CAT_FISHS	Ψάρι
+SHOP_SEARCH_CAT_MOUNTS	Υποζύγια
+SHOP_SEARCH_CAT_PETS	Σύντροφος
+SHOP_SEARCH_CAT_OWNED	Τα αντικείμενά μου
+LOGIN_SHRINK	Συρρίκνωσε
+LOGIN_EXTEND	Επέκτεινε
+OPTION_USENIGHT	Λειτουργία νύχτας
+OPTION_CAMERA_DISTANCE_HUGE	Έξτρα μακρυά
+SPLIT_ITEM	Χώρισε τα όλα
+PLAYER_SELECT_HAIR_TITLE	Επιλογή κουρέματος
+EVENT_JOIN_TITLE	Συμμετοχή στο Event
+EVENT_JOIN_ACCEPT_BUTTON	Τηλεμεταφορά
+EVENT_JOIN_DECLINE_BUTTON	Απόρριψε
+OPTION_SHOP_TITLE	Shop Title
+REFINE_FAST_CHECK	Μην κλείσεις το παράθυρο
+GUILD_MEMBER_MELEY	Ξεκίνα τη φωλιά του Meley
+COMB_TITLE	Μεταφορά μπόνους φορεσιάς
+COMB_APPEARANCE	Παραλήπτης
+COMB_ATTRIBUTE	Πρωτότυπο
+GAMEOPTION_TITLE_EXTRA	Επιπλέον επιλογές
+HIDE_COSTUMES	Κρύψε τις φορεσιές
+GAMEOPTION_HAIR	Κούρεμα
+SWITCHBOT_TITLE	Αυτόματο μάγεμα
+SWITCHBOT_ALREADY_ATTACHED	Αυτό το αντικείμενο έχει ήδη προσθέσει στο switch bot
+RENDER_OPT	Βελτιστοποίηση
+RENDER_OPT_LOW	Χαμηλό
+RENDER_OPT_MEDIUM	Μέτριο
+RENDER_OPT_HIGH	Υψηλό
+SWITCHBOT_SLOT_NAME	Θέση %d
+SWITCHBOT_MAXIMUM_SLOT_REACHED	Δεν μπορείς να προσθέσεις άλλο αντικείμενο.
+SWITCHBOT_BUTTON_START	Αρχή
+SWITCHBOT_BUTTON_RESET	Reset
+SWITCHBOT_TEMPLATE_TITLE	Templates
+SWITCHBOT_SPEED_SLOW	Καθυστέρηση
+SWITCHBOT_SPEED_MEDIUM	Μέτριο
+SWITCHBOT_SPEED_NORMAL	Κανονικό
+SWITCHBOT_SPEED_PREMIUM	Premium
+SHINING_WINDOW_TITLE	Λαμπύρισμα
+SWITCHBOT_BUTTON_STOP	Σταμάτα
+SWITCHBOT_BUTTON_DELETE	Διαγραφή
+SWITCHBOT_PREMIUM_INACTIVE	Preimium ανενεργό
+SWITCHBOT_SELECT_DEFAULT	-- επίλεξε --
+SWITCHBOT_SELECT_UNKNOWN	!άγνωστο!
+MESSENGER_ADD_BLOCK	Block
+SWITCHBOT_START_TIME	Αρχή
+SWITCHBOT_TIME_PASSED	Συνολική διάρκεια
+SWITCHBOT_SWITCHERS_USED	Χρησιμοποιημένες αλλαγές
+SWITCHBOT_CURRENT_SPEED	Ταχύτητα
+RUNE_MAIN_TITLE	Ρούνοι
+RUNE_MAIN_GROUP_TITLE1	Ακρίβεια
+RUNE_MAIN_GROUP_TITLE_DESC1	Γίνε θρύλος
+RUNE_MAIN_GROUP_DESC1	Ενδυνάμωσε τις βασικές επιθέσεις σου
+RUNE_MAIN_GROUP_TITLE2	Κυριαρχία
+RUNE_MAIN_GROUP_TITLE_DESC2	Γίνε θρύλος
+RUNE_MAIN_GROUP_DESC2	Δυνάμωσε τις επιθέσεις σου ενάντια σε τέρατα
+RUNE_MAIN_GROUP_TITLE3	Μαγεία
+RUNE_MAIN_GROUP_TITLE_DESC3	Γίνε θρύλος
+RUNE_MAIN_GROUP_DESC3	Δυνάμωσε τις ικανότητές σου
+RUNE_MAIN_GROUP_TITLE4	Αποφασιστικότητα
+RUNE_MAIN_GROUP_TITLE_DESC4	Γίνε θρύλος
+RUNE_MAIN_GROUP_DESC4	Strengthen your defense
+RUNE_MAIN_GROUP_TITLE5	Έμπνευση
+RUNE_MAIN_GROUP_TITLE_DESC5	Γίνε θρύλος
+RUNE_MAIN_GROUP_DESC5	Δυνάμωσε τους φίλους σου
+RUNE_SUB_MAIN_SELECT1	Διάλεξε έναν βασικό ρούνο
+RUNE_SUB_MAIN_SELECT2	Διάλεξε ρούνο
+RUNE_SUB_SUB_SELECT_GROUP	Secondary path
+RUNE_SUB_SUB_SELECT_RUNE_NOGROUP	Επιπλέον ρούνος
+RUNE_SUB_SUB_SELECT_RUNE	Secondary path
+RUNE_SUB_SUBTITLE_TEXT	Βασικός ρούνος
+RUNE_TOOLTIP_SAVE	Αποθήκευσε
+RUNE_WINDOW_TUTORIAL	Εκμάθηση συστήματος ρούνων
+GAMEOPTION_ACCE	Κορδέλα ώμου
+MINI_GAME_FISH_START_TEXT	Εκκίνηση
+MINI_GAME_FISH_TITLE	Παιχνίδι ψαροπάζλ
+BANNER_FISH_BUTTON	ΠΑΙΧΝΙΔΙ ΨΑΡΟΠΑΖΛ
+MINIGAME_FISH_EVENT_USE_COUNT	Ποσότητα
+MINI_GAME_FISH_HELP_TEXT	Βοήθεια
+SKINSYSTEM_TITLE	Σύστημα φορεσιών
+SHOP_SEARCH_SORT_DATE_ASC	Ώρα πώλησης
+XMAS_EVENT_TITLE	Χριστουγεννιάτικο ημερολόγιο
+OFFLINE_SHOP_SALES_HISTORY	Ιστορικό πωλήσεων
+OFFLINE_SHOP_WITHDRAW_GOLD	Τράβηξε Yang
+OFFLINE_SHOP_HISTORY_COLUMN1	Item
+OFFLINE_SHOP_HISTORY_COLUMN2	Τιμή
+OFFLINE_SHOP_HISTORY_COLUMN3	Αγοραστής
+OFFLINE_SHOP_HISTORY_COLUMN4	Ημερομηνία
+OFFLINE_SHOP_AVERAGE_PRICE	Μέση τιμή
+OFFLINE_SHOP_SELL_DIALOG_QUESTION	Για πόσα Yang [ENTER] θα ήθελες να πουλήσεις το αντικείμενό σου ;
+OFFLINE_SHOP_YOU_GET	Παίρνεις:
+OFFLINE_SHOP_SELL_AVERAGE_PRICE	Πούλα στη μέση τιμή
+OFFLINE_SHOP_CHANGE_APPEARANCE	Αλλαγή εμφάνισης
+OFFLINE_SHOP_TIME_REMAINING	Εναπομείναντας χρόνος
+SHOP_SEARCH_CAT_ORES	Μεταλλεύματα
+SYSTEM_PICK_OPTION	Επιλογές μαζέματος
+PICKUP_CATEGORY_POTION	Φίλτρα
+PICKUP_CATEGORY_BOOK	Βιβλία
+PICKUP_CATEGORY_SIZE_TITLE	Μέγεθος θέσης
+PICKUP_CATEGORY_SIZE_1	1 θέση
+PICKUP_CATEGORY_SIZE_2	2 θέσεις
+PICKUP_CATEGORY_SIZE_3	3 θέσεις
+OPTION_HIDE_NPC_TITLE	Απόκρυψη
+OPTION_HIDE_NPC_CAT1	Buffis
+OPTION_HIDE_NPC_CAT2	Υποζύγια
+OPTION_HIDE_NPC_CAT3	Pet
+ZODIAC_CALENDAR	Ζωδιακό ημερολόγιο
+SAVE_WINDOW_POS	Αποθήκευσε την θέση παραθύρου
+NEW_EMOTES	Νέα συναισθήματα
+FONT	Font
+FONT_DEFAULT	Κανονικό
+BDAY_EVENT_DESC_D2	Ολοκλήρωσε τις περισσότερες κατακόμβες
+BDAY_EVENT_DESC_D3	Νίκησε τα περισσότερα Metins
+BDAY_EVENT_DESC_D4	Χρησιμοποίησε τα περισσότερα μαγέματα αντικειμένου
+BDAY_EVENT_DESC_D5	Σκότωσε τα περισσότερα τέρατα
+BDAY_EVENT_DESC_D6	Τελείωσε τα περισσότερα βιβλία αποστολών
+BDAY_EVENT_DESC_D7	Σκότωσε παίχτες από την αντίπαλη πλευρά
+BDAY_EVENT_REWARD_D1	10% δυνατό ενάντια σε Boss
+BDAY_EVENT_REWARD_D2	25% μικρότερος χρόνος κρυώματος σε κατακόμβες
+BDAY_EVENT_REWARD_D3	10% Strong against Metinstones
+BDAY_EVENT_REWARD_D4	50% lower cooldown on Biologist Missions
+BDAY_EVENT_REWARD_D5	10% δυνατό σε τέρατα
+BDAY_EVENT_REWARD_D6	10% αυξημένες πιθανότητες αναβάθμισης
+BDAY_EVENT_REWARD_D7	5% πιθανότητα για διπλάσια αντικείμενα
+OPTION_ONLY_ITEM_TEXTTAIL	Drop
+BATTLE_FIELD_MONDAY	Δευτέρα
+BATTLE_FIELD_TUESDAY	Τρίτη
+BATTLE_FIELD_WEDNESDAY	Τετάρτη
+BATTLE_FIELD_THURSDAY	Πέμπτη
+BATTLE_FIELD_FRIDAY	Παρασκευή
+BATTLE_FIELD_SATURDAY	Σάββατο
+BATTLE_FIELD_SUNDAY	Κυριακή
+BATTLE_FIELD_EACH_DAY	%s: |cFF14ff48|h%02i:%02i|h|r  - |cFFff1a00|h%02i:%02i|h|r 
+BATTLE_FIELD_POINTS	%d
+BATTLE_FIELD_REQUEST_POTION	Ζήτησε φίλτρο
+BATTLE_FIELD_MONSTERS_LIMIT	%d/%d
+BATTLE_FIELD_INFO	Ζώνη μάχης
+BATTLE_FIELD_OPERATION_ONLINE	Η είσοδος είναι ανοιχτή.
+BATTLE_FIELD_OPERATION_OFFLINE	Η είσοδος είναι κλειστή
+BATTLE_FILED_RANK	Βαθμός
+BATTLE_FILED_RANK_EMPIRE	Αυτοκρατωρία
+BATTLE_FILED_RANK_NAME	Όνομα
+BATTLE_FILED_RANK_POINT	Πόντοι
+ENTER_BATTLE_FIELD	Συμμετοχή
+EXIT_BATTLE_FIELD	Θέλεις σίγουρα να φύγεις από τη ζώνη μάχης
+EXIT_BATTLE_FIELD_COLLECTED_POINTS	Τωρινοί πόντοι : %d
+TOTAL_RANKING	Συνολική κατάταξη
+WEEKLY_RANKING	Εβδομαδιαία κατάταξη
+RESTART_IMMEDIATE	Αναγέννηση
+REQUIRED_AMOUNT	Required amount
+DUNGEON_RANKING_WINDOW	Dungeon Rangliste
+DAY	Day
+SWITCHBOT_DROP	Drag your item here
+OPTION_SNOW	Snow
+OPTION_SAVE_WHISPERS	Save PM's
+OPTION_WHISPER_TIMESTAMP	PM timestamp
+CUBE_MAKE_ALL	Craft all
+AFFECT_GAME_OPTION	Affect icons
+AUCTION_STRICT_SEARCH	Exact search
+SKILL_COLOR	Skill color
+SAVE	Save
+STANDARD	Standard
+SKILL_COLOR_CURRENT	Current color:
+BLACKJACK_HIT	Hit
+BLACKJACK_STAY	Stay
+BLACKJACK_DEALER	Dealer
+BLACKJACK_YOU	You
+BLACKJACK_BET	Bet
+BLACKJACK_START_GAME	Start game
+OPTION_MESSENGER_NOTIFICATION	Messenger notif.
+SHOP_SELL_NOTIFICATION	%sx %s was sold for %s Yang.
+SHOP_SELL_NOTIFICATION_TITLE	Sales notification
+EQUIPMENT_PAGE_TITLE	Equipment Changer
+SAFEBOX_INVENTORY_NORMAL	Normal safebox
+OPTION_SELL_NOTIFICATION	Sales notifi.
+OPTION_HIDE_NPC_CAT4	Shops
+HOTKEY_TITLE_TEXT	Set hotkey
+SAFEBOX_INVENTORY_ITEMSHOP	ItemShop safebox
+SAFEBOX_INVENTORY_UPP	Upgrade items safebox
+SAFEBOX_INVENTORY_SKILL	Books safebox
+SAFEBOX_INVENTORY_STONE	Spirit stones safebox
+SAFEBOX_INVENTORY_ENCHANT	Enchant bonuses safebox
+SAFEBOX_INVENTORY_COSTUME	Costumes safebox
+SAFEBOX_INVENTORY_GUILD	Guild safebox
+HALLOWEEN_GAME_WIN_TITLE	Halloween reward (Itemshop Storage!)
+HALLOWEEN_GAME_WIN_TEXT	You get [ENTER]%s[ENTER]in you'r Itemshop Storage!

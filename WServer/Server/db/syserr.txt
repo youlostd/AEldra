@@ -1,0 +1,30 @@
+SYSERR: Oct 21 02:47:59 :: CClientManager::TransferPlayerTable: INVALID skill for pid 1 rest_size 1023 old_player_skill size 6 skill_count 0
+SYSERR: Oct 21 02:47:59 :: CClientManager::TransferPlayerTable: INVALID skill for pid 8 rest_size 1023 old_player_skill size 6 skill_count 0
+SYSERR: Oct 21 02:47:59 :: CClientManager::TransferPlayerTable: INVALID skill for pid 5 rest_size 1023 old_player_skill size 6 skill_count 0
+SYSERR: Oct 21 02:47:59 :: CClientManager::TransferPlayerTable: INVALID skill for pid 6 rest_size 1023 old_player_skill size 6 skill_count 0
+SYSERR: Oct 21 02:47:59 :: CClientManager::TransferPlayerTable: INVALID skill for pid 7 rest_size 1023 old_player_skill size 6 skill_count 0
+SYSERR: Oct 21 04:25:31 :: CAsyncSQL::DirectQuery: AsyncSQL::DirectQuery : mysql_query error: Can't find file: 'item' (errno: 2)
+query: SELECT MAX(id) FROM item WHERE id >= 100000000 and id <= 200000000
+SYSERR: Oct 21 04:25:31 :: CAsyncSQL::DirectQuery: AsyncSQL::DirectQuery : mysql_query error: Can't find file: 'item' (errno: 2)
+query: SELECT COUNT(*) FROM item WHERE id >= 100000000 AND id <= 200000000
+SYSERR: Oct 21 04:25:31 :: CClientManager::InitializeNowItemID: Can not build ITEM_ID_RANGE
+SYSERR: Oct 21 04:25:39 :: CAsyncSQL::DirectQuery: AsyncSQL::DirectQuery : mysql_query error: Can't find file: 'item' (errno: 2)
+query: SELECT MAX(id) FROM item WHERE id >= 100000000 and id <= 200000000
+SYSERR: Oct 21 04:25:39 :: CAsyncSQL::DirectQuery: AsyncSQL::DirectQuery : mysql_query error: Can't find file: 'item' (errno: 2)
+query: SELECT COUNT(*) FROM item WHERE id >= 100000000 AND id <= 200000000
+SYSERR: Oct 21 04:25:39 :: CClientManager::InitializeNowItemID: Can not build ITEM_ID_RANGE
+SYSERR: Oct 21 04:25:44 :: CAsyncSQL::DirectQuery: AsyncSQL::DirectQuery : mysql_query error: Can't find file: 'item' (errno: 2)
+query: SELECT MAX(id) FROM item WHERE id >= 100000000 and id <= 200000000
+SYSERR: Oct 21 04:25:44 :: CAsyncSQL::DirectQuery: AsyncSQL::DirectQuery : mysql_query error: Can't find file: 'item' (errno: 2)
+query: SELECT COUNT(*) FROM item WHERE id >= 100000000 AND id <= 200000000
+SYSERR: Oct 21 04:25:44 :: CClientManager::InitializeNowItemID: Can not build ITEM_ID_RANGE
+SYSERR: Oct 21 04:25:46 :: CAsyncSQL::DirectQuery: AsyncSQL::DirectQuery : mysql_query error: Can't find file: 'item' (errno: 2)
+query: SELECT MAX(id) FROM item WHERE id >= 100000000 and id <= 200000000
+SYSERR: Oct 21 04:25:46 :: CAsyncSQL::DirectQuery: AsyncSQL::DirectQuery : mysql_query error: Can't find file: 'item' (errno: 2)
+query: SELECT COUNT(*) FROM item WHERE id >= 100000000 AND id <= 200000000
+SYSERR: Oct 21 04:25:46 :: CClientManager::InitializeNowItemID: Can not build ITEM_ID_RANGE
+SYSERR: Oct 21 04:26:13 :: CAsyncSQL::DirectQuery: AsyncSQL::DirectQuery : mysql_query error: Can't find file: 'item' (errno: 2)
+query: SELECT MAX(id) FROM item WHERE id >= 100000000 and id <= 200000000
+SYSERR: Oct 21 04:26:13 :: CAsyncSQL::DirectQuery: AsyncSQL::DirectQuery : mysql_query error: Can't find file: 'item' (errno: 2)
+query: SELECT COUNT(*) FROM item WHERE id >= 100000000 AND id <= 200000000
+SYSERR: Oct 21 04:26:13 :: CClientManager::InitializeNowItemID: Can not build ITEM_ID_RANGE

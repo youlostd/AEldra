@@ -1,0 +1,3 @@
+SYSERR: Oct 21 02:55:17 :: socket_read: about to lose connection
+SYSERR: Oct 21 02:55:22 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+SYSERR: Oct 21 02:55:22 :: socket_read: about to lose connection

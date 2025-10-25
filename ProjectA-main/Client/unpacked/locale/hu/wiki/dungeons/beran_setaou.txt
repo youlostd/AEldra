@@ -1,0 +1,30 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/beransetoul.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Követelmények:
+*Kötelezõ szint: 75
+*Belépési jegy: Csavart kulcs
+[RIGHT_ALIGN]Twisted Key
+[IMG=d:/ymir work/ui/wiki/30179.tga; Y=5; X=493]
+
+
+[COLOR=0xffd700;FONT_SIZE=15]Sajátosságok:
+*A Sárkány-szobának 120 perces cooldownja van.
+*Minden csoport tagnak kell rendelkeznie kell Csavart kulccsal.
+*Minden metinnek külön effektje van, amely erõsödik, ha több ugyanolyan metin van.
+[X_PADDING=20]*A Sárkány HP regenerációja nõ a Gõg metinjétõl.
+[X_PADDING=20]*A Sárkány sebzése nõ a Bosszú metinjétõl.
+[X_PADDING=20]*A Sárkány HP regenerációjának sebessége nõ a Magány metinjétõl.
+[X_PADDING=20]*A Sárkány védelme nõ a Hegy metinjétõl.
+
+
+[CENTER_ALIGN;FONT_SIZE=18]Szintek:
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=185; CENTER_ALIGN]
+
+[COLOR=ef4f00;FONT_SIZE=15]Phase 1
+
+[X_PADDING=20]Üsd a metineket ameddig az általad kívánt metin meg nem jelenik.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Phase 2
+
+[X_PADDING=20]Öld meg Beran-Setaou-t.

@@ -1,0 +1,56 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/shipdefense.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Követelmények:
+*Kötelezõ szint: 105
+*Belépési jegy: Nem kell belépési jegy.
+[RIGHT_ALIGN]Blue Crystal Essence
+[IMG=d:/ymir work/ui/wiki/31005.tga; Y=5; X=479]
+
+[COLOR=0xffd700;FONT_SIZE=15]Sajátosságok:
+*A Hajó védés dungeon-nek 180 perc cooldownja van.
+*A dungeon-be csak csoportba mehetsz be.
+*Be kell fejezned a dungeon-t, mielõtt az árbóc elpusztúlna.
+*Választanod kell egy jutalmat a ládából, a dungeon végén.
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18]Szintek:
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=140; CENTER_ALIGN]
+[COLOR=ef4f00;FONT_SIZE=15]1. Szint
+
+[X_PADDING=20]Ölj meg minden szörnyet a fedélzeten, hogy megvédd a hajó árbócát.
+[COLOR=ef4f00;FONT_SIZE=15]2. Szint
+
+[X_PADDING=20]Ölj meg minden szörnyet a fedélzeten, hogy megvédd a hajó árbócát.
+[COLOR=ef4f00;FONT_SIZE=15]3. Szint
+
+[X_PADDING=20]Ölj meg minden szörnyet és metint a fedélzeten. Ha a Hidra debuff lejárt, 
+[X_PADDING=20]akkor megölheted az elsõ hidra fejet.
+
+[COLOR=ef4f00;FONT_SIZE=15]4. Szint
+
+[X_PADDING=20]Ölj meg minden szörnyet a fedélzeten, hogy megvédd a hajó árbócát.
+
+[COLOR=ef4f00;FONT_SIZE=15]5. Szint
+
+[X_PADDING=20]Ölj meg minden szörnyet a fedélzeten, hogy megvédd a hajó árbócát.
+
+[COLOR=ef4f00;FONT_SIZE=15]6. Szint
+
+[X_PADDING=20]Ölj meg minden szörnyet és metint a fedélzeten. Ha a Hidra debuff lejárt,
+[X_PADDING=20]akkor megölheted a második hidra fejet.
+
+[COLOR=ef4f00;FONT_SIZE=15]7. Szint
+
+[X_PADDING=20]Ölj meg minden szörnyet a fedélzeten, hogy megvédd a hajó árbócát.
+
+[COLOR=ef4f00;FONT_SIZE=15]8. Szint
+
+[X_PADDING=20]Ölj meg minden szörnyet a fedélzeten, hogy megvédd a hajó árbócát.
+
+[COLOR=ef4f00;FONT_SIZE=15]9. Szint
+
+[X_PADDING=20]Ölj meg minden szörnyet és metint a fedélzeten. Ha a Hidra debuff lejárt,
+[X_PADDING=20]akkor megölheted az utolsó hidra fejet. A Fekete Gyöngy kincsesláda 
+[X_PADDING=20]Kék Kristályesszenciáért.
+

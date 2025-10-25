@@ -1,0 +1,31 @@
+[DELAY value;0]
+[COLOR r;0|g;195|b;255]"Zone 1"[/COLOR r;0|g;195|b;255][ENTER]
+evoca 100 monstri in 90 secondi uccidendo piu mostri possibili. per ogni mostro ucciso , ne compariranno due!![ENTER]
+Dopo aver evocato 100 monstri , Avrai 60 secondi per ucciderli tutti![ENTER]
+[ENTER]
+
+[COLOR r;0|g;195|b;255]"Zone 2"[/COLOR r;0|g;195|b;255][ENTER]
+Distruggi la Metin Corretta.[ENTER]
+[ENTER]
+
+[COLOR r;0|g;195|b;255]"Zone 3"[/COLOR r;0|g;195|b;255][ENTER]
+Colleziona le chiavi dalle seguenti ordate di Monstri.[ENTER]
+Queste chiavi sono necessarie per uccidre la prole di Sindarin! ogni chiave detrarra il 10% dalla prole![ENTER]
+[ENTER]
+
+[COLOR r;0|g;195|b;255]"Zone 4"[/COLOR r;0|g;195|b;255][ENTER]
+Uccidi Sindarin e i suoi scagnozzi![ENTER]
+[ENTER]
+
+[COLOR r;0|g;195|b;255]"Zone 5"[/COLOR r;0|g;195|b;255][ENTER]
+Sopravvivi per 3 minuti e uccidi tutti i mostri rimanenti.[ENTER]
+Ogni 30 secondi una safe zone apparira sul terreno, se non la raggiungerai in tempo, muorirari e dovrai rincominciare il livello da capo![ENTER]
+
+[COLOR r;0|g;195|b;255]"Zone 6"[/COLOR r;0|g;195|b;255][ENTER]
+Uccidi le 3 ordate di mob in 3 minuti. se non ci riuscirai, il livello rincomincera da capo!![ENTER]
+[ENTER]
+
+[COLOR r;0|g;195|b;255]"Boss Zone"[/COLOR r;0|g;195|b;255][ENTER]
+Sconfiggi Thranduil![ENTER]
+Se sei riuscito a sconfiggere Thranduil, ce una piccola speranza di evocare il Guardiano della Foresta. [ENTER]
+Da lui potrai craftare il nuovo equipaggiamento!

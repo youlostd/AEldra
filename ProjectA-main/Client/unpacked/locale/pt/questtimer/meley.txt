@@ -1,0 +1,13 @@
+[DELAY value;0]
+[COLOR r;0|g;195|b;255]1ª Fase[/COLOR r;0|g;195|b;255][ENTER]
+Causa dano ás Estátuas do Dragão até estarem a 75% da vida restante. Quando aparecer o escudo laranja por cima da Estátua, não levará mais dano. [ENTER]
+[ENTER]
+[COLOR r;0|g;195|b;255]2ª Fase[/COLOR r;0|g;195|b;255][ENTER]
+Causa dano ás Estátuas do Dragão até estarem a 50% da sua vida restante. Em 2 minutos 4 Ovos Dragão serão invocados e enquanto estiverem vivos as Estátuas não irão sofrer nenhum dano[ENTER]
+[ENTER]
+[COLOR r;0|g;195|b;255]3ª Fase[/COLOR r;0|g;195|b;255][ENTER]
+4 Idall Guarda Dragão irão aparecer, que têm de ser derrotados. Depois de serem derrotados, as Estátuas Dragão poderão ser danificadas até terem de 0% de vida. Quando chegarem a 0% de vida as estátuas vão ficar verdes.[ENTER]
+[ENTER]
+[COLOR r;0|g;195|b;255]4ª Fase[/COLOR r;0|g;195|b;255][ENTER]
+Quando as Estátuas do Dragão chegarem a 0% de vida, quatro jogadores terão que usar o Anel do Fogo do Dragão nas estátuas em 10 segundos! Meley será derrotado pelas estátuas e irão desaparecer depois. Após isso irá aparecer o Cofre do Dragão Dourado, em que os jogadores poderão escolher a recompensa.[ENTER]
+

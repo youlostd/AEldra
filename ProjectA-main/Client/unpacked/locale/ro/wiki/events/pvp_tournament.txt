@@ -1,0 +1,66 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/pvptournament.tga]
+[CENTER_ALIGN;FONT_SIZE=18]Turneu PVP
+
+
+[COLOR=0xffd700;FONT_SIZE=15]Continut:
+*1. Informatii Generale
+*2. Instructiuni eveniment
+*3. Nivele
+*4. Recompensele castigatorilor
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=120; CENTER_ALIGN]
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Informatii Generale:
+
+Puteti intra in harta PVP cu ajutorul unui quest sau de la Capitan.
+Fiecare runda a turneului este intamplatoare. Asta inseamna ca o sa concurezi impotriva tuturor raselor, nu doar a ta. Cand intrii in harta PVP, vorbeste cu Amiralul Angmur pentru a te inregistra in Turneul PVP
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=210; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Instructiuni eveniment
+
+De indata ce te telportezi in Harta Speciala, unde este tinut evenimentul, mergi la mijlocul mapei.
+O sa il gasesti pe Amiralul Angmur, cu care trebuie sa vorbesti daca vrei sa te inregistrezi.
+Pentru a fi un eveniment corect, PvP-ul este executat intr-o gama diferita de nivele.
+Depinzand de nivel, esti pus intr-o anumita gama si acum este timpul sa iti strangi itemele.
+Sunt 4 arene diferite, unde bataliile sunt individuale.
+Cand Amiralul Angmur gaseste o arena libera pentru tine si oponent, esti teleportat automat inauntru.
+
+De indata ce esti teleportat in arena, ai la dispozitie 10 secunde sa te pregatesti.
+In timpul asteptarii, ai voie sa te pregatesti, dar nu sa te misti sau sa te lupti.
+Rundele sunt "Cel mai bun din 3", asta insemnand ca ai nevie doar de 2 victorii consecutive.
+Turneul PvP este de tipul "Knock-out", asta insemnand ca o sa fie un singur castigator (Pentru fiecare gama de nivele)
+In timpul bataliei, urmatoarele iteme/functii sunt scoase:
+
+*Potiune Rosie (S), (M) si (L)
+*Elixirul soarelui (S), (M) si (L)
+*Mounti
+*Peturi
+*Buffi
+*Buffuri de echipa.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=525; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Nivele
+
+Ca fiecare jucator sa poata participa, Turneul PvP este impartit in 5 game de nivele.
+
+*Nivelele 35-60
+*Nivelele 61-75
+*Nivelele 76-95
+*Nivelele 96-105
+*Nivelele 106-115
+
+Fiecare gama o sa aiba un singur castigator.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=690; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]4. Recompensele castigatorilor
+
+Recompensele de la evenimentele PvP sunt de obicei anuntate in sectiunea "Events" de pe forum.
+Acestea depinde de nevoile jucatorilor si se schimba de la eveniment la eveniment.
+

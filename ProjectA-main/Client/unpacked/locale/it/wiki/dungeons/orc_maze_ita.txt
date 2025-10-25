@@ -1,0 +1,28 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/orcmaze.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Requisiti:
+*Livello richiesto: 55-85
+*Ticket d'ingresso: Orc Parchment
+[RIGHT_ALIGN]Pergamena dell orco
+[IMG=d:/ymir work/ui/wiki/94031.tga; Y=5; X=493]
+[COLOR=0xffd700;FONT_SIZE=15]Peculiarità:
+*Si puo avere acceso al dungeon solamente in solitaria.
+*Il labirinto dell orco ha 90 minuti di cooldown.
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18]Le Fasi:
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=100; CENTER_ALIGN]
+[COLOR=ef4f00;FONT_SIZE=15]Fase 1
+
+[X_PADDING=20]Distruggi 4x Metin dell'anima
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Fase 2
+
+[X_PADDING=20]Uccidi il capo orco maledetto
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Fase 3
+
+[X_PADDING=20]Uccidi Il re degli orchi maledetto

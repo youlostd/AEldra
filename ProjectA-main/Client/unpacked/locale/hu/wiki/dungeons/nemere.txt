@@ -1,0 +1,43 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/nemere.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Követelmények:
+*Kötelezõ szint: 90-105
+*Belépési jegy: Jeges belépési jegy.
+[RIGHT_ALIGN]Ice Ticket
+[IMG=d:/ymir work/ui/wiki/31089.tga; Y=5; X=500]
+
+[COLOR=0xffd700;FONT_SIZE=15]Sajátosságok:
+*A Nemere Õrtornyának 90 perces cooldownja van.
+*A dungeon-be bemehetsz egyedül, és csoportosan is.
+*Összesen 60 perc áll rendelkezésedre hogy teljesítsd a Nemere Õrtornyát.
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18]Szintek:
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=140; CENTER_ALIGN]
+[COLOR=ef4f00;FONT_SIZE=15]1. Szint
+
+[X_PADDING=20]Pusztíts el 8 darab Hideg Metint. Mindegyik metin dob egy Északi Csillagot. 
+[X_PADDING=20]Húzd rá az oszlopra, hogy elpusztítsd õket. Mind a 8 oszlopot el kell pusztítani.
+
+[COLOR=ef4f00;FONT_SIZE=15]2. Szint
+
+[X_PADDING=20]Ölj meg 50 szörnyet
+
+[COLOR=ef4f00;FONT_SIZE=15]3. Szint
+
+[X_PADDING=20]Pusztítsd el a metint, amely pozíciót vált minden 10. másodpercben.
+
+[COLOR=ef4f00;FONT_SIZE=15]4. Szint
+
+[X_PADDING=20]Öld meg Szel-t.
+
+[COLOR=ef4f00;FONT_SIZE=15]5. Szint
+
+[X_PADDING=20]Gyûjts össze 10 darab Jég Kulcsot. Miután összegyûjtötted õket, átalakulnak egy Jég-Virág kulccsá. 
+[X_PADDING=20]Használd, hogy elpusztítsd az Északi sárkány szobrot.
+
+[COLOR=ef4f00;FONT_SIZE=15]6. Szint
+[X_PADDING=20]Öld meg Nemerét
+
+

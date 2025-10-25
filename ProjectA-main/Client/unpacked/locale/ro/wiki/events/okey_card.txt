@@ -1,0 +1,82 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/okeycard.tga]
+[CENTER_ALIGN;FONT_SIZE=18]Eveniment Carduri OK
+
+[COLOR=0xffd700;FONT_SIZE=15]Continut:
+*1. Informatii generale
+*2. Instructiuni ale jocului
+*3. Recompense
+*4. Combinatii si puncte
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=120; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Informatii generale
+
+Omorand monstrii vei primii Card Colectie OK in timpul evenimentului.
+Cardruile OK sunt un drop alternativ, asta insemnand ca se pot lua de la toti monstrii apropiati de nivelul tau ( +/- 15 nivele).
+De indata ce colectezi 24 de carduri, primesti automat un Set de carduri OK.
+De atunci ai voie sa joci minigame-ul.
+Cand evenimentul este activ, o inconita o sa apara langa mini-harta, de acolo poti juca minigame-ul.
+
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=250; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Instructiuni ale jocului
+
+Tinta este sa detii combinatii de seturi si run-uri.
+Un set inseamna 3 carti de acelasi numar (ex. 7,7,7)
+Cu cat numarul de pe carti este mai mic, cu atatea puncte vei primii mai putin.
+
+Un run inseamna sa detii 3 carti consecutive (ex 6,7,8)
+Cu cat numarul de pe carti este mai mic, cu atatea puncte vei primii mai putin.
+Run-urile de aceleasi culoare valoreaza chiar mai multe puncte decat cele multicolore.
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=450; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Recompense
+
+Recomensa pentru fiecare joc este un cufar care depinde de scorul tau.
+Pentru a primi acest cufar, apasa pe butonul "Sfarsit".
+
+*Scor < 300: Cufar Okey de bronz
+*Scor 300-399: Cufar Okey argintiu
+*Scor = 400: Cufar Okey auriu
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=590; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]4. Combinatii si puncte
+
+[COLOR=ef4f00;FONT_SIZE=15]4.1 Puncte Seturi
+
+*1-1-1 : 20 Puncte
+*2-2-2 : 30 Puncte
+*3-3-3 : 40 Puncte
+*4-4-4 : 50 Puncte
+*5-5-5 : 60 Puncte
+*6-6-6 : 70 Puncte
+*7-7-7 : 80 Puncte
+*8-8-8 : 90 Puncte
+
+[COLOR=ef4f00;FONT_SIZE=15]4.2 Puncte Runuri
+
+[COLOR=ef4f00]4.2.1 Puncte runuri - Carti de diferite culori:
+
+*1-2-3 : 10 Puncte
+*2-3-4 : 20 Puncte
+*3-4-5 : 30 Puncte
+*4-5-6 : 40 Puncte
+*5-6-7 : 50 Puncte
+*6-7-8 : 60 Puncte
+
+[COLOR=ef4f00]4.2.2 Puncte runuri - Carti de aceeasi culoare:
+
+*1-2-3 : 100 Puncte
+*2-3-4 : 100 Puncte
+*3-4-5 : 100 Puncte
+*4-5-6 : 100 Puncte
+*5-6-7 : 100 Puncte
+*6-7-8 : 100 Puncte
+

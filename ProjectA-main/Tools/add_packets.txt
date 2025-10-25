@@ -1,0 +1,9 @@
+Packet hinzufügen:
+1. In Verzeichnis GIT/server/protobuf/ wechseln
+2. Je nach Paket-Type (Client -> Game (CG), Game -> Client (GC), Game -> Database (GD), Database -> Game (DG), Game -> Game (GG)) die richtige Datei öffnen (für Client -> Game wäre es z.B. "cg_packets.proto")
+3. An irgendeiner Stelle unter den Infos ganz oben (am besten die Ordnung einhalten, spielt aber eigtl keine Rolle) das Paket erstellen... Syntax lässt sich unter https://developers.google.com/protocol-buffers/docs/proto3 genauer nachlesen; wir nutzen Version 3.9.0
+4. Zu diesem Paket muss nun ein Header erstellt werden, dazu in das Verzeichnis GIT/server/protobuf/headers/ wechseln
+5. Wieder entsprechende Datei öffnen, je nach Paket-Typ (z.B. "cg_headers.hproto") - dieses Format ist ein Eigenformat (selbsterstellt)
+6. Dort an irgendeiner Stelle in der vorgegebenen "group" (es gibt nur eine) den Header mit dem folgenden Format erstellen: "[HEADER_NAME] => [cgps/gcps/dgps/.../ -> je nach Paket-Typ, ist auch in der ersten Zeile der Datei nachlesbar].[PaketName],"
+7. Nun wieder in das Verzeichnis GIT/server/protobuf/ wechseln und die Datei export.py ausführen (Python muss installiert sein..)
+8. Die Pakete wurden erstellt und können nun im Source genutzt werden

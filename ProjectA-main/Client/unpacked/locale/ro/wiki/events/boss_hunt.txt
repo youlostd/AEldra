@@ -1,0 +1,43 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/bosshunt.tga]
+[CENTER_ALIGN;FONT_SIZE=18]Evenimentul de Vanatoarea a bossului
+
+[COLOR=0xffd700;FONT_SIZE=15]Continut
+*1. Informatii generale
+*2. Instructiuni ale evenimentului
+*3. Recompense
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=85; CENTER_ALIGN]
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Informatii Generale
+
+Evenimentul este pentru jucatorii de nivel 30+
+O lovitura inregistreaza 1 daune catre PV-ul boss-ului si astfel primesti puncte pe care le poti vedea in partea din stanga jos a interfatei, deasupra PV-ului tau.
+
+Poti rascumpara punctele pe care le-ai colectat la Uriel pentru diferite cufere.
+Cat timp ataci boss-ul, viteza de atac este redusa cu 100.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=210; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Instructiuni
+
+Razboinicul Umbrelor o sa apara in zonele neutre precum Valea Orcilor, Muntele Sohan, Tara de foc si Desertul Yongbi (cate 2 pentru fiecare canal.
+In jurul Razboinicului Umbrelor, PvP-ul este dezactivat.
+Pentru fiecare lovitura asupra Razboinicului Umbrelor primesti un punct. 
+
+Razboinicul Umbrelor Brutal o sa apara in mapele beta (Muntii Thunder, Stanca Gautama, Nephrite)
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=400; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Recompense
+
+Poti schimba punctele la Uriel pentru unul din urmatoarele cufere : Cufar Decimat de bronz, cufar decimat de argint, Cufar decimat de aur sau Cufar Decimat magnific.
+
+Atentie: Punctele vor disparea imediat ce evenimentul se incheie. Asa ca fiti sigur ca le schimbati la timp
+
+*500 Puncte: cufar Decimat de bronz
+*1000 Puncte: cufar decimat de argint
+*2000 Puncte: Cufar decimat de aur
+*5000 Puncte: Cufar Decimat magnific
+
+

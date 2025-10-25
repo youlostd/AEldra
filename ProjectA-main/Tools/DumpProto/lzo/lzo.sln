@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lzo", "lzo.vcxproj", "{3AE0E6E6-B750-4769-9A6E-0D47012F1B40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Cython|x86 = Cython|x86
+		Debug_XP|x86 = Debug_XP|x86
+		Debug|x86 = Debug|x86
+		dev_elonia|x86 = dev_elonia|x86
+		Distribute_XP_Debug|x86 = Distribute_XP_Debug|x86
+		live_elonia|x86 = live_elonia|x86
+		Release|x86 = Release|x86
+		S2_Distribute_XP|x86 = S2_Distribute_XP|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AE0E6E6-B750-4769-9A6E-0D47012F1B40}.Cython|x86.ActiveCfg = Cython|Win32
+		{3AE0E6E6-B750-4769-9A6E-0D47012F1B40}.Cython|x86.Build.0 = Cython|Win32
+		{3AE0E6E6-B750-4769-9A6E-0D47012F1B40}.Debug_XP|x86.ActiveCfg = Debug_XP|Win32
+		{3AE0E6E6-B750-4769-9A6E-0D47012F1B40}.Debug_XP|x86.Build.0 = Debug_XP|Win32
+		{3AE0E6E6-B750-4769-9A6E-0D47012F1B40}.Debug|x86.ActiveCfg = Debug|Win32
+		{3AE0E6E6-B750-4769-9A6E-0D47012F1B40}.Debug|x86.Build.0 = Debug|Win32
+		{3AE0E6E6-B750-4769-9A6E-0D47012F1B40}.dev_elonia|x86.ActiveCfg = dev_elonia|Win32
+		{3AE0E6E6-B750-4769-9A6E-0D47012F1B40}.dev_elonia|x86.Build.0 = dev_elonia|Win32
+		{3AE0E6E6-B750-4769-9A6E-0D47012F1B40}.Distribute_XP_Debug|x86.ActiveCfg = Distribute_XP_Debug|Win32
+		{3AE0E6E6-B750-4769-9A6E-0D47012F1B40}.Distribute_XP_Debug|x86.Build.0 = Distribute_XP_Debug|Win32
+		{3AE0E6E6-B750-4769-9A6E-0D47012F1B40}.live_elonia|x86.ActiveCfg = live_elonia|Win32
+		{3AE0E6E6-B750-4769-9A6E-0D47012F1B40}.live_elonia|x86.Build.0 = live_elonia|Win32
+		{3AE0E6E6-B750-4769-9A6E-0D47012F1B40}.Release|x86.ActiveCfg = Release|Win32
+		{3AE0E6E6-B750-4769-9A6E-0D47012F1B40}.Release|x86.Build.0 = Release|Win32
+		{3AE0E6E6-B750-4769-9A6E-0D47012F1B40}.S2_Distribute_XP|x86.ActiveCfg = S2_Distribute_XP|Win32
+		{3AE0E6E6-B750-4769-9A6E-0D47012F1B40}.S2_Distribute_XP|x86.Build.0 = S2_Distribute_XP|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5E747ED-53F1-4297-B3A5-671CDF0D0C61}
+	EndGlobalSection
+EndGlobal

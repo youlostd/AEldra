@@ -1,0 +1,726 @@
+ACCE_ABSORB	Assorbimento bonus
+ACCE_COMBINE	Combinazione
+ACCE_MAIN	Stola 1
+ACCE_RESULT	Risultato
+ACCE_SERVE	Stola 2
+ACCEPT	Conferma
+ATTACH_METIN_INFO	Vuoi utilizzare la Pietra Spirituale?
+ATTACH_METIN_TITLE	Utilizza la Pietra Spirituale
+CANCEL	Interrompi
+CHANGE_PASSWORD_CONFIRM	Conferma nuova pass
+CHANGE_PASSWORD_NEW	Nuova password
+CHANGE_PASSWORD_OLD	Vecchia password
+CHANGE_PASSWORD_TITLE	Modifica password
+CHARACTER_ACTION	Azioni
+CHARACTER_EMOTICON	Emozioni
+CHARACTER_MAIN	Personaggio
+CHARACTER_MUTUAL_ACTION	Azioni interattive
+CHARACTER_NORMAL_ACTION	Azioni normali
+CHARACTER_QUEST	Missioni
+CHARACTER_SKILL	Abilità
+CLOSE	Chiudi
+CREATE_ATT_GRADE	STR
+CREATE_CREATE	Imposta
+CREATE_DEX_GRADE	DEX
+CREATE_HP	VIT
+CREATE_LAST_POINT	Punti
+CREATE_MAN	Uomo
+CREATE_NAME	Nome
+CREATE_NEXT	Avanti
+CUBE_REQUIRE_MATERIAL	Materiali necessari
+CUBE_REQUIRE_MATERIAL_OR	o
+CREATE_PREV	Indietro
+CREATE_SEX	Sesso
+CREATE_SHAPE	Aspetto
+CREATE_SP	INT
+CREATE_STAT_RESET	Indietro
+CREATE_WOMAN	Donna
+CUBE_TITLE	 Produzione
+EMPIRE_EXIT	Fine
+EMPIRE_NEXT	Avanti
+EMPIRE_PREV	Indietro
+EMPIRE_SELECT	Scegli
+EXCHANGE_ACCEPT	Accetta
+EXCHANGE_TITLE	Commercio
+GAMEOPTION_TITLE	Opzioni di gioco
+GAME_EXIT_OBSERVER	Termina modalità spettatore
+GAME_HELP	Aiuto
+GAME_QUEST	Rinuncia
+GAME_SKILL_UP	Aumenta abilità.
+GAME_STAT_UP	Aumenta status
+GUILDWINDOW_BASE_BUFF	Bonus di Gilda
+GUILD_BANKINFO_CLOSE	Chiudi
+GUILD_BANKINFO_NAME	Membro
+GUILD_BANKINFO_TITLE	Registro magazzino gilda
+GUILD_BANKINFO_TYPE	oggetto/valuta
+GUILD_BANKINFO_USETYPE	Azioni
+GUILD_BANK_CLOSE	Chiudi
+GUILD_BANK_INFO	Pagina dello store:
+GUILD_BANK_NUMBER	Numero Banca
+GUILD_BASEINFO_BANK	Magazzino di Gilda
+GUILD_BASEINFO_BANKLASTOUT	Ultimo Item rimosso
+GUILD_BASEINFO_BUILDING	Edificio di Gilda
+GUILD_BASEINFO_DEAL	Vendi il Territorio della Gilda
+GUILD_BASEINFO_FACTORY	Fabbro della Gilda
+GUILD_BASEINFO_GOLDMANAGE	Transazione 
+GUILD_BASEINFO_GUILDLAND	 Territorio della gilda
+GUILD_BASEINFO_LANDABANDON	Abbandona il territorio della Gilda
+GUILD_BASEINFO_LANDSCAPE	L'altro
+GUILD_BASEINFO_LOCALE	 Posizione
+GUILD_BASEINFO_MONEY	Saldo
+GUILD_BASEINFO_MONEYBANKINFO	Informazioni Banca Gilda 
+GUILD_BASEINFO_MONEYIN	Deposit
+GUILD_BASEINFO_MONEYLASTOUT	Ultimo Ritiro
+GUILD_BASEINFO_MONEYOUT	Ritira
+GUILD_BASEINFO_POWER	Altare della Forza
+GUILD_BASEINFO_SMEITER	Alchimista della Gilda
+GUILD_BASEINFO_TITLE	Informazioni dell'Area
+GUILD_BASEINFO_VOTE	Vota
+GUILD_BASENAME	Nome base
+GUILD_BOARD_ID	Nome
+GUILD_BOARD_REFRESH	Attualizzare(F5)
+GUILD_BOARD_TEXT	Messaggio
+GUILD_BUILDING_CATEGORY_TITLE	Unità di costruzione
+GUILD_BUILDING_CHANGE	Cambia
+GUILD_BUILDING_DIRECTION	Orientamento
+GUILD_BUILDING_GRADE	Posizione
+GUILD_BUILDING_INFO	Info edifici e costi
+GUILD_BUILDING_LIST_TITLE	Lista edifici
+GUILD_BUILDING_LOG	Tronco
+GUILD_BUILDING_NAME	Nome edificio
+GUILD_BUILDING_OPERATE	Uso
+GUILD_BUILDING_PLY	Compensato
+GUILD_BUILDING_POSITION	Posizione
+GUILD_BUILDING_PREVIEW	Anteprima
+GUILD_BUILDING_PRICE	Prezzo
+GUILD_BUILDING_REFRESH	Attualizzare(F5)
+GUILD_BUILDING_STONE	Pietra fond.
+GUILD_BUILDING_TITLE	Edificio della Gilda
+GUILD_CRYSTAL	Cristallo
+GUILD_DEPOSIT	Numeri
+GUILD_DROP_RESOURCE1	qui
+GUILD_DROP_RESOURCE2	Far cadere risorse
+GUILD_GEM	Pietre preziose
+GUILD_GRADE_CHANGE_GRADE_NAME	Nuovo nome di Rango
+GUILD_GRADE_NUM	Nr.
+GUILD_GRADE_PERMISSION_DELETE	Estrometti
+GUILD_GRADE_PERMISSION_JOIN	Invita
+GUILD_GRADE_PERMISSION_NOTICE	Scrivi
+GUILD_GRADE_PERMISSION_SKILL	Abilità
+GUILD_GRADE_RANK	Rango
+GUILD_GRADE_WRITE	Scrivi
+GUILD_INFO	Informazioni della Gilda
+GUILD_INFO_CUR_EXP	Esperienza
+GUILD_INFO_DECALRE_WAR	Guerra
+GUILD_INFO_ENEMY_GUILD	Gilda nemica
+GUILD_INFO_ENEMY_GUILD_EMPTY	Nessuno
+GUILD_INFO_LEVEL	Livello Gilde
+GUILD_INFO_MARK	Simbolo delle Gilde
+GUILD_INFO_MASTER	Capo
+GUILD_INFO_MASTER_VALUE	Capo
+GUILD_INFO_MEMBER_AVG_LEVEL	Livello medio
+GUILD_INFO_MEMBER_NUM	Numero di membri
+GUILD_INFO_NAME	Nome della Gilda
+GUILD_INFO_NAME_VALUE	Questo è il nome di una Gilda
+GUILD_INFO_OFFER_EXP	Invest.
+GUILD_INFO_REST_EXP	Esperienza necessaria
+GUILD_INFO_UPLOAD_MARK	Carica Stemma
+GUILD_INFO_UPLOAD_SYMBOL	Carica bandiera
+GUILD_MARK	Stemma della gilda
+GUILD_MEMBER_JOB	Classe
+GUILD_MEMBER_KNIGHT	Capo
+GUILD_MEMBER_LEVEL	Livello
+GUILD_MEMBER_NAME	Nome
+GUILD_MEMBER_RANK	Posizione
+GUILD_MEMBER_SPECIFIC_GRAVITY	Invest.
+GUILD_METIN_STONE	Pietra spirituale
+GUILD_MINENAL	Minerale
+GUILD_MONEY	Yang
+GUILD_NAME	Gilda
+GUILD_RESOURCE_INFO	Informazioni delle risorse
+GUILD_SKILLPAGE_LADDER	Punti Rango
+GUILD_SKILLPAGE_RANK	 Rango
+GUILD_SKILL_ACTIVE	Attivo
+GUILD_SKIlL_HEAL_GSP	Ricaricare
+GUILD_SKILL_PASSIVE	Passivo
+GUILD_SKILL_POWER	Energia
+GUILD_SKILL_STATE	Abilità della Gilda
+GUILD_SYMBOL	Stemma della Gilda
+GUILD_WAR_ACCEPT	Accettare dichiarazione di guerra
+GUILD_WAR_ALLSCORE	Tutte le guerre
+GUILD_WAR_BATTLE_TYPE	Tipo di lotta
+GUILD_WAR_CTF	Bandiera
+GUILD_WAR_DECLARE	Dichiarare guerra
+GUILD_WAR_ENEMY	Avversario
+GUILD_WAR_GAINSCORE	Punti
+GUILD_WAR_GAINSCORE_FIFTY	50
+GUILD_WAR_GAINSCORE_HUNDRED	100
+GUILD_WAR_GAINSCORE_THIRTY	30
+GUILD_WAR_GAMETIME	Tempo di Combatimento
+GUILD_WAR_GAMETIME_SIXTY	60 minuti
+GUILD_WAR_GAMETIME_TEN	10 minuti.
+GUILD_WAR_GAMETIME_THIRTY	30 minuti.
+GUILD_WAR_JOINMEMBER	Membro
+GUILD_WAR_JOINMEMBER_COUNT	Membri
+GUILD_WAR_JOINMEMBER_FIFTEEN	15
+GUILD_WAR_JOINMEMBER_FIVE	5
+GUILD_WAR_JOINMEMBER_TEN	10
+GUILD_WAR_NORMAL	Campo
+GUILD_WAR_REPORT	 Rapporto di guerra
+GUILD_WAR_REPORTLIST	Panoramica (Battaglie: B, Vittorie: W, Perdite: L, Pareggi: D)
+GUILD_WAR_SCORE	 Rapporto di guerra
+GUILD_WAR_SKILL	Abilita Gilda
+GUILD_WAR_TYPE_DEFENSE	Scudo di Battaglia
+GUILD_WAR_TYPE_DIE	Battaglia nell'Arena
+GUILD_WAR_TYPE_FLAG	Cattura la Bandiera
+GUILD_WAR_TYPE_NORMAL	Campo di Battaglia
+GUILD_WAR_TYPE_TIGER	Annientamento
+GUILD_WAR_TYPE_TIME	Tempo di attacco
+GUILD_WAR_WARP	Arena
+GUILD_WAR_WIN	Giro
+GUILD_WAR_WIN_FIVE	5
+GUILD_WAR_WIN_ONE	1
+GUILD_WAR_WIN_THREE	3
+GUILD_WATER	Acqua
+GUILD_WATER_STONE	Pietra acquatica
+GUILD_WITHDRAW	Prendi
+HELP_ATTACK_KEY	Attacco: tasto sinistro del mouse o barra spaziatrice
+HELP_CHANGE_PK_MODE	Cambiare il tipo di attacco: modifica impostazioni del tasto sinistro del mouse
+HELP_CHARACTER_BUTTON1	(Finestra del personaggio, finestra dell'inventario,
+HELP_CHARACTER_BUTTON2	lista degli amici e opzioni)
+HELP_CONTROL_CAMERA_BY_MIDDLEBUTTON	Modalità telecamera: tasto centrale o destro del mouse
+HELP_CONTROL_CAMERA_BY_RIGHTBUTTON	Modalità telecamera: tasto centrale o destro del mouse
+HELP_EXP	Esperienza
+HELP_FURY	Item Shop Ingame
+HELP_GUILD_WINDOW	Aprire la finestra della Gilda: Alt + G
+HELP_HELP	Mostra aiuto: H
+HELP_HP	Punti vita (HP)
+HELP_MESSENGER_WINDOW	Aprire la lista degli amici: Alt + M
+HELP_MOUSE_LEFT	Funzione del tasto sinistro del mouse
+HELP_MOUSE_RIGHT	Funzione del tasto destro del mouse
+HELP_MOVE_KEY	Movimento personaggio: W, S, A, D o tasti freccia
+HELP_OPEN_CHARACTER	Finestra del personaggio: C
+HELP_OPEN_CHAT	Aprire la finestra di chat: invio
+HELP_OPEN_INVENTORY	Aprire la finestra dell'inventario: I
+HELP_OPEN_LOG	Aprire il protocollo chat (log): L
+HELP_OPEN_MINIMAP	Aprire la mini-mappa: Shift + M
+HELP_OPEN_QUEST	Aprire la finestra delle missioni: N
+HELP_OPEN_SKILL	Aprire la finestra delle abilità: V
+HELP_OPEN_WHISPER	Aprire la chat privata: shift + invio
+HELP_OPEN_ZONEMAP	Aprire la mappa grande: M
+HELP_PICK_ITEM	Raccogliere oggetti: \\ o z o il tasto sinistro del mouse
+HELP_QUICKSLOT	Campi di accesso rapido
+HELP_SCREEN_CAPTURE	Fare uno screenshot: Stamp o Print (l'immagine sarà salvata nella cartella "Metin2\\screenshot")
+HELP_SHOW_ALL_NAME	Visualizza nome: Alt
+HELP_SP	Punti Mana (PM)
+HELP_SYSTEM_BUTTON	Tasti di sistema
+INVENTORY_PAGE_BUTTON_TOOLTIP	%d. Inventario
+INVENTORY_TITLE	Inventario
+ITEM_MALL	Item Shop
+LOAD_ERROR	Il file dati è rovinato. Reinstalla il Client. Clicca ora il tasto ESC.
+LOGIN_CONNECT	Collegare
+LOGIN_CONNECTING	Stai per essere collegato al server.
+LOGIN_DEFAULT_SERVERADDR	Nome del server, Canale 1
+LOGIN_EXIT	Termina
+LOGIN_REGION_TITLE	Luogo dove deve essere spedito il conto
+LOGIN_SELECT_BUTTON	Scegli
+LOGIN_SELECT_EXIT	Termina
+LOGIN_SELECT_OK	OK
+LOGIN_SELECT_TITLE	Scegli server
+MALL_PASSWORD_TITLE	Password
+MALL_TITLE	Magazzino dell'Item Shop
+MARKET_TITLE	Negozio
+MARKLIST_REFRESH	Attualizza
+MARKLIST_TITLE	Registra il logo della Gilda
+MESSAGE	Questo è un messaggio
+MESSENGER_ADD_FRIEND	Aggiungi amico
+MESSENGER_DELETE_FRIEND	Cancella amico
+MESSENGER_MOBILE	Invia SMS
+MESSENGER_OPEN_GUILD	Apri la finestra della Gilda
+MESSENGER_TITLE	Amici
+MESSENGER_USE_GUILD_MOVE_SKILL	Utilizza l'abitlità di movimento della Gilda
+MESSENGER_WHISPER	Chat privata
+MINIMIZE	Minimizza
+MOUSEBUTTON_ATTACK	Attacca
+MOUSEBUTTON_AUTO_ATTACK	Attacca automaticamente
+MOUSEBUTTON_CAMERA	Videocamera
+MOUSEBUTTON_SKILL	Abilità.
+MUSICLIST_TITLE	Scelta della musica
+NO	No
+OK	OK
+OPTION_ALWAYS_SHOW_NAME	Nome
+OPTION_ALWAYS_SHOW_NAME_OFF	Limitato
+OPTION_ALWAYS_SHOW_NAME_ON	Sempre
+OPTION_BLOCK	Blocca
+OPTION_BLOCK_EXCHANGE	Commercio
+OPTION_BLOCK_FRIEND	Amici
+OPTION_BLOCK_GUILD	Gilda
+OPTION_BLOCK_PARTY	Gruppo
+OPTION_BLOCK_PARTY_REQUEST	Richiesta
+OPTION_BLOCK_WHISPER	Chat privata
+OPTION_CAMERA_DISTANCE	Videocamera
+OPTION_CAMERA_DISTANCE_LONG	Lontano
+OPTION_CAMERA_DISTANCE_SHORT	Vicino
+OPTION_DELETE_MOBILE_BUTTON	Cancella numero di cellulare
+OPTION_EFFECT	Visualizzatore dei bersagli
+OPTION_FOG	Nebbia
+OPTION_FOG_DENSE	Molto
+OPTION_FOG_LIGHT	Poco
+OPTION_FOG_MIDDLE	Media
+OPTION_INPUT_MOBILE_BUTTON	Inserisci il numero di cellulare
+OPTION_MOBILE	Cellulare
+OPTION_MUSIC	Musica
+OPTION_MUSIC_CHANGE	Cambia
+OPTION_MUSIC_DEFAULT_THEMA	Titolo standard di Metin2
+OPTION_NAME_COLOR	Colore Nome
+OPTION_NAME_COLOR_EMPIRE	Nome del regno
+OPTION_NAME_COLOR_NORMAL	Normale
+OPTION_PVPMODE	Modo PvP
+OPTION_PVPMODE_FREE	Libero
+OPTION_PVPMODE_FREE_TOOLTIP	Puoi attaccare tutti i giocatori.
+OPTION_PVPMODE_GUILD	Gilda
+OPTION_PVPMODE_GUILD_TOOLTIP	Puoi attaccare tutti i giocatori esclusi membri della Gilda.
+OPTION_PVPMODE_PEACE	Pace
+OPTION_PVPMODE_PEACE_TOOLTIP	Non puoi attaccare i giocatori del tuo regno.
+OPTION_PVPMODE_REVENGE	Ostile
+OPTION_PVPMODE_REVENGE_TOOLTIP	Puoi attaccare solo giocatori con gradi diversi dal tuo.
+OPTION_SOUND	Effetti
+OPTION_TARGET_BOARD	Menù bersaglio
+OPTION_TARGET_BOARD_NO_VIEW	Chiudi
+OPTION_TARGET_BOARD_VIEW	Visualizza
+OPTION_TILING	Memoria video
+OPTION_TILING_APPLY	Usa
+OPTION_TILING_CPU	CPU
+OPTION_TILING_GPU	GPU
+OPTION_TITLE	Opzioni
+OPTION_VIEW_CHAT	Righe di Chat
+OPTION_VIEW_CHAT_OFF	nascondi
+OPTION_VIEW_CHAT_ON	visualizza
+PARTY_MEMBER_INFO_NAME	Nome dei membri del gruppo
+PASSWORD_DESC_1	Digita una password,
+PASSWORD_DESC_2	per aprire il magazzino.
+PASSWORD_DESC_3	Hai già cambiato la password?
+PASSWORD_DESC_4	In caso non l'avessi fatto, la tua password è: "000000".
+PASSWORD_DESC_5	Cambia la tua password nel magazzino.
+PASSWORD_TITLE	Salva-PW
+PICK_MONEY_TITLE	Dividi
+PRIVATE_SHOP_CLOSE_BUTTON	Chiudi negozio
+PRIVATE_SHOP_NAME	Nome del negozio
+PRIVATE_SHOP_TITLE	Crea un negozio privato
+OFFLINE_SHOP_CREATE_TITLE	Crea un negozio offline
+REFINE_COST	Costi di miglioramento: 0 Yang
+REFINE_INFO	Possibilità di successo del miglioramento: 100%
+REFINE_TTILE	Miglioramenti
+REPORT_VIOLENT_WHISPER	Sneak
+RESTART_HERE	Ricomincia qui
+RESTART_TOWN	Ricomincia nella città.
+SAFE_CHANGE_PASSWORD	Modifica password
+SAFE_TITLE	Magazzino
+SELECT_ATT_GRADE	STR
+SELECT_CREATE	Crea
+SELECT_DELETE	Cancella
+SELECT_DEX_GRADE	DEX
+SELECT_EMPIRE_NAME	Nome del Regno
+SELECT_EXIT	Termina
+SELECT_HP	VIT
+SELECT_LEVEL	Livello
+SELECT_METIN_STONE_TITLE	Scegli pietra spirituale
+SELECT_NAME	Nome
+SELECT_NO_GUILD	Nessuna Gilda
+SELECT_PLAYTIME	Tempo gioco (min.)
+SELECT_SELECT	Start
+SELECT_SP	INT
+SELECT_TITLE	Scegli titolo
+SHOP_BUY	Compra
+SHOP_SELL	Vendi
+SHOP_TITLE	Negozio
+SKILL_SUPPORT_TITLE	Abilità standard
+SYSTEMOPTION_TITLE	Opzioni di sistema
+SYSTEM_CHANGE	Cambia personaggio
+SYSTEM_EXIT	Termina gioco
+SYSTEM_HELP	Aiuto
+SYSTEM_LOGOUT	Sconnetti
+SYSTEM_MALL	Item Shop
+SYSTEM_OPTION	Opzioni di sistema
+TASKBAR_MONEY	Barra Soldi
+TASKBAR_CHARACTER	Personaggio [C/V/B/N]
+TASKBAR_CHAT	Finestra di Chat [Invio]
+TASKBAR_DISABLE	Disattivato
+TASKBAR_EXPAND	 Espandi finestra
+TASKBAR_INVENTORY	Inventario [I]
+TASKBAR_MESSENGER	Amici [Alt+M]
+TASKBAR_NEXT_QUICKSLOT	Prossimo campo di utilizzo veloce [Shift + Numero, Alt]
+TASKBAR_PREV_QUICKSLOT	Precedente campo di utilizzo veloce [Shift + Numero]
+TASKBAR_SYSTEM	Opzioni[ESC]
+WHISPER_BAN	Blocca
+WHISPER_NAME	Sussurra
+WHISPER_REPORT	segnala
+WHISPER_SEND	Invia
+YES	Sì.
+ZONE_MAP	Mappa grande
+INVENTORY_SORT	Ordinare
+GUILD_SAFE_TITLE	Deposito della Gilda
+GUILD_SAFEBOX_MONEY_TITLE	Deposito Gilda - Yang
+GUILD_SAFEBOX_MONEY_INFO_TEXT	 Quanto yang vuoi depositare o prelevare?
+GUILD_SAFEBOX_MONEY_GIVE_BUTTON	Deposito 
+GUILD_SAFEBOX_MONEY_TAKE_BUTTON	Ritira
+GUILD_SAFE_LOG_TITLE	Guildstorage Logs
+GUILD_SAFE_LOG_BUTTON	Logs
+ACCOUNT_PASSWORD_Q	Dimenticato?
+BDAY_EVENT_DESC_D1	Uccidi la maggior parte dei mostri Boss
+ACCOUNT_USERNAME_Q	Hai dimenticato il nome del tuo account?
+ACCOUNT_REGISTER	Registra?
+ACCOUNT_REGISTER_Q	Non hai un'Account
+ACCOUNT_CHANNEL	Canale %d
+ACCOUNT_USERNAME_LABEL	Nome acconto / ID
+ACCOUNT_PASSWORD_LABEL	Password
+ACCOUNT_LOGIN	Accedi
+ACCOUNT_YOUR_ACCLIST	I tuoi account
+SELECT_LANGUAGE_TITLE	Linguaggio
+LOGIN_EMPTY	[Save acc]
+COSTUME_WINDOW_TITLE	Costumi
+COSTUME_TITLE	Costumi Aperti
+SYSTEM_CHANNEL	Cambia Canale
+SERVER_INFO_LABEL	Aeldra.net CH
+OFFLINE_SHOP_TITLE	Il mio negozio Offline
+PET_TITLE	Haustier-Übersicht
+PET_STAT1_NAME	Vitalità
+PET_STAT2_NAME	Forza
+PET_STAT3_NAME	Intelligenza 
+PET_STAT4_NAME	Agility
+MOUNT_TITLE	Reittier-Übersicht
+MOUNT_STAT1_NAME	Forte contro i Mostri
+MOUNT_STAT2_NAME	Difesa conto Mostri
+MOUNT_STAT3_NAME	Forte contro pietra Metin
+MOUNT_STAT4_NAME	Forte contro Boss
+CHARACTER_VALUE	Proprietà
+CHARACTER_STATISTIC	I bonus
+CHAR_STAT_MVSPD	 Velocità di movimento:
+CHAR_STAT_ATSPD	Velocità d'attacco:
+CHAR_STAT_SPSPD	Liquore di velocità:
+CHAR_STAT_MAGIC_ATK	Attacco Magico:
+CHAR_STAT_NORMAL_ATK	Attacco Normale:
+CHAR_STAT_MAGIC_DEF	Difesa Magia:
+CHAR_STAT_NORMAL_DEF	Difesa Normale:
+CHAR_STAT_DODGE	Schiva:
+CHAR_MAIN_HP	(VIT) Vitalità
+CHAR_MAIN_INT	(INT) Intelligenza 
+CHAR_MAIN_STR	(STR) Forza:
+CHAR_MAIN_DEX	(DEX) Destrezza:
+CHAR_MAIN_POINTS	Punti disponibili:
+CHARACTER_BONI_ATTACK	Attacco 
+CHARACTER_BONI_DEFENSE	Difesa
+CHARACTER_BONI_PVM	Monster (PVM)
+CHARACTER_BONI_PVP	Giocatore (PVP)
+CHAR_HP	(HP) Vita
+CHAR_MP	(MP) Mana
+CHAR_EXP_OF	Di
+CHARACTER_ANTI_EXP_ACTIVE	Ottieni Esperienza: Disabilitato
+CHARACTER_ANTI_EXP_INACTIVE	Ottieni esperienza: Attivato
+QUEST_CATEGORIE_1	Generale
+QUEST_CATEGORIE_2	Battlepass
+TASKBAR_OPEN_CHAT	Apri Chat
+DRAGONSOUL_ACTIVATE	Attiva 
+DRAGONSOUL_REFINE_OPEN	Migliorare
+DRAGONSOUL_PAGE_BUTTON_1	Grezzo
+DRAGONSOUL_PAGE_BUTTON_2	Tagliato
+DRAGONSOUL_PAGE_BUTTON_3	Raro
+DRAGONSOUL_PAGE_BUTTON_4	Antico
+DRAGONSOUL_PAGE_BUTTON_5	Leggendario
+DRAGONSOUL_REFINE_WINDOW_TITLE	Finestra di Raffinamento
+DRAGONSOUL_TAP_TITLE_1	Diamante del Drago
+DRAGONSOUL_TAP_TITLE_2	Rubino del Drago
+DRAGONSOUL_TAP_TITLE_3	Giada del drago
+DRAGONSOUL_TAP_TITLE_4	La Pietra del Drago Zaffiro
+DRAGONSOUL_TAP_TITLE_5	Pietra del Drago Granato 
+DRAGONSOUL_TAP_TITLE_6	Onice del Drago
+DRAGONSOUL_TITLE	Alchimia della Pietra del Drago
+GRADE_SELECT	Classe
+STEP_SELECT	Grado di Purezza
+STRENGTH_SELECT	Level
+DO_REFINE	Raffina
+GAYA_SHOP_TITLE	Negozio Gaya
+AUCTION_INFORMER_WINDOW_TITLE	Oggetto venduto
+AUCTION_WINDOW_TITLE	Ricerca Negozzi
+AUCTION_PAGE_BUTTON_BUY	Compra
+AUCTION_PAGE_BUTTON_SELL	Vendi
+AUCTION_SEARCH_EDIT_OVERLAY_TEXT	Nome oggetto...
+AUCTION_SEARCH_BUTTON_TEXT	Cerca
+AUCTION_SEARCH_RESET_BUTTON_TEXT	Reset
+AUCTION_LV_TEXT_1	Limite di Livello
+AUCTION_LV_TEXT_2	a
+AUCTION_PRICE_TEXT_1	Prezzo limite
+AUCTION_PRICE_TEXT_2	a
+AUCTION_PRICE_OVERLAY_2	-(illimitato)
+AUCTION_ONLY_AUCTIONHOUSE_CHECKBOX	Mostra solo gli oggetti della casa d'aste
+AUCTION_ONLY_SELF_CHECKBOX	Mostra solo i tuoi articoli
+AUCTION_ORDER_TITLE	Opzioni di ordinamento
+AUCTION_ORDER_BUTTON_NAME	Nome Oggetto
+AUCTION_ORDER_BUTTON_PRICE	Prezzo
+AUCTION_ORDER_BUTTON_DATE	Data di assunzione
+AUCTION_SELL_NO_ITEM_TEXT	Trascina un oggetto in questa finestra per venderlo.
+AUCTION_SELL_NO_ITEM_DISABLE_TEXT	L'opzione Vendi è attualmente disabilitata per la casa d'aste.
+AUCTION_SELL_ITEM_PRICE_OVERLAY	Inserisci un prezzo
+AUCTION_SELL_ITEM_BUTTON	Impostato
+AUCTION_SELL_PRICE_TAX_INFO	 Agli articoli che inserirai nella casa d'aste verrà addebitato il 9% di tasse. Il prezzo visualizzato è il valore che il giocatore deve pagare. Il valore dopo aver ricevuto mostra quanto yang ottieni quando vendi.
+AUCTION_ITEM_PAGE_BUTTON_LEFT_TOOLTIP	Dieci pagine indietro
+AUCTION_ITEM_PAGE_BUTTON_RIGHT_TOOLTIP	Dieci pagine più in là
+AUCTION_RACE_TEXT	Classe
+AUCTION_RACE_TEXT_1	Guerriero
+AUCTION_RACE_TEXT_2	Ninja
+AUCTION_RACE_TEXT_3	Sura
+AUCTION_RACE_TEXT_4	Shamano
+AUCTION_RACE_TEXT_5	Lykaner
+MINI_GAME_RUMI_DISCARD_TEXT	Modalità sicura
+MINI_GAME_RUMI_EXIT	Fine
+MINI_GAME_RUMI_LBUTTON_DESC	Click-Sinistro per aggiungere la carta
+MINI_GAME_RUMI_RBUTTON_DESC	Fare clic con il tasto destro del mouse per scartare la carta
+MINI_GAME_RUMI_SCORE	Punteggio
+MINI_GAME_RUMI_START_TEXT	Start
+MINI_GAME_RUMI_TITLE	Metin2 Okey Card Game
+OPTION_ITEM_HIGHLIGHT	Nuovi oggetti
+OPTION_ITEM_HIGHLIGHT_ON	 Marchio
+OPTION_ITEM_HIGHLIGHT_OFF	Niente
+OPTION_GOLD_PICKUP	Messaggio Yang
+OPTION_GOLD_PICKUP_ON	Attivo
+OPTION_GOLD_PICKUP_OFF	Inattivo
+WEB_LOADING_TITLE	Caricamento browser...
+WEB_LOADING_DESC	Si prega di aspettare un momento
+ANTIEXP_TOOLTIP	Anti-EXP
+OPTION_DISABLE_PICKUP	Non racogliere
+OPTION_DISABLE_PICKUP_ARMOR	Armature
+OPTION_DISABLE_PICKUP_WEAPON	Armi
+OPTION_DISABLE_PICKUP_ETC	Gioielli
+GUILD_DRAGONLAIR_RANKING	Clasifica
+GUILD_DRAGONLAIR_RANKING_COUNT	Rango
+GUILD_DRAGONLAIR_RANKING_MEMBER	Membro
+GUILD_DRAGONLAIR_RANKING_NAME	Gilda
+GUILD_DRAGONLAIR_RANKING_TIME	Tempo
+FAKEBUFF_SKILL_TITLE	Buffi-Abilità
+ATTRTREE_TITLE_1	Guerriero
+ATTRTREE_TITLE_2	Ninja
+ATTRTREE_TITLE_3	Sura
+ATTRTREE_TITLE_4	Shamano
+ATTRTREE_TITLE_5	Special
+ATTRTREE_TITLE_6	Mostro
+ATTRTREE_REFINE_TITLE	Migliorare
+ATTRTREE_REFINE_UPGRADE	Migliorare
+ATTRTREE_REFINE_CANCEL	Anulla
+SELECT_METIN_DETACH_TITLE	Rimuovi Pietra
+SELECT_METIN_DETACH_INFO	Seleziona la pietra spirituale che vuoi rimuovere.
+SELECT_METIN_DETACH_BUTTON	Rimuovi
+SELECT_ATTR_DETACH_TITLE	Rimuovi Bonus
+SELECT_ATTR_DETACH_INFO	Scegli il bonus che vuoi rimuovere.
+SELECT_ATTR_DETACH_BUTTON	Rimuovi
+QUEST_CATEGORIE_3	Battlepass-Evento
+QUEST_CATEGORIE_4	Battelpass Illimitato
+OFFLINE_SHOP_RENEW_BUTTON	Rinnova 
+DO_REFINE_ALL	Affina tutto
+OPTION_QUEST_LETTER	Quest lettere
+OPTION_QUEST_LETTER_SHOW	Mostra
+OPTION_QUEST_LETTER_HIDE	Nascondi
+OPTION_PICKUP_ALL	Pickup
+OPTION_PICKUP_FAST	Tutto
+OPTION_PICKUP_SLOW	Singolo
+SHOP_SEARCH_SORT_DESC	 Ordinare
+SHOP_SEARCH_SORT_ALPHA_AZ	Ordine Alfabetico- A-Z
+SHOP_SEARCH_SORT_ALPHA_ZA	Ordine Alfabetico - Z-A
+SHOP_SEARCH_SORT_PRICE_ASC	Prezzo Singolo Ascendente
+SHOP_SEARCH_SORT_PRICE_DESC	Prezzo singolo decrescente
+SHOP_SEARCH_CAT_DESC	Categorie
+SHOP_SEARCH_CAT_ALL	Tutto
+SHOP_SEARCH_CAT_WEAPON	Armi
+SHOP_SEARCH_CAT_ARMOR	Armatura
+SHOP_SEARCH_CAT_JEWELLERY	Gioielli
+SHOP_SEARCH_CAT_TALISMAN	Talismano
+SHOP_SEARCH_CAT_DRAGONSOUL	Alchimia della Pietra del Drago
+SHOP_SEARCH_CAT_COSTUME	Costume
+SHOP_SEARCH_CAT_COSTUME_BONI	Bonus Costume
+SHOP_SEARCH_CAT_SKILLS	Abilità
+SHOP_SEARCH_CAT_POTIONS	Pozioni
+SHOP_SEARCH_CAT_USABLE	Oggetto consumabile
+SHOP_SEARCH_CAT_FISHS	Pesce
+SHOP_SEARCH_CAT_MOUNTS	Cavalcatura
+SHOP_SEARCH_CAT_PETS	Compagno
+SHOP_SEARCH_CAT_OWNED	I miei oggetti
+LOGIN_SHRINK	Restringi
+LOGIN_EXTEND	Espandi
+OPTION_USENIGHT	Modalità Notturna
+OPTION_CAMERA_DISTANCE_HUGE	Super Lontano 
+SPLIT_ITEM	Divisione completa
+PLAYER_SELECT_HAIR_TITLE	Scelta della Capigliatura
+EVENT_JOIN_TITLE	Entra nell'evento
+EVENT_JOIN_ACCEPT_BUTTON	Teletrasporto 
+EVENT_JOIN_DECLINE_BUTTON	Declino
+OPTION_SHOP_TITLE	Nome del Negozio
+REFINE_FAST_CHECK	Non chiudere la finestra
+GUILD_MEMBER_MELEY	Avvia Meleys Lair
+COMB_TITLE	Trasferimento bonus costume
+COMB_APPEARANCE	Costume 1
+COMB_ATTRIBUTE	Costume 2
+GAMEOPTION_TITLE_EXTRA	Opzione Extra
+HIDE_COSTUMES	Nascondi costume
+GAMEOPTION_HAIR	Acconciatura
+SWITCHBOT_TITLE	Gira bonus
+SWITCHBOT_ALREADY_ATTACHED	Questo oggetto è già stato aggiunto allo switch bot.  
+RENDER_OPT	Ottimizzazione
+RENDER_OPT_LOW	Basso
+RENDER_OPT_MEDIUM	Medio
+RENDER_OPT_HIGH	Alto
+SWITCHBOT_SLOT_NAME	Slot %d
+SWITCHBOT_MAXIMUM_SLOT_REACHED	You cannot add another item.
+SWITCHBOT_BUTTON_START	Start
+SWITCHBOT_BUTTON_RESET	Reset
+SWITCHBOT_TEMPLATE_TITLE	Modelli
+SWITCHBOT_SPEED_SLOW	Slow
+SWITCHBOT_SPEED_MEDIUM	Medio
+SWITCHBOT_SPEED_NORMAL	Normale
+SWITCHBOT_SPEED_PREMIUM	Premium
+SHINING_WINDOW_TITLE	Splendente
+SWITCHBOT_BUTTON_STOP	Ferma
+SWITCHBOT_BUTTON_DELETE	Cancella
+SWITCHBOT_PREMIUM_INACTIVE	Premium inactiv
+SWITCHBOT_SELECT_DEFAULT	--Scegli--
+SWITCHBOT_SELECT_UNKNOWN	!sconosciuto!
+MESSENGER_ADD_BLOCK	Block
+SWITCHBOT_START_TIME	Inizio
+SWITCHBOT_TIME_PASSED	Durata Totale
+SWITCHBOT_SWITCHERS_USED	Cambiavalute
+SWITCHBOT_CURRENT_SPEED	Velocita
+RUNE_MAIN_TITLE	Rune
+RUNE_MAIN_GROUP_TITLE1	 Precisione
+RUNE_MAIN_GROUP_TITLE_DESC1	Diventa una Leggenda 
+RUNE_MAIN_GROUP_DESC1	Rafforza il tuo attacco normale
+RUNE_MAIN_GROUP_TITLE2	Dominazione
+RUNE_MAIN_GROUP_TITLE_DESC2	Diventa una Leggenda
+RUNE_MAIN_GROUP_DESC2	Rafforza i tuoi attacchi contro i mostri
+RUNE_MAIN_GROUP_TITLE3	Magico
+RUNE_MAIN_GROUP_TITLE_DESC3	Diventa una Leggenda 
+RUNE_MAIN_GROUP_DESC3	 Rafforza le tue abilità
+RUNE_MAIN_GROUP_TITLE4	Determinazione
+RUNE_MAIN_GROUP_TITLE_DESC4	Diventa una Leggenda 
+RUNE_MAIN_GROUP_DESC4	Rafforza la tua difesa
+RUNE_MAIN_GROUP_TITLE5	Ispirazione 
+RUNE_MAIN_GROUP_TITLE_DESC5	Diventa una Leggenda 
+RUNE_MAIN_GROUP_DESC5	Rafforza i tuoi amici
+RUNE_SUB_MAIN_SELECT1	Seleziona un Keyrun
+RUNE_SUB_MAIN_SELECT2	 Seleziona Runa
+RUNE_SUB_SUB_SELECT_GROUP	Percorso secondario
+RUNE_SUB_SUB_SELECT_RUNE_NOGROUP	Runa aggiuntiva
+RUNE_SUB_SUB_SELECT_RUNE	Percorso Secondario
+RUNE_SUB_SUBTITLE_TEXT	Chiave Runica
+RUNE_TOOLTIP_SAVE	Salva
+RUNE_WINDOW_TUTORIAL	Tutorial per lo sistema delle Rune
+GAMEOPTION_ACCE	Stola
+MINI_GAME_FISH_START_TEXT	Inizio
+MINI_GAME_FISH_TITLE	Pesce Puzzle
+BANNER_FISH_BUTTON	 Scrivi ad un gamemaster!
+MINIGAME_FISH_EVENT_USE_COUNT	Trys
+MINI_GAME_FISH_HELP_TEXT	Aiuto
+SKINSYSTEM_TITLE	Sistema Skin
+SHOP_SEARCH_SORT_DATE_ASC	 Tempo di vendita
+XMAS_EVENT_TITLE	 Calendario di natale
+OFFLINE_SHOP_SALES_HISTORY	Storia delle vendite
+OFFLINE_SHOP_WITHDRAW_GOLD	Paga in Yang
+OFFLINE_SHOP_HISTORY_COLUMN1	Oggetto 
+OFFLINE_SHOP_HISTORY_COLUMN2	Prezzo
+OFFLINE_SHOP_HISTORY_COLUMN3	Acquirente
+OFFLINE_SHOP_HISTORY_COLUMN4	Data
+OFFLINE_SHOP_AVERAGE_PRICE	Prezzo Medio
+OFFLINE_SHOP_SELL_DIALOG_QUESTION	Per quanti yang [ENTER] vuoi vendere il tuo oggetto ?
+OFFLINE_SHOP_YOU_GET	Ricevi:
+OFFLINE_SHOP_SELL_AVERAGE_PRICE	Vendi al prezzo medio
+OFFLINE_SHOP_CHANGE_APPEARANCE	Cambia aspetto
+OFFLINE_SHOP_TIME_REMAINING	Tempo rimasto:
+SHOP_SEARCH_CAT_ORES	Minerali
+SYSTEM_PICK_OPTION	Opzione per il Raccoglimento
+PICKUP_CATEGORY_POTION	Pozione
+PICKUP_CATEGORY_BOOK	 Libri
+PICKUP_CATEGORY_SIZE_TITLE	Dimensioni dello slot
+PICKUP_CATEGORY_SIZE_1	1 slot
+PICKUP_CATEGORY_SIZE_2	 2 slot
+PICKUP_CATEGORY_SIZE_3	3 Spazzi
+OPTION_HIDE_NPC_TITLE	Nascondi
+OPTION_HIDE_NPC_CAT1	Buffis
+OPTION_HIDE_NPC_CAT2	Mounts
+OPTION_HIDE_NPC_CAT3	Animali
+ZODIAC_CALENDAR	Calendario Zodiacale
+SAVE_WINDOW_POS	Salva la pos. della Finestra
+NEW_EMOTES	Nuova Emozione
+FONT	Carattere
+FONT_DEFAULT	Normale
+BDAY_EVENT_DESC_D2	Completa piu Dungeon 
+BDAY_EVENT_DESC_D3	Distruggi piu Metin
+BDAY_EVENT_DESC_D4	Consume most Enchant Item
+BDAY_EVENT_DESC_D5	Kill most Monsters
+BDAY_EVENT_DESC_D6	Completa la maggior parte dei libri di missione
+BDAY_EVENT_DESC_D7	Uccidi i Giocatori  dell'altra Fazione 
+BDAY_EVENT_REWARD_D1	10% Forte contro i Boss
+BDAY_EVENT_REWARD_D2	Tempo di recupero del Dungeon ridotto del 25%
+BDAY_EVENT_REWARD_D3	10% Strong against Metinstones
+BDAY_EVENT_REWARD_D4	Diminuisce del 50% il tempo del Biologo
+BDAY_EVENT_REWARD_D5	10% forte contro i mostri
+BDAY_EVENT_REWARD_D6	Aumenta di 10% le Probabilita 
+BDAY_EVENT_REWARD_D7	5% Possibilità di drop oggetti
+OPTION_ONLY_ITEM_TEXTTAIL	Dropa
+BATTLE_FIELD_MONDAY	LUNEDI
+BATTLE_FIELD_TUESDAY	MARTEDÌ
+BATTLE_FIELD_WEDNESDAY	 MERCOLEDÌ
+BATTLE_FIELD_THURSDAY	GIOVEDI
+BATTLE_FIELD_FRIDAY	Venerdì
+BATTLE_FIELD_SATURDAY	SABATO
+BATTLE_FIELD_SUNDAY	DOMENICA
+BATTLE_FIELD_EACH_DAY	%s: |cFF14ff48|h%02i:%02i|h|r - |cFFff1a00|h%02i:%02i|h|r
+BATTLE_FIELD_POINTS	%d
+BATTLE_FIELD_REQUEST_POTION	Pozione Richiesta 
+BATTLE_FIELD_MONSTERS_LIMIT	%d/%d
+BATTLE_FIELD_INFO	Zona di combattimento
+BATTLE_FIELD_OPERATION_ONLINE	L'entrata e aperta.
+BATTLE_FIELD_OPERATION_OFFLINE	L'accesso e Chiuso.
+BATTLE_FILED_RANK	 Rango
+BATTLE_FILED_RANK_EMPIRE	Empire
+BATTLE_FILED_RANK_NAME	Nome
+BATTLE_FILED_RANK_POINT	Punti
+ENTER_BATTLE_FIELD	Entra
+EXIT_BATTLE_FIELD	Vuoi davvero lasciare la zona di Combattimento?
+EXIT_BATTLE_FIELD_COLLECTED_POINTS	Punti Attuali: %d
+TOTAL_RANKING	Classifica generale
+WEEKLY_RANKING	Classifica settimanale
+RESTART_IMMEDIATE	 Reincarnazione
+REQUIRED_AMOUNT	Importo Richiesto
+DUNGEON_RANKING_WINDOW	Dungeon Rangliste
+DAY	Giorno
+SWITCHBOT_DROP	Trascina qui il tuo item
+OPTION_SNOW	Neve
+OPTION_SAVE_WHISPERS	Salva i PM
+OPTION_WHISPER_TIMESTAMP	PM timestamp
+CUBE_MAKE_ALL	 Crea tutto
+AFFECT_GAME_OPTION	influenza le icone
+AUCTION_STRICT_SEARCH	 Ricerca esatta
+SKILL_COLOR	Colore della Magia
+SAVE	Salva
+STANDARD	Standard
+SKILL_COLOR_CURRENT	Colore attuale:
+BLACKJACK_HIT	Colpo
+BLACKJACK_STAY	Stai
+BLACKJACK_DEALER	 commerciante
+BLACKJACK_YOU	Tu
+BLACKJACK_BET	Scommetti 
+BLACKJACK_START_GAME	Start game
+OPTION_MESSENGER_NOTIFICATION	Notif. di Messenger
+SHOP_SELL_NOTIFICATION	%sx %s è stato venduto per %s Yang.
+SHOP_SELL_NOTIFICATION_TITLE	Aviso di Vendita
+EQUIPMENT_PAGE_TITLE	Cambio Ecquipaggiamento
+SAFEBOX_INVENTORY_NORMAL	Deposito Normale
+OPTION_SELL_NOTIFICATION	Notif. delle vendite
+OPTION_HIDE_NPC_CAT4	Negozio 
+HOTKEY_TITLE_TEXT	Imposta hotkey
+SAFEBOX_INVENTORY_ITEMSHOP	Deposito ItemShop
+SAFEBOX_INVENTORY_UPP	Deposito Uppgrade
+SAFEBOX_INVENTORY_SKILL	Cassetta di sicurezza dei libri
+SAFEBOX_INVENTORY_STONE	Cassaforte con pietre spiritiche
+SAFEBOX_INVENTORY_ENCHANT	Bonus Incantevoli safebox
+SAFEBOX_INVENTORY_COSTUME	Deposito Costumi
+SAFEBOX_INVENTORY_GUILD	Guild safebox
+HALLOWEEN_GAME_WIN_TITLE	Halloween reward (Itemshop Storage!)
+HALLOWEEN_GAME_WIN_TEXT	You get [ENTER]%s[ENTER]in you'r Itemshop Storage!

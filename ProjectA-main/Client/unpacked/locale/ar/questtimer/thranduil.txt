@@ -1,0 +1,31 @@
+[DELAY value;0]
+[COLOR r;0|g;195|b;255]"Zone 1"[/COLOR r;0|g;195|b;255][ENTER]
+Summon 100 monsters within 90 seconds of killing more and more monsters. For each monster killed, twice the number appears![ENTER]
+Once 100 monsters have been summoned, you have 60 seconds to kill all monsters![ENTER]
+[ENTER]
+
+[COLOR r;0|g;195|b;255]"Zone 2"[/COLOR r;0|g;195|b;255][ENTER]
+Destroy the right Metinstone.[ENTER]
+[ENTER]
+
+[COLOR r;0|g;195|b;255]"Zone 3"[/COLOR r;0|g;195|b;255][ENTER]
+Collect keys from the coming monster waves.[ENTER]
+These keys are needed to destroy Sinarin's offspring! Each key deducts 10% of life from the offspring![ENTER]
+[ENTER]
+
+[COLOR r;0|g;195|b;255]"Zone 4"[/COLOR r;0|g;195|b;255][ENTER]
+Kill Sindarin and his companion![ENTER]
+[ENTER]
+
+[COLOR r;0|g;195|b;255]"Zone 5"[/COLOR r;0|g;195|b;255][ENTER]
+Survive 3 minutes and defeat all monsters.[ENTER]
+Every 30 seconds a saze zone appears on the ground, if you don't reach it in time, you die and you have to start the level all over again![ENTER]
+
+[COLOR r;0|g;195|b;255]"Zone 6"[/COLOR r;0|g;195|b;255][ENTER]
+Defeat all 3 monster waves within 3 minutes. If you can't do this, the level starts all over again![ENTER]
+[ENTER]
+
+[COLOR r;0|g;195|b;255]"Boss Zone"[/COLOR r;0|g;195|b;255][ENTER]
+Defeat Thranduil![ENTER]
+If you manage to defeat Thranduil, there is a small chance that you will summon the Guardian of the Forest. [ENTER]
+With this you can craft the new equipment!

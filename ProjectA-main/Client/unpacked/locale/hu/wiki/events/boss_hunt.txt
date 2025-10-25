@@ -1,0 +1,50 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/bosshunt.tga]
+[CENTER_ALIGN;FONT_SIZE=18]Boss-Vadászat Event
+
+[COLOR=0xffd700;FONT_SIZE=15]Tartalom:
+*1. Általános információk
+*2. Event leírása
+*3. Jutalmak
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=85; CENTER_ALIGN]
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Általános információk:
+
+Az event csak Level 30 felettieknek van.
+Az ütéseid 1-et sebeznek a Boss-ra, és ez alapján kapsz pontokat, amiket láthatsz 
+a bal lenti sarokban, a HP csíkod felett.
+
+Ezeket a pontokat beválthatod Urielnél több különféle ládára.
+Miközben a Bosst sebzed, a támadási sebességed 100-ra lesz korlátozva.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=210; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Event leírása:
+
+Árnyék Harcos jelenik meg minden semleges helyen: Orkföldön, Sohan hegyen, 
+Tûzföldön és a Yongbi Sivatagban. (2 darab minden csatornán)
+Az Árnyék Harcosok körül a PvP ki van kapcsolva.
+Minden egyes találatért az Árnyék Harcoson, kapsz 1 pontot.
+
+Brutális Árnykék Harcos jelenik meg minden béta mapon: Sárkánytûz-fokon, Mennydörgés-hegységen
+Nefrit-öbölben és Gautama-sziklán (2 darab minden csatornán)
+A Brutális Árnyék Harcos körül a PvP be van kapcsolva.
+Minden egyes találatért a Burtális Árnyék Harcoson, kapsz 2 pontot.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=400; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Jutalmak:
+
+A pontjaidat beválthatod Urielnél, Bronz Deciums ládára, Ezüst Decimus ládára, 
+Arany Decimus ládára vagy Magnificent Decimus ládára.
+
+Vigyázat: A pontjaid eltûnnek amiután az Event végetér, szóval váltsd be õket idõben.
+
+*500 pont: Bronz Deciums láda
+*1000 pont: Ezüst Decimus láda
+*2000 pont: Arany Decimus láda
+*5000 pont: Magnificent Decimus láda
+
+

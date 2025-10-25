@@ -1,0 +1,25 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/jotun.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Cerinte:
+*Nivel nevesar: 105
+*Ticket de intrare: Piatra Driadelor.
+
+[RIGHT_ALIGN]Piatra driadelor
+[IMG=d:/ymir work/ui/wiki/30613.tga; Y=5; X=500]
+
+[COLOR=0xffd700;FONT_SIZE=15]Specificatii:
+*Dungeonul lui Jotun Thrym are un cooldown de 180 de minute.
+*In dungeon se poate intra cu sau fara grup.
+*Nu pot fi utilizate mount-uri.
+*Jotun Thrym poate dropa intre 5 - 10 Cufere Jotun Thrym
+
+[CENTER_ALIGN;FONT_SIZE=18]Faze:
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=140; CENTER_ALIGN]
+[COLOR=ef4f00;FONT_SIZE=15]Faza 1
+
+
+[X_PADDING=20]Ucide-l pe Bangjanamu.
+
+[COLOR=ef4f00;FONT_SIZE=15]Faza 2
+
+[X_PADDING=20]Ucide-l pe Jotun Thrym.

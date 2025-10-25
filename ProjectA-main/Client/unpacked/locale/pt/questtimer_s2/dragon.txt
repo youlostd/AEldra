@@ -1,0 +1,12 @@
+[DELAY value;0]
+[COLOR r;0|g;195|b;255]1ª Fase[/COLOR r;255|g;195|b;0][ENTER]
+[ENTER]
+Destroi as metins até que sejam evocadas as que queres deixar.[ENTER]
+Cada metin tem um efeito especial no Dragão, que será consoante o número de metins que irão ser deixadas.[ENTER]
+-> Metin da Arrogância: Aumenta a Regeneração de VD.[ENTER]
+-> Metin da Vingança: Aumenta o Valor de Ataque.[ENTER]
+-> Metin da Solidão: Aumenta a velocidade de Regeneração de VD.[ENTER]
+-> Metin da Montanha: Aumenta a Defesa. [ENTER]
+[ENTER]
+[COLOR r;0|g;195|b;255]2ª Fase[/COLOR r;255|g;195|b;0][ENTER]
+Mata o Beran-Setaou.

@@ -1,0 +1,39 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/beransetoul.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Gereksinimler:
+*Seviye Aralığı: 75 - 105
+*Giriş Eşyası: Kıvrık Anahtar
+[IMG=d:/ymir work/ui/wiki/rahmen.tga; Y=5; X=460]
+[IMG=d:/ymir work/ui/wiki/30179.tga; Y=15; X=482]
+
+
+[X_PADDING=471]Kıvrık Anahtar
+[COLOR=0xffd700;FONT_SIZE=15]Özellikler:
+*Ejderha Odası, 2 saat bekleme süresine sahiptir.
+*Ejderha Odası'na grup halinde ya da bireysel olarak girilebilir.
+*Ejderha Odası görevi, 60 dakika içerisinde tamamlanmalıdır.
+*Her oyuncu Kıvrık Anahtar'a sahip olmalıdır.
+*Her bir Metin Taşı, aynı Metin Taşı'nın varlığıyla artan özel bir etkiye sahiptir.
+
+
+
+[COLOR=0xffd700;FONT_SIZE=15]Metin Taşı Etkileri:
+*Kibir Metini: Ejderhanın HP yenileme miktarını arttırır.
+*İntikam Metini: Ejderhanın verdiği hasarı arttırır.
+*Kimsesizlik Metini: Ejderhanın HP yenileme hızını arttırır.
+*Dağ Metini: Ejderhanın saunmasını arttırır.
+
+[COLOR=0xffd700;CENTER_ALIGN]Çoğu oyuncu, Ejderha Odası'nda 4 İntikam Metini tercih eder.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=280; CENTER_ALIGN]
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 1
+
+[X_PADDING=20]İstediğin metinler kalana kadar metin taşlarını yok et.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 2
+
+[X_PADDING=20]Beran-Setaou'yu öldür.
+[IMG=d:/ymir work/ui/wiki/Beran Setaou.tga; Y=285; X=362]

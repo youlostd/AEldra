@@ -1,0 +1,51 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/thranduils.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Követelmények:
+*Kötelezõ szint: 110
+*Belépési jegy: Belépési jegy+
+[RIGHT_ALIGN]Passage Ticket+
+[IMG=d:/ymir work/ui/wiki/93264.tga; Y=5; X=485]
+
+[COLOR=0xffd700;FONT_SIZE=15]Sajátosságok:
+*Thranduil odújának 180 perces cooldownja van.
+*A dungeon-be bemehetsz egyedül, és csoportosan is.
+*10% esély van arra, hogy az Erdõ Õrzõje megjelenjen a dungeon végén.
+
+
+[CENTER_ALIGN;FONT_SIZE=18]Szintek:
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=132; CENTER_ALIGN]
+[COLOR=ef4f00;FONT_SIZE=15]1. Szint
+
+[X_PADDING=20]Ölj meg 100 szörnyet 90 másodperc alatt. Szörny ölés egyre több és több szörny spawnolást eredményez.
+[X_PADDING=20]Minden szörny ölésért, kettõ szörny spawnol.
+[X_PADDING=20]Miután 100 szörny spawnol, 60 másodperced van, hogy megöld mindet.
+
+[COLOR=ef4f00;FONT_SIZE=15]2. Szint
+
+[X_PADDING=20]Pusztítsd el a jó metin követ.
+
+[COLOR=ef4f00;FONT_SIZE=15]3. Szint
+
+[X_PADDING=20]Gyûjtsd az Erdõ kulcsait, a szörnyekbõl.  
+[X_PADDING=20]A Kulcsok arra kellenek hogy elpusztítsd Sinarin utódját.
+[X_PADDING=20]Minden egyes kulcs levesz 10% HP-t az utód életébõl.
+
+[COLOR=ef4f00;FONT_SIZE=15]4. Szint
+
+[X_PADDING=20]Öld meg Sindarin-t.
+
+[COLOR=ef4f00;FONT_SIZE=15]5. Szint
+
+[X_PADDING=20]Élj túl 3 percig, és öld meg az összes szörnyet. Minden 30 másodpercben egy biztonságos zóna jelenik meg, 
+[X_PADDING=20]ha nem éred el idõben, a szint újraindul.
+
+[COLOR=ef4f00;FONT_SIZE=15]6. Szint
+
+[X_PADDING=20]Öld meg mind a 3 szörny hullámot 3 perc alatt. Ha nem sikerül, a szint újraindul.
+
+[COLOR=ef4f00;FONT_SIZE=15]7. Szint
+
+[X_PADDING=20]Öld meg Thandruil-t
+[X_PADDING=20]Miután legyõzted Thandruil-t, 10% esély van arra, hogy az Erdõ Õrzõje megjelenjen. 
+[X_PADDING=20]Nála készíthetsz új PvP felszereléseket.
+

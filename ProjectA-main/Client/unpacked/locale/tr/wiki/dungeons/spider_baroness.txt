@@ -1,0 +1,27 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/spiderbaroness.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Gereksinimler:
+*Gereken Seviye: 50-85
+*Giriş Eşyası: Arachnida Anahtarı(yalnızca grup lideri)
+[RIGHT_ALIGN]Arachnida Anahtarı
+[IMG=d:/ymir work/ui/wiki/30324.tga; Y=5; X=493]
+[COLOR=0xffd700;FONT_SIZE=15]Özellikler:
+*Örümcek Baroness 'in yenilenme süresi 60 dakikadır.
+*Zindana hem grupla hem tek başına girebilirsin. 
+*Zindanı 20 dakika içerisinde tamamlamalısın.
+*Grup liderini değiştirmek süreyi sıfırlamayacaktır.
+
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18]Aşamalar:
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=143; CENTER_ALIGN]
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 1
+
+[X_PADDING=20]Örümcek Baronunu öldür ve Arachnida Flütünü aktifleştir.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 2
+
+[X_PADDING=20]Örümcek Baroness 'i öldür.

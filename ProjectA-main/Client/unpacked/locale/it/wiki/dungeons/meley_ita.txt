@@ -1,0 +1,35 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/meleyshort.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Requisiti:
+*Livello Richiesto: 75
+*Ticket d'ingresso: Non hai bisogno di un gruppo, ma devi appartenere ad una gilda
+
+[COLOR=0xffd700;FONT_SIZE=15]Peculiarity:
+*Il covo di Meley ha un cooldown di 180 minuti.
+*Devi appartenere ad una gilda per entrare nel dungeon e hai bisogno di almeno 4 personaggi .
+*Devi scegliere la Ricompensa alla fine del dungeon. Ci sono due bauli tra qui scegliere.
+*Si puo avere accesso al dungeon con massimo 16 personaggi.
+
+
+[CENTER_ALIGN;FONT_SIZE=18]Le Fasi:
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=135; CENTER_ALIGN]
+[COLOR=ef4f00;FONT_SIZE=15]Fase 1
+
+[X_PADDING=20]Danneggia le statue del Dragon affinche avranno il 75% della loro vita rimasta. 
+[X_PADDING=20]Dopo cio, uno scudo arancione apparira sulle statue e non potranno essere danneggiate.
+
+[COLOR=ef4f00;FONT_SIZE=15]Fase 2
+
+[X_PADDING=20]Danneggia le statue del Dragon affinche avranno il 50% della loro vita rimasta. 
+[X_PADDING=20]Quattro uova di drago appariranno ogni due minuti e affinche loro saranno in vita ,le statue non riceveranno danno.
+
+[COLOR=ef4f00;FONT_SIZE=15]Fase 3
+
+[X_PADDING=20]Quattro Osservatori del Drago Idall appariranno e dovreanno essere sconfitti. Le Statue del drago dopodiche  
+[X_PADDING=20]potranno essere portate al 0% di vita. Quattro uova di drago appariranno ogni due minuti e affinche loro saranno in vita
+[X_PADDING=20]le statue non riceveranno danno. Quando le statue arriveranno a 0% di vita , diventeranno Verdi
+[COLOR=ef4f00;FONT_SIZE=15]Phase 4
+
+[X_PADDING=20]Quando tutte le statue avranno 0% HP, quattro giocatori dovranno trascinare 
+[X_PADDING=20]un Anello di Fuoco del Drago sopra le statute entro 10 secondi. Meley e stato sconfitto . 
+[X_PADDING=20]Dopodiche ,Il Baule d'oro del drago apparirà  dal quale potrai scegliere la tua ricompensa.

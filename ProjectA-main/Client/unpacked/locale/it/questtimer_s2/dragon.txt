@@ -1,0 +1,12 @@
+[DELAY value;0]
+[COLOR r;0|g;195|b;255]Phase 1[/COLOR r;255|g;195|b;0][ENTER]
+[ENTER]
+Destroy the metin stones until the desired metins stones have spawned.[ENTER]
+Every metin stone has a special effect, which will be increased by the number of the same metins stone.[ENTER]
+-> The amount of HP-regeneration of the dragon will be increased by the Metin of Arrogance.[ENTER]
+-> The damage of the dragon will be increased by the Metin of Vengeance.[ENTER]
+-> The HP-regenation speed will be increased by the Metin of Solitude.[ENTER]
+-> The defense of the dragon will be increased by the Metin of Mountain. [ENTER]
+[ENTER]
+[COLOR r;0|g;195|b;255]Phase 2[/COLOR r;255|g;195|b;0][ENTER]
+Kill Beran-Setaou.

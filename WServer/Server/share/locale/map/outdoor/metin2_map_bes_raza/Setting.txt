@@ -1,0 +1,12 @@
+ScriptType	MapSetting
+
+CellScale	200
+HeightScale	0.500000
+
+ViewRadius	128
+
+MapSize	5	5
+BasePosition	281600	563200
+TextureSet	textureset\metin2_map_feuer.txt
+Environment	metin2_map_feuer.msenv
+

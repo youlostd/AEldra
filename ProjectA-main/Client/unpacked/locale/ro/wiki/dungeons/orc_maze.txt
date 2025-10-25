@@ -1,0 +1,28 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/orcmaze.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Cerinte:
+*Nivel de intrare: 55-85
+*Permis de intrare: Orc Parchment
+[RIGHT_ALIGN]Orc Parchment
+[IMG=d:/ymir work/ui/wiki/94031.tga; Y=5; X=493]
+[COLOR=0xffd700;FONT_SIZE=15]Peculiarity:
+*Dungeonul se face fara grupa.
+*Runul Orc Maze are un cooldown de 90 de minute.
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18]Fazele:
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=100; CENTER_ALIGN]
+[COLOR=ef4f00;FONT_SIZE=15]Faza 1
+
+[X_PADDING=20]Distruge 4x Metinul Sufletului
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Faza 2
+
+[X_PADDING=20]Omoara Orcul Sef Blestemat
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Faza 3
+
+[X_PADDING=20]Omoara Regele Orc Blestemat

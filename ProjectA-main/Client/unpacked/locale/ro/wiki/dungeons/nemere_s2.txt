@@ -1,0 +1,83 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/nemere.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Cerinte:
+*Nivel necesar: 100 - 105
+*Tichet de intrare: Tichet de trecere
+[IMG=d:/ymir work/ui/wiki/rahmen.tga; Y=5; X=460]
+[IMG=d:/ymir work/ui/wiki/71095.tga; Y=15; X=482]
+
+
+[X_PADDING=469]Tichet de trecere
+[COLOR=0xffd700;FONT_SIZE=15]Specificatii:
+*Turnul lui Nemere are un cooldown de 3 ore.
+*In Turnul lui Nemere se poate intra cu sau fara grup.
+*Turnul lui Nemera are o limita de timp de 60 minute.
+*Fiecare jucator are nevoie de un tichet de trecere..
+
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=150; CENTER_ALIGN]
+[COLOR=ef4f00;FONT_SIZE=15]Etajul 1
+
+[X_PADDING=20]Omoara toti monstrii.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Etajul 2
+[IMG=d:/ymir work/ui/wiki/rahmen_small.tga; Y=240; X=490]
+[IMG=d:/ymir work/ui/wiki/30331.tga; Y=246; X=496]
+
+[X_PADDING=20]Omoara monstrii pana gasesti Cheie de Gheata.
+[X_PADDING=20]Activeaza Cheia de Gheata corecta.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Etajul 3
+
+[X_PADDING=20]Omoara toti monstrii.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Etajul 4
+
+[X_PADDING=20]Omoara toti monstrii.
+[X_PADDING=20]Trebuie sa omori 2 valuri de monstrii.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Etajul 5
+[IMG=d:/ymir work/ui/wiki/rahmen_small.tga; Y=460; X=490]
+[IMG=d:/ymir work/ui/wiki/30332.tga; Y=466; X=497]
+
+[X_PADDING=20]Omoara monstrii pana gasesti Steaua Nordului.
+[X_PADDING=20]Trage si plaseaza Steaua Nordului pe Cuburile de Gheata pana dispar toate.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Etajul 6
+
+[X_PADDING=20]Omoara toti monstrii.
+[X_PADDING=20]Distruge Metinul de Gheata.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Etajul 7
+
+[X_PADDING=20]Omoara-l pe Szel adevarat.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Etajul 8
+[IMG=d:/ymir work/ui/wiki/rahmen_small.tga; Y=680; X=490]
+[IMG=d:/ymir work/ui/wiki/30333.tga; Y=686; X=496]
+
+[X_PADDING=20]Omoara monstrii pana gasesti Cheie Floare de Gheata.
+[X_PADDING=20]Activeaza Cheia Floare de Gheata corecta.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Etajul 9
+
+[X_PADDING=20]Distruge Pilonul Dragon din Nord.
+[X_PADDING=20]Apasa pe Leul de Gheata.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Etajul 10
+
+[X_PADDING=20]Omoara-l pe Nemere.
+[IMG=d:/ymir work/ui/wiki/Nemere.tga; Y=750; X=402]
+
+
+

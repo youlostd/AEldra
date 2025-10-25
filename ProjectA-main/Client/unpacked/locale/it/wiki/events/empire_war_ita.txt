@@ -1,0 +1,43 @@
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/empirewar.tga]
+[CENTER_ALIGN;FONT_SIZE=18]Guerra dei regni
+
+[COLOR=0xffd700;FONT_SIZE=15]Lista Contenuti:
+*1. Informazioni Generali
+*2. Istruzioni per l'evento
+*3. Ricompensa Regni
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=100; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Informazioni Generali:
+
+La guerra tra regni e evento di pvp aperto che prende posto in una mappa speciale .
+Ogni Giocatore che è almeno al livello 75 puo partecipare e combattere per il suo regno , contro gli altri due regni.
+Il telport per questa mappa avverà tramite una finestra che apparirà al centro del tuo schermo , 
+quando le entrate sono aperte. Il regno , il quale dopo 20 minuti avra il miglior rateo Uccisioni/Morti in % vincerà la Guerra dei regni.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=200; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Istruzioni per l'Evento
+
+Quando ti telporti in questa mappa, ti renderai conto che chiunque intorno a te ,eccetto per il tuo regno, 
+è un nemico. Hey bello! Non lasciare le tue armi a casa. Non c'e nessuna Safezone che ti proteggerà qui, 
+quindi assicurati di equipaggiarti a modo . Il tempo sto finendo... non dimenticarti che l'obbiettivo è di avere 
+il miglior rateo K/D in 20 minuti. Entrambi Le Fasi e le performance del tuo regno sono cruciali.
+Per la convenzienza del divertimento, I seguenti item sono disabilitati per l'evento:
+
+*Sigillo Buffi
+*Mount
+*Fede
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=380; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Ricompensa Regni
+
+Il regno che avrà il miglior rateo K/D vincerà la Guerra dei regni e ricevera i seguenti buff per 6 ore :
+*100% Esperienza
+*10% Forte contro Metinstones
+*10% Forte contro Bosses
+
+Note: Non è Possibile cambiare regno per 6 ore dopo la fine dell'evento.

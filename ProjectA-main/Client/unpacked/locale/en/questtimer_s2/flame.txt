@@ -1,0 +1,24 @@
+[COLOR r;255|g;195|b;0]"Specularity"[/COLOR r;255|g;195|b;0][ENTER]
+You can only enter the dungeon within Level 100-105.[ENTER]
+Its random which Phase you get next, this includes only Phase 1 - 6.[ENTER]
+[ENTER]
+[COLOR r;0|g;195|b;255]Phase 1[/COLOR r;255|g;195|b;0][ENTER]
+Defeat all monsters.
+[ENTER]
+[COLOR r;0|g;195|b;255]Phase 2[/COLOR r;255|g;195|b;0][ENTER]
+Defeat all monster until you drop the Golden Cog Wheel, after that drag the correct one on the Isfet Stele.
+[ENTER]
+[COLOR r;0|g;195|b;255]Phase 3[/COLOR r;255|g;195|b;0][ENTER]
+Defeat all monsters.
+[ENTER]
+[COLOR r;0|g;195|b;255]Phase 4[/COLOR r;255|g;195|b;0][ENTER]
+Defeat Ignator.
+[ENTER]
+[COLOR r;0|g;195|b;255]Phase 5[/COLOR r;255|g;195|b;0][ENTER]
+Defeat all monster until you drop the Maat Stones, after that drag the correct ones on the 7 Isfet Steles.
+[ENTER]
+[COLOR r;0|g;195|b;255]Phase 6[/COLOR r;255|g;195|b;0][ENTER]
+Destroy the Purgatory Fire Metin.
+[ENTER]
+[COLOR r;0|g;195|b;255]Phase 7[/COLOR r;255|g;195|b;0][ENTER]
+Defeat Razador.

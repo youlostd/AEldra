@@ -1,0 +1,115 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/runes.tga]
+[CENTER_ALIGN]Az elmúlt évtizedekben, a rúnák ismerete elkezdett terjedni Aeldra körül
+[CENTER_ALIGN]ahogy minél többet megismertek az emberek. A világ legfényesebb elméi, a sámánok alaposan tanulmányozták õket. 
+[CENTER_ALIGN]Az õsi glyphek, melyekbõl információkat gyûjtöttek, hogy meghatározzák azokat a hatalmakat, 
+[CENTER_ALIGN]melyek rendelkezhetnek velük. A bennük rejlõ puszta erõ,
+[CENTER_ALIGN]közelében se volt, hogy lefordíthassák õket, saját kezüleg. Néhányan azt feltételezték, 
+[CENTER_ALIGN]hogy ezek az erõk hívták Jotun Thrymet, Aeldra világára.
+[CENTER_ALIGN]Ki tudja, mi rejtõzik még a Metin2 mélyén.
+
+[COLOR=0xffd700;FONT_SIZE=15]Tartalom:
+*1. Bevezetés a Rúna Rendszerbe
+*2. Hogyan oldom fel a rúnákat?
+*3. Gyakran használt Fa-ágak & Pro tippek
+*4. Hogyan fejleszthetem a rúnákat?
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=190; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Bevezetés a Rúna Rendszerbe
+
+Ez a rendszer megengedi a játékosoknak, hogy testreszabhassák a karaktereik erejét különbözõ dolgokra, mint pl. PvP & PvM,
+különbözõ rúna variációk használatával. A rúna rendszert az F5 billentyû lenyomásával érheted el.
+
+[COLOR=ef4f00;FONT_SIZE=15]1.1 Elsõdleges Rúna fák
+
+Öt különbözõ Elsõdleges rúna fa található meg, amelyekbõl a játékosok választhatnak: 
+
+*Precision
+*Dominance
+*Magic
+*Determination
+*Inspiration
+
+Miután a játékos kiválasztotta az elsõdleges rúnáját, választania kell egy kulcs rúnát, és 3 további rúnát,  
+hogy teljessé tegye az egészet.
+
+[COLOR=ef4f00;FONT_SIZE=15]1.2 Másodlagos Rúna fák
+
+A másodlagos fákat az elsõdlegesekkel combinálva kapsz egy teljes Rúna Oldalt.
+A játékosnak választania kell egy másik fát, majd választania 2 rúnát hozzá. (Kulcs rúnák kivételével) 
+
+[COLOR=ef4f00;FONT_SIZE=15]1.3 Vezérlõ Gombok
+
+A jobb felsõ sarokban, találhatsz 4 különbözõ gombot: 
+
+*Reset
+*Reset Points
+*Buy Points
+*Save
+
+A jobb alsó sarokban, megtalálható a Rúna rendszer bevezetõt 
+négy különbözõ elérhetõ Rúna oldallal. Ahhoz, hogy Fát válts, kattints a Fa ikonra 
+fent, mielõtte elmentenéd a Rúna oldalad. Miutána mind a 6 rúnát feloldottad, és kiválasztottad,
+elmentheted az aktuális Rúna oldalad. Az megvett rúnákat visszállíthatod 
+a 'Reset Points' gombbal és az elmentett Rúna oldalakat visszaállíthatod a "Reset" gombbal.
+Az aktiív rúnák megjelennek a bal felsõ sarokban. 
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=700; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Hogyan oldom fel a rúnákat?
+
+Ahhoz, hogy feloldj egy Kulcs rúnát (vagy egy normális rúnát), kell 12 pont. 
+
+[COLOR=ef4f00;FONT_SIZE=15]2.1 Rúna pontok
+
+Vehetsz 1 rúna pontot a "Buy Points' gomb megnyomásával a jobb felsõ sarokban. 
+A kezdetekben, ameddig nincs 145 rúna pontod, egy darab rúna ponthoz a lv90-es mapon lévõ fejlesztõ itemek kellenek,
+és 6.000.000 yang. A 145. rúna pont után, egészen a
+720. pontig (max), egy rúna ponthoz a fejlesztõ itemeket a Metin of the Tree Beings-bõl szerezhetsz
+a 105-ös mapokon, illetve 6.000.000 yang is kelleni fog. 
+
+[COLOR=ef4f00;FONT_SIZE=15]2.2 Rúnák feloldása, és Rúna választás 
+
+Miután van 12 felhasználható pontod kattints arra a rúnára, melyet szeretnél feloldani. Ezután, 
+választ ki a rúnát, majd kattints a "Save" gombra, hogy aktiváld a bónuszait. 
+Vigyázzat: Miután elmentetted az oldaladat, nem tudsz fát váltani. Ha szeretnél,
+menj a következõ Rúna oldalra, és kezd elölrõl.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=960; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Gyakran használt Fa-ágak & Pro tippek
+
+[COLOR=ef4f00;FONT_SIZE=15]3.1 PvM gyakran használt rúnák (metinekhez)
+
+Primary Tree, Dominance: Soul Robbery, Monster, Boss, Metin.
+Secondary Tree, Precision: Average Damage, Critical Damage.
+
+[COLOR=ef4f00;FONT_SIZE=15]3.2 PvM gyakran használt rúnák (bossokhoz)
+
+Boss farmoláshoz, általában elég ha a metin rúna oldaladat használod, csak a "Metin" rúnát
+leváltod arra, ami épp kell. Például: Zodiákus Templom runon, könnyebb ha csak
+a "Metin" rúnát váltod le "Zodiákus elleni" rúnára. 
+
+[COLOR=ef4f00;FONT_SIZE=15]3.3 Pro tippek
+
+Miközben egy bosst ölsz, érdemes átváltanod "Thief" és "Itemdrop" rúnákra, egy másik rúna oldalon, 
+az utolsó pillanatokban, hogy maximalizáld a kiesõ tárgyak mennyiségét. A 'Reinforced Dew Potions' rúnát érdemes az elõtt használni 
+mielõtt bekapcsolod a harmataidat, hogy jóval nagyobb mennyiségû buffokat kaphass. Összesen 1140 darab kell minden fejlesztõbõl a lv90-es mapokról, 
+és 3450 kell minden egyes fejlesztõbõl a lv105-ös mapokról, hogy minden lv1-es rúnát feloldhass. 
+Miután feloldottad mind a 12 rúnát az elsõdleges fádból, egy bónusz buffot is kapsz, ami nem más mint 
+15% félemberek elleni erõ és 10% félemberek ellni védelem.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=1260; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]4. Hogyan fejleszthetem a rúnákat?
+
+Miután az összes elérhetõ rúnát feloldottad, elérhetõvá válnak a Lv2 rúnák. A (+) gombra kattintva 
+fejlesztheted a kívánt rúnát, Lv2-re, hogy további búnuszokat kapj. (Kulcs rúnák kivételével)
+
+
+

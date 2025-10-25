@@ -1,0 +1,21 @@
+[COLOR r;255|g;195|b;0]"Besonderheit"[/COLOR r;255|g;195|b;0][ENTER]
+Du kannst den Dungeon nur mit Level 95-109 betreten!
+[ENTER]
+[COLOR r;0|g;195|b;255]Phase 1[/COLOR r;0|g;195|b;255][ENTER]
+Töte alle Metin der Kälte und ziehe die Nordsterne auf die Würfel
+[ENTER]
+[COLOR r;0|g;195|b;255]Phase 2 [/COLOR r;0|g;195|b;255][ENTER]
+Töte Monster
+[ENTER]
+[COLOR r;0|g;195|b;255]Phase 3[/COLOR r;0|g;195|b;255][ENTER]
+Töte den Metinstein. Besonderheit: Er teleportiert sich
+[ENTER]
+[COLOR r;0|g;195|b;255]Phase 4[/COLOR r;0|g;195|b;255][ENTER]
+Töte Szel
+[ENTER]
+[COLOR r;0|g;195|b;255]Phase 5[/COLOR r;0|g;195|b;255][ENTER]
+Töte Monster und erhalte 10x Frostschlüssel. Ziehe anschließend den
+Eisblumenschlüssel auf den Eisigen Löwen
+[ENTER]
+Phase 6[/COLOR r;0|g;195|b;255][ENTER]
+Töte Nemere

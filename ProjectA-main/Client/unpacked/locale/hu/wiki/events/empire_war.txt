@@ -1,0 +1,45 @@
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/empirewar.tga]
+[CENTER_ALIGN;FONT_SIZE=18]Birodalmi Háború
+
+[COLOR=0xffd700;FONT_SIZE=15]Tartalom:
+*1. Általános információk
+*2. Event leírása
+*3. Jutalmak
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=100; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Általános információk:
+
+A Birodalmi Háború egy nyílt PvP event, ami egy Speciális Pályán van.
+Minden játékos aki legalább 75-ös szintû, részt vehet a harcban a birodalmával a másik kettõ birodalom ellen.
+Ahhoz hogy elérhesd ezt a pályát, teleportálnod kell, egy ablak fog megjelenni a képernyõd közepén 
+ha a kapuk megnyílnak. Az a birodalom, amelyik 20 perc elteltével a legjobb Ölés/Halál aránnyal rendelkezik nyerik meg a Birodalmi Háborút.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=200; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Event leírása:
+
+Amikor elteleportálódsz erre a pályára, észreveszed hogy körülötted mindenki ellenség.
+Hé haver! Ne hagyd a fegyvereidet otthon. Itt nincsen biztonsági zóna ami megvéd! 
+Szóval gyõzõdj meg hogy a jó cuccaidat veszed fel. Az óra ketyeg... Ne felejtsd el hogy a cél az hogy elérjétek 
+a legjobb Ölés/Halál arányt 20 perc alatt. Ez idõ alatt a birodalmad teljesítménye kulcsfontosságú.
+Az egyenlõség értelmében, ezeket a tárgyakat nem használhatod a harc folyamán:
+
+*Buffi
+*Hátasok
+*Esküvõi gyûrû
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=380; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Jutalmak:
+
+Az a birodalom, amely a legjobb Ölés/Halál arányt teljesíti, a következõ bónuszokat kapja 6 órán át.
+
+*100% Tapasztalati pont
+*10% Metin elleni erõ
+*10% Bossok elleni erõ
+Megjegyzés: Birodalom váltás a Birodalmi Háború után 6 óráig nem lehetséges.
+
+

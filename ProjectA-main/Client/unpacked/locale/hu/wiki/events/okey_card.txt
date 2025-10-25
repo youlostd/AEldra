@@ -1,0 +1,87 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/okeycard.tga]
+[CENTER_ALIGN;FONT_SIZE=18]Okey Kártya játék
+
+[COLOR=0xffd700;FONT_SIZE=15]Tartalom:
+*1. Általános információk
+*2. Event leírása
+*3. Jutalmak
+*4. Kombinációk és pontok
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=120; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Általános információk
+
+Szörnyek ölésével kaphatsz Okey Gyűjthető Kártyát, az event ideje alatt.
+Okey Gyűjthető Kártyák alternatív droppok, ami azt jelenti, hogy a te szinted +/- 15 szinttel minden szörny dobhat. 
+Miután összegyűjtöttél 24 kártyát, autómatikusan kapsz egy Okey Kártyszettet.
+Ezután játszhatsz a minijátékkal. 
+Amikor az Event aktív, egy Okey Kártya játék ikon jelenik meg a minimappod mellett, 
+ahonnan elindíthatod a játékot.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=250; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Event leírása
+
+A cél az, hogy szerezz ugyan szetteket vagy sorozatokat.
+A szett azt jelenti, hogy 3 kártyán ugyan az a szám áll. (pl. 7, 7, 7)
+Ha kisebb szám van a kártyákon, kevesebb pontot kapsz a szettért.
+
+A sorozat azt jelenti, hogy 3 egymást követő kártyát kell szerezni.(pl. 5, 6, 7)
+Ha kisebb szám van a kártyákon, kevesebb pontot kapsz a szettért.
+Egy sorozat, ami ugyan abból a színből áll, több pontot ér.
+
+Bal kattintás a paklira, megmutatja az első 5 kártyát.
+Gyűjts pontokat, 3 kártya kiválasztásával.(Megjegyzés: Bal katt: Kártya választás, Jobb katt: Kártya elvetése)
+Minnél több pontot gyűjtesz, annál jobb jutalomban részesülsz.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=450; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Jutalmak
+
+A jutalmad minden egyes játékban, az adott eredményed alapján dől el.
+Hogy megkapd a jutalmad, nyomd meg a "Vége" gombot.
+
+*Pont < 300: Bronz Okey Láda
+*Pont 300-399: Ezüst Okey Láda
+*Pont ≥ 400: Arany Okey Láda
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=590; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]4. Kombinációk és pontok
+
+[COLOR=ef4f00;FONT_SIZE=15]4.1 Szettek pontjai
+
+*1-1-1 : 20 Pont
+*2-2-2 : 30 Pont
+*3-3-3 : 40 Pont
+*4-4-4 : 50 Pont
+*5-5-5 : 60 Pont
+*6-6-6 : 70 Pont
+*7-7-7 : 80 Pont
+*8-8-8 : 90 Pont
+
+[COLOR=ef4f00;FONT_SIZE=15]4.2 Run Points
+
+[COLOR=ef4f00]4.2.1 Sorozat Pontok - Kártyák különböző színnel
+
+*1-2-3 : 10 Pont
+*2-3-4 : 20 Pont
+*3-4-5 : 30 Pont
+*4-5-6 : 40 Pont
+*5-6-7 : 50 Pont
+*6-7-8 : 60 Pont
+
+[COLOR=ef4f00]4.2.2 Sorozat Pontok - Kártyák azonos színnel
+
+*1-2-3 : 100 Pont
+*2-3-4 : 100 Pont
+*3-4-5 : 100 Pont
+*4-5-6 : 100 Pont
+*5-6-7 : 100 Pont
+*6-7-8 : 100 Pont
+

@@ -1,0 +1,24 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/jotun.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Követelmények:
+*Kötelezõ szint: 105
+*Belépési jegy: Tündérek köve
+[RIGHT_ALIGN]Stone of the Dryads
+[IMG=d:/ymir work/ui/wiki/30613.tga; Y=5; X=500]
+
+[COLOR=0xffd700;FONT_SIZE=15]Sajátosságok:
+*A Jotun Thrym dungeon-nek 180 perces cooldownja van.
+*A dungeon-be bemehetsz egyedül, és csoportosan is.
+*Hátast nem lehet használni
+*Jotun Thrym dobhat 5 - 10 darab Jotun Thrym ládát.
+
+
+[CENTER_ALIGN;FONT_SIZE=18]Szintek:
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=140; CENTER_ALIGN]
+[COLOR=ef4f00;FONT_SIZE=15]1. Szint
+
+[X_PADDING=20]Öld meg Bagjanamu-t.
+
+[COLOR=ef4f00;FONT_SIZE=15]2. Szint
+
+[X_PADDING=20]Öld meg Jotun Thrym-t.

@@ -1,0 +1,9 @@
+[DELAY value;0]
+[COLOR r;0|g;195|b;255]Aşama 1[/COLOR r;0|g;195|b;255][ENTER]
+Örümcek Baronu'nu öldür ve Arachnida Flütü'nü ele geçir.[ENTER]
+[ENTER]
+[COLOR r;0|g;195|b;255]Aşama 2[/COLOR r;0|g;195|b;255][ENTER]
+Örümcek Baronun'ndan ele geçirdiğin Arachnida Flütü'nü kullan.[ENTER]
+[ENTER]
+[COLOR r;0|g;195|b;255]Aşama 3[/COLOR r;0|g;195|b;255][ENTER]
+Örümcek Baroness'i öldür.

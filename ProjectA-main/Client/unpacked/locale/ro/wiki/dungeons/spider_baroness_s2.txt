@@ -1,0 +1,28 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/spiderbaroness.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Cerinte:
+*Nivel necesar: 60 - 85
+*Ticher de intrare: Cheie arahnidelor
+[IMG=d:/ymir work/ui/wiki/rahmen.tga; Y=5; X=460]
+[IMG=d:/ymir work/ui/wiki/30324.tga; Y=15; X=482]
+
+
+[X_PADDING=467]Cheia arahnidelor
+[COLOR=0xffd700;FONT_SIZE=15]Specificatii:
+*Vizuina Reginei Paianjen are un cooldown de 1 ora.
+*In Vizuina Reginei Paianjen se poate intra cu sau fara grupa.
+*Vizuina Reginei Paianjen are un timp limita de 20 minute.
+*Numai liderul grupei are nevoie de Cheia arahnidelor.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=148; CENTER_ALIGN]
+
+[COLOR=ef4f00;FONT_SIZE=15]Faza 1
+
+[X_PADDING=20]Omoara Regele Paianjen si foloseste Fluierul arahnidelor.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Faza 2
+
+[X_PADDING=20]Omoara Baroneasa Paianjen.
+[IMG=d:/ymir work/ui/wiki/Spinnenbaroness.tga; Y=160; X=320]

@@ -1,0 +1,17 @@
+Group	L01_들개(PAWN)-들개(PAWN)
+{
+	Leader	Wildhund	101
+	Vnum	101
+	1	들개	101
+	2	들개	101
+}
+
+Group	L70_말(Boss)-조랑말(Boss)
+{
+	Leader	.	20025
+	Vnum	12007
+	1	Pony	20029
+	2	Pony	20029
+	3	Pferd	20030
+	4	Pferd	20030
+}

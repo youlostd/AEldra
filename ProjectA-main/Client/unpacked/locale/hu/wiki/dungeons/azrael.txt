@@ -1,0 +1,49 @@
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/azrael.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Követelmények:
+*Kötelezõ Szint: 75
+*Belépési jegy: Zsugorított fej (nem a belépéshez, hanem a harmadik szinthez)
+[RIGHT_ALIGN]Shrunken Head
+[IMG=d:/ymir work/ui/wiki/30319.tga; Y=5; X=493]
+
+[COLOR=0xffd700;FONT_SIZE=15]Sajátosságok:
+*Az Ördög Katakombája egyedül, és csoportban is teljesíthetõ. 
+*Egy óra áll rendelkezésre, a dungeon teljesítésére.
+*A Boss Room Ticket (Azrael)-el egybõl az utolsó színtre juthatsz, és megölheted Azraelt.
+*Az Ördög Katakombájának 60 perces cooldownja van.
+
+
+[CENTER_ALIGN;FONT_SIZE=18]Szintek:
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=145; CENTER_ALIGN]
+
+[COLOR=ef4f00;FONT_SIZE=15]1. Szint
+
+[X_PADDING=20]Ölj meg minden szörnyet ameddig nem kapsz egy Lélek kristály kulcsot. 
+[X_PADDING=20]A kulcsot rá kell húznod a Kud oszlopra ennek az emeletnek a végén.
+
+[COLOR=ef4f00;FONT_SIZE=15]2. Szint
+
+[X_PADDING=20]Végig kell küzdened magad a the Korszakkapon ameddig el nem éred a
+[X_PADDING=20]Teknõs sziklet ennek az emeletnek a végén. Csak egy embernek kell a teknõsre kattintania. 
+[X_PADDING=20](Minden csoporttagnál kell hogy legyen egy Zsugorított fej.)
+
+[COLOR=ef4f00;FONT_SIZE=15]3. Szint
+
+[X_PADDING=20]Ezen a szinten 7 darab metinkõ található, melyek a Megtorlás Metinjei, 
+[X_PADDING=20]amelyeket el kell pusztítani. Csak 1 jó van, amely tovább enged a következõ szintre.
+
+[COLOR=ef4f00;FONT_SIZE=15]4. Szint
+
+[X_PADDING=20]Találd meg, és öld meg Tartaros-t, aki az egyik szobában van a templom alatt. 
+[X_PADDING=20]Vidd a Grimaszoló totemet a templom tetejére, és húzd rá a Bazalt Obeliszkre.
+
+[COLOR=ef4f00;FONT_SIZE=15]5. Szint
+
+[X_PADDING=20]Ölj meg minden szörnyet ezen a szinten, ezután öld meg Charon-t. miután minden szörnyet megöltél, 
+[X_PADDING=20]a következõ szintre jutsz.
+
+[COLOR=ef4f00;FONT_SIZE=15]6. Szint
+
+[X_PADDING=20]Öld meg Azrael-t.
+
+
+

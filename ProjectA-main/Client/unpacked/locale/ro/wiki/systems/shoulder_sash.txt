@@ -1,0 +1,96 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/shoulder.tga]
+[CENTER_ALIGN]o esarfa este o piesa visibila de echipament, utilizata de majoritatea jucatorilor de pe Metin2Aeldra. 
+[CENTER_ALIGN]Esarfa este echipata in fereastra Sistemului de Costume care se poate deschide Pe butonul de sistem al costumelor
+[CENTER_ALIGN]Aflat in inventarul jucatorului. Esarfa este permanenta si paote fi echipata incepand cu nivelul 1.
+[CENTER_ALIGN]Hai sa intram in detalii:
+
+[COLOR=0xffd700;FONT_SIZE=15]Lista continut:
+*1. Diferitele tiprui de esarfe si cum poti obtine una.
+*2. cum poti imbunatati o esarfa.
+*3. Cum poti absorbii bonusurile unui obiect pe o esarfa.
+*4. Cum poti scoate bonusurile de pe o esarfa.
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=135; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Diferitele tipuri de esarfa si cum poti obtine una.
+
+[CENTER_ALIGN] pe server sunt multe tipuri de esarfe, incluzand: 
+[CENTER_ALIGN] Esarfa Master, Esarfa Lord, Esarfa Royala, Esarfa Suveran, Esarfa Aniversara.
+[CENTER_ALIGN] Diferentele dintre cele 5 esarfe sunt aspectul si originea.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]1.1 Esarfa Master
+[X_PADDING=20]O Esarfa Master (normala) Poate fi obtinuta schimband 10 panze fine la Theowahdan.
+
+[X_PADDING=20]in general, panza fina poate fi obtinuta de la Ingerul cu Coasa, Baroneasa paianjen, Azrael, Beran Setaou, Razador, Nemere, 
+[X_PADDING=20]Cufarul Orcului sef, Cufarul lui 9-cozi, Cufarul broastei gigant, Cufarul regelui foc, Cufarul digrului galben, Cufarul Reginei Meley, 
+[X_PADDING=20]Cufar garda dragon, Cufar clar de luna, Cufarul decimatului de aur si Cufar peste auriu,
+
+[X_PADDING=20]De asemenea, o esarfa Master (normala) poate fi obtinua ca recompensa la Cartea misiunii (normal), 
+[X_PADDING=20]Cartea misiunii (greu), Cartea misiunii (expert) and Cartea misiunii (royal).
+
+
+[COLOR=ef4f00;FONT_SIZE=15]1.2 Esarfa Lord
+[X_PADDING=20]O Esarfa Lord poate fi obtinuta de la Cartea misiunii (greu), Cartea misiunii (expert), 
+[X_PADDING=20]Cartea misiunii (royal), Cufarul decimatului de aur si din Item-Shop.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]1.3 Esarfa Royala
+[X_PADDING=20]O Esarfa Royala (normala) poate fi obtinuta ca recompensa la Cartea misiunii (greu), Cartea misiunii (expert), 
+[X_PADDING=20]Cartea misiunii (royal), Cufarul decimatului de aur, Cufarul lui Razador si Cufarul lui Nemere.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]1.4 Esarfa Suveran
+[X_PADDING=20]O Esarfa Suveran (normala) poate fi obtinuta ca recompensa la Cartea misiunii (greu), Cartea misiunii (expert), 
+[X_PADDING=20]Cartea misiunii (royal), Cufarul decimatului de aur, Cufarul lui Razador si Cufarul lui Nemere.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]1.5 Esarfa Aniversara
+[X_PADDING=20]Esarfa Aniversara a fost parte dintr-o oferta speciala din item-shop de pe 16.07.2018 pana pe 22.07.2018. 
+[X_PADDING=20]Se afla in muzeu acum..
+
+
+[COLOR=ef4f00;FONT_SIZE=15]1.6 Esarfa de Craciun.
+[X_PADDING=20]Esarfa de Craciun a fost parte din evenimentul de Craciun din 2018. 
+[X_PADDING=20]O puteai obtine din Item-Shop sau din battlepass-ul de craciun.
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=690; CENTER_ALIGN]
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Cum sa imbunatatesti o Esarfa.
+
+O Esarfa are 4 grade de calitate: normala, fina, nobila si avansata.
+Esarfele cu acelasi grad de calitate pot fi combinate pentru a obtine una mai mai buna, dar acest proces poate esua,
+cand se intampla asta, a 2-a esarfa din fereastra de combinare v-a fi disctrusa. Fereastra pentru combinarea esarfelor poate fi gasita 
+la Theowahdan, sectiunea "Combinare". O Esarfa avansata poate fi combinata cu alta Esarfa avansata 
+(de orice tip). Imbunatatirea, in caz ca reuseste, v-a imbunatati absorbtia esarfei cu 1 pana la 5%.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=815; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Cum sa absorbi o armura/arma pe Esarfa.
+
+Poti absorbi orice arma sau armura pe esarfa ta.
+Arma sau armura vor fi distruse.
+
+*Esarfele normale absorb 1% din bonusurile armei sau armurii.
+*Esarfele fine absorb 5% din bonusurile armei sau armurii.
+*Esarfele nobile absorb 10% din bonusurile armei sau armurii.
+*Esarfele avansate absorb 11% - 25% din bonusurile armei sau armurii.
+
+Fereastra de absorbtia bonusurilor poate fi gasita la sectiunea "Includerea Bonusurilor"  de la Theowahdan. 
+Aseaza esarfa in slotul din stanga, arma sau armura in slotul din dreapta, si poti vedea rezultatul in partea de jos a ferestrei.
+Procesul v-a transfera procentul tuturor bonusurilor de pe arma sau armura.
+(Numerele decimale vor fi micsorate pana al cel mai apropiat numar rotund)
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=1025; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]4. Cum poti scoate bonusurile de pe o esarfa:
+
+Sa spunem ca ai facut o greseala si ai absorbit bonusurile de pe o arma sau armura gresita.. Ni se intampla tuturor... sau nu.
+In cazul acesta, nu iti poti primi arma sau armura inapoi insa poti scoate bonusurile de pe esarfa cu un certificat de anulare.
+
+

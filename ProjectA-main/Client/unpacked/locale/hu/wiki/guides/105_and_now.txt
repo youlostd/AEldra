@@ -1,0 +1,120 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/105andnow.tga]
+[CENTER_ALIGN]Kedves Aeldra játékosok,
+[CENTER_ALIGN]Ha ezt a guide-ot olvassátok, nagy az esély hogy valahol elvesztetek
+[CENTER_ALIGN]a kalandozások közben. Ez a guide megmutatja hogyan tovább...
+
+[COLOR=0xffd700;FONT_SIZE=15]Tartalom:
+*1. A kalandok 105-ös szint után & Battlepass of the Tree. 
+*2. Kosztümök? 
+*3. Rövid dungeon leírások
+*4. Turmalin felszerelés 
+*5. Hogyan gyõzzük le azokat a majmokat.
+*6. Befejeztem a szervert? 
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=160; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. A kalandok 105-ös szint után & Battlepass of the Tree. 
+
+Ez a pont után, egy közpép-végjátékos vagy, mivel közeledsz a maximum szint eléréséhez. 
+De eközben, valószínûleg észrevetted, hogy a dolgok kicsit nehezebbek lettek. 
+
+
+[COLOR=ef4f00;FONT_SIZE=15]1.1 Enchanted Forest & Dark Forest
+
+Mostmár eltudsz teleportálni teljesen új pályákra, az Enchanted & Dark Forest-re. Ezek a pályák tele vannak 
+kisebb kincsekkel, amiket egyesével felfedezhetsz. Elsõsorban fejlesztened kell a felszerelésed, 
+mert mint említettem ezelõtt: A dolgok egyre nehezebbek lesznek. A szörnyeknek itt nincsen aktív 
+faj bónuszuk, bár rájuk a "Föld" hat, ami azt jelenti, hogy jó ha van nálad egy Earth Talisman +49. 
+Ráadásul, a sebzésük is jelentõsen meg van emelve, a 90-es mapokhoz képest, szóval maximalizáld a kitérésed, 
+'Max. HP'-t és a 'TP veszteséget', ezek jól jönnek. Legendás Sárkány Ónix és Jáde (gondolom már van 
+Rubin+6-od) és kitérés kõ+5, és védelem kõ a ruhádba, biztosítja, hogy életben maradj a metin farm közben. 
+
+
+
+[COLOR=ef4f00;FONT_SIZE=15]1.2 Mission Book (royal) ?
+
+Ezután elkezdtél Mission Books (royal)-t is kapni. Ez egy jópár küldetést tartalmaz,  
+de egyszerre csak egyet, amiknek teljesítéséért jutalmat kapsz. A legtöbb küldetés dungeon-höz kapcsolódó, 
+szóval ha úgy érzed, csinálgasd. Ha nem, az eladásuk is egy opció. De tartsd észben, 
+a jutalmak elég jók. (Legendary Soulstones, Boss Roll(heavy), stb...)
+
+
+[COLOR=ef4f00;FONT_SIZE=15]1.3 Battlepass of the Tree
+
+Láttad már a Battlepass-t, a régi idõkben, amikor csak lvl1 voltál. Ismét itt van, egy kicsit újra dolgozva.
+7 darab normáls küldetést, és 3 darab Legendás küldetést tartalmaz. Ezek a jutalmak a te igényeidhez vannak szabva, 
+szóval dolgozz rajtuk miharabb. 
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=580; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Kosztümök?
+
+Eddig, valószínûleg mindig frissítgetted a kezdõ 3x10%-os kosztümjeidet, vagy szereztél néhány 3x15%-os kosztümök. 
+Hát, még nem végeztél. Speciális Eventek vannak idõrõl idõre, és általában tartalmaznak 
+20%-os kosztüm bónuszt, a fegyveredhez, vagy a hajviseletedhez. Kezdj el nézelõdni ezek után.
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=680; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Rövid dungeon leírások
+
+Még csak most oldottad fel Jothun Thrym kapujit, és a Ship Defense-t, a nagyszintû dungeonöket. 
+Úgy látszik, mindenhova kell egy kulcs... Nos, ez nem olyan drámai, mint amilyennek gondolod.
+Kaparj össze egy Belépési Engedélyt, mivel a Nemerétõl a Kék Kristály Esszencia belépést ad a Ship Defense-hez.
+Ugyan ez a logika, Razadortól Vörös Pokol Kvarcot kaphatsz, amivel a Kristály Sárkányok Barlangjába léphetsz be. 
+Szóval, alapvetõleg csak össze kell kapcsolnod a dungeon-ket egymáshoz, hogy profitot csinálj magadnak.
+Tartsd észben, Kristály Sárkányok Barlangja és Jothun Thrym sebzés alapú helyek, amik maxos bónuszokat igényelnek.
+Keep in touch with our forum for more information...
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=830; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]4. Turmalin felszerelés
+
+Nem gondolod, hogy itt az idõ, hogy leváltsad azokat a kis-szintû Lélekkristály cuccokat? De igen.
+Turmalin fülbevaló és nyaklánc ad 15% Metin és Szörny elleni erõt, ami nem elhanyagolható
+a sebzésed növelése érdekében. Turmalin karkötõ ad 15% Erõt Szörnyek és Bossok ellen 
+amitõl elkezdheted a nagyszintû dungeonöket, egyedül. Összességében, a turmalin felszerelés, 
+a Tûz Cipõvel, a Dragon Crystal Belttel, és a Sea Serpent Helmettel elkészíthetõ Badawahdan-nál
+(Cape Dragon Village). Vess rá egy pillantást.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=970; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]5. Hogyan gyõzzük le azokat a majmokat.
+
+Nem fog sokáig tartani, ameddig feloldod a Wukonkong's Temple-t is (110Lv map), ami megváltoztatja azt, ahogy farmolsz.
+Szerezd meg az összes Sárkánykõ alkímiát +6-on (extra bónuszokért), Wind Talisman+99, Pánt Kosztüm és maximalizáld
+a sebzésed, hogy komolyabban elkezdj farmolni. Ezen a pályán farmolhatsz kíváló mennyiségû Chest of Supply-t, 
+Dream & Sky Soul-t, Chest of Skills-t (speciális képességekért), és fejlesztõ tárgyakat
+a high-end felszerelésekhez. Add el õket, vagy használd a saját felszerelésedhez, profitálni fogsz belõle.
+És elkezdhetsz gondolkozni, mi mehet a Zodiákus Templomban, és Thandruilnál... Igaz?
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=1120; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]6. Befejeztem a szervert? 
+
+A max szint elérése, nem azt jelenti hogy minden részét láttad már a játéknak.
+Biztos vagyok benne, hogy ezt te is tudod...
+
+
+[COLOR=ef4f00;FONT_SIZE=15]6.1 Zodiákus Templom
+
+Néhány, a legnehezebb kihívás itt található, a Zodiákus Templomban. Itt az idõ, hogy szocializálódj
+és szerezz egy csapatot, vagy céhet, akik segítenek végig menni. A templom tele van új funkciókkal, szintekkel, 
+és jutalmakkal és ez nem lesz könnyû egyedül. Maximalizáld a felszerelésed, fejleszd fel az összes talizmánod +99-re
+és formálj egy jó csapatot, amely elvezethet téged a 40. szintre.
+Hamarosan elbúcsúzhatsz a szeretett 75-ös fegyveredtõl, és elkezdheted forgatni, és fejleszteni a Zodiákus fegyveredet.
+Ugyan ez igaz a páncélodra. Megbírkózni mind a 12 Zodiákus Istennel nem egy kis feladat, szóval gyõzõdj meg róla, 
+hogy minden apró infórmációt tudsz. 
+
+
+[COLOR=ef4f00;FONT_SIZE=15]6.2 Thranduil's Lair
+
+Ez a dungeon új bossokat tartalmaz, új szinteket és több új sokoldalú kihívást. 
+Új technikákat találhatsz az odúban, és talán néhány Kyanit felszerelést is... Ki tudja...
+
+
+

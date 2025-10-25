@@ -1,0 +1,120 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/costumes.tga]
+[COLOR=0xffd700;FONT_SIZE=15]İçerik Listesi:
+*1. Genel Bilgiler
+*2. Kostüm Bonusu Ekleme ve Değiştirme
+*3. Saç Stili Bonusları
+*4. Zırh Kostümü Bonusları
+*5. Silah Kostümü Bonusları
+*6. Kostüm Bonusu Transferi
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Genel Bilgiler
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=100; CENTER_ALIGN]
+
+[CENTER_ALIGN]Kostümler; savaş pasolarından, etkinliklerden ve diğer oyunculardan elde edilebilir.
+[CENTER_ALIGN]Saç Stili, Zırh Kostümü ve Silah Kostümü olmak üzere 3 farklı kostüm türü bulunmaktadır. Kostümler kalıcıdır.
+[CENTER_ALIGN]Bir kostüm en fazla 5 bonusa sahip olabilir. Bonus ekleme/değiştirme eşyası her tür için farklıdır.
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Kostüm Bonusu Ekleme ve Değiştirme
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=195; CENTER_ALIGN]
+
+[CENTER_ALIGN]İlk 3 bonusu eklemek için Kostüm Güçlendirme'ye ihtiyaç vardır. (Saç Stili/Silah/Zırh/Genel)
+[CENTER_ALIGN]4. ve 5. bonusu eklemek için Kostüm Güçlendirme+'ya ihtiyaç vardır. (Saç Stili/Silah/Zırh/Genel)
+[CENTER_ALIGN]4. ve 5. bonuslar, sadece 3 bonus eklenmiş kostümlere eklenebilir.
+[CENTER_ALIGN]Bu eşyalar her seferinde 1 bonus ekler ve başarısız olma ihtimali yoktur.
+
+[CENTER_ALIGN]İlk 3 bonusu değiştirmek için Kostüm Efsunu'na ihtiyaç vardır. (Saç Stili/Silah/Zırh/Genel)
+[CENTER_ALIGN]4. ve 5. bonusu değiştirmek için Kostüm Efsunu'na ihtiyaç vardır. (Saç Stili/Silah/Zırh/Genel)
+
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Saç Stili Bonusları
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=350; CENTER_ALIGN]
+
+[COLOR=00EF4F;FONT_SIZE=14]Muhtemel 1-3 Bonuslar:
+*Şeytanlara Karşı Güçlü +5, 8, 10%
+*Ölümsüzlere Karşı Güçlü +5, 8, 10%
+*Mistiklere Karşı Güçlü +5, 8, 10%
+*Orklara Karşı Güçlü +5, 8, 10%
+*Hayvanlara Karşı Güçlü +5, 8, 10%
+*Zehir Dayanıklılığı +3, 5%
+*Saldırı Hızı +5, 8, 10%
+*Oklardan Korunma Şansı +5, 8, 10%
+*Yakın Dövüş Saldırılarını Bloklama Şansı +3, 5%
+*Yakın Dövüş Saldırılarını Yansıtma Şansı +3, 5%
+*Maks. HP +500, 750, 1000
+
+[COLOR=FF0021;FONT_SIZE=14]Muhtemel 4. ve 5. Bonuslar:
+*Metin Taşlarına Karşı Güçlü +3, 5, 8%
+*Canavarlara Karşı Güçlü +3, 5, 8%
+*Patronlara Karşı Güçlü +3, 5, 8%
+*Ortalama Zarar Dayanıklılığı +3, 5%
+*Ortalama Zarar +3, 5%
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]4. Zırh Kostümü Bonusları
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=655; CENTER_ALIGN]
+
+
+[COLOR=00EF4F;FONT_SIZE=14]Muhtemel 1-3 Bonuslar:
+*Maks. HP +500, 750, 1000
+*Hasar, SP Tarafından Absorbe Edilecek +3, 5%
+*Hasar, HP Tarafından Absorbe Edilecek +3, 5%
+*Büyü Hızı +5, 8, 10%
+*Saldırı Değeri +20, 35, 50
+*Buz Dayanıklılığı +3, 5, 8%
+*Ateş Dayanıklılığı +3, 5, 8%
+*Rüzgar Dayanıklılığı +3, 5, 8%
+*Şimşek Dayanıklılığı +3, 5, 8%
+*Toprak Dayanıklılığı +3, 5, 8%
+*Karanlık Dayanıklılığı +3, 5, 8%
+
+
+[COLOR=FF0021;FONT_SIZE=14]Muhtemel 4. ve 5. Bonuslar:
+*Metin Taşlarına Karşı Güçlü +3, 5, 8%
+*Canavarlara Karşı Güçlü +3, 5, 8%
+*Patronlara Karşı Güçlü +3, 5, 8%
+*Yarı İnsan Dayanıklılığı +3, 5%
+*Beceri Hasarı Dayanıklılığı +3, 5%
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]5. Silah Kostümü Bonusları
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=985; CENTER_ALIGN]
+
+[COLOR=00EF4F;FONT_SIZE=14]Muhtemel 1-3 Bonuslar:
+*Şeytanlara Karşı Güçlü +5, 8, 10%
+*Ölümsüzlere Karşı Güçlü +5, 8, 10%
+*Mistiklere Karşı Güçlü +5, 8, 10%
+*Orklara Karşı Güçlü +5, 8, 10%
+*Hayvanlara Karşı Güçlü +5, 8, 10%
+*Kritik Vuruş Şansı +3, 5%
+*Delici Vuruş Şansı +3, 5%
+*Canlılık +3, 5, 8
+*Zeka +3, 5, 8
+*Güç +3, 5, 8
+*Çeviklik +3, 5, 8
+
+
+[COLOR=FF0021;FONT_SIZE=14]Muhtemel 4. ve 5. Bonuslar:
+*Metin Taşlarına Karşı Güçlü +3, 5, 8%
+*Canavarlara Karşı Güçlü +3, 5, 8%
+*Patronlara Karşı Güçlü +3, 5, 8%
+*Yarı insanlara Karşı Güçlü +3, 5%
+*Beceri Hasarı +3, 5%
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]6. Kostüm Bonusu Transferi
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=1300; CENTER_ALIGN]
+
+[CENTER_ALIGN]Bir kostümdeki bonuslar, Kostüm Bonusu Transferi eşyasıyla Theowahdan'da başka bir kostüme aktarılabilir.
+[CENTER_ALIGN]Sol yuvaya yerleştirilen kostümün bonusları, sağ yuvaya yerleştirilen kostüme aktarılır.
+[CENTER_ALIGN]Hali hazırda bonusa sahip olan kostümlere transfer yapılması durumunda, transfer yapılan
+[CENTER_ALIGN]kostümün eski bonusları, yeni bonuslar ile değiştirilir.
+

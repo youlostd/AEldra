@@ -1,0 +1,42 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/razador.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Gereksinimler:
+*Gerekli Seviye: 95 - 109
+*Giriş Eşyası: Alevli Geçit Mührü
+[RIGHT_ALIGN]Alevli Geçit Mührü
+[IMG=d:/ymir work/ui/wiki/31089.tga; Y=5; X=500]
+
+[COLOR=0xffd700;FONT_SIZE=15]Özellikler:
+*Zindanın yenilenme süresi 90 dakikadır.
+*Zindana hem grupla hem tek başına girebilirsin. 
+*Zindanı 60 dakika içerisinde tamamlamalısın.
+
+
+[CENTER_ALIGN;FONT_SIZE=18]Aşamalar:
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=145; CENTER_ALIGN]
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 1
+
+[X_PADDING=20]Bütün Ignator'ları öldür ve Altın Dişli Çark'ları İsfet Stellerine sürükle.
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 2
+
+[X_PADDING=20]Bütün canavarları öldür ve anahtarı İsfet Steli'ne sürükle.
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 3
+
+[X_PADDING=20]Metin taşlarını doğru sırayla yok et.
+[X_PADDING=20]Doğru metin taşları kırmızı bir ok ile gösterilir.
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 4
+
+[X_PADDING=20]Bütün canavarları öldür.
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 5
+
+[X_PADDING=20]Metin taşını yok et.
+[X_PADDING=20]Hatırlatma: Metnin HP'si 45% iken bir canavar dalgası ortaya çıkar. Devam etmek için o dalgayı yok et.
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 6
+
+[X_PADDING=20]Razador'u öldür.

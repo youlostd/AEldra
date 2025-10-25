@@ -1,0 +1,30 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/beransetoul.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Gereksinimler:
+*Gereken Seviye: 75
+*Giriş Eşyası: Kıvrık Anahtar
+[RIGHT_ALIGN]Kıvrık Anahtar
+[IMG=d:/ymir work/ui/wiki/30179.tga; Y=5; X=493]
+
+
+[COLOR=0xffd700;FONT_SIZE=15]Özellikler:
+*Ejderha Odasını 60 dakika içerisinde tamamlamalısın.
+*Gruptaki her üyenin Kıvrık Anahtara sahip olması gerekmektedir.
+*Her metin farklı özelliklere sahiptir; bu etkiler, metin taşlarının sayısı doğrultusunda artar.
+[X_PADDING=20]*Ejderhanın HP yükleme miktarı Kibir Metini tarafından artar.
+[X_PADDING=20]*Ejderhanın uyguladığı hasar İntikam Metini tarafından artar.
+[X_PADDING=20]*Ejderhanın HP yükleme hızı Kimsesizlik Metini tarafından artar.
+[X_PADDING=20]*Ejderhanın savunması Dağ Metini tarafından artar.
+
+
+[CENTER_ALIGN;FONT_SIZE=18]Aşamalar:
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=185; CENTER_ALIGN]
+
+[COLOR=ef4f00;FONT_SIZE=15]1. Aşama
+
+[X_PADDING=20]Seçtiğin metinler kalana kadar metinleri yok et.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]2. Aşama
+
+[X_PADDING=20]Beran-Setaou'yu öldür.

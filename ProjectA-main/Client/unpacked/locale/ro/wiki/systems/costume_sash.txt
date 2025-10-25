@@ -1,0 +1,108 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/costume_sash.tga]
+[CENTER_ALIGN]Un costum pentru esarfa este o piesa de echipament valoaroasa care iti decoreaza esarfa normala cu cateva bonusuri utile.
+[CENTER_ALIGN]Costumul pentru esarfa este echipat in fereastra de costume care se dechide pe butonul de "Sistem Costume"
+[CENTER_ALIGN]din inventarul jucatorului.
+
+[COLOR=0xffd700;FONT_SIZE=15]Content List:
+*1. Tipuri diferite de Costum pentru Esarfa.
+*2. Cum obtii un costum pentru esarfa.
+*3. Cum sa combini un costum pentru esarfa
+*4. bonusurile.
+*5. Cum sa transferi bonusurile unui costum pentru esarfa.
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=150; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Tipuri diferite de costume pentru esarfa:
+
+Costumele pentru esarfa reprezinta cei 12 zei din Zodiacul Chinezesc si prin urmare, sunt disponibile urmatoarele costume pentru esarfa: Esarfa Zi, Esarfa Chou, Esarfa Yin, Esarfa Mao, Esarfa Chen, 
+Esarfa Si, Esarfa Wu, Esarfa Wei, Esarfa Shen, Esarfa Yu, Esarfa Xu, Esarfa Hai
+Pe server exista si cateva costume pentru esarfa Fiind oferte speciale sau evenimente speciale cum ar fi Aripile Ingerului
+Aripile demonului, Esarfa Demonului , Fiecare are 4 grade diferite: (normala), (fina), (nobila), (avansata).
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=265; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Cum poti obtine un costum pentru esarfa:
+
+Costumele pentru esarfa sunt vandute de catre Theowahdan "Magazinul de esarfe" si ai nevoie de 25x Panza fina si 5x din medalionul corespunzator. De exemplu, sa cumperi Esarfa Hai (normala) ai nevoie de 5x Medalion Hai si 25x panza fina.
+Medalioanele corespunzatoare se dropeaza la Liderul final din fiecare portal din Templul Zodiac.
+Costumele pentru esarfa speciale se pot gasi in ofertele speciale din Item-Shop sau la evenimente.
+Le poti obtine de acolo in stagiul (normala).
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=395; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Cum sa cumbini un costum pentru esarfa.
+
+Combinatia unui costum pentru esarfa este la fel ca cea de la sistemul de esarfe normal. 
+Costumele pentru esarfa care aua celasi grad de calitate pot fi combinate pentru a obtine un costum pentru esarfa cu un grad mai mare.
+Acest proces poate esua, Cand se intampla asta, al 2-lea costum pentru esarfa din fereastra de combinare a esarfelor va fi distrus.
+Fereastra pentru combinarea esarfelor se poate gasi la Theowahdan, sectiunea "Combinare" 
+Aripile Ingerului & Demonului pot fi combinate cu costume pentru esarfe de acelasi grad de calitate dar de tipuri diferite.
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=525; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]4. Bonusuri
+
+Un costum pentru esarfa poate ava pana la 5 bonusuri, depinzand de gradul de calitate al acestora. Bonusurile acestora pot fi adaugate cu ajutorul pietrelor Dream & Soul ( Dream & Sky stones)
+
+[COLOR=ef4f00;FONT_SIZE=15]4.1 Dream Stones.
+
+Sunt 5 grade diferite ale unei Dream Stone, fiecare avand un bonus PvM pentru costumul tau pentru esarfa.
+Dream Soul Stones (se obtin la metinele din Templul lui Wukong) pot fi schimbate in Dream Soul
+la Chuk-Sal. Dream Souls de acelasi grad pot fi combinate pentru a crafta un
+Dream Stone de calitate superioara la Chuk-Sal. Procesul poate esua.
+
+[COLOR=0xffd700]Dream Soul
+*puternic impotriva monstrilor 4,6,8,10 %
+
+[COLOR=0xffd700]Shimmering Dream Soul
+*Puterinic impotriva sefilor 4,6,8,10 %
+
+[COLOR=0xffd700]Iridescent Dream Soul
+*Puternic impotriva elementelor 4,6,8,10 %
+
+[COLOR=0xffd700]Prismatic Dream Soul
+*Puternic impotriva Metinelor 4,6,8,10 %
+
+[COLOR=0xffd700]Enlightened Dream Soul
+*Paguba medie 2, 4, 6, 8%
+
+[COLOR=ef4f00;FONT_SIZE=15]4.2 Sky Stones
+
+Sunt 5 grade diferite ale unei Sky Stone, fiecare avand un bonus PvP pentru costumul tau pentru esarfa.
+Sky Soul Stones (se obtin la metinele din Templul lui Wukong) pot fi schimbate in Sky Soul
+la Chuk-Sal. Sky Souls de acelasi grad pot fi combinate pentru a crafta un
+Sky Stone de calitate superioara la Chuk-Sal. Procesul poate esua.
+
+[COLOR=0xffd700]Sky Soul
+*Max. PV +500, +1000, +1500, +2000
+
+[COLOR=0xffd700]Shimmering Sky Soul
+*Viteza Farmecului 5, 10, 15, 20%
+
+[COLOR=0xffd700]Iridescent Sky Soul
+*Sansa de a bloca un atac corporal 2, 4, 6 , 8%
+
+[COLOR=0xffd700]Prismatic Sky Soul
+*Puternic impotriva semi-oamenilor 4, 6, 8, 10%
+
+[COLOR=0xffd700]Enlightened Sky Soul
+*Rezistenta impotriva semi-oamenilor 4, 6, 8, 10%
+
+
+[COLOR=ef4f00;FONT_SIZE=15]4.3 Prunous Enchanting
+
+Poti schimba bonusurile unui costum pentru esarfa folosind Prunous Enchanting. 
+Prunous Enchanting va schimba toate bonusurile disponibile pe costumul tau pentru esarfa.
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=1220; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]5. Cum transferi bonusurile unui costum pentru esarfa.
+
+Poti transfera bonusurile unui costum pentru esarfa pe alt costum pentru esarfa folosind Transfera bonus costum la Theowahdan. 
+Costumul din stanga va fi curatat iar bonusurile se vor transfera pe costumul din dreapta.

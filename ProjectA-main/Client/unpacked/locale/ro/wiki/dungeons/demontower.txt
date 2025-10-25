@@ -1,0 +1,76 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/demontower.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Cerinte:
+*Nivel necesar: 40 - 105
+*Tichet de intrare: -
+
+
+[COLOR=0xffd700;FONT_SIZE=15]Specificatii:
+*Turnul Demonilor nu are cooldown.
+*In Turnul Demonilor se poate intra cu sau fara grup.
+*Ai nevoie de nivel 75+ pentru a ajunge la Ingerul cu Coasa.
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=125; CENTER_ALIGN]
+
+[COLOR=ef4f00;FONT_SIZE=15]Etajul 1
+
+[X_PADDING=20]Distruge Metinul Puterii.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Etajul 2
+[IMG=d:/ymir work/ui/wiki/Damonenkonig.tga; Y=180; X=455]
+
+[X_PADDING=20]Omoara Regele Demon.
+[X_PADDING=20]Omoara toti ceilalti monstrii.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Etajul 3.
+
+[X_PADDING=20]Distruge Metinul Diavolului.
+[X_PADDING=20]Gaseste Metinul Dizgratiei corect.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Etajul 4
+[IMG=d:/ymir work/ui/wiki/rahmen_small.tga; Y=360; X=490]
+[IMG=d:/ymir work/ui/wiki/30306.tga; Y=366; X=496]
+
+
+[X_PADDING=20]Omoara monstrii pana gasesti Piatra cheie.
+[X_PADDING=20]Drag and Drop the Key Stone on the Seal.
+[X_PADDING=20]Deschide toate sigilile
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Etajul 5
+
+[X_PADDING=20]Omoara Demonul Rege Mandru.
+[X_PADDING=20]Cand esti nivel 75+, poti vorbi cu Fierarul ca sa poti intra la etajul urmator.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Etajul 6
+
+[X_PADDING=20]Distruge toate Metinele Mortii.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Etajul 7
+[IMG=d:/ymir work/ui/wiki/rahmen_small.tga; Y=590; X=490]
+[IMG=d:/ymir work/ui/wiki/30302.tga; Y=596; X=496]
+
+[X_PADDING=20]Distruge Metinul Mortii.
+[X_PADDING=20]Activeaza Harta pentru pestera Zin.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Etajul 8
+[IMG=d:/ymir work/ui/wiki/rahmen_small.tga; Y=670; X=490]
+[IMG=d:/ymir work/ui/wiki/30304.tga; Y=676; X=496]
+
+[X_PADDING=20]Omoara monstrii pana gasesti Cheie Zin-Bong-In.
+[X_PADDING=20]Trage si plaseaza cheia pe Monument.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Etajul 9
+
+[X_PADDING=20]Omoara Moartea cu Coasa.
+[IMG=d:/ymir work/ui/wiki/Sensenmann.tga; Y=700; X=322]
+
+
+

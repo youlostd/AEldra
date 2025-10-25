@@ -1,0 +1,127 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/battlepass.tga]
+[CENTER_ALIGN] A Battlepass egy küldetés sorozat, melynek sikeres teljesítéséért jutalmakat kapsz. 
+
+[COLOR=0xffd700;FONT_SIZE=15]Tartalom:
+*1. Havi Battlepass
+*2. Starterpass
+*3. Battlepass of the Tree
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Havi Battlepass
+
+[CENTER_ALIGN]Minden hónap elején, a Battlepass megjelenik az Tárgypiacon, és úgy mint a többi, 
+[CENTER_ALIGN]7 darab normál küldetést, és 3 darab legendás küldetést tartalmaz. A Battlepass fénypontja általában a 
+[CENTER_ALIGN]2db Kosztüm Utalvány több különbözõ értékes dologgal. A Havi Battlepass nem cserélhetõ, és limitált 
+[CENTER_ALIGN]1 darabra per account. További információkat a legújabb battlepassról a fórumon találsz, vagy a Tárgypiac híreknél.
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=180; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Starterpass
+
+[CENTER_ALIGN]Miután rákattintasz erre a tárgyra, 7 darab normál küldetést, és 3 darab legendás küldetést kapsz. 
+[CENTER_ALIGN]Talán ez az egyik legfontosabb dolgod, kezdõként. Minden küldetés 
+[CENTER_ALIGN]teljesítése eléggé egyszerû, és viszonylag jó tárgyakat kaphatsz, mint például: 
+[CENTER_ALIGN]Rúna fejlesztõket, Mester Pánt (egyedi), Cor Draconis (Legendás), stb... Mindenképp kezdd 
+[CENTER_ALIGN]el ezeket a küldetéseket, ahogy tudod. 
+
+
+[COLOR=ef4f00;FONT_SIZE=15]2.1.1 The Worries of Uriel
+[X_PADDING=20]Küldetés: Beszélj Uriellel
+[X_PADDING=20]Jutalom: 100x Zöld Mágia, 20x Zöld Erõ
+
+[COLOR=ef4f00;FONT_SIZE=15]2.1.2 The Skills
+[X_PADDING=20]Küldetés: Pusztíts el 30 darab metint, map2-n
+[X_PADDING=20]Jutalom: 10x Emeráld Kristály, 20x Ördögûzõ Tekercs, 20x Koncentrált olvasás
+
+[COLOR=ef4f00;FONT_SIZE=15]2.1.3 Boss szörnyek
+[X_PADDING=20]Küldetés: Ölj meg 30 darab kis szintû bosst (Fõork, Pók báró, Láng Király...)
+[X_PADDING=20]Jutalom: 3x Tapasztalat gyûrû+, 1x Tolvaj kesztyû, 10x Fehér Harmat, 5x Lélekkõ
+
+[COLOR=ef4f00;FONT_SIZE=15]2.1.4 Misszókönyvek
+[X_PADDING=20]Küldetés: Teljesíts 5 darab missziókönyvet. Bármilyen lehet
+[X_PADDING=20]Jutalom: 25x Sárkányisten Élet, 25x Sárkányisten Támadás, 25x Sárkányisten Védelem, 
+[X_PADDING=20]25x Sárkányisten Intelligencia
+
+[COLOR=ef4f00;FONT_SIZE=15]2.1.5 A Vörös erdõ
+[X_PADDING=20]Küldetés: Pusztíts el 100 darab metint a Vörös Erdõben
+[X_PADDING=20]Jutalom: Orc Parchment, Pók kulcs, Boss Room Ticket (Azrael)
+
+[COLOR=ef4f00;FONT_SIZE=15]2.1.6 Felszerelés fejlesztés
+[X_PADDING=20]Küldetés: Ölj meg 10 bosst (Kaszás, Azrael, Beran Setaou, Pók Kiránynõ, Ork Labirintus Fõnök)
+[X_PADDING=20]Jutalom: 200x Megbõvölõ Tárgy , 25x Gemstone, 2x Potion of Thief, 2x Potion of Wisdom
+
+[COLOR=ef4f00;FONT_SIZE=15]2.1.7 The Runes
+[X_PADDING=20]Küldetés: Pusztíts el 50 darab metint a Lv90-es pályákon
+[X_PADDING=20]Jutalom: 60x all rune items
+
+[COLOR=ef4f00;FONT_SIZE=15]2.1.8 Fejlõdés 1
+[X_PADDING=20]Küldetés: Érd el a Lv50-et
+[X_PADDING=20]Jutalom: 5x Cor Draconis (Legendás)
+
+[COLOR=ef4f00;FONT_SIZE=15]2.1.9 Fejlõdés 2
+[X_PADDING=20]Küldetés: Érd el a Lv75-öt
+[X_PADDING=20]Jutalom: Mester Pánt(Egyedi)[11%], 25x Gemstone
+
+[COLOR=ef4f00;FONT_SIZE=15]2.1.10 Fejlõdés 3
+[X_PADDING=20]Küldetés: Érd el a Lv90-et
+[X_PADDING=20]Jutalom: 10x Kovács kézikönyve, 10x Potion of Oblivion, 10x Researcher's Elixir
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=833; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Battlepass of the Tree
+
+[CENTER_ALIGN]7 darab normál és 3 darab legendás küldetést tartalmaz. A jutalmak a te javadat szolgálják 
+[CENTER_ALIGN]szóval kezdj el rajta dolgozni, amint tudsz.
+
+[COLOR=ef4f00;FONT_SIZE=15]3.1.1 Destroy En-Tai Destroyers
+[X_PADDING=20]Leírás: Ölj meg 1000 En-Tai Destroyer-t
+[X_PADDING=20]Segítség: Könnyen találhatasz belõlük az Elverázsolt Erdõben és a Sötét Erdõben egyaránt, vagy a Fák metinjében. 
+[X_PADDING=20]Jutalom: 10x Polymorph Bag (b)
+
+[COLOR=ef4f00;FONT_SIZE=15]3.1.2 A Druidák ereje
+[X_PADDING=20]Leírás: Ölj meg 300 En-Tai Druidot
+[X_PADDING=20]Segítség: Könnyen találhatasz belõlük az Elverázsolt Erdõben és a Sötét Erdõben egyaránt, vagy a Fák metinjében. 
+[X_PADDING=20]Jutalom: 3x Root of the Tree
+
+[COLOR=ef4f00;FONT_SIZE=15]3.1.3 Sellõ Sziget
+[X_PADDING=20]Leírás: Ölj meg 250 Szirén Királynõt
+[X_PADDING=20]Segítség: Könnyen találhatsz belõlük a Hydra Runon.
+[X_PADDING=20]Jutalom: 4x Idõ elixír (L)
+
+[COLOR=ef4f00;FONT_SIZE=15]3.1.4 Kappa
+[X_PADDING=20]Leírás: Kill 500 Kappa Vezetõ
+[X_PADDING=20]Segítség: Könnyen találhatsz belõlük a Hydra Runon.
+[X_PADDING=20]Jutalom: 1x Kék sárkány bab
+
+[COLOR=ef4f00;FONT_SIZE=15]3.1.5 Több mint egy fej?
+[X_PADDING=20]Leírás: Ölj meg 25 Hydra fejet
+[X_PADDING=20]Segítség: Könnyen találhatsz belõlük a Hydra Runon.
+[X_PADDING=20]Jutalom: 1x Fekete Gyöngy Kincsesláda
+
+[COLOR=ef4f00;FONT_SIZE=15]3.1.6 Jotun Bosszúja
+[X_PADDING=20]Leírás: Öld meg Jotun Thrymet 5x
+[X_PADDING=20]Segítség: Könnyen megtalálhatod Jothum Trhym Barlangjában, vagy Boss Roll (Expert)-ben. 
+[X_PADDING=20]Jutalom: 1x Boss Roll (expert)
+
+[COLOR=ef4f00;FONT_SIZE=15]3.1.7 Kristály Sárkány
+[X_PADDING=20]Leírás: Öld meg 5x A Kristály Sárkányok Királyát 
+[X_PADDING=20]Segítség: Könnyen megtalálhatoda Kirstály Sárkányok Királyát a Kristály Sárkány barlangjában vagy Boss Roll (Expert)-ben. 
+[X_PADDING=20]Jutalom: 1x Legendás Lélekkõ
+
+[COLOR=ef4f00;FONT_SIZE=15]3.1.8 Sötétség Királya
+[X_PADDING=20]Leírás: Ölj 3x En-Tai Shadow King-et
+[X_PADDING=20]Segítség: Könnyen megtalálhatod az Sötét Erdõben, vagy Boss Roll (Expert)-ben. 
+[X_PADDING=20]Jutalom: 1x A fák lélekköve
+
+[COLOR=ef4f00;FONT_SIZE=15]3.1.9 Világosság Királya
+[X_PADDING=20]Leírás: Ölj 3x En-Tai Light King-et
+[X_PADDING=20]Segítség: Könnyen megtalálhatod az Sötét Erdõben, vagy Boss Roll (Expert)-ben. 
+[X_PADDING=20]Jutalom: 3x Mágikus Talizmán 
+
+[COLOR=ef4f00;FONT_SIZE=15]3.1.10 Meteor Esõ
+[X_PADDING=20]Leírás: Pusztíts el 1000 darabot a Fák Metinjébõl 1000x Metins of the Tree Beings
+[X_PADDING=20]Hint: Könnyen találhatasz belõlük az Elverázsolt Erdõben és a Sötét Erdõben
+[X_PADDING=20]Reward: 25x Tapasztalat Gömb
+
+

@@ -1,0 +1,53 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/conterboost.tga]
+[CENTER_ALIGN]A Ward & Boost képesség rendszer segít a karakteredet egy bizonyos irányba terelni.  
+[CENTER_ALIGN]You can teach your character some special skills...
+
+
+[COLOR=0xffd700;FONT_SIZE=15]Tartalom:
+*1. Általános információk & hogyan tanúlj.
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=90; CENTER_ALIGN]
+
+
+
+[COLOR=ef4f00;FONT_SIZE=15]1. Általános információk.
+[X_PADDING=20]*The Ward & Boost képességek egy egyedi rendszert alkotnak, melyek segítségével kihozhatod a karaktered erõsségét.
+[X_PADDING=20]*Mind a 8 Ward képességet és 1 Boost képességet P1-ig fejlesztheted. 
+[X_PADDING=20]*Ahhoz hogy egy speciális képességet 0-ról M1-ig fejlessz, 20 képesség pontot kell elhasználnod, vagy 20 könyvet kell elolvasnod az adott képességhez.
+[X_PADDING=20]*Ahhoz hogy egy speciális képességet M1-rõl G1-ig fejlessz, összesen 55 Ward vagy Boost könyv kell.
+[X_PADDING=20]*Ahhoz hogy egy speciális képességet G1-rõl P1-re fejlessz, Lélekkõ + kell.
+[X_PADDING=20]*Koncentrált olvasás és Ördögûzõ tekercs helyett, 
+[X_PADDING=20]*Legendás Koncentrált olvasást és Legendás Ördögûzõ tekercset kell használnod.
+
+[IMG=d:/ymir work/ui/wiki/divider_small.tga; Y=230; CENTER_ALIGN]
+
+
+[COLOR=ef4f00;FONT_SIZE=15]1.1 Ward képességet
+[X_PADDING=20]A Ward képességek csökkentik a bejövõ sebzést, különbözõ képességekbõl, melyek: 
+[X_PADDING=20]*Forgó kard
+[X_PADDING=20]*Villámidézés
+[X_PADDING=20]*Sötét kõ
+[X_PADDING=20]*Tûznyíl
+[X_PADDING=20]*Áthatolás
+[X_PADDING=20]*Sárkány lövés
+[X_PADDING=20]*Ujjcsapás
+[X_PADDING=20]*Leshely
+[X_PADDING=20]Minnél jobban ki van tanúlva egy képesség, annál kevesebb sebzést kapsz be belõlük. 
+
+[IMG=d:/ymir work/ui/wiki/divider_small.tga; Y=400; CENTER_ALIGN]
+
+[COLOR=ef4f00;FONT_SIZE=15]1.2 Boost képeségek
+[X_PADDING=20]A Boost képességek növelik a kimenõ sebzéseket, különbözõ képességekbõl, melyek: 
+[X_PADDING=20]*Testi Harcos: Forgó Kard
+[X_PADDING=20]*Mentál Harcos: Áthatolás
+[X_PADDING=20]*Kardmágus sura: Ujjcsapás
+[X_PADDING=20]*Feketemágus sura: Sötét támadás
+[X_PADDING=20]*Törnindzsa: Leshely
+[X_PADDING=20]*Íjásznindzsa: Tûznyíl
+[X_PADDING=20]*Gyógyítósámán: Villámidézés 
+[X_PADDING=20]*Sárkánysámán: Sárkány lövés 
+[X_PADDING=20]Összesen csak 1 Boost skilled lehet, classtól függõen, a fentiek leírtak szerint.
+[X_PADDING=20]Minnél jobban ki van tanúlva egy képesség, annál többet sebzel velük.
+
+
+

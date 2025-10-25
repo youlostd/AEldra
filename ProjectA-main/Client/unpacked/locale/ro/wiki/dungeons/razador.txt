@@ -1,0 +1,47 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/razador.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Cerinte:
+*Nivel necesar: 90-105
+*Permis de intrare: Ticket de foc
+[RIGHT_ALIGN]Ticket de foc
+[IMG=d:/ymir work/ui/wiki/31088.tga; Y=5; X=500]
+
+[COLOR=0xffd700;FONT_SIZE=15]Peculiarity:
+*Fortareata Dragonului Rosu are un cooldown de 90 de minute.
+*Dungeonul poate fi facut cu sau fara grupa.
+*Ai la dispozitie maxim 60 de minute pentru a finaliza Fortareata Dragonului Rosu.
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18]Fazele:
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=140; CENTER_ALIGN]
+[COLOR=ef4f00;FONT_SIZE=15]Nivel 1
+
+[X_PADDING=20]Omoara pe cei 8 Ignator. Fiecare Ignator va dropa o roata zimtata.
+[X_PADDING=20]Ia fiecare roata zimtata si pune-o pe sigilii. Toate cele 8 sigilii trebuiesc distruse.
+
+[COLOR=ef4f00;FONT_SIZE=15]Nivel 2
+
+[X_PADDING=20]Omoara toti monstrii, apoi activeaza piatra Maat.
+
+[COLOR=ef4f00;FONT_SIZE=15]Nivel 3
+
+[X_PADDING=20]Distruge pietrele Metin in ordinea corecta. O sageata iti va arata ce piatra metin trebuie distrusa.
+[X_PADDING=20]Cand distrugi o piatra gresita, nivelul o ia de la inceput.
+
+[COLOR=ef4f00;FONT_SIZE=15]Nivel 4 
+
+[X_PADDING=20]Distruge piatra metin. Atunci cand mai are 50%HP, un val de monstrii va aparea. Mai intai trebuie sa omori toti monstrii
+[X_PADDING=20]pentru ca sa ii poti scadea HP-ul pietre metin din nou. Dupa ce piatra este distrusa, 
+[X_PADDING=20]un alt val de monstrii va aparea si trebuie omorati.
+
+[COLOR=ef4f00;FONT_SIZE=15]Nivel 5
+
+[X_PADDING=20]Cate un val de monstrii va aparea la fiecare 20 de secunde.Daca sunt mai mult de 300 de monstrii in viata, 
+[X_PADDING=20]atunci nivelul o ia de la inceput.
+
+[COLOR=ef4f00;FONT_SIZE=15]Nivel 6
+
+[X_PADDING=20]Omoaral pe Razador.
+
+

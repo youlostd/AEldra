@@ -1,0 +1,50 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/azrael.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Gereksinimler:
+*Gereken Seviye: 75
+*Giriş Eşyası: Küçülen Kafa (Giriş için değil, 3. kat için gereklidir.)
+[RIGHT_ALIGN]Küçülen Kafa
+[IMG=d:/ymir work/ui/wiki/30319.tga; Y=5; X=493]
+
+[COLOR=0xffd700;FONT_SIZE=15]Özellikler:
+*Azraile hem grupla hem tek başına girebilirsin. 
+*Zindanı 60 dakika içerisinde tamamlamalısın.
+*Patron Odası Mührü (Azrail) ile doğruca son kata ışınlanıp Azraili kesebilirsin.
+*Azrailin yenilenme süresi 60 dakikadır.
+
+
+[CENTER_ALIGN;FONT_SIZE=18]Aşamalar:
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=145; CENTER_ALIGN]
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 1
+
+[X_PADDING=20]Ruh Kristali Anahtarı düşürene kadar canavarları öldür. 
+[X_PADDING=20]Ruh Kristali Anahtarını Kud Heykeline sürükle. 
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 2
+
+[X_PADDING=20]Lanet Kapılarını geçerek Kaplumbağa Kayalığına ulaşmalısın.
+[X_PADDING=20]Üst kata çıkmak için Kaplumbağaya yalnızca 1 kişinin tıklaması yeterlidir. 
+[X_PADDING=20](Tüm oyuncuların Küçülen Kafa 'ya sahip olmaları gerekmektedir.)
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 3
+
+[X_PADDING=20]Bu katta yok etmeniz gereken "Misilleme Metni" adında 7 adet metin bulunmakta.
+[X_PADDING=20]Bunlardan yalnızca 1 tanesi doğru metin ve devam edebilmek için onu yok etmelisin.
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 4
+
+[X_PADDING=20]Tartarosu bul ve öldür, o tepelerin ardındaki odalardan birinde saklanıyor.
+[X_PADDING=20]Tartarostan düşen Surat Totemini al ve Bazalt Dikilitaşına sürükle.
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 5
+
+[X_PADDING=20]Bu kattaki tüm canavarları öldürdükten sonra Charon'u hedef al. 
+[X_PADDING=20]Tüm canavarları yok ettiğinde bir üst aşamaya geçeceksin. 
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 6
+
+[X_PADDING=20]Azrail'i öldür.
+
+
+

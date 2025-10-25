@@ -1,0 +1,47 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/razador.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Követelmények:
+*Kötelezõ szint: 90-105
+*Belépési jegy: Tüzes belépési jegy
+[RIGHT_ALIGN]Fire Ticket
+[IMG=d:/ymir work/ui/wiki/31088.tga; Y=5; X=500]
+
+[COLOR=0xffd700;FONT_SIZE=15]Sajátosságok:
+*A Vörös Sárkány Erõdnek 90 perces cooldownja van.
+*A dungeon-be bemehetsz egyedül, és csoportosan is.
+*Összesen 60 perc áll rendelkezésedre hogy teljesítsd a Vörös Sárkány Erõdöt.
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18]Szintek:
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=140; CENTER_ALIGN]
+[COLOR=ef4f00;FONT_SIZE=15]1. Szint
+
+[X_PADDING=20]Öld meg mind a 8 Ignator-t. Mindegyik egy Arany fogaskereket dob.
+[X_PADDING=20]Húzd az arany fogaskereket az oszlopra, hogy elpusztítsd. Mind a 8 oszlopot el kell pusztítani.
+
+[COLOR=ef4f00;FONT_SIZE=15]2. Szint
+
+[X_PADDING=20]Ölj meg minden szörnyet majd aktiváld a Maat követ.
+
+[COLOR=ef4f00;FONT_SIZE=15]3. Szint
+
+[X_PADDING=20]Pusztítsd el az összes metin követ a helyes sorrendben. Egy nyíl jelzi, melyik metint kell elpusztítani.
+[X_PADDING=20]Ha egy rossz metint pusztítasz el, a szint az elejérõl kezdõdik.
+
+[COLOR=ef4f00;FONT_SIZE=15]4. Szint
+
+[X_PADDING=20]Pusztítsd el a metin követ. 50% HP-nál egy szörny hullám jelenik meg. Elõbb õket kell megölnöd,
+[X_PADDING=20]hogy a metin kapjon sebzést ismét. Miután a metin elpusztúlt,
+[X_PADDING=20]még egy szörny hullám jelenik meg, melyet el kell pusztítani.
+
+[COLOR=ef4f00;FONT_SIZE=15]5. Szint
+
+[X_PADDING=20]Szörny hullámok jelennek meg minden 20. másodpercben. Ha több mint 300 szörny él, 
+[X_PADDING=20]az egész szint újra kezdõdik.
+
+[COLOR=ef4f00;FONT_SIZE=15]6. Szint
+
+[X_PADDING=20]Öld meg Razador-t.
+
+

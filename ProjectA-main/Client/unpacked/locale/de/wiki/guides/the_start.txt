@@ -1,0 +1,247 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/thestart.tga]
+[CENTER_ALIGN]Hello Neuanfänger,
+[CENTER_ALIGN]mit diesem Guide werde ich euch Aeldra näher bringen und euch zeigen wie ihr
+[CENTER_ALIGN]von Tag zu Tag stärker werdet.
+
+[COLOR=0xffd700;FONT_SIZE=15]Gliederung:
+*1. Wichtige Features/Systeme bevor du startest
+*2. Battlepass, Erste Missionen & Ausbildung
+*3. Items die du sammeln solltest & Notwendige Items
+*4. Levelwege: 30Lv, 50Lv, 75Lv+
+*5. Wie kann ich meinen Damage erhöhen?
+*6. Meine ersten Dungeons
+*7. Wie ich zum Millionär werde...
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=160; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Wichtige Features/Systeme bevor du startest
+
+Am Anfang solltest du dich erstmal umschauen und die Wichtigsten Features/Systeme von Aeldra kennenlernen.
+Level nicht gleich wild los, sondern erkunde erstmal alle NPCs in Map1 und du wirst einiges lernen.
+Als kleines Geschenk hast du vom Server zum Start einen Ring der Freude, ein Mount, ein Pet für jeweils 
+7 Tage geschenkt bekommen um besser durchzustarten. Ebenso hast du einen Battlepass erhalten.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]1.1. Lagerräume, Shop Suche & Switchbot
+
+Wennd u dein Inventar (I) öffnest, siehst du 3 Buttons links an deinem Inventar. Mal schauen, was diese öffnen...
+Der erste öffnet deine Lagerräume. Es gibt 5 verschiedene Lagerseiten: Uppitems, Bücher, Steine, Kostüme und Switcher.
+Die jeweiligen Gegentände werden automatisch in das jeweilige Lager eingeordnet, um dein Inventar immer sauber zu halten.
+Der zweite Button öffnet die Shop Suche, die ihr täglich mehrfach benutzen werdet. Ihr sucht nach einem Item und danach
+wird der jeweilige Shop mit einem Pfeil gekennzeichnet. Es werden alle Shops auf der Map, in der ihr euch befindet durchsucht.
+Solltet ihr Premium aktiviert haben, könnt ihr von überall alle Shops durchsuchen und könnt direkt aus der Shop Suche kaufen.
+Der letzte Button öffnet den Switchbot. Einfach ein Item in den Switchbot ziehen und bequem deine gewünschten Boni auswählen.
+Auch hier hat der Premium User einen Vorteil mit einer schnelleren Switchgeschwindigkeit und Alternativboni.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]1.2. F6 Taste - Quest Timer
+
+Wir haben einen einzigartigen Quest Timer entwickelt um es euch so angenehm wie möglich zu gestalten.
+Ihr könnt mit dem Quest Timer ganz einfach eure Cooldowns anschauen und euch sogar zu den jeweiligen
+Dungeoneingängen porten. Ebenso hat jeder Dungeon eine Erklärung wie er funktioniert.
+
+[COLOR=ef4f00;FONT_SIZE=15]1.3 Vote4Buff
+
+Inzwischen hast du bestimmt schonmal die Quest "Vote4Buff" entdeckt. Ihr könnt ganz bequem auf unserer
+Homepage für unseren Server voten und erhaltet dafür im Gegenzug von uns eine kleine Aufmerksamkeit
+in Form eines Boni. Ihr habt die Wahl zwischen folgenden Boni:
+
+*20% Erfahrungsbonus
+*20% Stark gegen Monster
+*20% Doppeldropp
+
+
+[COLOR=ef4f00;FONT_SIZE=15]1.4 Privater Shop
+
+Du hast sicher auch schon bemerkt, dass in deinem Inventar ein Bündel Button ist.
+Mit diesem Button könnt ihr ganz bequem einen Offlineshop eröffnen für 100.000 Yang.
+Du kannst den Shop von überall bearbeiten und von überall dein Yang abheben.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=703; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Battlepass, Erste Missionen & Ausbildung
+
+Wie du bereits gemerkt hast, haben wir keine Lehrlingstruhen. Aber wozu? Wir haben einen
+Battlepass bei dem du diese Items ergattern kannst.
+
+[COLOR=ef4f00;FONT_SIZE=15]2.1 Battlepass
+
+Wenn du den Battlepass aktivierst, erhälst du 7 normale Missione und 3 Legendäre Missionen.
+Es ist das wichtigste, was du beim Start erhälst, neben den Starteritems. Durch Abschließen
+dieser Missionen wirst du ordentlich belohnt und hilft dir bei den ersten Schritten auf Aeldra
+um dich bei uns einzufinden.
+
+[COLOR=ef4f00;FONT_SIZE=15]2.2 Erste Missionen
+Okay, du hast deinen Battlepass nun aktiviert. Habe ich noch weitere Quests?
+Du kannst dich zu Uriel begeben und die Questreihe "Uriels Sorgen" beginnen.
+Bei dieser Questreihe erhälst du Smaragdkristalle und Exorzismus-Schriftrollen
+sowie Konzentriertes Lesen, was dir beim Trainieren deiner Fertigkeiten stark hilft.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]2.3 Ausbildung
+Sobald du Lv 5 erreicht hast, kannst du deine Ausbilung beginnen. Du findest die Fertigkeitsbücher
+bei den jeweiligen Lehrern. Exorzismus-Schriftrollen und Konzentriertes Lesen kannst du bei
+Hong-Hae kaufen, die befindet sich neben der Gemischtwarenhändlerin.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=1025; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Items die du sammeln solltest & Empfehlenswerte Items
+
+[COLOR=ef4f00;FONT_SIZE=15]3.1 Kristalle
+Du hast bestimmt schon gemerkt, dass du einige verschiedene Kristalle in deinem Uppitem Lager hast.
+Die verschiedenen Kristalle (Rubinkristall, Turmalinkristall, Granatkristall, Saphirkristall und 
+Smaragdkristall) funktionieren als Zweitwährund bei bestimmten NPCs. Ebenso werden sie für weitere
+Inhalte benötigt z.B. zum Erstellen von Passierscheinen, Boss Rufrollen oder auch als Uppitems.
+Es wird empfohlen sie für den Eigengebrauch zu behalten. Natürlich kannst du sie auch verkaufen, dazu
+einfach den Durchschnittspreis des Kristalls checken und für den angemessenen Preis verkaufen.
+
+[COLOR=ef4f00;FONT_SIZE=15]3.2 Truhe der Verzauberung & Kräutertruhe
+Diese Truhen sind wirklich sehr viel wert für deinen Charakter. Aus der Truhe der
+Verzauberung bekommst du Gegenstand verstärken, Segenskugel und Gegenstand verzaubern.
+Aus der Kräutertruhe erhälst du die Kräuter um bei Huahn-So (befindet sich auf der
+jeweiligen Map2) deine Taus herstellen zu können. Später kannst du bei Seon-Hae
+permanente Taus herstellen, wofür du aber auch die normalen Taus benötigst.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]3.3 Notwendige Items
+Es ist noch sehr früh um an diese Items zu denken, aber du solltest dir diese Items als Ziel setzen:
+
+*Level 80 Helm für deine Rasse
+[COLOR=808476;X_PADDING=20]*Kannst du vom Beran-Setaou erhalten.
+
+*Titanenschild
+[COLOR=808476;X_PADDING=20]*Kannst du von der Spinnenbaroness, Azrael und Beran Setaou erhalten.
+
+*Seelenkristallkette
+[COLOR=808476;X_PADDING=20]*Kannst du von Azrael oder aus dem Orc Maze erhalten.
+
+*Seelenkristallarmband
+[COLOR=808476;X_PADDING=20]*Kannst du von Azrael oder aus dem Orc Maze erhalten.
+
+*Seelenkristallohrringe
+[COLOR=808476;X_PADDING=20]*Kannst du von Azrael oder aus dem Orc Maze erhalten.
+
+*Leinengürtel
+[COLOR=808476;X_PADDING=20]*Kannst du beim Alchemisten herstellen.
+
+Die Starteritems, wie Pet/Mount/Buffi halten nicht für immer, so solltest du beginnen dein
+Yang zu sparen und dir folgende permanente Versionen besorgen:
+
+
+*Kriegskeiler-Siegel
+[COLOR=808476;X_PADDING=20]*30% Stark gegen Metinsteine
+
+*Babylöwe-Siegel:
+[COLOR=808476;X_PADDING=20]*Max. TP 2.000
+[COLOR=808476;X_PADDING=20]*Stark gegen Monster 15%
+[COLOR=808476;X_PADDING=20]*Stark gegen Metinsteine 10%
+
+*Buffi Siegel:
+[COLOR=808476;X_PADDING=20]*Deine private Buffschami, die dich immer verfolgt und anbufft.
+[COLOR=808476;X_PADDING=20]*max. Stufe der Fertigkeiten: P
+[COLOR=808476;X_PADDING=20]*der maximale % Buff beträgt 35%
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=1720; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]4. Levelwege: 30Lv, 50Lv, 75Lv+
+
+Hier sind einige Vorschläge zu den verschiedenen Levelwegen, am besten entscheidest du aber für dich selbst:
+
+[COLOR=ef4f00]Level 1 - Level 30
+*Shinsoo
+*Yajang
+
+*Chunjo
+*Bokjung
+
+*Jinno
+*Bakra
+
+[COLOR=ef4f00]Level 30 - Level 42
+*Orktal
+*Spinnendungeon 1
+*Spinnendungeon 2
+
+[COLOR=ef4f00]Level 42 - Level 61
+*Eisland
+*Hwang Tempel
+*Spinnendungeon 2
+*Spinnendungeon 3
+
+[COLOR=ef4f00]Level 61 - Level 81
+*Geisterwald
+*Roter Wald
+*Spinnendungeon 3
+
+[COLOR=ef4f00]Level 81 - Level 90
+*Roter Wald
+*Grotte der Verbannung 1
+*Grotte der Verbannung 2
+
+Denk daran, das sture hochleveln bringt dich auch nicht weiter. Am besten ist eine Mischung aus
+Farmen und Leveln. So z.B. farmst du im Roten Wald und levelst nebenbei deinen Charakter hoch.
+Es ist immer von Vorteil neben dem Leveln zu Farmen und seinen Yangvorrat aufzustocken, denn es
+wird nicht billiger und einfacher, sondern anspruchsvoller je höher dein Lv ist.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=2230; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]5. Wie kann ich meinen Damage erhöhen?
+
+Ab diesem Zeitpunkt sollte es anfangen, dass dein Damage stetig ansteigt. 
+Du merkst, Zeit ist Geld und du möchtest natürlich stark davon profitieren.
+Befolge also folgende Hinweise:
+
+[COLOR=ef4f00;FONT_SIZE=15]5.1 Aura des Schwertes / Verzauberte Klinge L
+Wenn du Waffen-Sura oder Körper-Krieger bist, dann solltest du deine jeweilige
+Fertigkeit auf die Legendäre Stufe lesen. Das machst du mit Legendären Seelensteinen.
+
+[COLOR=ef4f00;FONT_SIZE=15]5.2 Vote4Buff (20% Stark gegen Monster)
+Du solltest beim Vote4Buff natürlich immer Stark gegen Monster auswählen, um deinen
+Damage beim Farmen zu maximieren.
+
+[COLOR=ef4f00;FONT_SIZE=15]5.3 Drachensteinalchemie
+Du hast bereits begonnen Cor Draconis zu farmen und kannst beginnen diese zu Verbessern.
+Dein Ziel ist es jetzt ein Legendärer Drachenrubin (Exzellent) auf der Stufe+6 mit den Boni
+Angriffswert und Durchschnittlicher Schaden. Empfehlenswert wäre noch Verteidigung oder DSS Widerstand.
+
+[COLOR=ef4f00;FONT_SIZE=15]5.4 Schulterband mit mindestens 13% DSS
+Ein Schulterband wird deinen Damage nochmal stark erhöhen. Halte also
+Ausschau nach einem Schulterband mit mindestens 13% DSS.
+
+[COLOR=ef4f00;FONT_SIZE=15]5.5 Runen Sytem (F5)
+Das Runen System ist eine komplexe Sache, eine genaue Erklärung findest du auch in unserem Wikipedia.
+Kurz gesagt erhöht das Runen System deinen Schaden im PvM enorm, lese dich also sehr schnell ein.
+
+[COLOR=ef4f00;FONT_SIZE=15]5.6 Taus
+Die Tau Herstellung ist ein wichtiger Faktor im Spiel und du solltest früh damit beginnen.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=2650; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]6. Meine ersten Dungeons.
+
+Du hast dich bestimmt schon gefragt, mit welchen Dungeons sollte ich beginnen? Schon ab Lv 55 kannst du den Orc
+Maze betreten oder ab Lv 50 die Spinnenbaroness. Ab Lv 75 kannst du die Devil's Catacombs betreten. Schau dir
+davor die jeweiligen Guides dazu an und informiere dich ausreichend.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=2750; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]7. How to become a millionaire
+
+An diesem Punkt besteht bereits die Chance, dass du schon ein "Millionär" bist.
+Aber was genau macht dich reich in den ersten Tagen auf Aeldra? 
+Dazu gibt es ein paar Tipps. Roter Wald und Geisterwald sind gute Einnahmequellen
+am Anfang. Die Smaragdkristalle kannst du nur bis zum Lv 90 Metin Jeon-Un droppen.
+Verkaufe sie am Anfang und kaufe dir dadurch dein Seelenkristallequipment und eine
+gute Lv 75 Waffe. Ein weiser alter Mann sagte seiner Zeit "Farme im Roten Wald
+bis du alle Notwendigen Items, die vorher aufgelistet wurden, erfarmt hast".
+Nun kannst du dich an den Guide 105 und was jetzt? richten.
+Weiterhin viel Spaß auf Aeldra!
+
+

@@ -1,0 +1,51 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/azrael.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Cerinte:
+*Nivel necesar: 75 - 105
+*Tichet de intrare: Cap mumificat (nu pentru intrare, ci pentru etajul 3)
+[IMG=d:/ymir work/ui/wiki/rahmen.tga; Y=5; X=460]
+[IMG=d:/ymir work/ui/wiki/30319.tga; Y=15; X=482]
+
+
+[X_PADDING=463]Cap mumificat
+[COLOR=0xffd700;FONT_SIZE=15]Specificatii:
+*Catacomba Diavolului are un cooldown de 2 ore.
+*In Catacomba Diavolului se poate intra cu sau fara grup.
+*Catacomba Diavolului are o limita de timp de 60 minute.
+*Fiecare jucator are nevoie de un Cap mumificat.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=145; CENTER_ALIGN]
+
+[COLOR=ef4f00;FONT_SIZE=15]Etaj 1
+[IMG=d:/ymir work/ui/wiki/rahmen_small.tga; Y=175; X=490]
+[IMG=d:/ymir work/ui/wiki/30311.tga; Y=181; X=496]
+
+[X_PADDING=20]Omoara monstrii pana cand gasesti cheia suflet de cristal.
+[X_PADDING=20]Trage si plaseaza cheia suflet de cristal la sfarsitul nivelului pe Statuia Kud.
+
+[COLOR=ef4f00;FONT_SIZE=15]Etajul 2
+
+[X_PADDING=20]Lupta-ti drumul prin Poarta Pierzaniei pana ajungi la Piatra Testoasa la finalul etajului.
+[X_PADDING=20]Apasa pe Piatra Testoasa.
+
+[COLOR=ef4f00;FONT_SIZE=15]Etajul 3
+
+[X_PADDING=20]In acest etaj gasesti 7 Metinul Rasplatei, distruge piatra corecta.
+
+[COLOR=ef4f00;FONT_SIZE=15]Etajul 4
+[IMG=d:/ymir work/ui/wiki/rahmen_small.tga; Y=355; X=490]
+[IMG=d:/ymir work/ui/wiki/30312.tga; Y=361; X=496]
+
+[X_PADDING=20]Gaseste si omoara-l pe Tartaros, il poti gasi intr-o camera de sub munte.
+[X_PADDING=20]Trage si plaseaza Totemul Schimonosit in varful muntelui pe Basalt Obelisk
+
+[COLOR=ef4f00;FONT_SIZE=15]Etajul 5
+
+[X_PADDING=20]Omoara toti monstrii si pe Charon
+
+[COLOR=ef4f00;FONT_SIZE=15]Etajul 6
+
+[X_PADDING=20]Omoara-l pe Azrael.
+[IMG=d:/ymir work/ui/wiki/Azrael.tga; Y=430; X=382]
+

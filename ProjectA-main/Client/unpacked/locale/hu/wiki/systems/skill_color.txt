@@ -1,0 +1,49 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/skilcolor.tga]
+[CENTER_ALIGN]A képesség szinezési rendszer egyediséget bisztosíthat számodra. 
+[CENTER_ALIGN]Mindegyiket kosztumizálhatod speciális színekkel. 
+
+[COLOR=0xffd700;FONT_SIZE=15]Tartalom:
+*1. 'Customize yourself?' küldetés
+*2. Hogyan színezd a képességeid
+*3. Mezõk, kombinációk
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=100; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. 'Customize yourself?' küldetés
+
+Leírás: Menje a Gaya Merchanthoz.
+Küldetés: Pusztíts el 250 metint lv85 után
+Jutalom: 1 választott skill színezése 
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=200; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Hogyan színezd a képességeid
+
+Dye használatával 1 képességet teljesen színezni tudsz (buffit is). Miután a festék megvan, jobb katt rá 
+és válaszd ki amit szeretnél. 
+Bármikor megváltoztathatod a képesség színét, akár alap beállításokra is a "Standard" gombbal. 
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=295; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Mezõk, kombinációk
+
+Egy képesség 5 mezõbõl áll. A jobb láthatóság érdekében különítettük õket el. 
+Ha csak 1-et változtatsz meg, nem jelenti azt, hogy a teljes képesség olyan színû lesz, mint szeretnéd. 
+Csak 1 része lesz olyan, szóval játsz a színekkel... 
+
+[IMG=d:/ymir work/ui/wiki/divider_small.tga; Y=410; CENTER_ALIGN]
+
+[COLOR=ef4f00;FONT_SIZE=15]3.1 Menõ kombinációk
+[X_PADDING=20]*0% Red + 0% Green + 0% Blue = Black.
+[X_PADDING=20]*100% Red + 100% Green + 100% Blue = White.
+[X_PADDING=20]*100% Red + 100% Green + 0% Blue = Yellow.
+[X_PADDING=20]*100% Red + 0% Green + 100% Blue = Purple.
+[X_PADDING=20]*0% Red + 100% Green + 100% Blue = Light Blue.
+[X_PADDING=20]*50% Red + 50% Green + 50% Blue = Grey.
+
+[X_PADDING=20]Stb...
+
+

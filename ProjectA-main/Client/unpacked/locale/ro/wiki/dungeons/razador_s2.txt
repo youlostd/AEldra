@@ -1,0 +1,62 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/razador.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Cerinte:
+*Nivel necesar: 100 - 105
+*Tichet de intrare: Tichet de trecere
+[IMG=d:/ymir work/ui/wiki/rahmen.tga; Y=5; X=460]
+[IMG=d:/ymir work/ui/wiki/71095.tga; Y=15; X=482]
+
+
+[X_PADDING=469]Tichet de trecere
+[COLOR=0xffd700;FONT_SIZE=15]Specificatii:
+*Purgatoriul Iadului are un cooldown de 3 ore.
+*In Purgatoriul Iadului se poate intra cu sau fara grup.
+*Purgatoriul Iadului are o limita de timp de 60 minute.
+*Fiecare jucator are nevoie de un Tichet de trecere.
+
+[CENTER_ALIGN;COLOR=0xffd700]Ordinea nivelelor este aleatorie, camera lui Razador nu este!
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=170; CENTER_ALIGN]
+
+[COLOR=ef4f00;FONT_SIZE=15]Etajul 1
+
+[X_PADDING=20]Omoara toti monstrii.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Etajul 2
+[IMG=d:/ymir work/ui/wiki/rahmen_small.tga; Y=255; X=490]
+[IMG=d:/ymir work/ui/wiki/30329.tga; Y=261; X=496]
+
+[X_PADDING=20]Omoara monstrii pana gasesti Roata Zimtata de Aur
+[X_PADDING=20]Trage si plaseaza Roata Zimtata de Aur pe Isfet Stele pana gasesti roata corecta.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Etajul 3
+
+[X_PADDING=20]Omoara toti monstrii.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Etajul 4
+
+[X_PADDING=20]Omoara-l pe Ignator.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Etajul 5
+[IMG=d:/ymir work/ui/wiki/rahmen_small.tga; Y=455; X=490]
+[IMG=d:/ymir work/ui/wiki/30306.tga; Y=461; X=496]
+
+[X_PADDING=20]Omoara monstrii pana gasesti Pietra Maat.
+[X_PADDING=20]Trage si plaseasa Piatra Maat pe una ditre 7 Isfet Stele pana dispar toate.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Etajul 6
+
+[X_PADDING=20]Distruge Metinul Focul Iadului.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Etajul 7
+
+[X_PADDING=20]Omoara-l pe Razador.
+[IMG=d:/ymir work/ui/wiki/Razador.tga; Y=520; X=402]
+
+

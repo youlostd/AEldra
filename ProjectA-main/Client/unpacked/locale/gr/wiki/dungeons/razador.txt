@@ -1,0 +1,47 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/razador.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Requirements:
+*Required Level: 90-105
+*Entrance Ticket: Fire Ticket
+[RIGHT_ALIGN]Fire Ticket
+[IMG=d:/ymir work/ui/wiki/31088.tga; Y=5; X=500]
+
+[COLOR=0xffd700;FONT_SIZE=15]Peculiarity:
+*The Red Dragon Fortress has a 90-minutes cooldown.
+*The Dungeon can be entered with or without a group.
+*You have a total of 60 Minutes to successfully complete the Red Dragon Fortress.
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18]The Phases:
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=140; CENTER_ALIGN]
+[COLOR=ef4f00;FONT_SIZE=15]Level 1
+
+[X_PADDING=20]Kill all 8 of the Ignators. Each Ignator drops a Cog Wheel.
+[X_PADDING=20]Drag & Drop the Cog Wheel to a Seal to destroy it. All 8 Seals must be destroyed.
+
+[COLOR=ef4f00;FONT_SIZE=15]Level 2
+
+[X_PADDING=20]Kill all Monsters, then activate the Maat Stone.
+
+[COLOR=ef4f00;FONT_SIZE=15]Level 3
+
+[X_PADDING=20]Destroy the Metin Stones in the correct order. An arrow indicates the metin that needs to be destroyed.
+[X_PADDING=20]When you kill the wrong Metin, the level starts from the beginning.
+
+[COLOR=ef4f00;FONT_SIZE=15]Level 4 
+
+[X_PADDING=20]Destroy the Metin Stone. At 50% HP, a monster wave will appear. You must first kill all the monsters
+[X_PADDING=20]for the metin stone to receive damage again. After the Metin is destroyed, 
+[X_PADDING=20]another monster wave appears, which must be killed.
+
+[COLOR=ef4f00;FONT_SIZE=15]Level 5
+
+[X_PADDING=20]Monster waves are spawned every 20 seconds. If more than 300 monsters are alive, 
+[X_PADDING=20]then the whole level restarts.
+
+[COLOR=ef4f00;FONT_SIZE=15]Level 6
+
+[X_PADDING=20]Kill Razador.
+
+

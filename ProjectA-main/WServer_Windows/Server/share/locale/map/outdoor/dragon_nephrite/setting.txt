@@ -1,0 +1,12 @@
+ScriptType	MapSetting
+
+CellScale	200
+HeightScale	0.500000
+
+ViewRadius	128
+
+MapSize	3	6
+BasePosition	460800	153600
+TextureSet	textureset\metin2_BayBlackSand.txt
+Environment	bayblacksand.msenv
+

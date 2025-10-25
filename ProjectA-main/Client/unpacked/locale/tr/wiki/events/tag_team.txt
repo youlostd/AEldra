@@ -1,0 +1,39 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/tagteam.tga]
+[CENTER_ALIGN;FONT_SIZE=18]Takım Savaşları
+
+[COLOR=0xffd700;FONT_SIZE=15]İçerik Listesi:
+*1. Genel Bilgiler
+*2. Etkinlik Yönergesi
+*3. Etkinlik Ödülleri
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=100; CENTER_ALIGN]
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Genel Bilgiler:
+
+Takım Savaşları, farklı grupların birlikte savaştığı bir PvP etkinliğidir.
+Etkinlikte 7 farklı grup ve her grupta 2 farklı oyuncu bulunur!
+Kazanan grubun iki üyesi de etkinlik sonunda ödül alır.
+Savaşa, 1.köyde bulunan Yüzbaşı'dan partnerinle birlikte kayıt olabilirsin. 
+Partnerinin yakınında olduğundan emin ol.
+Ayrıca savaşları izleyebileceğin bir izleme modu da mevcuttur.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=220; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Etkinlik Yönergesi:
+
+Partnerinle birlikte Takım Savaşı'na kayıt olduktan sonra özel haritaya ışınlanırsınız.
+Bu haritada, hiçbir iksir ve özüt kullanılamaz.
+Haritanın ortasında, diğer 6 grubun 12 üyesi ile karşılaşırsın.
+Savaşların sonunda en az bir (1) oyuncusu hayatta kalan takım savaşı kazanır!
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=330; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Etkinlik Ödülleri:
+
+Takım Savaşları ödülleri genellikle Forum üzerinden Etkinlikler bölümü altında açıklanır.
+Ödüller oyuncuların ihtiyaç ve değişikliklerine göre belirlenir.
+
+

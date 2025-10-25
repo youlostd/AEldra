@@ -1,0 +1,143 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/dragonstone.tga]
+[COLOR=0xffd700;FONT_SIZE=15]İçerik Listesi:
+*1. Genel Bilgiler
+*2. Ejderha Taşı Bonusları
+*3. Ejderha Taşları Hakkında
+*4. Ejderha Taşlarının Kullanım Süreleri
+*5. Ejderha Taşı Simyası Seti Bonusu
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=90; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Genel Bilgiler
+
+1.seviyeden itibaren Ejderha Taşı Simyası kullanılabilir. Ejderha Taşları, Cor Draconislerden
+elde edilir. Ejderha Taşı Simyası penceresi envanterde bulunan yeşil kristal butonu ya da "O" k
+kısayoluyla açılır. Birinci Simya sayfası "CTRL+O" kısayolu ile ikinci simya sayfası ise "CTRL+P" 
+kısayolu ile aktifleştirilir. Cor Draconisler ise metin taşlarından ve patronlardan elde
+edilir.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=230; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Ejderha Taşı Bonusları
+
+[CENTER_ALIGN]Bir Efsanevi Ejderha Taşı 2 basit bonusa sahiptir, 3 ekstra bonus ile birlikte toplamda 
+[CENTER_ALIGN]5 bonusa sahip olabilir.
+
+[COLOR=ef4f00;FONT_SIZE=15]2.1 Muhtemel Ejderha Taşı Bonusları
+Listenen bonuslar, +6 Efsanevi Ejderha Taşları içindir.
+
+[COLOR=00ef4f;FONT_SIZE=14]2.1.1 Efsanevi Ejderha Elması:
+
+*Zeka +10
+*Buz Dayanıklılığı +10%
+*Beceri Hasarı +10%
+*Hasar, SP tarafından absorbe edilecek +10%
+*Canavarlara Karşı Güçlü +15%
+*Büyülü Saldırı Değeri +25
+
+[COLOR=00ef4f;FONT_SIZE=14]2.1.2 Efsanevi Ejderha Yakutu:
+
+*Güç +10
+*Ateş Dayanıklılığı +10%
+*Savaşçı Saldırılarına Karşı Savunma Şansı +10%
+*Savaşçılara Karşı Güçlü +10%
+*EXP Bonus Şansı +20%
+*Savunma +100
+*Saldırı Değeri +150
+
+[COLOR=00ef4f;FONT_SIZE=14]2.1.3 Efsanevi Ejderha Yeşimi:
+
+*Maks. SP +500
+*Rüzgar Dayanıklılığı +10%
+*Sura Saldırılarına Karşı Savunma Şansı +10%
+*Suralara Karşı Güçlü +10%
+*Beceri Hasarı Dayanıklılığı +10%
+*Hasar, HP tarafından absorbe edilecek +10%
+*Büyülü Savunma +25
+
+[COLOR=00ef4f;FONT_SIZE=14]2.1.4 Efsanevi Ejderha Safiri:
+
+*Çeviklik +10
+*Toprak Dayanıklılığı +10%
+*Şaman Saldırılarına Karşı Savunma Şansı +10%
+*Şamanlara Karşı Güçlü +10%
+*Metin Taşlarına Karşı Güçlü +10%
+*HP Üretimi +20%
+*Maks. HP +10%
+
+[COLOR=00ef4f;FONT_SIZE=14]2.1.5 Efsanevi Ejderha Grenası:
+
+*Maks. HP +1500
+*Şimşek Dayanıklılığı +10%
+*Ninja Saldırılarına Karşı Savunma Şansı +10%
+*Ninjalara Karşı Güçlü +10%
+*Ortalama Zarar Dayanıklılığı +10%
+*Maks. SP +10%
+*SP Üretimi +20%
+
+[COLOR=00ef4f;FONT_SIZE=14]2.1.6 Efsanevi Ejderha Oniksi:
+
+*Canlılık +10
+*Karanlık Dayanıklılığı +10%
+*Kritik Hasar Savunması +15%
+*Delici Hasar Savunmas +15%
+*Ortalama Zarar +10%
+*Oklardan Korunma Şansı +10%
+*Yakın Dövüş Saldırılarını Bloklama Şansı +10%
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=1080; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Ejderha Taşları Hakkında 
+
+Ejderha Taşlarının 3 önemli özelliği vardır: Sınıf, Saflık and Seviye.
+Bu özelliklerin iyileştirilmesi Ejderha Taşının efektini arttırır.
+
+[COLOR=ef4f00;FONT_SIZE=15]3.1 Sınıf
+Ejderha Taşları 5 farklı sınıfta olabilir, sınıflar geliştirilebilir:
+> Sınıf: İşlenmemiş, Yontulmuş, Ender, Antika and Efsanevi.
+Bir Ejderha Taşının sınıfı geliştikçe sahip olduğu bonus sayısı artar.
+Geliştirme işlemi için aynı sınıfta iki Ejderha Taşı gerekir.
+
+[COLOR=ef4f00;FONT_SIZE=15]3.1 Saflık
+Ejderha Taşları 5 farklı saflıkta olabilir, saflık derecesi geliştirilebilir:
+> Saflık Derecesi: Mat, Parlak, Tertemiz, Mükemmel and Kusursuz.
+Bir Ejderha Taşının saflık derecesi arttıkça daha yüksek bonuslara sahip olur.
+Geliştirme işlemi için aynı saflık derecesinde iki Ejderha Taşı gerekir.
+Kusursuza geliştirme sırasında başarısız olunursa saflık derecesi Mükemmele düşer.
+
+[COLOR=ef4f00;FONT_SIZE=15]3.2 Seviye
+Saflık derecesi Kusursuz olan Ejderha Taşları, +6 seviyesine kadar yükseltilebilir..
+Bu işlem için; Yeşil Ejderha Fasulyesi, Mavi Ejderha Fasulyesi ve Pembe Ejderha Fasulyesi kullanılır.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=1400; CENTER_ALIGN]
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]4. Ejderha Taşlarının Kullanım Süreleri
+
+Ejderha Taşları aktif haldeyken kullanım süreleri azalır. En fazla 24 saatlik bir kullanım süresine sahiptirler.
+Süre Özütü ile kullanım süreleri arttırılabilir.
+Kullanım süresi 0 dakikaya ulaşan Ejderha Taşları yok olmaz ancak etkisini yitirir.
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=1535; CENTER_ALIGN]
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]5. Ejderha Taşı Simyası Seti Bonusu
+
+6 tane Kusursuz Efsanevi Ejderha Taşı aktifleştirildiğinde, Ejderha Taşı Simyası Seti Bonusu kazanılır.
+Ejderha Taşı Simyası Seti Bonusları:
+
+*Maks. HP +1500
+*Yarı İnsanlara Karşı Güçlü +5%
+*Canavarlara Karşı Güçlü +5%
+
+
+

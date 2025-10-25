@@ -1,0 +1,66 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/zodiactemple.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Gereksinimler:
+*Gereken Seviye: 90
+*Giriş Eşyası: 12 Anima Küresi
+
+[COLOR=0xffd700;FONT_SIZE=15]Özellikler:
+*Zodyak Tapınağının yenilenme süresi yoktur, fakat her girişte 12 Anima Küresine ihtiyacınız vardır.
+*Karakterin çevrimdışı olsa dahi saatte bir x1 Anima Küresi kazanır..
+*Premium özelliğe sahip olan oyuncular saatte bir x2 Anima Küresi kazanır.
+*Anima Küresi Kuponu ile 12 Anima Küresi kazanabilirsin.
+*Zindana hem grupla hem tek başına girebilirsin.
+*Her gün 2 adet portal, Pazar günleri ise 12 portalın tamamı açık olur.
+*Tapınakta ölürsen dirilmek için Canlanma Mücevherine ihtiyacın olacak.
+*40 farklı kat bulunur ve her kat 10 dakika süre limitine sahiptir.
+*Eğer katları hızlıca geçersen, bazı katları atlama ihtimalın vardır.
+
+
+[CENTER_ALIGN;FONT_SIZE=18]Aşamalar:
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=185; CENTER_ALIGN]
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 1 (Kat 1-33)
+
+[X_PADDING=20]Rastgele verilen görevi istenilen zamanda yapman gerekir.
+[X_PADDING=20]Eğer verilen görevi çok hızlı bitirirsen katları hızlı atlama ihtimalin vardır.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 2 (Kat 34)
+
+[X_PADDING=20]İlgili Zodyak Patronunu öldür.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 3 (Kat 35-39)
+
+[X_PADDING=20]Nişan ile ödüllendirilmek için doğru metin taşını yok et.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 4 (Kat 40)
+
+[X_PADDING=20]Zodyak Satıcısından Nişan satın alabilirsin (50 adedi 12.500.000 Yang).
+[X_PADDING=20]Zodyak Takvimi için nişanlara ihtiyacın olacak.
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18]Takvim:
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=500; CENTER_ALIGN]
+
+Takvimde bir kutuyu işaretleyebilmek için 50 Koruma Nişanı ve Zodyak Nişanına ihtiyacınız olmaktadır.
+Kutuyu işaretlediğinizde boşluk işaretlenecek. Ardından, 100 adet nişan envanterinizden silinecek ve takvimdeki ilgili kutuda bir tik belirecektir.
+
+
+Aventurine Sandığını elde edebilmeniz için, tüm yeşil kutular tikli olmalı. Bunun için toplamda 1,500 Koruma Nişanı ve 1,500 Zodyak Nişanına ihtiyacınız var.
+Her Koruma Nişanı x250, her Zodyak Nişanı ise x300 gerekmekte. Tüm yeşil kutular tikli olduğunda, takvimin sol altında bulunan yeşil butona tıklayarak ödülünüzü alabilirsiniz.
+
+
+Aureolin Sandığını elde edebilmeniz için, tüm sarı kutular tikli olmalı. unun için toplamda 1,500 Koruma Nişanı ve 1,500 Zodyak Nişanına ihtiyacınız var.
+Her Koruma Nişanı x250, her Zodyak Nişanı ise x300 gerekmekte.
+Tüm sarı kutular tikli olduğunda, takvimin sol altında bulunan sarı butona tıklayarak ödülünüzü alabilirsiniz.
+
+
+Yalnızca hem yeşil hem sarı tüm kutular tikli olduğunda alabileceğiniz üçüncü bir ödül bulunmaka.Astral Sandığı. Takvimdeki tüm kutular tikli olduğunda Astral Sandığı elde edebilirsiniz.
+Ayrıca, örneğin, yeşil kutular 3 kez tiklenmiş ve sarı kutular yalnızca 1 kez tiklenmiş.Bu durumda sadece 1 adet Astral Sandığı alabilirsiniz.
+Ama sarı kutular 2 kez tiklenmiş ise, yeşil kutuları tekrar işaretlemeden 2 adet daha Astral Sandığı kazanabilirsin.
+Astral Sandığını takvimin sağ altında bulunan butona tıklayarak elde edebilirsin.
+
+
+

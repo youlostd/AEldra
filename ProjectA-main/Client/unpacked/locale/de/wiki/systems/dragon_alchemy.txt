@@ -1,0 +1,158 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/dragonstone.tga]
+[CENTER_ALIGN]Die Drachensteinalchemie ist ein System für Spieler mit dem Ziel,
+[CENTER_ALIGN]ihren Char in eine bestimmte Richtung zu stärken.
+
+[COLOR=0xffd700;FONT_SIZE=15]Gliederung:
+*1. Allgemeine Informationen
+*2. Cor Draconis
+*3. Boni der Drachensteine
+*4. Wie man Drachensteine verbessern kann
+*5. Wie man die Dauer des Drachensteins nachfüllen kann
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=130; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Allgemeine Informationen
+
+Ab Patch 3.1 hat man die Drachensteinalchemie ab Lv1. Man kann täglich bis zu 200 Cor Draconis mit der Quest "Macht
+des Drachenauge" farmen. Dabei werden 10 Drachensteinsplitter automatisch in einen Cor Draconis (roh) umgewandelt.
+Das Drachensteinalchemiefenster lässt sich über den grünen Button im Inventar oder mit der Taste "O" öffnen.
+Man kann die erste Alchemieseite mit STRG + O aktivieren und die zweite Alchemieseite mit STRG + P.
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=250; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Cor Draconis
+
+Ein Cor Draconis (roh) enthält einen zufälligen Drachenstein (roh) aus allen Arten (Diamant, Rubin, Jade, Saphir,
+Granat, Onyx). Es gibt verschiedene Arten von Cors wie: Cor Draconis (roh), Cor Draconis (schliff), Cor Draconis (rar),
+Cor Draconis (antik) und Cor Draconis (legendär). Cor Alrum (normal), Cor Diamas (normal), Cor Granatum (normal),
+Cor Jadeit (normal), Cor Rubinum (normal), Cor Saphirum (normal). Jeder der 6 enthält einen Drachenstein seiner Farbe.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=360; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Boni
+
+[CENTER_ALIGN]Die Drachensteine haben 4 verschiedene Aspekte, die verbessert werden können:
+[CENTER_ALIGN]Klasse: Roh, Schliff, Rar, Antik, Legendär.
+[CENTER_ALIGN]Je höher die Klasse, desto mehr Boni wird der Drachenstein haben.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]3.1 Reinheitsgrad: Matt, Klar, Lupenrein, Brilliant, Exzellent.
+
+[X_PADDING=20]Je  höher der Reinheitsgrad, desto höher ist der Bonus auf dem Drachenstein.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]3.2 Stufe: + 0 bis + 6
+
+[X_PADDING=20]Je höher die Stufe, desto höher ist der Bonus auf dem Drachenstein.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]3.3 Bonus: (2-5 Boni möglich)
+
+[X_PADDING=20]Ein legendärer Drachenstein hat 2 Basisboni und kann bis zu 3 zusätzliche Boni bis insgesamt 5 Boni haben.
+[X_PADDING=20]Die Boni eines Drachensteins können mit dem Item "Veredeltes Verzaubern" verändert werden.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]3.4 Mögliche maximale Boni der Drachensteine
+
+[COLOR=ef4f00]*3.4.1 Legend. Drachendiamant:
+
+[X_PADDING=20]*Intelligenz + 10
+[X_PADDING=20]*Eiswiderstand + 10%
+[X_PADDING=20]*Widerstand gegen Fertigkeitsschaden 15%
+[X_PADDING=20]*Fertigkeitsschaden 15%
+[X_PADDING=20]*Magischer Angriffswert + 15
+[X_PADDING=20]*Magische Verteidigung + 15
+
+[COLOR=ef4f00]*3.4.2 Legendärer Drachenrubin:
+
+[X_PADDING=20]*Stärke + 10
+[X_PADDING=20]*Feuerwiderstand + 10%
+[X_PADDING=20]*Durchschnittsschaden + 15%
+[X_PADDING=20]*Verteidigung + 100
+[X_PADDING=20]*Angriffswert + 120
+[X_PADDING=20]*Durchschnittlicher Schadenswiderstand + 15%
+
+[COLOR=ef4f00]*3.4.3 Legendärer Drachenjade:
+
+[X_PADDING=20]*Max Mp + 500 
+[X_PADDING=20]*Windwiderstand + 10%
+[X_PADDING=20]*Max. TP + 2500
+[X_PADDING=20]*Max. TP + 15%
+[X_PADDING=20]*10% Schaden wird von TP absorbiert
+[X_PADDING=20]*10% TP Regeneration
+[X_PADDING=20]*5% Chance, TP wiederherzustellen
+
+[COLOR=ef4f00]*3.4.4 Legendärer Drachensaphir:
+
+[X_PADDING=20]*Beweglichkeit + 10
+[X_PADDING=20]*Erdwiderstand + 10%
+[X_PADDING=20]*Stark gegen Sura/Krieger/Schamane/Ninja + 15%
+[X_PADDING=20]*Defence against Ninja Attacks +15%
+
+[COLOR=ef4f00]*3.4.5 Legendärer Drachengranat:
+
+[X_PADDING=20]*Max. HP + 1500
+[X_PADDING=20]*Blitzwiderstand + 10%
+[X_PADDING=20]*Max. MP + 1800
+[X_PADDING=20]*Max. MP + 15%
+[X_PADDING=20]*10% Schaden wird von SP absorbiert
+[X_PADDING=20]*MP Regeneration + 10%
+
+[COLOR=ef4f00]*3.4.6 Legendärer Drachenonyx:
+
+[X_PADDING=20]*Vitalität + 10
+[X_PADDING=20]*Widerstand gegen Dunkelheit + 10%
+[X_PADDING=20]*Abwehr gegen kritische Treffer + 10%
+[X_PADDING=20]*Abwehr gegen durchbohrende Treffer + 10%
+[X_PADDING=20]*Chance auf Nahkampfangriff abzublocken + 10%
+[X_PADDING=20]*Chance auf Nahkampfangriff zu reflektieren + 10%
+[X_PADDING=20]*Chance, Pfeilangriff auszuweichen + 10%
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=1330; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]4. Wie man Drachensteine verbessern kann
+
+Um einen perfekten Exzellenten Drachenstein zu erhalten muss man in einer bestimmten Reihenfolge vorgehen umm diesen
+zu erhalten. Erst die Klasse bis Legendär upgraden, dann die Klarheit bis Exzellent und anschließend die Stufe auf +6.
+Um die Klasse eines Drachensteins aufzuwerten, benötigt man Drachensteine der selben Klasse.
+Um den Reinheitsgrad eines Drachensteins zu erhöhen benötigt man einen zweiten Drachenstein der selben Klasse
+und des selben Reinheitsgrades. Der Prozess des Verbesserns der Klasse ist 100%, der Prozess des Verbesserns
+des Reinheitsgrades hingegen kann fehlschlagen. Um die Stufe des Drachensteins zu erhöhen benötigt man entweder
+Grüne Drachenbohne, Blaue Drachenbohne oder Rosa Drachenbohne. Der Unterschied der Bohnen liegt darin, dass die
+Rosa Drachenbohne die höchste Erfolgschance hat und die grüne Drachenbohne die niedrigste Erfolgschance.
+Beim Fehlschlag der Verbesserung der Stufe verschwindet der Drachenstein nicht, lediglich seine Stufe
+wird um 1 verringert. Die maximale Stufe ist +6.
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=1525; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]5. Wie man die Dauer des Drachensteins nachfüllen kann
+
+Mit der Zange der Zeit kann man ein Elixier der Zeit (k) erstellen. Um das Elixier der Zeit (k) zu erhalten muss
+die Zange der Zeit auf einen nicht ausgerüsteten Drachenstein gezogen werden.
+Tipp: Man zieht es am besten auf einen Drachenstein der Klasse roh, schliff, rar, antik.
+Hinweis: Dieser Prozess kann fehlschlagen.
+Man kann ebenso ein Elixier der Zeit (m) aus der Goldenen Decimus Truhe, König des Kristalldrachen,
+Battlepass der Baumwesen (Quest: "Meerjungfrau Insel"), Missionsbuch (scher) und von Kawuco erhalten.
+Wenn die Zeit von einem Drachenstein abgelaufen ist, werden die Boni unwirksam und er wird ausgerotet.
+Der Drachenstein verschwindet nicht!
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=1660; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]6. Alchemie Set Bonus
+
+Wenn man 6 Drachensteine +6 ausgerüstet hat erhält man einen Alchemie Set Bonus von:
+
+*Max. TP +2500 
+*Stark gegen Halbmenschen +10%
+*Stark gegen Metisnteine +10%
+
+
+

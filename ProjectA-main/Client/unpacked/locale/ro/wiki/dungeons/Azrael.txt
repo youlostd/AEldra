@@ -1,0 +1,46 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/azrael.tga]
+[COLOR=0xffd700;FONT_SIZE=15] Cerinte : 
+*Nivel Minim: 75
+*Tichet de intrare: Cap mumificat (Nu pentru intrare, ci pentru nivelul al 3-lea)
+[RIGHT_ALIGN]Cap mumificat
+[IMG=d:/ymir work/ui/wiki/30319.tga; Y=5; X=493]
+
+[COLOR=0xffd700;FONT_SIZE=15]Specificatii:
+*Se poate intra in catacomba si cu si fara o grupa.
+*Dungeon-ul trebuie completat intr-o ora.
+*Cu Ticket camera lider (Azrael) intrati direct la ultimel nivel si il puteti ucide pe Azrael.
+*Catacomba Diavolului are cooldown de 60 de minute.
+
+
+[CENTER_ALIGN;FONT_SIZE=18]Nivelele:
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=145; CENTER_ALIGN]
+
+[COLOR=ef4f00;FONT_SIZE=15]Nivelul 1
+
+[X_PADDING=20]Ucideti toti monstrii pana dropati Cheia Suflet Cristal.
+[X_PADDING=20]Trageti cheia pe Statuia Kud la sfarsitul acestui nivel.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Nivelul 2
+
+[X_PADDING=20]Trebuie sa va luptati prin Poarta Pierzaniei pana ajungeti la
+[X_PADDING=20] Piatra Testoasei la sfarsitul nivelului. Doar o singura persoana trebuie sa apese pe Testoasa.
+[X_PADDING=20](Toti membrii grupei trebuie sa detina Cap Mumificat)
+
+[COLOR=ef4f00;FONT_SIZE=15]Nivelul 3
+
+[X_PADDING=20]La acest nivel veti gasi 7 pietre metin, numite Metinul Revansei,
+[X_PADDING=20]care trebuiesc distruse. Doar una singura este corecta si va permite sa treceti la urmatorul nivel.
+
+[COLOR=ef4f00;FONT_SIZE=15]Nivelul 4
+[X_PADDING=20]Gaseste-l si invinge-l pe Tartaros. El este in una din camerele templului.
+[X_PADDING=20]Luati Totemul Schimonosit in varful tempului, si trage-ti-l pe Obelisk.
+
+[COLOR=ef4f00;FONT_SIZE=15]Nivelul 5
+[X_PADDING=20]Ucideti toti monstrii din acest nivel, apoi distruge-l pe Charon. Dupa ce toti monstrii au fost invisi,
+[X_PADDING=20]veti merge la urmatorul nivel.
+
+[COLOR=ef4f00;FONT_SIZE=15]Nivelul 6
+
+[X_PADDING=20]Ucide-l pe Azrael!

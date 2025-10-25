@@ -1,0 +1,51 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/thranduils.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Cerinte:
+*Nivel necesar: 110
+*Permis de trecere: Permis de trecere+
+[RIGHT_ALIGN]Permis de trecere+
+[IMG=d:/ymir work/ui/wiki/93264.tga; Y=5; X=485]
+
+[COLOR=0xffd700;FONT_SIZE=15]Particularitati:
+*Adapostul lui Thranduil are un cooldown de 180 de minute.
+*Intrarea in dungeon se poate face cu sau fara grupa.
+*Exista o sansa de 10% sa intalnesti Gardianul Padurii la finalul runului.
+
+
+[CENTER_ALIGN;FONT_SIZE=18]Fazele:
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=132; CENTER_ALIGN]
+[COLOR=ef4f00;FONT_SIZE=15]Nivel  1
+
+[X_PADDING=20]Convoaca 100 de monstrii in 90 de secunde. Omoara toti monstrii care reapar.
+[X_PADDING=20]Pentru fiecare monstru omorat, vor aparea dublu decat inainte.
+[X_PADDING=20]Odata ce au aparut 100 de monstrii ai la dispozitie 60 de secunde sa ii omori pe toti.
+
+[COLOR=ef4f00;FONT_SIZE=15]Nive 2
+
+[X_PADDING=20]Disruge piatra metin corecta.
+
+[COLOR=ef4f00;FONT_SIZE=15]Nivel 3
+
+[X_PADDING=20]Colecteaza Cheia Padurii de la urmatoarele valuri de monstrii. 
+[X_PADDING=20]Cheia este necesara pentru a distruge Urmasul lui Sinarin.
+[X_PADDING=20]Fiecare cheie scade 10% din viata lui Sinarin.
+
+[COLOR=ef4f00;FONT_SIZE=15]Nivel4
+
+[X_PADDING=20]Infrangel pe Sindarin.
+
+[COLOR=ef4f00;FONT_SIZE=15]Nivel 5
+
+[X_PADDING=20]Supravietuieste 3 minute si omoara toti monstrii. La fiecare 30 de secunde apare o zona de siguranta
+[X_PADDING=20]Daca nu te aflii in aceea zona, atunci nivelul o ia de la inceput.
+
+[COLOR=ef4f00;FONT_SIZE=15]Nivel 6
+
+[X_PADDING=20]Distruge cele 3 valuri de monstrii in 3 minute. Daca nu reusesti, nivelul o ia de la inceput.
+
+[COLOR=ef4f00;FONT_SIZE=15]Nivel 7
+
+[X_PADDING=20]Infrangel pe Thranduil.
+[X_PADDING=20]Dupa ce Thranduil este omorat, exista o sansa de 10% de a il intalnii pe Gardianul Padurii
+[X_PADDING=20]Unde poti crafta noile echipamente pvp.
+

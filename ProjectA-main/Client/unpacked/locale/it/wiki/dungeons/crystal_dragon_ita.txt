@@ -1,0 +1,46 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/caveofcrystal.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Requirements:
+*livello Richiesto: 115
+*Ticket d'accesso: Quarzo d'inferno rosso
+[RIGHT_ALIGN]Quarzo d'inferno rosso
+[IMG=d:/ymir work/ui/wiki/31006.tga; Y=5; X=490]
+
+[COLOR=0xffd700;FONT_SIZE=15]Peculiarity:
+*La Cava del drago di cristallo ha 180 minuti di cooldown.
+*Puoi entrare nel dungeon con o senza gruppo.
+
+
+[CENTER_ALIGN;FONT_SIZE=18]Le fasi:
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=120; CENTER_ALIGN]
+[COLOR=ef4f00;FONT_SIZE=15]Livello 1
+
+[X_PADDING=20]Uccidi tutti i mostri e le rocce Metin.
+
+[COLOR=ef4f00;FONT_SIZE=15]Livello 2
+
+[X_PADDING=20]uccidi tutti i monstri e droppa la chiave di pietra per distruggere il sigillo.
+
+[COLOR=ef4f00;FONT_SIZE=15]Livello 3
+
+[X_PADDING=20]uccidi tutti i monstri in questo livello e poi uccidi il drago di cristallo.
+[X_PADDING=20]YHai solo 10 minuti per questo livello.
+
+[COLOR=ef4f00;FONT_SIZE=15]Livello 4
+
+[X_PADDING=20]Distruggi tutti le rocce metin e droppa il giusto sigillo.
+[X_PADDING=20]droppa e trascina il cristallo rosso nel sigillo.
+
+[COLOR=ef4f00;FONT_SIZE=15]Livello 5
+
+[X_PADDING=20]uccidi tutti i monstri nel piano per evocare il boss.
+[X_PADDING=20]hai 10 minuti per completare questo piano.
+
+[COLOR=ef4f00;FONT_SIZE=15]Livello 6
+
+[X_PADDING=20]Sconfiggi tutti i monstri nel piano per evocare il Dinosauro di cristallo.
+
+[COLOR=ef4f00;FONT_SIZE=15]Livello 7
+
+[X_PADDING=20]Distruggi tutte le rocce metin e poi Il Re dei Draghi di Cristalli.
+

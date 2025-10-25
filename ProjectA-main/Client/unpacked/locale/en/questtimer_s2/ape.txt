@@ -1,0 +1,7 @@
+[DELAY value;0]
+[COLOR r;0|g;195|b;255]"Phase 1"[/COLOR r;0|g;195|b;255][ENTER]
+Destroy all 6 Metinstones in the room.[ENTER]
+[ENTER]
+[COLOR r;0|g;195|b;255]"Phase 2"[/COLOR r;0|g;195|b;255][ENTER]
+Defeat the Ape Lord and his comrades.[ENTER]
+[ENTER]

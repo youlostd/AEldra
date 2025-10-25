@@ -1,0 +1,120 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/costumes.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Lista de continut:
+*1. Informatii generale
+*2. Adaugare si schimbare bonus costum
+*3. Bonus frizura
+*4. Bonus armura de costum
+*5. Bonus skin de arma
+*6. Transfer bonus costum
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Informatii generale
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=100; CENTER_ALIGN]
+
+[CENTER_ALIGN]Costumele pot fi obtinute de la Battlepass, evenimente sau jucatori.
+[CENTER_ALIGN]Avem 3 costume diferite: Frizura, Costum de Armura si Skin de Arma. Toate aceste costume sunt Permanente.
+[CENTER_ALIGN]Un costum poate sa aiba 5 bonusuri. Costumele au nevoie de diferite adaugari si schimbari bonus costum.
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Adaugare si schimbare bonus costum
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=195; CENTER_ALIGN]
+
+[CENTER_ALIGN]Pentru a adauga primele 3 bonusuri, aveti nevoie de Intarire bonus Costum fara +.
+[CENTER_ALIGN]Pentru a adauga bonusurile 4 si 5, aveti nevoie de Intarire bonus Costum cu +.
+[CENTER_ALIGN]Bonusul 4 si 5 pot fi adaugate numai dupa ce primele 3 bonusuri au fost adaugate pe Costum.
+[CENTER_ALIGN]Mereu o sa fie adaugat numai 1 bonus, de asemenea, sansa este de 100%.
+
+[CENTER_ALIGN]Pentru a schimba primele 3 bonusuri aveti nevoie de Vrajeste bonus Costum fara +.
+[CENTER_ALIGN]Pentru a schimba bonusurile 4 si 5 aveti nevoie de Vrajeste bonus Costum cu +.
+
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Bonusurile de frizura
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=350; CENTER_ALIGN]
+
+[COLOR=00EF4F;FONT_SIZE=14]Sanse 1. - 3. Bonus:
+*Tare impotriva Diavolului +5, 8, 10%
+*Tare impotriva Vampirilor +5, 8, 10%
+*Tare impotriva Esotericilor +5, 8, 10%
+*Tare impotriva Orcilor +5, 8, 10%
+*Tare impotriva Animalelor +5, 8, 10%
+*Rezistenta la Otrava +3, 5%
+*Viteza de atac +5, 8, 10%
+*Sansa de a evita Sageti +5, 8, 10%
+*Sansa de a bloca un atac corporal +3, 5%
+*Sansa de a refleca un atac corporal +3, 5%
+*Max. PV +500, 750, 1000
+
+[COLOR=FF0021;FONT_SIZE=14]Sanse 4. - 5. Bonus:
+*Tare impotriva Metinelor +3, 5, 8%
+*Tare impotriva Monstrilor +3, 5, 8%
+*Tare impotriva Sefilor +3, 5, 8%
+*Rezistenta la Paguba Medie +3, 5%
+*Paguba Medie +3, 5%
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]4. Bonusuri de Costum de Armura
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=655; CENTER_ALIGN]
+
+
+[COLOR=00EF4F;FONT_SIZE=14]Sanse 1. - 3. Bonus:
+*Max. HP +500, 750, 1000
+*Daune absorbide de PM +3, 5%
+*Daune absorbide de PV +3, 5%
+*Viteza farmecului +5, 8, 10%
+*Valoarea atacului +20, 35, 50
+*Rezistenta la Gheata +3, 5, 8%
+*Rezistenta la foc +3, 5, 8%
+*Rezistenta la Vand +3, 5, 8%
+*Rezistenta la Fulger +3, 5, 8%
+*Rezistenta la Pamant +3, 5, 8%
+*Rezistenta la Intuneric +3, 5, 8%
+
+
+[COLOR=FF0021;FONT_SIZE=14]Sanse 4. - 5. Bonus:
+*Tare impotriva Metinelor +3, 5, 8%
+*Tare impotriva Monstrilor +3, 5, 8%
+*Tare impotriva Sefilor +3, 5, 8%
+*Rezistenta la semi-oamenilor +3, 5%
+*Restitenta la Paguba Abilitatii +3, 5%
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]5. Bonusuri de Skin de Arma
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=985; CENTER_ALIGN]
+
+[COLOR=00EF4F;FONT_SIZE=14]Sanse 1. - 3. Bonus:
+*Tare impotriva Diavolului +5, 8, 10%
+*Tare impotriva Vampirilor +5, 8, 10%
+*Tare impotriva Esotericilor +5, 8, 10%
+*Tare impotriva Orcilor +5, 8, 10%
+*Tare impotriva Animalelor +5, 8, 10%
+*Sansa unei lovituri critice +3, 5%
+*Sansa unei lovituri patrunzatoare +3, 5%
+*Vitalitate +3, 5, 8
+*Inteligenta +3, 5, 8
+*Putere +3, 5, 8
+*Dexteritate +3, 5, 8
+
+
+[COLOR=FF0021;FONT_SIZE=14]Sanse 4. - 5. Bonus:
+*Tare impotriva Metinelor +3, 5, 8%
+*Tare impotriva Monstrilor +3, 5, 8%
+*Tare impotriva Sefilor +3, 5, 8%
+*Tare impotriva semi-oamenilor +3, 5%
+*Paguba abilitatii +3, 5%
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]6. Transfer bonus costum
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=1300; CENTER_ALIGN]
+
+[CENTER_ALIGN]Este posibil sa transferati bonusurile unui Costum cu Transfer bonus costum la Theowahdan pe alt Costum.
+[CENTER_ALIGN]Costumul din locul din stanga va fi golit de bonusuri si bonusurile vor fi transferate pe costumul din locul din dreapta.
+[CENTER_ALIGN]Cand transferati bonusurile pe un costum care are deja bonusuri
+[CENTER_ALIGN]bonusurile vechi vor fi suprascrise cu cele noi.
+

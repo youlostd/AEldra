@@ -1,0 +1,75 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/zodiactemple.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Cerinte:
+*Nivel necesar: 90
+*Permis de trecere: 12 Animaspheres
+
+[COLOR=0xffd700;FONT_SIZE=15]Peculiarity:
+*Templul Zodiac nu are cooldown, ai nevoie de 12 Animasphere pentru a putea intra.
+*Fiecare jucator va primii cate o animasfera pe ora indiferent daca este sa nu pe joc.
+*Fiecare jucator care are pachet premium va primii cate 2 animasfere pe ora indiferent .
+*Cu un voucher Animaspheres poti obtine 12 animaspheres.
+*Poti intra in Templul Zodiac singur sau cu grupa .
+*In fiecare zi sunt deschise 2 portale, in weekend.
+*In cazul in care mori in run ai nevoie de Prisma Reinvierii pentru a invia.
+*Sunt 40 de etaje in run, pentru fiecare etaj ai nevoie de 10 minute.
+*Daca esti destul de rapid, poti sarii peste cateva .
+
+
+[CENTER_ALIGN;FONT_SIZE=18]Fazele:
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=185; CENTER_ALIGN]
+[COLOR=ef4f00;FONT_SIZE=15]Faza 1 (Level 1-33)
+
+[X_PADDING=20]Primesti o misiune aleatorie pe care trebuie sa o indeplinesti intr-un anumit timp.
+[X_PADDING=20]Poti sa sari peste anumite nivele daca esti rapid.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Faza 2 (Level 34)
+
+[X_PADDING=20]Omoara Bosul Zodiac.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Faza 3 (Level 35-39)
+
+[X_PADDING=20]Distruge piatra metin corecta si vei fii recompensat cu insigne.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Faza 4 (Level 40)
+
+[X_PADDING=20]Poti cumpara insigne de la Vanzatorul Zodiac (50 bucati pentru 12.500.000 Yang).
+[X_PADDING=20]Ai nevoie de insigne pentru a completa calendarul zodiac.
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18]Calendarul:
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=500; CENTER_ALIGN]
+
+Pentru a bifa o casuta in calendar, ai nevoie de 50 de insigne Gardian si 50 de insigne Zodiac.
+Apasand click pe casuta aceasta este bifata. Apoi cele 100 de insigne iti sunt luate 
+din inventarul tau si casuta din tabel este marcata.
+
+
+Pentru a obtine Cufarul Aventurine, toate casutele verzi trebuiesc marcate. Pentru asta ai nevoie de 1.500 insigne Gardian
+si 1.500 de insigne Zodiac.Trebuie sa ai din fiecare cate 250 de insigne Gardian si 300 de insigne Zodiac. 
+Cand toate casutele verzi sunt bifate vei primii 
+apasand pe butonul verde din stanga jos al calendarului.
+
+
+
+Pentru a obtine comoara Aurelion ai nevoie sa completeti toate casutele galbene. Pentru asta ai nevoie de 1.500 insigne Gardian
+si 1.500 de insigne Zodiac.Trebuie sa ai din fiecare cate 250 de insigne Gardian si 300 de insigne Zodiac. 
+Cand toate casutele galbene sunt bifate vei primii 
+apasand pe butonul verde din stanga jos al calendarului.
+
+
+Cand toate casutele, atat cele verzi cat si cele galbene sunt complete atunci poti obtine si al 3-lea cufar. 
+Comoara Astrala. 
+Este posibil spre exemplu sa completezi de 3 ori casutele verzi 
+si o singura data casutele galbene.
+In acest caz vei primii doar un singur cufar Aurelion.
+Dar daca vei completa de inca doua ori casutele galbene vei putea lua inca doua cufere Aurelion 
+fara a completa de inca doua ori casutele verzi.
+Poti obtine Comoara Astrala apasand pe butonul din dreapta a calendarului.
+
+
+

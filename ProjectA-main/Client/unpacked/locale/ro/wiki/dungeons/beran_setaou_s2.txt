@@ -1,0 +1,39 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/beransetoul.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Cerinte:
+*Nivel necesar: Nivel: 75 - 105
+*Tichet de intrare: Cheie rasucita
+[IMG=d:/ymir work/ui/wiki/rahmen.tga; Y=5; X=460]
+[IMG=d:/ymir work/ui/wiki/30179.tga; Y=15; X=482]
+
+
+[X_PADDING=471]Twisted Key
+[COLOR=0xffd700;FONT_SIZE=15]Specificatii:
+*Camera Dragonului are un cooldown de 2 ore.
+*In Camera Dragonului se poate intra cu sau fara grup.
+*Camera Dragonului are un timp limita de 60 minute.
+*Fiecare jucator are nevoie de o cheie.
+*Fiecare piatra Metin are un efect special, care este crescut prin existenta a aceeasi piatra Metin.
+
+
+
+[COLOR=0xffd700;FONT_SIZE=15]Efectele pietrelor Metin:
+*Cantitatea regenerarii HP a Dragonului este crescuta de catre Metinul Arogantei.
+*Dauna data de catre Dragon este crescuta de catre Metinul Razbunarii.
+*Viteza regenerarii HP este crescuta de catre Metinul Singuratatii.
+*Apararea Dragonului este crescuta de catre Metinul Muntii.
+
+[COLOR=0xffd700;CENTER_ALIGN]Cei mai multi jucatori folosesc 4 Metinul Razbunarii.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=280; CENTER_ALIGN]
+
+[COLOR=ef4f00;FONT_SIZE=15]Faza 1
+
+[X_PADDING=20]Distruge pietrele Metin pana cand iti apar pietrele dorite.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Faza 2
+
+[X_PADDING=20]Omoara Beran-Setaou.
+[IMG=d:/ymir work/ui/wiki/Beran Setaou.tga; Y=285; X=362]

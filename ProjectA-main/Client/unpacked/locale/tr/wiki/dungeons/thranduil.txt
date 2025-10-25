@@ -1,0 +1,51 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/thranduils.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Gereksinimler:
+*Gereken Seviye: 110
+*Giriş Eşyası: Geçiş Bileti+
+[RIGHT_ALIGN]Geçiş Bileti+
+[IMG=d:/ymir work/ui/wiki/93264.tga; Y=5; X=485]
+
+[COLOR=0xffd700;FONT_SIZE=15]Özellikler:
+*Thranduil 'in yenilenme süresi 180 dakikadır.
+*Zindana hem grupla hem tek başına girebilirsin.
+*Zindanı tamamladığında 10% şans ile Orman Koruyucusu belirecektir.
+
+
+[CENTER_ALIGN;FONT_SIZE=18]Aşamalar:
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=132; CENTER_ALIGN]
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 1
+
+[X_PADDING=20]90 saniye içerisinde 100 canavar ortaya çıkacak. Öldürülen her canavar daha fazla canavar ortaya çıkaracak.
+[X_PADDING=20]Öldürülen her canavar, 2 canavar ortaya çıkarır.
+[X_PADDING=20]100 canavar ortaya çıktıktan sonra, hepsini öldürmen için 60 saniyen olacak.
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 2
+
+[X_PADDING=20]Doğru metin taşını yok et.
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 3
+
+[X_PADDING=20]Gelen canavar dalgalarından anahtarlar topla. 
+[X_PADDING=20]Anahtarlar, Sindarin Filizi 'ni yok etmek için gereklidir.
+[X_PADDING=20]Her anahtar Sindarin Filizi 'nin canını %10 azaltacaktır.
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 4
+
+[X_PADDING=20]Sindarin 'i yok et.
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 5
+
+[X_PADDING=20]3 dakika boyunca hayatta kal ve tüm canavarları yok et. Her 30 saniyede bir güvenli bir alan ortaya çıkar.
+[X_PADDING=20]Eğer güvenli alana vaktinde yetişemezsen, aşama tekrarlanır.
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 6
+
+[X_PADDING=20]3 dakika içerisinde 3 canavar dalgasını yok et. Eğer başaramazsan, aşama tekrarlanır.
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 7
+
+[X_PADDING=20]Thranduil 'i yok et.
+[X_PADDING=20]Thranduil 'i yok ettiğinde 10% şans ile Orman Koruyucusu belirecektir.
+[X_PADDING=20]Koruyucuda yeni ekipmanlar üretebilirsin.
+

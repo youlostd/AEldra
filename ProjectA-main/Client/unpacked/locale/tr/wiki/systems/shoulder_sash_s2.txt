@@ -1,0 +1,82 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/shoulder.tga]
+[COLOR=0xffd700;FONT_SIZE=15]İçerik Listesi:
+*1. Omuz Kuşağı Türleri ve Elde Etme
+*2. Omuz Kuşağı Geliştirme
+*3. Silah Emilimi
+*4. Bonus Kaldırma
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=80; CENTER_ALIGN]
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Omuz Kuşağı Türleri ve Elde Etme
+
+[COLOR=ef4f00;FONT_SIZE=15]1.1 Omuz Kuşağı Türleri:
+4 farklı Omuz Kuşağı türü mevcuttur:
+*Hakim Kuşağı
+*Usta Kuşağı
+*Bey Kuşağı
+*Kral Kuşağı
+
+Omuz Kuşakları arasındaki tek fark görünümleridir.
+[IMG=d:/ymir work/ui/wiki/divider_small.tga; Y=250; CENTER_ALIGN]
+
+
+[COLOR=ef4f00;FONT_SIZE=15]1.2 Omuz Kuşağı Elde Etme
+Omuz Kuşakları Theowahdan'da farklı kumaşlar karşılığında üretilebilir.
+Kumaşlar; Ejderha Ateşi Burnu, Nefrit Körfezi, Yıldırım Dağları ve Gautama Uçurumu'nda bulunan 
+metin taşlarından elde edilebilir.
+4 farklı Omuz Kuşağı türü için 4 farklı kumaş bulunmaktadır:
+*10x Yeşil Kumaş -> Hakim Kuşağı
+*10x Mor Kumaş -> Usta Kuşağı
+*10x Mavi Kumaş -> Bey Kuşağı
+*10x Sarı Kumaş -> Kral Kuşağı
+Omuz Kuşağı üretimi için 10 tane Kumaş'ın yanı sıra 250.000 Yang'a ihtiyaç vardır. Üretim işlemi başarısız olmaz.
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=400; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Omuz Kuşağı Geliştirme
+
+[COLOR=ef4f00]Omuz Kuşakları 4 farklı kaliteye sahiptir:
+*basit
+*zarif
+*asil
+*kişiye öz.
+
+Aynı kalitedeki Omuz Kuşakları, Theowahdan'da daha iyi bir seviyeli kuşak elde etmek için birleştirilebilir.
+Birleştirme işlemi sırsaında, üst yuvadaki Omuz Kuşağı gelişirken alt yuvadaki Omuz Kuşağı yok olur.
+Omuz Kuşağı geliştirme işlemi başarısız olabilir.
+Omuz Kuşakları, geliştirme penceresine "Sürükle-Bırak" yöntemiyle ya da "ALT+Sol Tık" kısayoluyla eklenebilir.
+Omuz Kuşağı(kişiye öz.), 25%(en fazla) emiş derecesi elde etmek için başka bir Omuz Kuşağı(kişiye öz.) ile birleştirilebilir.
+Bu işlemin başarısız olma ihtimali yoktur ve emiş derecesini 1% arttırır.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=620; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Silah Emilimi
+
+Herhangi bir silahın bonusları Omuz Kuşağına aktarılabilir.
+Bu işlem, Theowahdan'da "Bonus Emilimi" penceresinde gerçekleştirilir.
+> Bu işlemde kullanılan SİLAH emilim sonrası YOK OLUR!
+
+Bonus emilimi sonucunda silahın bonusları ve statülerinin belli bir yüzdesi(%) kuşağa aktarılır.
+*Basit Kuşaklar, emilen silahın bonuslarının 1% kadarını absorbe ederler.
+*Zarif Kuşaklar, emilen silahın bonuslarının 5% kadarını absorbe ederler.
+*Asil Kuşaklar, emilen silahın bonuslarının 10% kadarını absorbe ederler.
+*Kişiye Öz. Kuşaklar, emilen silahın bonuslarının 11% - 25% kadarını absorbe ederler.
+
+Bonuslar ondalık tabanda aşağıya doğru yuvarlanır.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=830; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]4. Bonus Kaldırma
+Bir kuşağa yanlış bir silahın bonus emilimi yapılırsa ya da kuşak bonusları seçimi yanlışsa tek bir seçenek mevcuttur:
+Nesne Marketi'nden satın alınabilen "Dönüşüm Parşömeni" bu işlevi görür.
+Dönüşüm Parşömeni, Omuz Kuşağındaki bütün bonusları kaldırır.
+Bu işlem sonucunda emilimi yapılan silahı geri alamazsın.
+

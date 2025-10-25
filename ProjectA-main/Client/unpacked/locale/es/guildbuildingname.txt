@@ -1,0 +1,74 @@
+VNUM	NAME
+14013	Fábrica de armas
+14014	Fábrica de armaduras
+14015	Joyero
+14033	Centro de entrenam.
+14043	Horno de diamante
+14045	Horno de mad. fósil
+14046	Horno de cobre
+14047	Horno de plata
+14048	Horno de oro
+14049	Horno de jade
+14050	Horno de ébano
+14051	Horno de perlas
+14052	Horno de oro blanco
+14053	Horno de cristal
+14054	Horno de cuarzo
+14055	Horno lágr. de cielo
+14061	Altar del poder
+14062	Altar del poder
+14063	Altar del poder
+14071	Almacén del gremio
+14072	Almacén del gremio
+14073	Almacén del gremio
+14074	Horno crist. alma
+14075	Horno de rubí
+14076	Horno de granate
+14077	Horno de esmeralda
+14078	Horno de zafiro
+14079	Horno de turmalina
+14100	Casa (1)
+14101	Muro de piedra (1-1)
+14102	Muro de piedra (1-2)
+14103	Muro de piedra (1-3)
+14104	Puerta (1)
+14105	Muro (1)
+14110	Casa (2)
+14111	Muro de piedra (2-1)
+14112	Muro de piedra (2-2)
+14113	Muro de piedra (2-3)
+14114	Puerta (2)
+14115	Muro (2)
+14120	Casa (3)
+14121	Muro de piedra (3-1)
+14122	Muro de piedra (3-2)
+14123	Muro de piedra (3-3)
+14124	Puerta (3)
+14125	Muro (3)
+14200	Símbolo de gremio
+14201	Pared delantera
+14202	Pared trasera
+14203	Pared izquierda
+14204	Pared derecha
+14300	Piedra (1)
+14301	Piedra (2)
+14302	Piedra (3)
+14303	Piedra (4)
+14304	Piedra (5)
+14305	Piedra (6)
+14306	Piedra (7)
+14307	Piedra (8)
+14308	Piedra (9)
+14309	Piedra (10)
+14400	Árbol (1)
+14401	Árbol (2)
+14402	Árbol (3)
+14403	Árbol (4)
+14404	Árbol (5)
+14405	Árbol (6)
+14406	Árbol (7)
+14407	Árbol (8)
+14408	Árbol (9)
+20139	Estandarte del gremio (lila)
+20140	Estandarte del gremio (azul/verde)
+20141	Estandarte del gremio (rojo/dorado)

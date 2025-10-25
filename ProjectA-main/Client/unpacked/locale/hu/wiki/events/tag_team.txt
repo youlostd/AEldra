@@ -1,0 +1,37 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/tagteam.tga]
+[CENTER_ALIGN;FONT_SIZE=18]Csapatharc Event
+
+[COLOR=0xffd700;FONT_SIZE=15]Tartalom:
+*1. Általános információk
+*2. Event leírása
+*3. Jutalmak
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=100; CENTER_ALIGN]
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Általános információk:
+
+A Csapatharc Event egy PvP harc, ami különbözõ csoportokban van tarva. 
+Mindegyik csoport 7 csapatból áll, mindegyik csapatban 2 játékos. 
+Mind a két játékos a gyõztes csapatból jutalomban részesül, a kör végén. 
+Jelentkezni a partnereddel, Map1 kapitánynál tudtok. Gyõzõdj meg róla, hogy a társad a közeledben van!
+Egy különleges Nézõi mód is elérhetõ, az event ideje alatt. 
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=220; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Event leírása:
+
+Miután regisztráltál a partnereddel, elteleportálódtok egy speciális pályára.
+Ezen a pályán minden féle ital és elixír ki van kapcsolva. 
+Középre futva, találkozni fogsz 6 másik csapattal, 12 játékossal. 
+Az a csapat nyer, amelyben legalább 1 játékos életbe marad, megnyeri a kört, és a jutalmakat!
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=330; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Jutalmak:
+
+A Csapatharc Event jutalmai általában le vannak írva az "Events" szekcióban, a fórumon. 
+Ez változhat a játékosok vágyai alapján, eventrõl eventre.
+
+

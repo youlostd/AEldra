@@ -1,0 +1,17 @@
+1	Üçüncül Saldırı	Her başarılı 3. normal saldırı düşmana ekstra hasar verir.
+2	Kana Hücum	Her 9. normal saldırı ekstra hasar verir.
+3	Soğuk Ayaklar	Herhangi bir hedefe yapılan bir saldırı seni, verdiğin hasarın 20%'si kadar iyileştirir ve 1.5 saniyeliğine 100 hareket hızı verir. 
+13	Şimşek	3 saniye içerisinde gerçekleştirilen 3 normal saldırı ya da beceri saldırısı düşmana 1000 gerçek hasar verir. 
+14	Ani Işık	1 saniye boyunca savaşın dışında kalmak sana belli miktarda hareket hızı kazandırır.
+15	Ruh Soygunu	İlk saldırın düşmana ruhlarla güçlendirilmiş bir hasar verir. Ruhları 90. Seviye üstü patronlardan ve Metin Taşlarından elde edebilirsiniz. Toplanan her ruh 1 saldırı değeri verir. (maks. 300)
+25	Saldırı=Savunma	Normal ya da beceri saldırıların sana 500 hasarı absorbe edebilen bir kalkan verir.
+26	Zaman Atlaması	Her 5inci vuruş 10% daha fazla hasar vermenizi sağlar
+27	Öfke	3 saniye içerisinde gerçekleştirilen 3 normal saldırı ya da beceri saldırısı 1.5 saniyeliğine belli bir miktar hareket hızı kazandırır.
+36	Binek Felci	Düşmana yapılan bir saldırı onu felce uğratır ve 5 saniyeliğine Binek kullanamaz hale getirir.
+37	Beceri Ustası	Düşmana yapılan 4 normal saldırı ya da beceri saldırısı ek olarak düşmanın canına bağlı ekstra hasar verir.
+38	Nakil	Belli bir sayıda düşman öldürmek öldürmek, grup üyelerinin 100% iyileşmesini sağlar. Yalnızca grup üyeleri bu etkiden yararlanabilir.
+39	Mantra Kalkanı	Beceri kullanmak, grup üyelerinin bir kalkan kazanmasını sağlar.
+49	Beceri Uzmanı	10 saniye boyunca savaşın dışınd kalmak, beceri etki süreni arttırır.
+50	Yavaşla	İlk saldırın düşmanı yavaşlatır.
+51	Hırsız	Eşya ele geçirme şansını arttırır.
+57	Liderlik	Liderlik bonusunuzun etkisini 20% artırır.

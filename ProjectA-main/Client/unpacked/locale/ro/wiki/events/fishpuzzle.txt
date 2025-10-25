@@ -1,0 +1,45 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/fichpuzzle.tga]
+[CENTER_ALIGN;FONT_SIZE=18]Fispuzzle
+
+[COLOR=0xffd700;FONT_SIZE=15]Content List:
+*1. Informatii Generale
+*2. Instructiunile jocului
+*3. Recompense
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=110; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Informatii Generale
+
+Fiecare jucator incepand cu nivelul 30 poate participa la acest nivel.
+Vei avea nevoie de o Undita, Rama sau Pasta.
+In partea din dreapta sus veti gasi butonul pentru jocul puzzle unte puteti folosi puzzle-ul.
+In timpul evenimentului, cu fiecare cufar primesti o piesa de joc.
+Daca ai echipata Cartea Pescuitului, ai sansa sa primesti un Cufar fishpuzzle Delux.
+(Poti cumpara Cartea Pescuitului din Itemshop pentru 3 ore). Cuferele puzzle contin o piesa normala la intamplare. Cufarul Delux contine o piesa mai mare de joc.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=250; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Instructiunile jocului
+
+Scopul jocului este sa completezi trei spatii cu piese de puzzle in cat mai putine miscari posibile.
+Un click stanga deschide cufarul.
+In josul spatiului ajung cuferele puzzle normale, iar deasupra Cuferele Puzzle Delux.
+Click stanga pe un cufar pentru a-l deschide. Trage piese pe zona dorita si plaseaz-o acolo.
+Click dreapta pentru a distruge o piesa daca nu iti place cum arata sau nu se potriveste.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=380; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Recompense
+De indata ce termini puzzle-ul, primesti 30.000 experienta.
+Depinzand de numarul de miscari, vei primii unul din cele trei Cufere Peste de Aur.
+Cu cat sunt mai putine miscari, cu atat recompensa o sa fie mai buna
+
+*10 sau mai putine: 3x Cufar Peste de Aur (L).
+*11 pana la  24: 2x Cufar Peste de Aur (L).
+*25 sau mai multe: 1x Cufar Peste de Aur (L).
+
+

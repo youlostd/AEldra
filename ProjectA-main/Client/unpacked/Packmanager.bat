@@ -1,0 +1,1 @@
+py Pack_ProjectA.pyexec

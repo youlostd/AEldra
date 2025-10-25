@@ -1,0 +1,50 @@
+180327 15:43:06 [Note] \bin\mysqld-opt.exe: ready for connections.
+Version: '5.0.67-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190107  4:44:34 [Note] Z:\bin\mysqld-opt.exe: ready for connections.
+Version: '5.0.67-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190516 21:20:05 [Note] Z:\bin\mysqld-opt.exe: ready for connections.
+Version: '5.0.67-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190603  2:23:51 [Note] Z:\bin\mysqld-opt.exe: ready for connections.
+Version: '5.0.67-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+200721 22:49:33 [Note] \bin\mysqld-opt.exe: ready for connections.
+Version: '5.0.67-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+200818 22:27:34 [Note] \bin\mysqld-opt.exe: ready for connections.
+Version: '5.0.67-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+210128  9:04:18 [Note] \bin\mysqld-opt.exe: ready for connections.
+Version: '5.0.67-community-nt'  socket: ''  port: 3307  MySQL Community Edition (GPL)
+210130 22:27:25 [Note] \bin\mysqld-opt.exe: ready for connections.
+Version: '5.0.67-community-nt'  socket: ''  port: 3307  MySQL Community Edition (GPL)
+210330 21:16:48 [Note] \bin\mysqld-opt.exe: ready for connections.
+Version: '5.0.67-community-nt'  socket: ''  port: 3307  MySQL Community Edition (GPL)
+210503 22:33:51 [Note] \bin\mysqld-opt.exe: ready for connections.
+Version: '5.0.67-community-nt'  socket: ''  port: 3307  MySQL Community Edition (GPL)
+210505  9:26:50 [Note] \bin\mysqld-opt.exe: ready for connections.
+Version: '5.0.67-community-nt'  socket: ''  port: 3307  MySQL Community Edition (GPL)
+210510 14:41:24 [Note] \bin\mysqld-opt.exe: ready for connections.
+Version: '5.0.67-community-nt'  socket: ''  port: 3307  MySQL Community Edition (GPL)
+210514 13:54:32 [Note] \bin\mysqld-opt.exe: ready for connections.
+Version: '5.0.67-community-nt'  socket: ''  port: 3307  MySQL Community Edition (GPL)
+210514 13:54:32 [ERROR] mysqld: Got error 10038 from select
+210712 10:48:01 [Note] \bin\mysqld-opt.exe: ready for connections.
+Version: '5.0.67-community-nt'  socket: ''  port: 3307  MySQL Community Edition (GPL)
+220127  7:43:22 [Note] \bin\mysqld-opt.exe: ready for connections.
+Version: '5.0.67-community-nt'  socket: ''  port: 3307  MySQL Community Edition (GPL)
+220323  1:38:29 [Note] \bin\mysqld-opt.exe: ready for connections.
+Version: '5.0.67-community-nt'  socket: ''  port: 3307  MySQL Community Edition (GPL)
+220701 22:22:05 [Note] \bin\mysqld-opt.exe: ready for connections.
+Version: '5.0.67-community-nt'  socket: ''  port: 3307  MySQL Community Edition (GPL)
+220721 19:56:25 [Note] \bin\mysqld-opt.exe: ready for connections.
+Version: '5.0.67-community-nt'  socket: ''  port: 3307  MySQL Community Edition (GPL)
+220721 19:56:35 [Note] \bin\mysqld-opt.exe: Normal shutdown
+
+221117 22:59:22 [Note] \bin\mysqld-opt.exe: ready for connections.
+Version: '5.0.67-community-nt'  socket: ''  port: 3307  MySQL Community Edition (GPL)
+230128  1:13:07 [Note] \bin\mysqld-opt.exe: ready for connections.
+Version: '5.0.67-community-nt'  socket: ''  port: 3307  MySQL Community Edition (GPL)
+230408 18:37:51 [Note] \bin\mysqld-opt.exe: ready for connections.
+Version: '5.0.67-community-nt'  socket: ''  port: 3307  MySQL Community Edition (GPL)
+230408 18:37:51 [ERROR] mysqld: Got error 10038 from select
+230408 18:37:55 [Note] \bin\mysqld-opt.exe: ready for connections.
+Version: '5.0.67-community-nt'  socket: ''  port: 3307  MySQL Community Edition (GPL)
+231030 14:46:37 [Note] \bin\mysqld-opt.exe: ready for connections.
+Version: '5.0.67-community-nt'  socket: ''  port: 3307  MySQL Community Edition (GPL)

@@ -1,0 +1,50 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/runes.tga]
+[CENTER_ALIGN] Negli ultimi decenni, la conoscenza delle Rune ha cominciato a diffondersi intorno ad Aeldra, 
+[CENTER_ALIGN] man mano che ne venivano scoperti altri. Le menti più brillanti del mondo, shamani, hanno studiato a fondo 
+[CENTER_ALIGN]gli antichi glifi, raccolto informazioni dalle profondità della storia e tentato 
+[CENTER_ALIGN] per raccogliere e determinare i poteri che potevano possedere.Alcuni ipotizzarono che la loro conoscenza
+[CENTER_ALIGN] non era neanche lontanamente vicino ad essere tradotta e manipolata dalle nostre mani.
+[CENTER_ALIGN]I poteri attirarono Jotun Thrym nel mondo di Aeldra, come conosciuto oggi. Coloro che sono riusciti a capire il contenuto di esse
+[CENTER_ALIGN] sono gli stessi che le stanno usando oggi. Chissà cos'altro è rimasto nelle profondità di Metin2.
+
+[COLOR=0xffd700;FONT_SIZE=15]Content List:
+*1. Introduzione del sistema delle rune
+*2. Come sbloccare le rune?
+*3. Costruzioni piu usate e consigli 
+*4. Come livellare le mie rune?
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=190; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Introduzione del sistema delle rune
+
+Il System permette ai player di personalizzare la crescita del proprio personaggi in ambiti specifici, come PvP & PvM, 
+scegliendo da una vasta varieta di esse. puoi aprire l interfaccia delle rune con il tasto f5.
+
+[COLOR=ef4f00;FONT_SIZE=15]1.1 Costruzioni Primarie
+
+Ci sono 5 Costruzioni Primarie sulle quali i giocatori possono decidere di custruire il proprio personaggio: 
+
+*Precisione
+*Dominio
+*Magia
+*Determinazione
+*Inspirazione
+
+Dopo che i player hanno scelto le loro Costruzioni Primarie, Devolo selezionare una Runa Chiave e altre 3 rune 
+per completare la sua build in base alle proprie esigenze
+
+[COLOR=ef4f00;FONT_SIZE=15]1.2 Costruzioni secondarie
+
+Le costruzioni secondarie combinate con le primarie formano una pagina completa di rune . 
+Il giocatore sceglie un altra costruzione e puo combinare con altre 2 rune derivanti dalla seconda (eccetto le rune chiave)
+
+[COLOR=ef4f00;FONT_SIZE=15]1.3 Tasti di controllo
+
+All'angolo in alto a destra dell'interfaccia delle rune , tu puoi trovare i 4 tasti di controllo: 
+
+*Reset
+*Reset Punti
+*Compra Punti
+*Salva

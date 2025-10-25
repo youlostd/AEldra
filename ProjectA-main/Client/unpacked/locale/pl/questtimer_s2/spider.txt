@@ -1,0 +1,9 @@
+[DELAY value;0]
+[COLOR r;0|g;195|b;255]Faza 1[/COLOR r;0|g;195|b;255][ENTER]
+Pokonaj Barona Pająków.[ENTER]
+[ENTER]
+[COLOR r;0|g;195|b;255]Faza 2[/COLOR r;0|g;195|b;255][ENTER]
+Aktywuj Gwizdek Pająków, otrzymany z Barona Pająków.[ENTER]
+[ENTER]
+[COLOR r;0|g;195|b;255]Faza 3[/COLOR r;0|g;195|b;255][ENTER]
+Pokonaj Baronówną Pająków.

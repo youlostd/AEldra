@@ -1,0 +1,50 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/bosshunt.tga]
+[CENTER_ALIGN;FONT_SIZE=18]Patron Avı Etkinliği
+
+[COLOR=0xffd700;FONT_SIZE=15]İçerik Listesi:
+*1. Genel Bilgiler
+*2. Etkinlik Yönergesi
+*3. Ödüller
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=85; CENTER_ALIGN]
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Genel Bilgiler
+
+Etkinlik, sadece 30+ Seviye oyuncular içindir.
+Bir düz vuruş patrona 1 hasar verir. Patrona hasar vererek puan toplayabilirsin.
+Bu puanları sol altta can barının üstünde görebilirsin.
+
+Topladığın puanları Uriel'de farklı sandıklar karşılığında takas edebilirsin.
+Patrona vuruş yaptığın anda saldırı hızın otomatik olarak 100'e düşürülür.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=210; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Etkinlik Yönergesi:
+
+Gölge Savaşçı, tarafsız bölgelerde ortaya çıkar: Ork Vadisi, Sohan Dağı,
+Doyyumhwan ve Yongbi Çölü. (her kanalda 2 tane olmak üzere)
+Gölge Savaşçı çevresinde PvP modu devre dışıdır.
+Gölge Savaşçıya yapılan her vuruş sana 1 puan kazandırır.
+
+Acımasız Gölge Savaşçısı Beta Haritalarında ortaya çıkar: Ejderha Ateşi Burnu, Yıldırım Dağları,
+Nefrit Körfezi and Gautama Uçurumu. (her kanalda 2 tane olmak üzere)
+Acımasız Gölge Savaşçısı çevresinde PvP modu devre dışıdır.
+Acımasız Gölge Savaşçısına yapılan her vuruş sana 2 puan kazandırır.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=400; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Ödüller
+
+Topladığın puanları Uriel'de Bronz Decimus Sandığı, Gümüş Decimus Sandığı, 
+Altın Decimus Sandığı ya da Görkemli Decimus Sandığı karşılığında takas edebilirsin.
+
+Uyarı: Puanlar, etkinlik bittiğinde silinecektir. O yüzden onları harcadığınızdan emin olun.
+
+*500 Puan: Bronz Decimus Sandığı
+*1000 Puan: Gümüş Decimus Sandığı
+*2000 Puan: Altın Decimus Sandığı
+*5000 Puan: Görkemli Decimus Sandığı
+
+

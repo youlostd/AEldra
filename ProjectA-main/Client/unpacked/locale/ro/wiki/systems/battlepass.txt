@@ -1,0 +1,171 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/battlepass.tga]
+[CENTER_ALIGN] Battlepass-ul constituie o serie de misiuni care iti ofera o recompensa dupa ce le-ai completat.
+
+[COLOR=0xffd700;FONT_SIZE=15]Cuprins:
+*1. Battlepass lunar
+*2. Starterpass (primit la inceput)
+*3. Battlepass-ul copacului
+*4. Battlepass (Dungeons)
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Battlepass lunar
+
+[CENTER_ALIGN]La inceputul fiecarei luni, un battlepass este pus la vanzare in Item Shop care, la fel ca celelalte battlepass-uri
+[CENTER_ALIGN]contine 7 misiuni normale si 3 misiuni Legendar. Cele mai bune recompense ale fiecarui battlepass sunt normal
+[CENTER_ALIGN]2x Vouchere de costum pe langa alte recompense. Battlepass-ul lunar nu este negociabil si este limitat
+[CENTER_ALIGN]la unul singur pe ID. Puteti gasii informatii despre cel mai nou battlepass pe forumul nostru la sectiunea Itemshop News.
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=180; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Starterpass
+
+[CENTER_ALIGN]Dand click pe acest item, veti primi 7 misiuni normale si 3 misiuni Legendare.
+[CENTER_ALIGN]Aceste este probabil cel mai important lucru pe care il aveti la inceput. Completand
+[CENTER_ALIGN]fiecare misiune este destul de simplu si iti vor oferi drept recompensa echipamente fundamentale, precum :
+[CENTER_ALIGN]Iteme pentru rune, Esarfa Master (avansata), Cor draconis (legendar), etc... Fi sigur sa incepi
+[CENTER_ALIGN]misiunile cat mai devreme.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]2.1.1 Grijile lui Uriel
+[X_PADDING=20]Misiune: Vorbeste cu Uriel
+[X_PADDING=20]Recompensa: 100x Schimba bonus verde, 20x Adauga bonus verde
+
+[COLOR=ef4f00;FONT_SIZE=15]2.1.2 Abilitatile
+[X_PADDING=20]Misiune: Distruge 30 de pietre metin din map2
+[X_PADDING=20]Recompensa: 10x Cristale smarald, 20x Pergamentul exorcizarii, 20x Citit concentrat
+
+[COLOR=ef4f00;FONT_SIZE=15]2.1.3 Bossii
+[X_PADDING=20]Misiune: Ucide 30 de bossi de level mic. (Sef orc, Regina paianjen, etc..)
+[X_PADDING=20]Recompensa: 3x Inel experienta +, 1x Manusa talharului, 10x Roua Alba, 5x Piatra Spiritului
+
+[COLOR=ef4f00;FONT_SIZE=15]2.1.4 Cartile misiunilor
+[X_PADDING=20]Misiune: Gaseste si completeaza 5 carti ale misiunii.
+[X_PADDING=20]Recompensa: 25x Apararea zeului dragon, 25x Atacul zeului dragon, 25x Viata zeului dragon, 
+[X_PADDING=20]25x Inteligenta zeului dragon
+
+[COLOR=ef4f00;FONT_SIZE=15]2.1.5 Padurea rosie
+[X_PADDING=20]Misiune: Distruge 100 pietre metin in Padurea Risue
+[X_PADDING=20]Recompensa: Pergamentul Orcilor, Cheie arahnida, Ticket camera lider (Azrael)
+
+[COLOR=ef4f00;FONT_SIZE=15]2.1.6 Progresul echipamentului
+[X_PADDING=20]Misiune: Ucide 10 Bossi (Ingerul cu coasa, Azrael, Beran Setaou, Broneasa Paianjen)
+[X_PADDING=20]Recompensa: 200x Schimba bonus, 25x Bijuterie, 2x Licoarea hotilor, 2x Licoarea Intelepciunii
+
+[COLOR=ef4f00;FONT_SIZE=15]2.1.7 Runele
+[X_PADDING=20]Misiune: Distruge 50 de pietre metin in mapele de nivel 90
+[X_PADDING=20]Recompensa: 60x toate itemele pentru rune
+
+[COLOR=ef4f00;FONT_SIZE=15]2.1.8 Progres 1
+[X_PADDING=20]Misiune: Atinge nivelul 50
+[X_PADDING=20]Recompensa: 5x Cor Draconis (Legendar)
+
+[COLOR=ef4f00;FONT_SIZE=15]2.1.9 Progres 2
+[X_PADDING=20]Misiune: Atinge nivelul 75
+[X_PADDING=20]Recompensa: Esarfa master (avansata)[11%], 25x Bijuterie
+
+[COLOR=ef4f00;FONT_SIZE=15]2.1.10 Progres 3
+[X_PADDING=20]Misiune: Atinge nivelul 90
+[X_PADDING=20]Recompensa: 10x Manualul fierarului, 10x Potiunea uitarii, 10x Elixirul explorarii
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=833; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Battlepass-ul copacului
+
+[CENTER_ALIGN]Contine 7 misiuni normale si 3 misiuni legendare. Recompensele sunt ajustate nevoilor tale,
+[CENTER_ALIGN]asa ca lucreaza la ele cat mai devreme.
+
+[COLOR=ef4f00;FONT_SIZE=15]3.1.1 Distruge
+[X_PADDING=20]Descriere: Ucide 1000 de Distrugatori En-tai
+[X_PADDING=20]Sugestie: Puteti gasi Distrugatori En-Tai in padurea fermecata & padurea intunecata sau din Metinul Copacului Om 
+[X_PADDING=20]Recompensa: 10x Sac polymorph (b)
+
+[COLOR=ef4f00;FONT_SIZE=15]3.1.2 Puterea druizilor
+[X_PADDING=20]Descriere: Ucide 300 de Druizi En-Tai
+[X_PADDING=20]Sugestie: Puteti gasi Distrugatori En-Tai in padurea fermecata & padurea intunecata sau din Metinul Copacului Om 
+[X_PADDING=20]Recompensa: 3x Radacini ale Copacului
+
+[COLOR=ef4f00;FONT_SIZE=15]3.1.3 Insula sirenelor
+[X_PADDING=20]Descriere: Ucide 250 de Regine Sirena
+[X_PADDING=20]Sugestie: Puteti gasi Regina Sirena in Apararea Navala.
+[X_PADDING=20]Recompensa: 4x Elixirul Timpului (L)
+
+[COLOR=ef4f00;FONT_SIZE=15]3.1.4 Kappa
+[X_PADDING=20]Descriere: Ucide 500 de Lideri Kappa
+[X_PADDING=20]Sugestie: Puteti gasi Lideri Kappa in Apararea Navala.
+[X_PADDING=20]Recompensa: 1x Fasole Dragon Albastra
+
+[COLOR=ef4f00;FONT_SIZE=15]3.1.5 Mai mult de un cap?
+[X_PADDING=20]Descriere: Ucide 25 de capete Hydra
+[X_PADDING=20]Sugestie: Puteti Capete in Apararea Navala.e
+[X_PADDING=20]Recompensa: 1x Cufarul comorii perla neagra
+
+[COLOR=ef4f00;FONT_SIZE=15]3.1.6 Razbunarea lui Jotun
+[X_PADDING=20]Descriere: Ucide 5x Jotun Thrym
+[X_PADDING=20]Sugestie: Poti gasi Jotun Thrym in Dungeonul lui Jotun Thrym sau din Boss roll (expert)
+[X_PADDING=20]Recompensa: 1x Boss Roll (expert)
+
+[COLOR=ef4f00;FONT_SIZE=15]3.1.7 Dragonul de Cristal
+[X_PADDING=20]Descriere: Ucide 5x Regele Dragonilor de Cristal
+[X_PADDING=20]Sugestie: Poti gasi Regele Dragonilor de Cristal in Dungeonul Dragonului de Cristal sau din Boss roll (expert)
+[X_PADDING=20]Recompensa: 1x Piatra Spiritului Legendara
+
+[COLOR=ef4f00;FONT_SIZE=15]3.1.8 Regele umbrelor
+[X_PADDING=20]Descriere: Ucide 3x Regele Umbrelor En-Tai
+[X_PADDING=20]Sugestie: Poti gasi Regele Umbrelor En-Tai in Padurea Fermecata sau din Boss Roll (expert)
+[X_PADDING=20]Recompensa: 1x Piatra spiritului copacului
+
+[COLOR=ef4f00;FONT_SIZE=15]3.1.9 Regele luminii
+[X_PADDING=20]Descriere: Ucide 3x Regele luminii En-Tai
+[X_PADDING=20]Sugestie: Poti gasi Regele Luminii En-Tai in Padurea Fermecata sau din Boss Roll (expert)
+[X_PADDING=20]Recompensa: 3x Talisman Magic
+
+[COLOR=ef4f00;FONT_SIZE=15]3.1.10 Dus cu meteoriti
+[X_PADDING=20]Descriere: Distruge 1000x Metinul Copacului Om
+[X_PADDING=20]Sugestie: Puteti gasi Metinul Copacului Om in Padurea fermecata si Padurea intunecata
+[X_PADDING=20]Recompensa: 25x Bile de experienta
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]4. Battlepass (Temnite)
+
+[CENTER_ALIGN]Include 7 misiuni normale si 3 Legendare. Recompensele sunt foarte rare doar pentru completarea 
+[CENTER_ALIGN]diferitelor temnite.
+
+[COLOR=ef4f00;FONT_SIZE=15]4.1.1 Sufletul Dryadelor
+[X_PADDING=20]Descriere: Omoara 25x Jotun Thrym
+[X_PADDING=20]Recompensa: 10x Fragmentul Temnitei (Jotun), 10x Elixirul Timpului (L)
+
+[COLOR=ef4f00;FONT_SIZE=15]4.1.2 Plantele Infectate
+[X_PADDING=20]Descriere: Omoara 25x Tyrant de gradina	
+[X_PADDING=20]Recompensa: 10x Fragmentul Temnitei (Gradina Infectata), 3x Voucher Animaspchic
+
+[COLOR=ef4f00;FONT_SIZE=15]4.1.3 Un Dragon cu Cristale?
+[X_PADDING=20]Descriere: Omoara 25x Dragon de Cristal
+[X_PADDING=20]Recompensa: 10x Fragmentul Temnitei (Dragon de Cristal), 3x Piatra Spiritului Legendara
+
+[COLOR=ef4f00;FONT_SIZE=15]4.1.4 Copac sau Piatra?
+[X_PADDING=20]Descriere: Omoara 25x Thranduil
+[X_PADDING=20]Recompensa: 10x Fragmentul Temnitei (Thranduil), 25x Prunous enchanting
+
+[COLOR=ef4f00;FONT_SIZE=15]4.1.5 Cate capete?
+[X_PADDING=20]Descriere: Omoara 25x Hydra
+[X_PADDING=20]Recompensa: 10x Fragmentul Temnitei (Hydra), 25x Voucher Gaya (1)
+
+[COLOR=ef4f00;FONT_SIZE=15]4.1.6 Nemere
+[X_PADDING=20]Descriere: Omoara 25x Nemere
+[X_PADDING=20]Recompensa: 10x Fragmentul Temnitei (Nemere), 1x Bucata de Gheata
+
+[COLOR=ef4f00;FONT_SIZE=15]4.1.7 Razador
+[X_PADDING=20]Descriere: Omoara 25x Razador
+[X_PADDING=20]Recompensa: 10x Fragmentul Temnitei (Razador), 1x Bucata de Lava
+
+[COLOR=ef4f00;FONT_SIZE=15]4.1.8 Misiuni? Misiuni!
+[X_PADDING=20]Descriere: Completeaza 150 de Carti Misiune
+[X_PADDING=20]Recompensa: 1x Fragment de Costum, 2x Piatra Sperantei
+
+[COLOR=ef4f00;FONT_SIZE=15]4.1.9 Maerstul Temnitelor
+[X_PADDING=20]Descriere: Completeaza 150 de Temnite
+[X_PADDING=20]Recompensa: 1x Inelul Lunii Pline, 2x Pergamentul Sperantei
+
+[COLOR=ef4f00;FONT_SIZE=15]4.1.10 Bossi, per total Bossi!
+[X_PADDING=20]Descriere: Omoara 150 de Bossi peste Lv. 100
+[X_PADDING=20]Recompensa: 1x Schimbare Nume (Pet), 1x Schimbare Nume (Mount)

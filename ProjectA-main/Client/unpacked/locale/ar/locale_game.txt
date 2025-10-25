@@ -1,0 +1,1130 @@
+TOOLTIP_ACCE_ATTR_MAX_INFO	(max. %s)
+ACCE_ABSORB_COST	ֻדה ַבַ׃ÊםÚַָ: %d
+ACCE_ALREADY_REGISTER	Êד ַ׃ÊÚדַב ו׀ַ ַבָהֿ דה Þָב.
+ACCE_DEL_ABSORDITEM	וב Êׁםֿ ַ׃ÊםÚַָ ַבװםֱ זַָבÊַבם Êֿדםׁו¿
+ACCE_DEL_SERVEITEM	ֵ׀ַ דַ ÝװבÊ Úדבםֹ ַבדּׂ¡ Ýֵה ַבזװַֽ 2 ׃םֿדרׁ.
+ACCE_INITEM	ַ׃ָֽ ַבֳװםֱַ הֽז ַבהַÝ׀ֹ.
+ACCE_MAXGRADE	ֵה ו׀ַ ַבזװַֽ דץÝױרב.
+ACCE_NOTABSORBITEM	בַ םדßהß ַ׃ÊÚדַב ֳ׃בֹֽ ֳז ֿׁזÚ ַ׃ÊזÚָÊ דה Þָב.
+ACCE_NOT_SEALITEM	בַ םדßהß ַ׃ÊÚדַב ָהֿ דץׁÊָ״ ַָבׁזֽ.
+ACCE_NOT_USINGITEM	בַ םדßהß דּׂ ָץהֿ דץׂזרֿ.
+ACCE_NOT_WINDOWOPEN	בַ םדßהß ַ׃ÊÚדַב ַבָהֿ¡ ״ַבדַ ֳה הַÝ׀ֹ ַבדּׂ דÝÊזֹֽ.
+ACCE_POSSIBLE_ACCE	בַ םדßהß ַ׃ÊÚדַב װםֱ ֲ־ׁ Ûםׁ ַבֳזװֹֽ.
+ACCE_POSSIBLE_ACCEITEM	בַ םדßהß ַ׃Ê־ַּׁ ַבÚבַזַÊ דה ֳװםֱַ ֳ־ׁל Ûםׁ ַבֳ׃בֹֽ זַבֿׁזÚ.
+AFF_LOVE_POINT	הÞַ״ ַבָֽ: %d%%
+ALIGNMENT_NAME	הÞַ״ ַבÊׁÊםָ:
+ATTACK_ERROR_UNKNOWN	־״ֳ וּזדם דּוזב:  %s
+CANNOT_ATTACK_DEST_IN_SAFE	ֵה ַב־ױד ָÚםֿ ַּֿנ.
+CANNOT_ATTACK_SELF_IN_SAFE	בַ ַ׃Ê״םÚ דוַּדֹ ַב־ױד דה והַ.
+CANNOT_EQUIP_IN_EXCHANGE	בַ םדßהß ַ׃Êַָֿב ַבֿׁÚ ֳֻהֱַ ַבדÊַֹּׁ.
+CANNOT_EQUIP_IN_SHOP	בַ םדßהß ַ׃Êַָֿב ַבֿׁÚ ֳֻהֱַ ַבדÊַֹּׁ.
+CANNOT_OPEN_PRIVATE_SHOP_IN_SAFE_AREA	בַ םדßהß ÝÊֽ דÊּׁ ־ַױ ָß Ýם דßַה Úַד.
+CANNOT_SHOOT_DEST_IN_SAFE	ֵה ַב־ױד ָÚםֿ ַּֿנ.
+CANNOT_SHOOT_EMPTY_ARROW	ֵההם ַָֹּֽ ֵבל ׃וד.
+CANNOT_SHOOT_SELF_IN_SAFE	בַ םדßההם דוַּדֹ ַב־ױד דה והַ.
+CANNOT_SKILL_APPROACH	ֳהַ דÊֳßֿ ֳָההם בה ַÞÊָׁ דהו.
+CANNOT_SKILL_ATTACK	בַ םדßההם דוַּדÊß.
+CANNOT_SKILL_DEST_IN_SAFE	ֵה ַב־ױד ָÚםֿ ַּֿנ.
+CANNOT_SKILL_EQUIP_FISHING_ROD	ֵההם ֳֽÊַּ ֵבל ױהַֹׁ בבױםֿ.
+CANNOT_SKILL_HAVE_TO_RIDE	ֵההם ַָֹּֽ ֵבל ֽױַה בַ׃ÊÚדַבו.
+CANNOT_SKILL_NEED_EMPTY_BOTTLE	ֵההם בַ ֳדבß Þַׁזֹׁ ÝַׁÛֹ.
+CANNOT_SKILL_NEED_POISON_BOTTLE	ֵההם בַ ֳדבß Þַׁזֹׁ ׃ד.
+CANNOT_SKILL_NEED_TARGET	דהצ ַבוֿÝ¿
+CANNOT_SKILL_NOT_ENOUGH_HP	ֵההם בַ ֳדבß דַ םßÝם דה הÞַ״ ַבֽםַֹ!
+CANNOT_SKILL_NOT_ENOUGH_SP	ֵההם בַ ֳדבß הÞַ״ ֳ׃בזָ ßַÝםֹ!
+CANNOT_SKILL_NOT_HORSE_SKILL	בַ ֳ׃Ê״םÚ ַ׃ÊÚדַבו ֳֻהֱַ ׁßזָם ַבֽױַה.
+CANNOT_SKILL_NOT_MATCHABLE_WEAPON	בַ ַ׃Ê״םÚ ַ׃ÊÚדַב ו׀ו ַבדוַֹׁ ָו׀ַ ַב׃בַֽ.
+CANNOT_SKILL_NOT_YET_LEARN	ֵההם בד ֳÊÚבד ו׀ו ַבדוַֹׁ ָÚֿ.
+CANNOT_SKILL_ONLY_FOR_ALLIANCE	ו׀ַ םִֻׁ ÝÞ״ Úבל ֳÚײֱַ ַבÝׁםÞ.
+CANNOT_SKILL_ONLY_FOR_CORPSE	ֵה ו׀ַ םִֻׁ ÝÞ״ Úבל ַבדזÊל.
+CANNOT_SKILL_REMOVE_FISHING_ROD	בַ םדßההם ַ׃ÊÚדַב ו׀ו ַבדוַֹׁ דÚ ױהַֹׁ ױםֿ.
+CANNOT_SKILL_SELF_IN_SAFE	בַ ַ׃Ê״םÚ ַבדוַּדֹ דה והַ.
+CANNOT_SKILL_USE_SELF	בַ םדßההם ַ׃ÊÚדַבו Úבל הÝ׃ם.
+CANNOT_SKILL_WAIT_COOLTIME	בַ םדßההם ַ׃ÊÚדַב ו׀ו ַבדוַֹׁ ָÚֿ.
+CANNOT_WHISPER_DEST_REFUSE	%s has blocked whispers.
+CANNOT_WHISPER_NOT_EXIST	%s does not exist.
+CANNOT_WHISPER_NOT_LOGON	%s is not online.
+CANNOT_WHISPER_NO_AUTH	You do not have permission to write to this recipient.
+CANNOT_WHISPER_NO_OFFLINE_MESSAGE	The offline message was not sent.
+CANNOT_WHISPER_SELF_REFUSE	You can't whisper anything to anyone if you've blocked whispers.
+CAN_WHISPER_OFFLINE_MESSAGE	The offline message has been sent.
+CHANNEL	Þהַֹ
+CHANNELING_CANNOT_LOGOUT	בַ םדßהß ַבÚזֹֿ ֵבל הַÝ׀ֹ ַבÊ׃ּםב.
+CHANNEL_EMPTY_SERVER	בַ זּזֿ ב־ַֿד
+CHANNEL_NORMAL	Þהַֹ %d
+CHANNEL_NOTIFY_FULL	ֵה ו׀ו ַבÞהַֹ דדÊבֶֹ! ַבֱַּׁ ַ־Êםַׁ Þהַֹ ֳ־ׁל.
+CHANNEL_NOT_FIND_INFO	בַ Êזּֿ והַß דÚבזדַÊ Úה ו׀ו ַבÞהַֹ.
+CHANNEL_PVP	דַָֹׁׂ ֹֽׁ
+CHANNEL_SELECT_CHANNEL	ַ־Êׁ ַבÞהַֹ
+CHANNEL_SELECT_REGION	ַ־Êׁ דßַה זײÚ ַבÝַÊזֹׁ
+CHANNEL_SELECT_SERVER	ַ־Êםַׁ ַב־ַֿד
+CHANNEL_TEST_SERVER	Êּׁםָ ַב־ַֿד
+CHANNEL_TEST_SERVER_ADDR	ַ־Êַָׁ %s:%d
+CHARACTER_CREATE_MODE	ֵהװֱַ װ־ױםֹ
+CHARACTER_SELECT_MODE	ַ־Êםַׁ װ־ױםֹ
+CHAT_ALL	ַבּדםÚ
+CHAT_BLOCK	ֽÙׁ
+CHAT_GUILD	ַָׁ״ֹ
+CHAT_INFORMATION	דÚבזדֹ
+CHAT_INSULT_STRING	ַבּדבֹ ÊֽÊזם Úבל ßבדַÊ דץ־בֹ ַָבֳָֿ.
+CHAT_LOG	ֵÙוַׁ ַבׁ׃ֶַב ַבÞֿםדֹ [L]
+CHAT_LOG_TITLE	׃צּברץ ַבֿֿׁװֹ
+CHAT_NORMAL	Úַֿם
+CHAT_NOTICE	־ַֿד
+CHAT_PARTY	דּדזÚֹ
+CHAT_SEND_CHAT	ֵׁ׃ַב ַבֿֿׁװֹ
+CHAT_SEND_MEMO	ֵׁ׃ַב וד׃ [Shift+Enter]
+CHAT_SHOUT	הֱַֿ
+CHAT_SHOUT_LIMIT	םץדßהß ַבהֱַֿ ßב 15 ַֻהםֹ ÝÞ״
+CHAT_TEAM	Team
+CHAT_WHISPER	וד׃
+CREATE_ERROR_GM_NAME	בַ ם׃דֽ ַָ׃Ê־ַֿד ֽׁזÝ ’’GM’’ (׃םֿ ַבבÚָֹ) Ýם ַ׃ד ַבבַÚָ.
+CREATE_ERROR_INSULT_NAME	ַבַ׃ד Ûםׁ ױַבֽ.
+CREATE_EXIST_SAME_NAME	והַß װ־ױםֹ ֳ־ׁל Êֽדב ו׀ַ ַבַ׃ד.
+CREATE_FAILURE	בַ םדßהß ֵהװֱַ ו׀ו ַבװ־ױםֹ.
+CREATE_GM_NAME	דװׁÝ ַבבÚָֹ
+CREATE_INPUT_NAME	ײÚ ַ׃דß.
+CREATE_PLUS_STAT	דַ Êַׂב הÞַ״ ַבזײÚ דץÊַֹֽ.
+DAY	םזד
+DO_YOU_BUY_ITEM1	וב ÊׁÛָ Ýם װֱַׁ %s דÞַָב %s םַהÛ¿
+DO_YOU_BUY_ITEM2	וב ÊׁÛָ Ýם װֱַׁ %s (%s Þ״Úֹ) דÞַָב %s םַהÛ¿
+DO_YOU_DROP_MONEY	וב Êׁםֿ ֵ׃Þַ״ %d םַהÛ¿
+DO_YOU_SELL_ITEM1	וב ÊׁÛָ Ýם ָםÚ %s דÞַָב %s םַהÛ¿
+DO_YOU_SELL_ITEM2	וב ÊׁÛָ Ýם ָםÚ %s (%s Þ״Úֹ) דÞַָב %s םַהÛ¿
+DO_YOU_TAKE_OUT_ITEM1	Do you want to remove %s?
+DO_YOU_TAKE_OUT_ITEM2	Do you want to remove %s %s?
+DROP_ITEM_FAILURE_EQUIP_ITEM	בַ Ê׃Ê״םÚ ֵ׃Þַ״ ַבֳװםֱַ ַבדּוֹׂ.
+DROP_ITEM_FAILURE_PRIVATE_SHOP	בַ םדßהß ֵ׃Þַ״ ֳם װםֱ¡ ״ַבדַ ֳהß Êדבß דÊַּׁנ װ־ױםַנ.
+DROP_MONEY_FAILURE_1000_OVER	בַ םדßהß ֵ׃Þַ״ ֳßֻׁ דה 999 םַהÛ.
+EMOTION_ANGRY	דץÛײָ
+EMOTION_ATTRACTIVE	ֵÛֱַׁ
+EMOTION_BANTER	וֶַׂ
+EMOTION_CHEERS_1	Êובםב 1 
+EMOTION_CHEERS_2	Êובםב 2
+EMOTION_CHEERUP	Êובםב
+EMOTION_CHOOSE_ONE	ַ־Êׁ וֿÝַנ דַ.
+EMOTION_CLAP	ÊױÝםÞ
+EMOTION_CLAP_KISS	Þָבֹ
+EMOTION_CONGRATULATION	ַבÞָזב
+EMOTION_DANCE_1	ׁÞױֹ 1
+EMOTION_DANCE_2	ַבׁÞױֹ 2
+EMOTION_DANCE_3	ׁÞױֹ 3
+EMOTION_DANCE_4	ַבׁÞױֹ 4
+EMOTION_DANCE_5	ַבׁÞױֹ 5
+EMOTION_FORGIVE	ַב׃דַֽ
+EMOTION_FRENCH_KISS	Þָבֹ ַֹֽׁ
+EMOTION_JOY	Ýֽׁ
+EMOTION_SAD	ֽׂםה
+EMOTION_SHY	ׁÝײ
+EMOTION_SLAP	ײָֹׁ
+EMPIRE_A	ַדַָׁ״זׁםֹ ַבװםה׃ז
+EMPIRE_B	ַדַָׁ״זׁםֹ ַבװזהּז
+EMPIRE_C	ַדַָׁ״זׁםֹ ַבּםהז
+EXCHANGE_CANNOT_GIVE	בַ םדßה ַבדÊַֹּׁ ָו׀ַ ַבװםֱ.
+EXCHANGE_CANT_EDIT_MONEY	בַ םדßהß ÊÛםׁ ַבדָבÛ ַבֲה.
+EXCHANGE_FAILURE_EQUIP_ITEM	בַ םץדßהß ַ׃Êַָֿב ַבדÚַֿÊ ַבדֹּּֿ.
+EXCHANGE_MONEY	דָבÛ
+EXCHANGE_TITLE	Êַּצׁת דÚ %s (%d)
+FISHING_FAILURE	בÞֿ ֳײÚÊ ַב״רץÚד.
+FISHING_NOTIFY1	םָֿז ֳה %s ÚבצÞ Ýם ַב״רץÚד.
+FISHING_NOTIFY2	םָֿז ֳה %s ׃ץּה.
+FISHING_SUCCESS1	בÞֿ הּֽÊ Ýם ֳ׃ׁ %s!
+FISHING_SUCCESS2	בÞֿ ׃ָֽÊ %s דה ַבדֱַ!
+FISHING_UNKNOWN	םָֿז ֳה װםֶַנ דַ Úײר ַב׃הַֹׁ¡ בßהם ֳּוב דַוםÊו.
+FISHING_WRONG_PLACE	בַ םדßהß ַבױםֿ והַ.
+FOR_FEMALE	בבֵהַֻ
+FOR_MALE	בב׀ßזׁ
+GAME_CANNOT_MINING	בַ םדßהß ַ׃Ê־ַּׁ ַבדÚֿה ַב־ַד ֳֻהֱַ ׁßזָ ַב־םב.
+GAME_CANNOT_PICK_ITEM	בַ Ê׃Ê״םÚ ַבֽױזב Úבל ו׀ַ ַבװםֱ בֳה בַÚַָנ ֲ־ׁ Ûהדו.
+GAME_INIT_ERROR_CURSOR	ÊÚ׀ׁ ׁ׃ד דִװׁ ַבדַז׃.
+GAME_INIT_ERROR_DIRECTX	םָּ ÊָֻםÊ DirectX 8.1 בÊװÛםב ַבבÚָֹ.\nÊָרצֻ DirectX 8.1 ֳז ֳÚבל.
+GAME_INIT_ERROR_GRAPHICS_BAD_PERFORMANCE	ÊÚ׀ׁ ַבÚֻזׁ Úבל ָ״ַÞֹ ױזׁ בÊװÛםב ַבבÚָֹ. \nַבֱַּׁ ַבÊֳßֿ דה ֳה ָ״ַÞֹ ַבױזׁ Ýם ַֽ׃זָß ÊװÊÛב ָװßב ױֽםֽ VGA CARD.
+GAME_INIT_ERROR_GRAPHICS_NOT_EXIST	בÞֿ ÊÚ׀ׁ ַבÚֻזׁ Úבל ָ״ַÞֹ ַבױזׁ. \nÊֽÞÞ ֵ׀ַ בֿםß VGA-Card. \n םדßהß ָֿבַ Úה ׀בß ַ׃ÊÚדַב ד׃ׁÚ ַבֳּוֹׂ. \n(ײÚ ד׃ׁÚ ַבֳּוֹׂ Ýם ׃ׁÚÊוַ ַבÞױזל \nבזֹֽ ַבÊֽßד -> Úׁײ> ַב־םַַׁÊ > דÊ״זׁ> ָ״ַÞֹ ַבÊ׃ּםב ַ׃ÊßװַÝ ַבֳ־״ֱַ זֵױבַֽו)
+GAME_INIT_ERROR_GRAPHICS_NOT_SUPPORT_32BIT	בַ ÊֿÚד ָ״ַÞֹ ַבׁ׃זדַÊ בבßדָםזÊׁ הÙַד ַבהַÝ׀ֹ Ýם דזֿ 32 bit.\nַ־Êׁ דזֿ 16 bit ֳז ַ׃ÊÚדב הÙַד ַבװַװֹ ַבßַדבֹ.
+GAME_INIT_ERROR_ITEM_PROTO	בַ Êזּֿ והַß דÚבזדַÊ Úה ו׀ַ ַבװםֱ.\nַבֱַּׁ ֵÚַֹֿ ÊָֻםÊ ַבבÚָֹ.
+GAME_INIT_ERROR_MAIN_WINDOW	ÊÚ׀ׁ Úׁײ ַבהַÝ׀ֹ ַבֶׁם׃םֹ.
+GAME_INIT_ERROR_MOB_PROTO	בַ Êזּֿ ֳם דÚבזדַÊ Úה ַבזֽװ.\nַבֱַּׁ ֵÚַֹֿ ÊָֻםÊ ַבבÚָֹ.
+GAME_INIT_ERROR_NETWORK	בַ םדßה Ê׃ּםב ָ״ַÞֹ ַבַÊױַב.\nַבֱַּׁ ַבÊֽÞÞ דה ַבַÊױַב Úָׁ ַבֵהÊׁהÊ.
+GAME_PICK_MONEY	בÞֿ ֽױבÊ Úבל %d דה ַבםַהÛ.
+GUILDBANK_CLEARBANK	Êֽ׀םׁ: םָּ ֵÝַׁÛ ד׃ÊזֿÚ ַבַָׁ״ֹ!
+GUILDBANK_DONT_MONEY_OUT	בם׃ והַß םַהÛ Ýם ָהß ַבַָׁ״ֹ!
+GUILDBANK_GOLD_IN	ֵםַֿÚ
+GUILDBANK_GOLD_OUT	׃ָֽ
+GUILDBANK_ITEM_IN	ֵֿ־ַב
+GUILDBANK_ITEM_OUT	ֵ־ַּׁ
+GUILDBANK_MONEYIN	ֵםַֿÚ םַהÛ
+GUILDBANK_MONEYOUT	׃ָֽ םַהÛ
+GUILDBANK_NOTUSE	בַ Êדבß ַבֽÞזÞ ַבבַׂדֹ.
+GUILDBANK_NOT_ENOUGH_MONEY	בַ Êדבß דַ םßÝם דה ַבםַהÛ בֵםַֿÚו.
+GUILDBANK_OVER_INCOME	זױבÊ ַבֽֿ ַבֳÞױל בֽ׃ַָß.
+GUILDBANK_OVER_MONEY	ֽ׃ַָ ַבַָׁ״ֹ דדÊבֶ Úה ֲ־ׁו.
+GUILDLAND_ABANDON	ÊÝזםÊ ֳׁײ ַבַָׁ״ֹ
+GUILDLAND_ABANDON_VOTE	ÊÝזםÊ ֳׁײ ַָׁ״Êß [%s].
+GUILDLAND_ABANDON_VOTE_RESULT1	Êד ÊÝזםÊ ֳׁײ ַבַָׁ״ֹ [%s].
+GUILDLAND_ABANDON_VOTE_RESULT2	Êד ÊÝזםÊ ֳׁײ ַבַָׁ״ֹ.
+GUILDLAND_ABANDON_VOTE_RESULT3	הÊםֹּ ַבַ׃Ê״בַÚ:
+GUILDLAND_ABANDON_VOTE_RESULT4	ַבַ׃Ê״בַÚ Ûםׁ ױַבֽ.
+GUILDLAND_ABANDON_VOTE_TEXT	וב Êׁםֿ ֽÞרַ ֱָֿ ַבַ׃Ê״בַÚ¿
+GUILDLAND_ABANDON_VOTE_TEXT1	וב Êׁםֿ ַבÊױזםÊ ָהÚד Úבל ÊÝזםÊ ֳׁײ ַבַָׁ״ֹ¿
+GUILDLAND_ACCEPT	הÚד
+GUILDLAND_DEAL	ָםÚ ֳׁײ ַבַָׁ״ֹ
+GUILDLAND_DEAL_TEXT1	ÊׁÛָ ַבַָׁ״ֹ [%s] Ýם ָםÚ
+GUILDLAND_DEAL_TEXT2	ֳׁײ ַָׁ״Êוַ דÞַָב [%s] םַהÛ.
+GUILDLAND_DEAL_TEXT3	וב ÊÞָב ו׀ַ ַבÚׁײ¿
+GUILDLAND_DELA_VOTE	ÊׁÛָ ַבַָׁ״ֹ [%s] Ýם װֱַׁ ֳׁײ ַָׁ״Êהַ.
+GUILDLAND_DELA_VOTE_RESULT1	ָםÚ ֳׁײ ַבַָׁ״ֹ בבַָׁ״ֹ [%s]
+GUILDLAND_DELA_VOTE_RESULT2	ַהÊול ַבַ׃Ê״בַÚ.
+GUILDLAND_DELA_VOTE_RESULT3	הÊֶַּ ַ׃Ê״בַÚ ָםÚ ֳׁײ ַבַָׁ״ֹ:
+GUILDLAND_DELA_VOTE_RESULT4	ַבַ׃Ê״בַÚ Ûםׁ ױַבֽ.
+GUILDLAND_DELA_VOTE_TEXT	בֳם ַָׁ״ֹ Êׁםֿ ָםÚ ֳׁײ ַָׁ״Êß¿
+GUILDLAND_DELA_VOTE_TEXT1	וב ÊױזרÊ ָהÚד Úבל ָםÚ ֳׁײ ַבַָׁ״ֹ¿
+GUILDLAND_DONTHAVE_LAND	ֵהß בַ Êדבß ֳם ֳׁײ ַָׁ״ֹ.
+GUILDLAND_NOT	ßברַ
+GUILDLAND_VOTE_TEXT	וב Êׁםֿ דהֽ ַבֳׁײ בÜ [%s]¿
+GUILDLIST_APPLICANT	וב ÊׁÛָ Ýם ÊÞֿםד ״בָ ַבַהײדַד בבַָׁ״ֹ¿
+GUILDMARK_UPLOADER_ERROR_128_HEIGHT	ה׃ָֹ ַבÚבז בם׃Ê 128 ָß׃ב
+GUILDMARK_UPLOADER_ERROR_12_HEIGHT	ַבÚבז בם׃ 12 ָß׃ב
+GUILDMARK_UPLOADER_ERROR_16_WIDTH	ַבÚׁײ  בם׃ 16 ָß׃ב
+GUILDMARK_UPLOADER_ERROR_64_WIDTH	ֵה ַבÚׁײ ֳÞב דה 64 ָםß׃ב
+GUILDMARK_UPLOADER_ERROR_FILE_FORMAT	ֵה ו׀ו ַבבÚָֹ בַ ÊֿÚד ו׀ו ַבױזֹׁ.
+GUILDMARK_UPLOADER_ERROR_PATH	ַבֱַּׁ הÞב ַבדÚ״םַÊ ֵבל ַבדבÝ Ýם metin2/upload.
+GUILDMARK_UPLOADER_ERROR_SELECT	בד םÊד ַ־Êםַׁ ֳם דבÝ בבױזֹׁ.
+GUILDVOTE_CHANGEMASTER	ÊÛםםׁ Þֶַֿ ַבַָׁ״ֹ
+GUILDVOTE_CHANGEMASTER_RESULT1	Êד ָהַּֽ הÞב ַבַָׁ״ֹ.
+GUILDVOTE_CHANGEMASTER_RESULT2	בÞֿ ֽױבÊ Úבל Þםַֹֿ ַבַָׁ״ֹ [%s]!
+GUILDVOTE_CHANGEMASTER_RESULT3	ÊÝזםÊ ַבַָׁ״ֹ ֵבל ַבÚײז [%s]
+GUILDVOTE_CHANGEMASTER_RESULT4	ַבַ׃Ê״בַÚ Ûםׁ ױַבֽ.
+GUILDVOTE_CHANGEMASTER_RESULT5	Þֶַֿ ּֿםֿ בבַָׁ״ֹ: %s
+GUILDVOTE_CHANGEMASTER_TEXT1	וב ÊׁÛָ Ýם ÊÝזםÊ ַבַָׁ״ֹ ֵבל [%s]¿
+GUILDVOTE_CHANGEMASTER_TEXT2	
+GUILDVOTE_CHANGEMASTER_TEXT3	וב Êׁםֿ ֽÞַנ ַב׃דַֽ Ýם Þםַֹֿ ַבַָׁ״ֹ¿
+GUILDVOTE_CHANGEMASTER_TEXT4	
+GUILDVOTE_CHANGEMASTER_VOTETEXT1	ÊÝזםÊ ַבַָׁ״ֹ ֵבל ַבÚײז [%s]
+GUILDVOTE_CHANGEMASTER_VOTETEXT2	וב ÊזַÝÞ Úבל ÊÝזםÊ ַבַָׁ״ֹ¿
+GUILDVOTE_MEMBEROUT	ֽ׀Ý Úײז
+GUILDVOTE_MEMBEROUT_AUTH	בַ Êדבß ַבֽÞזÞ ַבבַׂדֹ.
+GUILDVOTE_MEMBEROUT_NOMAL	וב Êׁםֿ ֽÞַנ ֽ׀Ý ו׀ַ ַבÚײז¿
+GUILDVOTE_MEMBEROUT_RESULT1	ֽ׀Ý ַבÚײז: [%s]
+GUILDVOTE_MEMBEROUT_RESULT2	הÊֶַּ ַבַ׃Ê״בַÚ
+GUILDVOTE_MEMBEROUT_RESULT3	Êד ֽ׀Ýß דה ַבַָׁ״ֹ [%s].
+GUILDVOTE_MEMBEROUT_RESULT4	הÊֶַּ ַבַ׃Ê״בַÚ
+GUILDVOTE_MEMBEROUT_RESULT5	ַבַ׃Ê״בַÚ Ûםׁ ױַבֽ.
+GUILDVOTE_MEMBEROUT_TEXT1	וב Êׁםֿ ֽÞרַ ֱָֿ ַ׃Ê״בַÚ ַבֳׁם ײֿ [%s]¿
+GUILDVOTE_MEMBEROUT_TEXT2	ַ׃Ê״בַÚ: ֽ׀Ý Úײז דה ַבַָׁ״ֹ¿
+GUILDVOTE_MEMBEROUT_VOTETEXT1	ַ׃Ê״בַÚ: וב םָּ ֽ׀Ý [%s] דה ַבַָׁ״ֹ¿
+GUILDVOTE_MEMBEROUT_VOTETEXT2	
+GUILDVOTE_NO	ײֿ ַבֽ׀Ý
+GUILDVOTE_OK	דÚ ַבֽ׀Ý
+GUILDVOTE_RESULT_AGGRE_MEMBER	דÚ ַבֽ׀Ý: %d
+GUILDVOTE_RESULT_ALL_MEMBER	ַבדװַׁßזה: %d
+GUILDVOTE_RESULT_OPPESE_MEMBER	ײֿ ַבֽ׀Ý: %d
+GUILDVOTE_RESULT_TIME	%d םזד %d ׃ַÚֹ %d ֿÞםÞֹ %d ַֻהםֹ
+GUILDVOTE_SELECT_ONE	ַבֱַּׁ ַ־Êםַׁ װ־ױםֹ.
+GUILDWAR_ALL	דÚַׁß (דÚß.)
+GUILDWAR_CTF_TITLE	ÞÊַב ַבֳÚבַד
+GUILDWAR_DRAW	ÊÚַֿבַÊ (ÊÚ.)
+GUILDWAR_GAINSCORE_FIFTY	50 הÞ״ֹ
+GUILDWAR_GAINSCORE_HUNDRED	100 הÞ״ֹ
+GUILDWAR_GAINSCORE_THIRTY	30 הÞ״ֹ
+GUILDWAR_GAMETIME_SIXTY	60 ֿÞםÞֹ
+GUILDWAR_GAMETIME_TEN	10 ֿÞֶַÞ
+GUILDWAR_GAMETIME_THIRTY	30 ֿÞםÞֹ
+GUILDWAR_INPUT_OTHERGUILD	ַבֱַּׁ ֵֿ־ַב ַבַָׁ״ֹ ַב־ױד.
+GUILDWAR_LADDER	הÞַ״ ַבÊׁÊםָ
+GUILDWAR_LIMIT_MEMBER_FIVE	ֳֿהל Úֿֿ דה ַבדװַׁßםה ד׃דזֽ ָו וז 5.
+GUILDWAR_LOSE	וֶַׂד (וׂ.)
+GUILDWAR_NORMAL_TITLE	דםַֿה ַבÞÊַב
+GUILDWAR_OVER_MEMBERCOUNT	זױבÊ ַבֽֿ ַבֳÞױל ַבד׃דזֽ ָו דה ַבֳÚײֱַ.
+GUILDWAR_QUESTION_LINE_1	ֳÚבהÊ ַבַָׁ״ֹ %s ַבָֽׁ Úבל ַָׁ״Êß.
+GUILDWAR_QUESTION_LINE_2	וב ÊÞָב¿ (%s)
+GUILDWAR_RANKING	ׁÊָֹ
+GUILDWAR_RECODE_ALL	%d דÚß.¡ %d ַהÊ.¡ %d וׂ.¡ %d ÊÚ.
+GUILDWAR_SELECT_MEMBER_COUNT	ַ־Êׁ Úֿֿ ַבדװַׁßםה.
+GUILDWAR_TYPE_DEFENSE	ÞÊַב ַבֿׁזÚ
+GUILDWAR_TYPE_TIGER	דÚׁßֹ ַבֵַָֹֿ
+GUILDWAR_TYPE_TIME	וּזד ׂדהם
+GUILDWAR_UNKNOWN_TITLE	...
+GUILDWAR_WARP_TITLE	׃ַֹֽ ַבָֽׁ
+GUILDWAR_WIN	ַהÊױַַׁÊ (ַהÊ.)
+GUILDWAR_WIN_FIVE	־ד׃ ּזבַÊ
+GUILDWAR_WIN_ONE	ּזבֹ
+GUILDWAR_WIN_THREE	ֻבַֻ ּזבַÊ
+GUILDWINDOW_BUTTON_BANKGOLDINFO	׃ּב ד׃ÊזֿÚ ַבַָׁ״ֹ
+GUILDWINDOW_BUTTON_BASEABANDON	ÊÝזםÊ ֳׁײ ַבַָׁ״ֹ
+GUILDWINDOW_BUTTON_BASEDEAL	ָםÚ ֳׁײ ַבַָׁ״ֹ
+GUILDWINDOW_BUTTON_BASEDEALVOTE	ַ׃Ê״בַÚ
+GUILDWINDOW_BUTTON_BOARD	ד׀ßַׁÊ ־ַױֹ ַָבַָׁ״ֹ
+GUILDWINDOW_BUTTON_CHANGEMASTER	ÊÛםםׁ Þֶַֿ ַבַָׁ״ֹ
+GUILDWINDOW_BUTTON_DECLARE	ֵÚבַה ַבָֽׁ
+GUILDWINDOW_BUTTON_GOLDIN	ֵםַֿÚ
+GUILDWINDOW_BUTTON_GOLDOUT	׃ָֽ
+GUILDWINDOW_BUTTON_GRADE	ֵַֹֿׁ ַבֽÞזÞ
+GUILDWINDOW_BUTTON_GUILDLIST	בֶַֹֽ ַבַָׁ״ֹ
+GUILDWINDOW_BUTTON_HEALGSP	ַ׃ÊַּׁÚ Þזֹ ַבÊהםה
+GUILDWINDOW_BUTTON_INFO	דÚבזדַÊ Úה ַבַָׁ״ֹ
+GUILDWINDOW_BUTTON_LANDINFO	דÚבזדַÊ Úה ַבֳׁײ
+GUILDWINDOW_BUTTON_MARK	Êֽדםב Úבַדֹ ַבַָׁ״ֹ
+GUILDWINDOW_BUTTON_MEMBER	ַבֳÚײֱַ
+GUILDWINDOW_BUTTON_OFFER	ÊָׁÚ ַָב־ָֹׁ EXP
+GUILDWINDOW_BUTTON_OUTMEMBER	ֽ׀Ý Úײז
+GUILDWINDOW_BUTTON_SKILL	דוַַׁÊ ַבׁזַָ״
+GUILDWINDOW_BUTTON_SYMBOL	Êֽדםב Úבַדֹ ַבַָׁ״ֹ
+GUILDWINDOW_BUTTON_VOTECHECK	דַּׁÚֹ ַבַ׃Ê״בַÚ
+GUILDWINDOW_BUY_GUILD_LAND	װֱַׁ ֳׁײ
+GUILDWINDOW_CHANGE_OBJECT	Êּֿםֿ
+GUILDWINDOW_CHANGE_SMELTER	ֵÚַֹֿ ָהֱַ ַבÝׁה
+GUILDWINDOW_CREATE_OBJECT	ָהֱַ דָהל
+GUILDWINDOW_DEAL_GUILD_LAND	ָםÚ ַבֳׁײ
+GUILDWINDOW_GRADE_BANK	םדßהו ַ׃Ê־ַֿד ָהß ַבַָׁ״ֹ זד׃ÊזֿÚ ַבַָׁ״ֹ
+GUILDWINDOW_GRADE_DRIVEOUTAUTHORITY	םדßהו ֽ׀Ý Úײז דה ֳÚײֱַ ַבַָׁ״ֹ¿
+GUILDWINDOW_GRADE_GRADENAME	ַ׃ד ַבׁÊָֹ
+GUILDWINDOW_GRADE_GRADENUMBER	ׁÞד ַבׁÊָֹ
+GUILDWINDOW_GRADE_GUILDWAR	םדßהו ַ־Êםַׁ ַבֳÚײֱַ ַבד׃דזֽ בוד ַבדװַׁßֹ Ýם ַבÞÊַב.
+GUILDWINDOW_GRADE_INVITEAUTHORITY	םדßהו ײד בַÚָםה ֲ־ׁםה ֵבל ַבַָׁ״ֹ
+GUILDWINDOW_GRADE_NOTICEAUTHORITY	םדßהו ֵבױַÞ ַבד׀ßַׁÊ ַב־ַױֹ ַָבַָׁ״ֹ
+GUILDWINDOW_GRADE_SKILLAUTHORITY	םדßהו ַ׃ÊÚדַב דוַַׁÊ ַבׁזַָ״
+GUILDWINDOW_INFO_LEVEL10	םׁÝÚ ַבÚֿֿ ַבֳÞױל בבֳÚײֱַ
+GUILDWINDOW_INFO_LEVEL15	Ê־Ýםײ Úבל ַב׃Úׁ: Þזֹ ַבÊהםה
+GUILDWINDOW_INFO_LEVEL20	ָהß: ֵÚÝֱַ ײֶַָׁם
+GUILDWINDOW_INFO_LEVEL5	+5% EXP Úבל ÊָׁÚ ַבַָׁ״ֹ
+GUILDWINDOW_LIST_ALL	ּדםÚ ַבֵדַָׁ״זׁםַÊ
+GUILDWINDOW_LIST_ALREADY_REGISTER	[ַָׁ״ֹ] בÞֿ ÞֿרדÊ ״בָ ַבַהײדַד דה Þָב.
+GUILDWINDOW_LIST_APPLICANT_LIST	Þֶַדֹ ַבדׁװֽםה
+GUILDWINDOW_LIST_CHRACTER_JOB	״ָÞֹ
+GUILDWINDOW_LIST_CHRACTER_LV	ד׃Êזל
+GUILDWINDOW_LIST_CHRACTER_NAME	ַ׃ד ַבװ־ױםֹ
+GUILDWINDOW_LIST_CHRACTER_SUB_JOB	Êֿׁםָ
+GUILDWINDOW_LIST_EMPIRE_A	װםה׃ז
+GUILDWINDOW_LIST_EMPIRE_B	װזהּז
+GUILDWINDOW_LIST_EMPIRE_C	ּםהז
+GUILDWINDOW_LIST_GUILDMEMBER	ַבֳÚײֱַ
+GUILDWINDOW_LIST_GUILD_LIST	בֶַֹֽ ַבַָׁ״ֹ
+GUILDWINDOW_LIST_GUILD_LV	ד׃Êזל
+GUILDWINDOW_LIST_GUILD_NAME	ַָׁ״ֹ
+GUILDWINDOW_LIST_INPUT_GUILDNAME	[ַָׁ״ֹ] ַבֱַּׁ ֵֿ־ַב ַ׃ד ַבַָׁ״ֹ.
+GUILDWINDOW_LIST_LADDER	הÞַ״ ַבÊׁÊםָ
+GUILDWINDOW_LIST_PROMOTE_GUILD	״בָ ַהײדַד
+GUILDWINDOW_LIST_PROMOTE_GUILD_LIST	בֶַֹֽ ַבַָׁ״ֹ
+GUILDWINDOW_LIST_RANKING	ַבׁÊָֹ
+GUILDWINDOW_LIST_RANKING_COUNT	ַבׁÊָֹ
+GUILDWINDOW_LIST_REGISTER	ַהײד
+GUILDWINDOW_LIST_REGISTER_GUILD	״בָ ַהײדַד בבַָׁ״ֹ
+GUILDWINDOW_LIST_SEARCH	ָֻֽ
+GUILDWINDOW_LIST_SELECT_GUILD	[ַָׁ״ֹ] ַבֱַּׁ ַ־Êםַׁ ַָׁ״ֹ בÊÞֿםד ״בָ ַבַהײדַד.
+GUILDWINDOW_PROMOTE_REFRESH	ֵװוַׁ
+GUILDWINDOW_PROMOTE_REGISTER	ֵװוַׁ
+GUILDWINDOW_SP_RECOVER	Þזֹ ַבÊרהםה ַבַ׃״זׁם
+GUILDWINDOW_UPGRADE_ALTEROFPOWER	Êז׃םÚ ַבד׀ָֽ
+GUILDWINDOW_UPGRADE_GUILDBANK	Êז׃םÚ ַבָהß
+GUILD_BANKINFO_CLOSE	ֳÛבÞ
+GUILD_BANKINFO_NAME	Úײז
+GUILD_BANKINFO_TYPE	ֳװםֱַ/Úדבֹ
+GUILD_BANKINFO_USETYPE	Úדבםֹ
+GUILD_BANK_CLOSE	ֳÛבÞ
+GUILD_BANK_INFO	׃ּב ד׃ÊזֿÚ ַבַָׁ״ֹ
+GUILD_BOARD_ID	Úײז
+GUILD_BOARD_TEXT	ׁ׃ַבֹ
+GUILD_BUILDING_FIX_CHANGE	וב Êׁםֿ ֽÞַ ÊÛםםׁ ַבדזÞÚ¿
+GUILD_BUILDING_FIX_CHANGE_GOLD	ַב׃Úׁ: 1.000.000 םַהÛ!
+GUILD_BUILDING_FIX_DELETE	וב Êׁםֿ ֽÞַ ֽ׀Ý ו׀ַ ַבװםֱ¿
+GUILD_BUILDING_FIX_NEED_BUILDING	בַ זּזֿ בדַָהם.
+GUILD_BUILDING_GRADE	ׁÊָֹ
+GUILD_BUILDING_NAME	ַ׃ד ַבדָהל
+GUILD_CANNOT_HEAL_GSP_ANYMORE	ַדÊבֳÊ ״ַÞֹ װָֽ ַבÊהםה ֵבל ֲ־ׁוַ.
+GUILD_COMMENT	ַßÊָ
+GUILD_CREATE_ERROR_INSULT_NAME	ַ׃ד ַבַָׁ״ֹ Ûםׁ ד׃דזֽ ָו.
+GUILD_DEFAULT_GRADE	ֳÚײֱַ ַבַָׁ״ֹ
+GUILD_DELETE	ַֽ׀Ý
+GUILD_DEPOSIT	זֶַֿÚ
+GUILD_DO_YOU_HEAL_GSP	וב ÊׁÛָ דÞַָב %d דה ַבםַהÛ Ýם ַ׃ÊַּׁÚ %d דה װָֽ ַבÊהםה¿
+GUILD_DO_YOU_JOIN	 ÞַדÊ ָֿÚזÊß. וב ÊׁÛָ Ýם ַבַהײדַד ֵבל ַבַָׁ״ֹ¿
+GUILD_DRAGONLAIR_MIN	ֿÞםÞֹ
+GUILD_DRAGONLAIR_SECOND	ַֻהםֹ
+GUILD_EMPTY_AREA	ֳׁײ ־ַבםֹ
+GUILD_ENEMY_GUILD_NAME	ַ׃ד ַבַָׁ״ֹ ַב־ױד
+GUILD_FACILITY	דָהל ַּהָם
+GUILD_GEM	ּֽׁ ßׁםד
+GUILD_HEADQUARTER	ַבדָהל ַבֶׁם׃ם
+GUILD_HEAL_GSP	ֵÚַֹֿ װָֽ ַבÊהםה
+GUILD_INFO_ENEMY_GUILD_EMPTY	בַ םזּֿ
+GUILD_MARK_NOT_ENOUGH_LEVEL	ֳֿהל ד׃Êזל ד״בזָ 3
+GUILD_MARK_UPLOAD_NOTICE	ֳּׁזß ַהÊÙׁ בֽÙֹ ֽÊל ÊÊדßה דה Ê׃ּםב װÚַׁ ַבַָׁ״ֹ.
+GUILD_MEMBER_JOB	״ָÞֹ
+GUILD_MEMBER_KNIGHT	דÞַÊב
+GUILD_MEMBER_LEVEL	ד׃Êזל
+GUILD_MEMBER_NAME	Úײז
+GUILD_MEMBER_RANK	ׁÊָֹ
+GUILD_MEMBER_SPECIFIC_GRAVITY	הÞַ״ ַב־ָֹׁ EXP ַבדץÊָׁרÚ ָוַ
+GUILD_NAME	ַ׃ד ַבַָׁ״ֹ
+GUILD_NOT_ENOUGH_MATERIAL	בַ Êדבß דזַֿ ָהֱַ ßַÝםֹ בו׀ַ ַבדָהל.
+GUILD_NOT_ENOUGH_MONEY	בַ Êדבß םַהÛ ßַÝע בָהֱַ ו׀ַ ַבדָהל.
+GUILD_NO_NOTICE_PERMISSION	ֵהß Ûםׁ דץִוב בÊÞֿםד ֵÚבַהע דַ.
+GUILD_OBJECT	ֳװםֱַ
+GUILD_OFFER_EXP	ַ׃Êֻדַׁ ַב־ָֹׁ
+GUILD_SHORT_EXP	Úֿֿ הÞַ״ ַב־ָֹׁ Ûםׁ ßַÝע.
+GUILD_TILE_BASEINFO	דÚבזדַÊ Úה ַבֳׁײ
+GUILD_TILE_BOARD	ד׀ßַׁÊ ־ַױֹ ַָבַָׁ״ֹ
+GUILD_TILE_GRADE	ֵַֹֿׁ ַבֽÞזÞ
+GUILD_TILE_INFO	דÚבזדַÊ ַבַָׁ״ֹ
+GUILD_TILE_MEMBER	ַבֳÚײֱַ
+GUILD_TILE_SKILL	דוַַׁÊ ַבׁזַָ״
+GUILD_USE_MASTER_ONLY	ֵה ו׀ַ ַבֽÞ וז דה דבß Þֶַֿ ַבַָׁ״ֹ ÝÞ״.
+GUILD_VILLAGE_01	דםׁםַהÛ
+GUILD_VILLAGE_02	׃זהÛַָ
+GUILD_VILLAGE_03	ַֿםַדם
+GUILD_WAR1	דה״Þֹ ָֽׁ ַבַָׁ״ֹ
+GUILD_WAR2	דה״Þֹ ָֽׁ ַבַָׁ״ֹ
+GUILD_WAR3	דה״Þֹ ָֽׁ ַבַָׁ״ֹ
+GUILD_WAR4	דה״Þֹ ָֽׁ ַבַָׁ״ֹ
+GUILD_WAR_GAINSCORE_FIFTY	50 הÞ״ֹ
+GUILD_WAR_GAINSCORE_HUNDRED	100 הÞ״ֹ
+GUILD_WAR_GAINSCORE_THIRTY	30 הÞ״ֹ
+GUILD_WAR_GAMETIME_SIXTY	60 ֿÞםÞֹ
+GUILD_WAR_GAMETIME_TEN	10 ֿÞֶַÞ
+GUILD_WAR_GAMETIME_THIRTY	30 ֿÞםÞֹ
+GUILD_WAR_LIMIT_30MIN	ַבזÞÊ: 30 ֿÞםÞֹ
+GUILD_WAR_REWARD_POTION	דßַÝֳֹ: ׃םֽױב ַבÝֶַׂ Úבל ּׁÚ
+GUILD_WAR_SELECT_WAR	ַ־Êםַׁ הזÚםֹ ַבÞÊַב
+GUILD_WAR_TYPE_DEFENSE	ÞÊַב ַבֿׁזÚ
+GUILD_WAR_TYPE_DIE	׃ַֹֽ ַבָֽׁ
+GUILD_WAR_TYPE_FLAG	ÞÊַב ַבֳÚבַד
+GUILD_WAR_TYPE_NORMAL	דםַֿה ַבÞÊַב
+GUILD_WAR_TYPE_TIGER	דÚׁßֹ ַבֵַָֹֿ
+GUILD_WAR_TYPE_TIME	וּזד ׂדהם
+GUILD_WAR_USE_BATTLE_MAP	ַבדßַה: ׃ַֹֽ ַבָֽׁ בבַָׁ״ֹ
+GUILD_WAR_USE_NORMAL_MAP	דßַה: ־ׁם״ֹ Úַֿםֹ
+GUILD_WAR_WIN_CHECK_SCORE	׃ÊÝזׂ ַבַָׁ״ֹ ַבÊם ֽױבÊ Úבל ֳßָׁ Úֿֿ דה ַבַהÊױַַׁÊ ַָבָֽׁ.
+GUILD_WAR_WIN_FIVE	־ד׃ ּזבַÊ
+GUILD_WAR_WIN_ONE	ּזבֹ
+GUILD_WAR_WIN_TAKE_AWAY_FLAG1	ַ׃Êזבם Úבל Úבד ַב־ױד
+GUILD_WAR_WIN_TAKE_AWAY_FLAG2	ז־׀ו ֵבל דÞׁß.
+GUILD_WAR_WIN_THREE	ֻבַֻ ּזבַÊ
+GUILD_WAR_WIN_WIPE_OUT_GUILD	Úבםß ַבÞײֱַ Úבל ּדםÚ ַב־ױזד בßם ÊÝזׂ.
+GUILD_WITHDRAW	ַה׃ַָֽ
+GUILD_YOU_DO_NOT_JOIN	ֵהß בַ ÊהÊדם ֵבל ֳם ַָׁ״ֹ.
+HORSE_HEALTH0	דםÊ
+HORSE_HEALTH1	םדזÊ ּזÚַנ
+HORSE_HEALTH2	ֶַּÚ
+HORSE_HEALTH3	דדבזֱ
+HORSE_LEVEL1	ֽױַה Úַֿם
+HORSE_LEVEL2	ֽױַה דֿׁÚ
+HORSE_LEVEL3	ֽױַה ַבּםװ
+HOUR	׃ַÚֹ
+HOW_MANY_ITEM_DO_YOU_DESTROY1	Do you want to destroy %s?
+HOW_MANY_ITEM_DO_YOU_DESTROY2	Do you want to destroy %dx %s?
+HOW_MANY_ITEM_DO_YOU_DROP1	וב ÊׁÛָ Ýם ֵ׃Þַ״  %s¿
+HOW_MANY_ITEM_DO_YOU_DROP2	וב ÊׁÛָ Ýם ֵ׃Þַ״ %s בÜ%d¿
+HOW_MANY_ITEM_DO_YOU_DROP_OR_DESTROY1	Do you want to discard or destroy %s?
+HOW_MANY_ITEM_DO_YOU_DROP_OR_DESTROY2	Do you want to discard or destroy %dx %s?
+INPUT_MATRIX_CARD_NUMBER	ֳֿ־ב ׁÞד ָ״ַÞֹ ַבדַÊׁםß׃
+INPUT_MATRIX_CARD_TITLE	ָ״ַÞֹ ַבדַÊׁםß׃
+INPUT_PRIVATE_CODE_DIALOG_DESCRIPTION	ֳֿ־ב װÝֹׁ ַבֽ׀Ý דה ־םַׁ ֵַֹֿׁ ַבֽ׃ַָ.
+INPUT_PRIVATE_CODE_DIALOG_TITLE	ֽ׀Ý ַבװ־ױםֹ
+INVENTORY_DO_NOT_PACK_WARP_SCROLL	בַ םדßה ֿדּ ַבבÝֶַÝ.
+INVENTORY_REALLY_USE_ITEM	וב ÊׁÛָ Ýם ÊÝÚםב ו׀ַ ַבָהֿ Úבל ו׀ַ ַבװםֱ¿
+JOB_ASSASSIN	הםהַּ
+JOB_ASSASSIN0	בַ װםֱ
+JOB_ASSASSIN1	הםהַּ ַבÞÊַב Úה Þָׁ
+JOB_ASSASSIN2	הםהַּ ַבÞÊַב Úה ָÚֿ
+JOB_SHAMAN	װַדַה
+JOB_SHAMAN0	בַ װםֱ
+JOB_SHAMAN1	װַדַה ַבÊהםה
+JOB_SHAMAN2	װַדַה ַבװÝֱַ
+JOB_SURA	׃זַׁ
+JOB_SURA0	בַ װםֱ
+JOB_SURA1	׃זַׁ ַבÞÊַב ַב׃ֽׁם
+JOB_SURA2	׃זַׁ ַב׃רֽׁ ַבֳ׃זֿ
+JOB_WARRIOR	דַָֽׁ
+JOB_WARRIOR0	בַ װםֱ
+JOB_WARRIOR1	דױַׁÚ
+JOB_WARRIOR2	דÞַÊב ׀והם
+LEFT_TIME	ַבזÞÊ ַבדÊָÞם
+LOGIN_CONNECT_FAILURE	ֽױב ־״ֳ Úהֿ ַבַÊױַב ַָב־ַֿד.
+LOGIN_CONNECT_SUCCESS	Êד ָׁ״ ַבַÊױַב ַָב־ַֿד.
+LOGIN_CONNETING	ַהÊÙׁ דה Ýײבß. ׃םÊד ָׁ״ ַבַÊױַב ַָב־ַֿד.
+LOGIN_FAILURE_ALREAY	ֽ׃ַָß דÊױב ַָבÝÚב.
+LOGIN_FAILURE_BE_SAME_KEY	־״ֳ Ýם ַבÊ׃ּםב
+LOGIN_FAILURE_BLOCK_ID	Êד ֽÙׁ ו׀ַ ַבֽ׃ַָ.
+LOGIN_FAILURE_BLOCK_HWID	Your computer is still locked for %s.
+LOGIN_FAILURE_BLOCK_LOGIN	ַבֱַּׁ ַ־Êםַׁ ־ַֿד ֲ־ׁ!
+LOGIN_FAILURE_NOBILL	בד םץ׃ּב Ýם ו׀ַ ַבֽ׃ַָ זÞÊץ בÚָ ָÚֿ.
+LOGIN_FAILURE_NOT_AVAIL	The account is still temporarily locked for %s.
+LOGIN_FAILURE_NOT_EXIST_ID	־״ֳ Ýם ַ׃ד ַבֽ׃ַָ ֳז Ýם ßבדֹ ַב׃ׁ.
+LOGIN_FAILURE_REPAIR_ID	׃םÊד ֵַּׁÚ ַבדÚַֿÊ בו׀ַ ַבֽ׃ַָ.
+LOGIN_FAILURE_SHUTDOWN	ַב־ַֿד Ûםׁ דÊזÝׁ.
+LOGIN_FAILURE_TOO_MANY_USER	בÞֿ ÊÚ׀ׁ ָׁ״ ַבַÊױַב ָ׃ָָ ַבÚֿֿ ַבßָםׁ בבַÚָםה.
+LOGIN_FAILURE_UNKNOWN	ֵהß בד Êהּֽ Ýם Ê׃ּםב ַבֿ־זב הÙַׁנ בֳ׃ַָָ דּוזבֹ.
+LOGIN_FAILURE_WEB_BLOCK	בÞֿ Êד Ýׁײ ֽÙׁ Úבםß Ýם ו׀ו ַבױÝֹֽ. ַבֱַּׁ דַּׁÚֹ ױהֿזÞ ָׁםֿß ַבֵבßÊׁזהם.
+LOGIN_FAILURE_BRUTEFORCE	Too many failed logon attempts have been detected. Therefore, your computer is temporarily locked %s for any logon attempts.
+LOGIN_FAILURE_WRONG_MATRIX_CARD_NUMBER	ֵה ַבׁÞד ַבדץּֿׁ Ûםׁ ױֽםֽ.
+LOGIN_FAILURE_WRONG_MATRIX_CARD_NUMBER_TRIPLE	בÞֿ ֳֿ־בÊ ֻבַֻ דַׁÊ ׁÞדַנ ־ַ״ֶַנ. ׃םÊד ַבֲה Ýױב ַבַÊױַב.
+LOGIN_FAILURE_WRONG_PASSWORD	־״ֳ Ýם ַ׃ד ַבֽ׃ַָ ֳז Ýם ßבדֹ ַב׃ׁ.
+LOGIN_INPUT_ID	ַבֱַּׁ ֵֿ־ַב ַבדץÚׁרצÝ.
+LOGIN_INPUT_PASSWORD	ַבֱַּׁ ֵֿ־ַב ßבדֹ ַב׃רׁ.
+LOGIN_PROCESSING	ַּׁם ַבÊ׃ּםב...
+MALL_CANNOT_INSERT	בַ םדßהß זײÚ ַבװםֱ.
+MALL_PASSWORD_TITLE	ßבדֹ ַב׃רׁ
+MAP_A1	דה״Þֹ םזהÛַה
+MAP_A2	זַֿם ׃זםהÛׁםזהÛ
+MAP_A3	דה״Þֹ םַםַהÛ
+MAP_AG	ּזהÛַׁהÛ
+MAP_B1	דה״Þֹ ּזַה
+MAP_B2	זַֿם ֵדּם
+MAP_B3	ֵÞבםד ָזßםזהÛ
+MAP_BG	זַׁםזהÛ
+MAP_C1	דה״Þֹ ָםזהÛדז
+MAP_C2	זַֿם ַָהÛ׃ַה
+MAP_C3	דה״Þֹ ַָßַׁ
+MAP_CG	ֵדוַ
+MAP_DESERT	ױֱַֽׁ םזהÛָם
+MAP_FLAME	ֿזםזדוזַה
+MAP_NUSLUCK	ֳׁײ ַבÚדַבÞֹ
+MAP_SKELTOWER	ָּׁ Ûזד׃ַה
+MAP_SNOW	ָּב ׃זוַה
+MAP_SPIDER	ßזַובז ֿזהÛ
+MAP_TEMPLE	דÚָֿ וזַהÛ
+MAP_TREE	בהÛ׃ַד
+MAP_TRENT02	ַבÛַָֹ ַבֽדֱַׁ
+MAP_WL	דםַֿה ַבֳÝַÚם
+MESSENGER_ADD_FRIEND	ֵײַÝֹ ױֿםÞ
+MESSENGER_DO_YOU_ACCEPT_ADD_FRIEND_1	בÞֿ ַÊ־׀ß %s ױֿםÞַנ בו.
+MESSENGER_DO_YOU_ACCEPT_ADD_FRIEND_2	דזַÝÞ¿
+MESSENGER_DO_YOU_DELETE	וב Êׁםֿ ֽ׀Ýו¿
+MESSENGER_DO_YOU_DELETE_PHONE_NUMBER	וב ÊׁÛָ ֽ׀Ý ׁÞד ַבוַÊÝ ַבדֽדזב¿
+MESSENGER_DO_YOU_MOVE	וב Êׁםֿ ַבַ׃Êדַׁׁ¿
+MESSENGER_EMPTY_LIST	ÝַׁÛ
+MESSENGER_FAMILY	Úֶַבֹ
+MESSENGER_FRIEND	ֳױֿÞֱַ
+MESSENGER_GUILD	ַָׁ״ֹ
+MESSENGER_INPUT_MOBILE_AUTHORITY_DESCRIPTION	ֳֿ־ב ׁÞד ַבװÝֹׁ ַב׀ם ÊזױבÊ ָוַ Úבל וַÊÝß ַבדֽדזב.
+MESSENGER_INPUT_MOBILE_AUTHORITY_TITLE	ֳֿ־ב ׁÞד ַבװÝֹׁ
+MESSENGER_INPUT_MOBILE_PHONE_NUMBER_1	ַבֱַּׁ ֵֿ־ַב ׁÞד וַÊÝß ַבדֽדזב בֵׁ׃ַב ַבׁ׃ֶַב ַבÞױםֹׁ.
+MESSENGER_INPUT_MOBILE_PHONE_NUMBER_2	וב ÊׁÛָ Ýם ֵֿ־ַב ַבׁÞד ַבֲה¿
+MESSENGER_INPUT_MOBILE_PHONE_NUMBER_TITLE	ֳֿ־ב ׁÞד ַבוַÊÝ ַבדֽדזב
+MESSENGER_SEND_MOBILE_MESSAGE_TITLE	ֵׁ׃ַב ַבׁ׃ַבֹ
+MINIMAP	ÝÊֽ ַב־ׁם״ֹ ַבױÛםֹׁ
+MINIMAP_CANNOT_SEE	בַ םדßה ֵÙוַׁ ַב־ׁם״ֹ ַבױÛםֹׁ.
+MINIMAP_CAN_NOT_SHOW_AREAMAP	בַ םדßה Úׁײ ַב־ׁם״ֹ ַבßָםֹׁ.
+MINIMAP_DEC_SCALE	ÊױÛםׁ
+MINIMAP_INC_SCALE	Êßָםׁ
+MINIMAP_OBSERVER_COUNT	דץװַוֿ %d
+MINIMAP_SHOW_AREAMAP	ÝÊֽ ַב־ׁם״ֹ ַבßָםֹׁ
+MINUTE	ֿÞםÞֹ
+MONETARY_UNIT0	םַהÛ
+MONETARY_UNIT1	Úװֹׁ ֳבÝ
+MONETARY_UNIT2	דֶֹ דבםזה
+MONETARY_UNIT_GAYA	Gaya
+MOVE_ITEM_FAILURE_PRIVATE_SHOP	בַ םדßהß ÊÛםםׁ דßַה ֳם װםֱ¡ ״ַבדַ ֳהß Êדבß דÊַּׁנ װ־ױםַנ.
+MUSIC_EMPTY_MUSIC_LIST	ָֿזה דז׃םÞל דַׁÝÞֹ.
+MUSIC_METIN2_DEFAULT_THEMA	דז׃םÞל Metin2
+MUSIC_NOT_SELECT_MUSIC	בד םÊד ַ־Êםַׁ דבÝ דז׃םÞם.
+NEEFD_REST	Úבםß ֳזבַנ ַבַ׃Êַֹֽׁ.
+NOT_YET_SUPPORT	בַ םÊד ֿÚדו.
+OPTION_PVPMODE_CANNOT_SET_GUILD_MODE	בַ םדßהß ÊÝÚםב ־ֿדֹ ַבַָׁ״ֹ ֵ׀ַ בד Êßץה Úײזַנ Ýםוַ.
+OPTION_PVPMODE_NOT_SUPPORT	בַ םדßהß ַ׃ÊÚדַב ־םַׁ בַÚָ ײֿ בַÚָ.
+OPTION_PVPMODE_PROTECT	םָּ ֳה םױב ד׃Êזַß %d ßֳֿהל ֽֿ בßם ÊÊדßה דה ÊÛםםׁ הÙַד בַÚָ ײֿ בַÚָ.
+PARTY_BONUS_ATTACKER	Þםדֹ ַבוּזד: +%d	SA
+PARTY_BONUS_BERSERKER	׃ׁÚֹ ַבוּזד: +%d	SA
+PARTY_BONUS_BUFFER	דֹֿ ַבדוַֹׁ: +%d	SA
+PARTY_BONUS_DEFENDER	ַבֿÝַÚ: +%d	SA
+PARTY_BONUS_EXP	הÞַ״ ֵײַÝםֹ Ýם ַב־ָֹׁ: %d%%	SA
+PARTY_BONUS_SKILL_MASTER	ֳÞױל ֽֿ דה הÞַ״ ַבֳ׃בזָ: +%d	SA
+PARTY_BONUS_TANKER	הÞַ״ ֽםַֹ Þױזל:+%d	SA
+PARTY_BREAK_UP	ֽ׀Ý ַבדּדזÚֹ
+PARTY_DO_YOU_ACCEPT	 םׁÛָ Ýם ַבַהײדַד ֵבל ַבדּדזÚֹ.
+PARTY_DO_YOU_JOIN	¡ םֿÚזß בבַהײדַד ֵבל ַבדּדזÚֹ. וב Êׁםֿ Þָזב ַבֿÚזֹ¿
+PARTY_EXP_DISTRIBUTION_MODE	ÊÞ׃םד הÞַ״ ַב־ָֹׁ
+PARTY_EXP_DISTRIBUTION_MODE_LEVEL	ֽ׃ָ ַבד׃Êזל
+PARTY_EXP_DISTRIBUTION_MODE_LEVEL_TOOLTIP	׃םֽױב ֳÚײֱַ ַבדּדזÚֹ ׀זם ַבד׃ÊזםַÊ ַבדׁÊÝÚֹ Úבל הÞַ״ ־ָֹׁ ֵײַÝםֹ.
+PARTY_EXP_DISTRIBUTION_MODE_PARITY	דץÊ׃ַז
+PARTY_EXP_DISTRIBUTION_MODE_PARITY_TOOLTIP	םהַב ּדםÚ ֳÚײֱַ ַבדּדזÚֹ הÞַ״ ַבֳ׃בזָ ַָבÊ׃ַזם.
+PARTY_HEAL_ALL_MEMBER	ַ׃ÊַּׁÚ ַבזײÚ ַבֳזבם בבּדםÚ
+PARTY_INCREASE_AREA_150	ַׁÊÝַÚ דֿל ַבדּדזÚֹ ָÚַדב 1,5.	SNA
+PARTY_INCREASE_AREA_200	ַׁÊÝַÚ דֿל ַבדּדזÚֹ ָÚַדב 2	SNA
+PARTY_LEAVE	דÛַֹֿׁ ַבדּדזÚֹ
+PARTY_LONGTIME_BONUS_EXP	Úבַזֹ ֵײַÝםֹ Úבל הÞַ״ ַב־ָֹׁ בÊדֿםֿ דֹֿ ַבבÚָ ַבּדַÚם: +%d%%	SA
+PARTY_MEMBER_OFFLINE	[Ûםׁ דÊױב]
+PARTY_RECALL_MEMBER	ַ׃ÊֿÚֱַ  ֳÚײֱַ ַבדּדזÚֹ.
+PARTY_REGEN_BONUS	הÞַ״ ֽםַֹ ֵײַÝםֹ- + Êּֿםֿ הÞַ״ ַבֳ׃בזָ:+%d%%	SA
+PARTY_REQUEST_DENIED	בÞֿ ׁץÝײ ״בָß.
+PARTY_SET_ATTACKER	זÙרצÝוץ ßדוַּד.
+PARTY_SET_BERSERKER	ÊÚםםהו ßוֶַּ.
+PARTY_SET_BUFFER	זÙרצÝו ßדץÊױֿרצם.
+PARTY_SET_DEFENDER	זÙÝו ßדַֿÝÚ.
+PARTY_SET_NORMAL	ֵבÛֱַ ַבÊÚֿםב.
+PARTY_SET_SKILL_MASTER	ÊÚםהו ָױÝÊו ׃םֿ ַבדוַַׁÊ.
+PARTY_SET_TANKER	ÊÚםםה ßדַָֽׁ Ýם ַבÞÊַב Úה Þָׁ.
+PARTY_SKILL_ATTACKER	Þםדֹ ַבוּזד ַבֳ׃ַ׃םֹ דוַּד +%.0f
+PARTY_SKILL_BERSERKER	׃ׁÚֹ וּזד ַבוֶַּ +%.0f
+PARTY_SKILL_BUFFER	דֹֿ דוַֹׁ ַבדÊױֿם +%.0f
+PARTY_SKILL_DEFENDER	ֿÝַÚ דץַֿÝÚ +%.0f
+PARTY_SKILL_HP_REGEN	Êּֿםֿ הÞַ״ ַבֽםַֹ +%.0f%%
+PARTY_SKILL_PARTY_AREA	דֿל ַבדּדזÚֹ +%d%%
+PARTY_SKILL_SKILL_MASTER	ֳÞױל Úֿֿ דה הÞַ״ ֳ׃בזָ ׃םֿ ַבדוַֹׁ +%.0f
+PARTY_SKILL_SP_REGEN	Êּֿםֿ הÞַ״ ַבֳ׃בזָ +%.0f%%
+PARTY_SKILL_TANKER	הÞַ״ ַבֽםַֹ ַבÞױזל בבדÞַÊב Úה Þָׁ +%.0f.
+PARTY_SKILL_WARP	ֵָדßַהו הֱַֿ ֳÚײֱַ ַבדּדזÚֹ.
+PASSWORD_TITLE	ßבדֹ ׃ׁ ַבד׃ÊזֿÚ
+PICK_ITEM_TITLE	ׁÞד ַבװםֱ
+PICK_MONEY_TITLE	ַבדָבÛ
+PRIVATE_SHOP_CANNOT_SELL_ITEM	בַ םץדßהß ָםÚ ו׀ַ ַבװםֱ Ýם דÊּׁ ־ַױ.
+PRIVATE_SHOP_CLOSE_QUESTION	וב Êׁםֿ ֵÛבַÞ ַבדÊּׁ ַב־ַױ¿
+PRIVATE_SHOP_INPUT_NAME_DIALOG_TITLE	ַ׃ד ַבדÊּׁ ַב־ַױ
+OFFLINE_SHOP_INPUT_NAME_DIALOG_TITLE	Offline Store Name
+PRIVATE_SHOP_INPUT_PRICE_DIALOG_TITLE	׃Úׁ
+PVP_NEW_GOOD4	Ritterlich
+PVP_NEW_GOOD3	Legende
+PVP_NEW_GOOD2	Exzellent
+PVP_NEW_GOOD1	Ordnungshüter
+PVP_LEVEL0	Ýַׁ׃ם
+PVP_LEVEL1	הףָצםב
+PVP_LEVEL2	ּףםרצֿ
+PVP_LEVEL3	ב״םÝ
+PVP_LEVEL4	דַֽםֿ
+PVP_LEVEL5	Úֶַֿם
+PVP_LEVEL6	דַßׁ
+PVP_LEVEL7	־ָםֻ
+PVP_LEVEL8	ÝףÙצםÚ
+PVP_NEW_BAD1	Gewaltt"atig
+PVP_NEW_BAD2	Brutal
+PVP_NEW_BAD3	Krank
+PVP_NEW_BAD4	Grausam
+PVP_MODE_GUILD	ÊÝÚםב ַבַָׁ״ֹ - הÙַד בַÚָ ײֿ בַÚָ
+PVP_MODE_KILL	הÙַד בַÚָ ײֿ בַÚָ - ָֿזה Þםֿ
+PVP_MODE_NORMAL	הÙַד בַÚָ ײֿ בַÚָ - ÊװÛםב ַב׃בַד
+PVP_MODE_PROTECT	בַÚָ ײֿ בַÚָ - ÊÝÚםב ַבֽדַםֹ
+PVP_MODE_REVENGE	בַÚָ ײֿ בַÚָ - הÙַד Úֶַֿם
+PVP_OPTION_KILL	ָֿזה Þםֿ
+PVP_OPTION_NORMAL	ַב׃בַד
+PVP_OPTION_PROTECT	ַבֽדַםֹ
+PVP_OPTION_REVENGE	Úֶַֿם
+QUEST_APPEND	Êד Ê׃ּםב ֳדׁ ּֿםֿ.
+QUEST_MIN	ֿÞםÞֹ
+QUEST_SEC	ַֻהםֹ
+QUEST_TIMEOVER	ַהÊול ַבזÞÊ
+QUEST_UNLIMITED_TIME	ָֿזה Þםֿע ׂדהם
+QUEST_ZEROSEC	0 ַֻהםֹ
+QUICKSLOT_REGISTER_DISABLE_ITEM	בַ םדßה ׂםַֹֿ ו׀ַ ַבÛׁײ ֵבל ׃ַֹֽ ַבוּזד ַב׃ׁםÚ.
+RECEIVE_MESSAGE	%s ֳׁ׃ב בß ׁ׃ַבֹ.
+REFINE_COST	ÊßַבםÝ ַבÊֽ׃םה: %d םַהÛ
+REFINE_DESTROY_WARNING	Þֿ םִֿם Êֽ׃םה ו׀ַ ַבװםֱ ֵבל Êֿדםׁו.
+REFINE_DESTROY_WARNING_WITH_BONUS_PERCENT_1	וב Êׁםֿ ַָבÝÚב Êֽ׃םה ו׀ַ ַבװֶ¿
+REFINE_DESTROY_WARNING_WITH_BONUS_PERCENT_2	Þֿ םÊÚׁײ ו׀ַ ַבװםֱ בבÊֿדםׁ Úהֿ ַבÝװב. וב ÊׁÛָ ׁÛד ׀בß Ýם ַבַ׃Êדַׁׁ¿
+REFINE_DOWN_GRADE_WARNING	Þֿ ÊÊ׃ָָ Úדבםֹ ַבÊֽ׃םה Ýם ַבÊ־Ýםײ דה Þםדֹ ו׀ַ ַבװםֱ.
+REFINE_DO_YOU_SEPARATE_METIN	ֽ׀Ý ּדםÚ ַבֳַּֽׁ ַבװרָֽםֹ¿
+REFINE_FAILURE	בבֳ׃Ý¡בד ההּֽ! בÞֿ Ýװבהַ.
+REFINE_FAILURE_CAN_NOT_ATTACH0	%s cannot be attached to this item.
+REFINE_FAILURE_EQUIP_ITEM	בַ םדßהß Êֽ׃םה ַבֳװםֱַ ַבדץֿׁÚֹ.
+REFINE_FAILURE_METIN_INSEPARABLE_ITEM	בַ םדֽהß ֽ׀Ý ּֽׁ ַבװָֽ.
+REFINE_FAILURE_NEED_BETTER_SCROLL	ֵהß ַָֹּֽ ֵבל בÝםÝֹ Êֽ׃םה ֳֽ׃ה דה ו׀ו.
+REFINE_FAILURE_NO_GOLD_SOCKET	בַ םזּֿ והַß דÞָ׃ ׀וָם¡ בֵײַÝֹ %s.
+REFINE_FAILURE_NO_MORE_SOCKET	בַ םץדßהß ֵײַÝֹ דÞַָ׃ ּֿםֹֿ.
+REFINE_FAILURE_NO_SOCKET0	בַ םזּֿ דÞָ׃ ÝַׁÛ דה ֳּב %s.
+REFINE_FAILURE_SOCKET_DISABLE_ITEM	בַ םדßהß ֵײַÝֹ דÞַָ׃ ֵײַÝםֹ בו׀ַ ַבָהֿ.
+REFINE_FAILURE_UPGRADE_DISABLE_ITEM	בַ םדßה Êֽ׃םה ו׀ַ ַבָהֿ.
+REFINE_SUCCESS	בÞֿ Êד Êֽ׃םה ו׀ַ ַבָהֿ ָהַּֽ.
+REFINE_SUCCESS_PROBALITY	Ýׁױ ַבÊֽ׃םה: %d%%
+REFINE_WARNING2	וב ÊׁÛָ ַבדÊַָÚֹ¿
+SAFEBOX_ERROR	ֵה ßבדֹ ַב׃ׁ Ûםׁ ױֽםֹֽ.
+SAFEBOX_SELL_DISABLE_SAFEITEM	בַ םץדßהß ָםÚ ֳם דה ַבֳװםֱַ ַבדףֽÝץזÙֹ.
+SAFEBOX_WRONG_PASSWORD	םָּ ֳה Êßזה ßבדַÊ ַב׃ׁ דÊ״ַָÞֹ.
+SCREENSHOT_SAVE1	ֽץÝÙÊ Ýם
+SCREENSHOT_SAVE2	דבÝ ױזׁ ַבבÚָֹ
+SCREENSHOT_SAVE_FAILURE	Ýװצב ֽצÝÙ ױזׁ ַבבÚָֹ
+SECOND	ַֻהםֹ
+SELECT_CAN_NOT_DELETE	בַ םץדßהß ֽ׀Ý ו׀ו ַבװ־ױםֹ.
+SELECT_CHANGED_NAME	בÞֿ ÞץדÊ ָÊÛםםׁ ַ׃ד ו׀ו ַבװ־ױםֹ.
+SELECT_CHANGE_FAILURE_ALREADY_EXIST_NAME	ֵה ַ׃ד ַבװ־ױםֹ ַבד־Êַׁ דץ׃ÊÚדב.
+SELECT_CHANGE_FAILURE_STRANGE_INDEX	ַֽזב דַּֿֿנ.
+SELECT_CHANGE_FAILURE_STRANGE_NAME	ַ׃ד ַבװ־ױםֹ Ûםׁ ױֽםֽ.
+SELECT_CHANGE_NAME_TITLE	ÊÛםםׁ ַ׃ד ַבװ־ױםֹ
+SELECT_DELEING	׃םÊד ֽ׀Ý ו׀ו ַבװ־ױםֹ
+SELECT_DELETED	Êד ַבֽ׀Ý ָהַּֽ.
+SELECT_DO_YOU_DELETE_REALLY	וב ÊׁÛָ Ýם ַבדÊַָÚֹ¿
+SELECT_EMPTY_SLOT	ֵה ו׀ו ַב־ַהֹ ÝַׁÛֹ.
+SELECT_GM_NAME	׃םֿ ַבבÚָֹ
+SELECT_INPUT_CHANGING_NAME	ַבֱַּׁ ֵֿ־ַב ַ׃ד ּֿםֿ בבװ־ױםֹ.
+SELECT_NOT_JOIN_GUILD	ָֿזה ַָׁ״ֹ
+SHOP_BUY_INFO	ַ־Êׁ Ýם הַÝ׀ֹ ַבדÊּׁ ַבװםֱ ַב׀ם ÊׁÛָ Ýם װֶַׁו.
+SHOP_CANNOT_SELL_EQUIPMENT	בַ םדßהß ָםÚ ַבֳװםֱַ ַבדֿׁÚֹ.
+SHOP_CANNOT_SELL_ITEM	ו׀ַ ַבװםֱ Ûםׁ דÚׁזײ בבָםÚ.
+SHOP_ERROR_UNKNOWN	Ú״ָ דּוזב Ýם ַבדÊּׁ: %s
+SHOP_INVALID_POS	ֵה ו׀ַ ַבװםֱ Ûםׁ דהַ׃ָ.
+SHOP_INVENTORY_FULL	בד םÚץֿ והַß דßַה ÝַׁÛ Ýם Þֶַדֹ ַבּֿׁ.
+SHOP_NOT_ENOUGH_MONEY	בַ Êדבß דַ םßÝם דה ַבזזה ֳז ַבםַהÛ
+SHOP_NOT_ENOUGH_MONEY_EX	ֵהß בַ Êדבß דַ םßÝם דה ַבםַהÛ.
+SHOP_SELL_INFO	ַ־Êׁ Ýם ּֿזב Þֶַדֹ ַבּֿׁ ַבװםֱ ַב׀ם ÊׁÛָ Ýם ָםÚו.
+SHOP_SOLDOUT	Êד ָםÚו
+SHOT_ERROR_UNKNOWN	־״ֳ דּוזב ֳֻהֱַ ַבוּזד Úה ָÚֿ: %s
+SKILL_BOHO	ַהÚßַ׃
+SKILL_BUDONG	Is no longer used
+SKILL_CANNOT_LEVEL_UP_ANYMORE_BY_BOOK	׃ÊֽÊַּ ֵבל הÞַ״ ַבֳ׃בזָ בÊÚבד ו׀ו ַבדוַֹׁ.
+SKILL_CANNOT_LEVEL_UP_ANYMORE_BY_STAT	ֵהß ַָֹּֽ ֵבל ßÊַָ בÊÚבד ו׀ו ַבדוַֹׁ.
+SKILL_CHEONGEUN	ּ׃ֿ Þזם
+SKILL_CRITICAL	ֵױַָֹ ֹּֽׁ
+SKILL_ENCHANT_POISON	ַ׃ÊÚדב ַב׃ד
+SKILL_EUNHYEONG	Ûםׁ דֶׁם
+SKILL_FAINT	ֵÛדֱַ
+SKILL_FIND_TRAP	ַָֻֽ Úה ַבÝ־
+SKILL_FIRE	ֵַֽׁÞ
+SKILL_FISHMIND	Êד ÊÝÚםב ßֹׁ ַב׃דß
+SKILL_GAMJI	ֵַֿׁß
+SKILL_GEOMGYEONG	וַבֹ ַב׃םÝ
+SKILL_GEONGON	SKILL_GEONGON is no longer used
+SKILL_GICHEON	ד׃ַÚֹֿ ַבÊהםה
+SKILL_GIGONG	ֿזַׁה װם
+SKILL_GONGPO	־זÝ
+SKILL_GRADE_NAME_GRAND_MASTER	%s ַב־ָםׁ ַבדֽÊׁÝ
+SKILL_GRADE_NAME_MASTER	%s ׃םֿ
+SKILL_GRADE_NAME_PERFECT_MASTER	%s ׃םֿ דÊßַדב
+SKILL_GRADE_NAME_LEGENDARY_MASTER	%s Legendary Master
+SKILL_GROUP_ASSASSIN_1	װÝֹׁ
+SKILL_GROUP_ASSASSIN_2	Þז׃
+SKILL_GROUP_HORSE	Ýה ַבÝׁז׃םֹ
+SKILL_GROUP_SHAMAN_1	Êהםה
+SKILL_GROUP_SHAMAN_2	װÝֱַ
+SKILL_GROUP_SURA_1	׃בַֽ
+SKILL_GROUP_SURA_2	׃ֽׁ
+SKILL_GROUP_WARRIOR_1	ּ׃ֿ
+SKILL_GROUP_WARRIOR_2	׀והם
+SKILL_GROUP_WOLFMAN	Skills
+SKILL_GWIGEOM	װÝֹׁ ד׃ֽזֹׁ
+SKILL_GYEONGGONG	דװם ַבׁםװ
+SKILL_HEUKSIN	ַבֽדַםֹ ַבÙבַדםֹ
+SKILL_HOSIN	ָׁßֹ
+SKILL_HWAYEOM	SKILL_HWAYEOM Wird nicht mehr benutzt
+SKILL_HYEOLMA	SKILL_HYEOLMA Wird nicht mehr benutzt
+SKILL_INC_ATKSPD	ַׁÊÝַÚ ׃ׁÚֹ ַבוּזד
+SKILL_INC_MOVSPD	ַׁÊÝַÚ ׃ׁÚֹ ַבÊֽׁß
+SKILL_INMA	SKILL_INMA Wird nicht mehr benutzt
+SKILL_JEOJU	בÚהֹ
+SKILL_JEONGEOP	װÝֱַ
+SKILL_JEONGWI	הװזֹ ַבÞÊַב
+SKILL_JEONSINBANGEO	ֿÝַÚ ßַדב
+SKILL_JEONSINGONGGYEOK	וּזד ßַדב
+SKILL_JEUNGCHE	SKILL_JEUNGCHE Wird nicht mehr benutzt
+SKILL_JEUNGHON	SKILL_JEUNGHON Wird nicht mehr benutzt
+SKILL_JEUNGRYEOK	וּזד +
+SKILL_JEUNGSOK	׃ׁÚֹ +
+SKILL_JIGAM	SKILL_JIGAM Wird nicht mehr benutzt
+SKILL_JIPJUNG	SKILL_JIPJUNG Wird nicht mehr benutzt
+SKILL_JUMAGAP	ֿׁÚ ד׃ֽזׁ
+SKILL_JUMAGEOM	SKILL_JUMAGEOM Wird nicht mehr benutzt
+SKILL_KWAEGEOM	SKILL_KWAEGEOM Wird nicht mehr benutzt
+SKILL_KWAESOK	׃ׁÚֹ
+SKILL_LEGBOUND	SKILL_LEGBOUND Wird nicht mehr benutzt
+SKILL_MUSA	SKILL_MUSA Wird nicht mehr benutzt
+SKILL_MUYEONG	װָֽ ַבבוָ
+SKILL_NEED_EMPTY_BOTTLE	בַ ֳדבß Þַׁזֹׁ ÝַׁÛֹ.
+SKILL_NEED_POISON_BOTTLE	בַ ֳדבß Þַׁזֹׁ ׃ד.
+SKILL_ONLY_FOR_GUILD_WAR	בַ םדßהß ַ׃ÊÚדַב ו׀ו ַבדוַֹׁ ֵבַר Ýם ֽׁזָ ַבׁזַָ״.
+SKILL_PABEOP	ֵַׂבֹ ַב׃ֽׁ
+SKILL_POWERFUL_STRIKE	וּזד דץ־ֿרצׁ
+SKILL_SEOMGWANG	Þהָבֹ ַבָׁÞ
+SKILL_SINCHAK	SKILL_SINCHAK Wird nicht mehr benutzt
+SKILL_SLEEP	הזד
+SKILL_SLOW	ָ״םֱ
+SKILL_STUN	Ê־ֿםׁ
+SKILL_SUHO	ַֽׁ׃
+SKILL_SUMMON_DESCRIPTION	Ýׁױֹ בבװÚז׀ֹ: %d%%
+SKILL_TOOLTIP_INT	׀ßֱַ
+SKILL_TOOLTIP_LEVEL	ד׃Êזל
+SKILL_TOXICDIE	Ê׃דד
+SKILL_TOXICPOWER	Êד Êֽ׃םה Þםדֹ ַבוּזד ַב׃ַד
+SKILL_TUSOK	ײָֹׁ װָֽ
+SKILL_WONSIN	UNUSED
+SKILL_YONGSIN	UNUSED
+STAT_MINUS_CON	ÊÚֿםב ״ַÞֹ ַבֽםַֹ (ַבזÞÊ ַבדÊָÞם: %d)
+STAT_MINUS_DEX	ÊÚֿםב ַבדהַזֹׁ (ַבÝׁױ ַבדÊָÞםֹ: %d)
+STAT_MINUS_INT	ÊÚֿםב ַב׀ßֱַ (ַבÝׁױ ַבדÊָÞםֹ: %d)
+STAT_MINUS_STR	ÊÚֿםב ַבÞזֹ (ַבÝׁױ ַבדÊָÞםֹ: %d)
+STAT_TOOLTIP_CON	םׁÝÚ הÞַ״ ַבֽםַֹ ז ַבֿÝַÚ
+STAT_TOOLTIP_DEX	ַׁÊÝַÚ ַבוּזד זַבדהַזֹׁ
+STAT_TOOLTIP_INT	םׁÝÚ דה הÞַ״ ַבֳ׃בזָ¡ זÞזֹ ַבוּזד ַב׃ֽׁם זַבֿÝַÚ ַב׃ֽׁם.
+STAT_TOOLTIP_STR	םׁÝÚ דה Þםדֹ ַבוּזד זַבײׁׁ
+SYMBOLLIST_TITLE	Ê׃ּםב Úבד ַבַָׁ״ֹ
+SYSTEM_OPTION_CPU_TILING_1	ÊÝÚםב הÙַד CPU-Tiling םִֿם ֵבל Êֽ׃םה ׃ׁÚֹ ַבַֽ׃זָ ַבָ״םֱ.
+SYSTEM_OPTION_CPU_TILING_2	Úבםß ֵ׀ַ זַּוÊß דװַßב Ýם Úׁײ ַבױזׁ ַבהÞׁ Úבל הÞ״ֹ ’’ַבהÙַד’’¡ ֳז ’’CONFIG.exe’’
+SYSTEM_OPTION_CPU_TILING_3	זÛםׁ ַבהÙַד ֵבל GPU-Tiling
+SYSTEM_OPTION_GPU_TILING_1	םÚדב הÙַד GPU-Tiling ָָ״ֱ Úבל ַֽ׃זָ ײÚםÝ.
+SYSTEM_OPTION_GPU_TILING_2	Úבםß ֵ׀ַ זַּוÊß דװַßב Ýם Úׁײ ַבױזׁ ַבהÞׁ Úבל הÞ״ֹ ’’ַבהÙַד’’¡ ֳז ’’CONFIG.exe’’ Ýם דבÝ ַבבÚָֹ.
+SYSTEM_OPTION_GPU_TILING_3	זÛםׁ ַבהÙַד ֵבל GPU-Tiling.
+SYSTEM_OPTION_TILING_EXIT	םָּ ֵÚַֹֿ ÊװÛםב ַבבÚָֹ דה ּֿםֿ בבÊֽזב ֵבל הÙַד ַבÜ Tiling.
+TARGET_BUTTON_ACCEPT_FIGHT	זַÝףÞ
+TARGET_BUTTON_AVENGE	ֳֻׁ
+TARGET_BUTTON_BUILDING_DESTROY	Êֿדםׁ
+TARGET_BUTTON_DISMOUNT	Êףׁףּרףבף
+TARGET_BUTTON_EMOTION_ALLOW	דװַÚׁ
+TARGET_BUTTON_EXCHANGE	דÊַֹּׁ
+TARGET_BUTTON_EXCLUDE	ַ׃ÊָÚַֿ
+TARGET_BUTTON_EXIT_OBSERVER	ֵהוֱַ ַבדװַוֹֿ
+TARGET_BUTTON_FIGHT	דץָףַׁףֹׂ
+TARGET_BUTTON_FRIEND	ױֿםÞ
+TARGET_BUTTON_INVITE_GUILD	ֿÚזֹ ַבַָׁ״ֹ.
+TARGET_BUTTON_INVITE_PARTY	ֿÚזֹ ּ.
+TARGET_BUTTON_LEAVE_PARTY	Ûַֿׁ ַבדּדזÚֹ
+TARGET_BUTTON_REQUEST_ENTER_PARTY	ַבַהײדַד ֵבל ַבדּדזÚֹ
+TARGET_BUTTON_VIEW_EQUIPMENT	ֿׁזÚ
+TARGET_BUTTON_WHISPER	וד׃
+TARGET_LEVEL_BOSS	ׂףÚצםד
+TARGET_LEVEL_KING	דׁÊָֹ 5
+TARGET_LEVEL_KNIGHT	דׁÊָֹ 3
+TARGET_LEVEL_PAWN	דׁÊָֹ 1
+TARGET_LEVEL_S_KNIGHT	דׁÊָֹ 4
+TARGET_LEVEL_S_PAWN	ד׃Êזל 2
+TASKBAR_ATTACK	וַּד
+TASKBAR_AUTO	וּזד ÊבÞֶַם
+TASKBAR_CAMERA	ßַדםַׁ
+TASKBAR_EXP	־ָֹׁ
+TASKBAR_HP	הÞַ״ ַבֽםַֹ
+TASKBAR_MOVE	Êֽׁß
+TASKBAR_SKILL	דוַֹׁ
+TASKBAR_SP	הÞַ״ ַבֳ׃בזָ
+TASKBAR_ST	הÞַ״ ַבÊֽדב
+THING_COUNT	ַבּדםÚ
+TOOLTIP_ANTI_SELL	בַ םדßהß ָםÚו Ýם ַבדÊּׁ.
+TOOLTIP_APPLY_ATTBONUS_ANIMAL	Þזם ײֿ ַבֽםזַהַÊ +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_ASSASSIN	Þזם ײֿ ַבהםהַּ +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_DEVIL	Þזם ײֿ ַבװם״ַה +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_HUMAN	Þזם ײֿ הױÝ ָװׁ +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_MILGYO	Þזם ײֿ ַב״ֶַÝֹ ַב׃ׁםֹ +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_MONSTER	Þזם ײֿ ַבזֽזװ +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_ORC	Þזם ײֿ ַבÛםבַה +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_SHAMAN	Þזם ײֿ װַדַה +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_SURA	Þזם ײֿ ׃זַׁ +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_UNDEAD	Þזם ײֿ ַבׂזדָם +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_WARRIOR	Þזם ײֿ ַבדַָֽׁ +%d%%	SA
+TOOLTIP_APPLY_BLOCK	Ýׁױֹ ױףֿ ַבוּזד Úה Þָׁ %d%%	SA
+TOOLTIP_APPLY_COMBAT_SP_RECOVER	ַ׃ÊÚַֹֿ הÞַ״ ַבַ׃בזָ Ýם ַבÞÊַב ßב 5 ֻזַהם %d	SA
+TOOLTIP_APPLY_CRITICAL_PCT	Ýׁױ ַבֵױַָֹ ָײָֹׁ ֹּֽׁ +%d%% 	SA
+TOOLTIP_APPLY_DAMAGE_SP_RECOVER	%d%% Ýׁױ ַ׃ÊÚַֹֿ הÞַ״ ַבֳ׃בזָ Úהֿ ַבֵױַָֹ	SA
+TOOLTIP_APPLY_DODGE	%d%% Ýׁױ ÊÝַֿם ַבוּזד ַָב׃וַד	SA
+TOOLTIP_APPLY_EXP_DOUBLE_BONUS	%d%% Ýׁױ ַבֽױזב Úבל הÞַ״ ־ָֹׁ ֵײַÝםֹ 	SA
+TOOLTIP_APPLY_GOLD_DOUBLE_BONUS	%d%% Ýׁױ ֵ׃Þַ״ ײÚÝ ßדםֹ ַבםַהÛ.	SA
+TOOLTIP_APPLY_IMMUNE_FALL	דץֽױה ײֿ ַבזÞזÚ	SNA
+TOOLTIP_APPLY_IMMUNE_SLOW	ַבֿÝַÚ ײֿ ַבÊַָ״ִ	SNA
+TOOLTIP_APPLY_IMMUNE_STUN	ֿÝַÚ ײֿ ַבֵÛדֱַ 	SNA
+TOOLTIP_APPLY_ITEM_DROP_BONUS	%d%% Ýׁױ ֵ׃Þַ״ ײÚÝ ßדםֹ ַבֳװםֱַ.	SA
+TOOLTIP_APPLY_KILL_HP_RECOVER	%d%% Ýׁױ ַ׃ÊÚַֹֿ הÞַ״ ַבֽםַֹ	SA
+TOOLTIP_APPLY_KILL_SP_RECOVER	%d%% Ýׁױ ַ׃ÊÚַֹֿ הÞַ״ ַבֳ׃בזָ	SA
+TOOLTIP_APPLY_MANA_BURN_PCT	Ýׁױ הוָ הÞַ״ ַבֳ׃בזָ %d%%	SA
+TOOLTIP_APPLY_MAX_HP_PCT	הÞַ״ ַבֽםַֹ ַבÞױזל HP +%d%% 	SA
+TOOLTIP_APPLY_MAX_SP_PCT	ֳÞױל MP הÞַ״ ַבֳ׃בזָ +%d%%	SA
+TOOLTIP_APPLY_NOAFFECT	ָֿזה Êֳֻםׁ
+TOOLTIP_APPLY_NO_DEATH_PENALTY	ָÚֿ ֵÚַֹֿ ֵֽםֱַ ַבבַÚָ Ýם דßַה ַבדזÊ¡ בה םÊד ־ױד ֳם הÞַ״ בב־ָֹׁ.	SNA
+TOOLTIP_APPLY_PENETRATE_PCT	%d%% Ýׁױ Êֽױםב ײָֹׁ ־ַׁÞֹ	SA
+TOOLTIP_APPLY_POISON_PCT	Ýׁױֹ ַבÊ׃דד: %d%%	SA
+TOOLTIP_APPLY_POISON_REDUCE	דÞַזדֹ ַב׃דזד %d%%	SA
+TOOLTIP_APPLY_POTION_BONUS	ׂםַֹֿ Ýם Êֳֻםׁ ַבּׁÚֹ ָה׃ָֹ %d%%	SA
+TOOLTIP_APPLY_REFLECT_CURSE	%d%% Ýׁױ Úß׃ ַבבÚהֹ	SA
+TOOLTIP_APPLY_REFLECT_MELEE	%d%% Ýׁױץ Úß׃ ײַָׁÊ ַבוּדַÊ Úה Þָׁ.	SA
+TOOLTIP_APPLY_RESIST_ASSASSIN	Ýׁױ ַבֿÝַÚ ײֿ וּזד ַבהםהַּ %d%%	SA
+TOOLTIP_APPLY_RESIST_BELL	ֿÝַÚ ּׁ׃ם %d%%	SA
+TOOLTIP_APPLY_RESIST_DAGGER	ֿÝַÚ ־הּׁם %d%%	SA
+TOOLTIP_APPLY_RESIST_FAN	ֿÝַÚ דׁזֽם %d%%	SA
+TOOLTIP_APPLY_RESIST_SHAMAN	Ýׁױ ַבֿÝַÚ ײֿ וּזד ַבװַדַה %d%%	SA
+TOOLTIP_APPLY_RESIST_SURA	Ýׁױ ַבֿÝַÚ ײֿ וּזד ַב׃זַׁ %d%%	SA
+TOOLTIP_APPLY_RESIST_SWORD	ֿÝַÚ ׃םÝם %d%%	SA
+TOOLTIP_APPLY_RESIST_TWOHAND	ֿÝַÚ ׃םÝ ַבםֿםה %d%%	SA
+TOOLTIP_APPLY_RESIST_WARRIOR	Ýׁױ ַבֿÝַÚ ײֿ וּזד ַבדַָֽׁםה %d%%	SA
+TOOLTIP_APPLY_RESIST_WIND	דÞַזדֹ ַבׁםַֽ %d%%	SA
+TOOLTIP_APPLY_SKILL_BOOK_BONUS	Ýׁױֹ ַבַ׃ÊÝַֹֿ דה ַבßÊָ ÊׁÊÝÚ ָÚַדב 2,5.	SNA
+TOOLTIP_APPLY_SKILL_BOOK_NO_DELAY	׃Êֽױב ֵ׀ַ Ýװב ַבÊרÚבד ַבֽױזב Úבל Ýׁױֹ ֵײַÝםֹ בֵÚַֹֿ ַבדַֽזבֹ.	SNA
+TOOLTIP_APPLY_SLOW_PCT	Ýׁױ ַבÊָ״םֱ: %d%%	SA
+TOOLTIP_APPLY_STEAL_HP	Ê׃ÊזÚָ הÞַ״ ַבֽםַֹ %d%% דה ַבײׁׁ.	SA
+TOOLTIP_APPLY_STEAL_SP	Ê׃ÊזÚָ הÞַ״ ַבֳ׃בזָ %d%% דה ַבײׁׁ.	SA
+TOOLTIP_APPLY_STUN_PCT	Ýׁױ ַבֵÛדֱַ %d%%	SA
+TOOLTIP_APPLY_RESIST_SWORD_PEN	Fracture of sword defense %d%%	SA
+TOOLTIP_APPLY_RESIST_TWOHAND_PEN	ß׃ׁ דה ֿÝַÚ ׃םÝ ַבםֿםה %d%%	SA
+TOOLTIP_APPLY_RESIST_DAGGER_PEN	Fracture of dagger defense %d%%	SA
+TOOLTIP_APPLY_RESIST_BELL_PEN	Breakage of bells defence %d%%	SA
+TOOLTIP_APPLY_RESIST_FAN_PEN	Fracture of fan defense %d%%	SA
+TOOLTIP_APPLY_RESIST_BOW_PEN	Break of arrow resistance %d%%	SA
+TOOLTIP_APPLY_RESIST_ATTBONUS_HUMAN	Resistance to half-human %d%%	SA
+TOOLTIP_APPLY_ATTBONUS_ELEC	Þזֹ ַבָׁÞ  +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_DARK	Force of Darkness +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_ICE	Þזֹ Ýם ַבּבםֿ +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_FIRE	Þזֹ ַבהַׁ +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_EARTH	Force of the Earth +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_WIND	Force of the Wind +%d%%	SA
+TOOLTIP_APPLY_RESIST_ICE	דÞַזדֹ ַבּבםֿ %d%%	SA
+TOOLTIP_APPLY_RESIST_EARTH	Resistance to earth %d%%	SA
+TOOLTIP_APPLY_RESIST_DARK	דÞַזדֹ ַבÙבַד %d%%	SA
+TOOLTIP_APPLY_ANTI_CRITICAL_PCT	ֿÝַÚ ײֿ ַב־ּדֹ ַבַֽ׃דֹ  + %d%%	SA
+TOOLTIP_APPLY_ANTI_PENETRATE_PCT	ֿÝַÚ ײֿ ַבוּדֹ ַב־ַׁÞֹ  +%d%%	SA
+TOOLTIP_APPLY_DEFENSE_BONUS	Defense +%d%%	SA
+TOOLTIP_ARMOR	ֿׁזÚ
+TOOLTIP_ARROW	׃וד
+TOOLTIP_ASSASSIN	הםהַּ
+TOOLTIP_ATT_GRADE	Þםדֹ ַבוּזד +%d	SA
+TOOLTIP_ATT_SPEED	׃ׁÚֹ ַבוּזד +%d%%	SA
+TOOLTIP_AUTO_POTION_HP	ֵß׃םׁ ַבװד׃
+TOOLTIP_AUTO_POTION_REST	ַבßדםֹ ַבדÊָÞםֹ: %.2f%%
+TOOLTIP_AUTO_POTION_SP	ֵß׃םׁ ַבÞדׁ
+TOOLTIP_AUTO_POTION_USING	דץÝÚרב
+TOOLTIP_BOW_DISTANCE	דֿל ַבׁדַםֹ +%dm	SA
+TOOLTIP_BUYPRICE	ַב׃Úׁ: %s
+TOOLTIP_CAST_SPEED	׃ׁÚֹ ַב׃ֽׁ: +%d%%	SA
+TOOLTIP_CON	Þזֹ ַבֽםַֹ +%d	SA
+TOOLTIP_DEF_GRADE	ֿÝַÚ +%d	SA
+TOOLTIP_DEX	ַבדהַזֹׁ +%d	SA
+TOOLTIP_EAR	ֽבÞ
+TOOLTIP_ETC	ֵב־.
+TOOLTIP_FISHINGROD_EXP	הÞַ״: %d / %d
+TOOLTIP_FISHINGROD_LEVEL	ד׃Êזל: %d
+TOOLTIP_FISHINGROD_UPGRADE1	ַדהֽו בבױםַֿ
+TOOLTIP_FISHINGROD_UPGRADE2	בßם Êֽױב Úבל
+TOOLTIP_FISHINGROD_UPGRADE3	ױהַֹׁ ױםֿ ֳÝײב ָßֻםׁ.
+TOOLTIP_FISH_LEN	ַב״זב: %.2fcm
+TOOLTIP_HELMET	־ז׀ֹ
+TOOLTIP_HP_REGEN	Êּֿםֿ הÞַ״ ַבֽםַֹ +%d%%	SA
+TOOLTIP_INT	׀ßֱַ +%d	SA
+TOOLTIP_ITEM_ATT_GRADE	Þםדֹ ַבוּזד %d
+TOOLTIP_ITEM_ATT_POWER	Þםדֹ ַבוּזד %d - %d
+TOOLTIP_ITEM_ATT_POWER_ONE_ARG	Þםדֹ ַבוּזד %d
+TOOLTIP_ITEM_ATT_POWER_REFINE	Þםדֹ ַבוּזד %d - %d (+%d)
+TOOLTIP_ITEM_ATT_SPEED	׃ׁÚֹ ַבוּזד %s
+TOOLTIP_ITEM_DEF_GRADE	ֿÝַÚ %d
+TOOLTIP_ITEM_FAST	׃ׁםÚ
+TOOLTIP_ITEM_DURABILITY	Shelf life: %2f%%
+TOOLTIP_ITEM_LIMIT_CON	ַבֽֿ ַבֳÞױל דה Þזֹ ַבֽםַֹ: %d
+TOOLTIP_ITEM_LIMIT_DEX	ַבֽֿ ַבֳÞױל בבדהַזֹׁ: %d
+TOOLTIP_ITEM_LIMIT_INT	ַבֽֿ ַבֳÞױל בב׀ßֱַ: %d
+TOOLTIP_ITEM_LIMIT_LEVEL	ַָÊֱַֿ דה ַבד׃Êזל: %d
+TOOLTIP_ITEM_LIMIT_STR	ַבֽֿ ַבֳÞױל בבÞזֹ: %d
+TOOLTIP_ITEM_MAGIC_ATT_POWER	Þםדֹ ַבוּזד ַב׃ֽׁם %d - %d
+TOOLTIP_ITEM_MAGIC_ATT_POWER_ONE_ARG	Þםדֹ ַבוּזד ַב׃ֽׁם %d
+TOOLTIP_ITEM_MAGIC_DEF_POWER	ַבֿÝַÚ ַב׃ֽׁם %d
+TOOLTIP_APPLY_MAGIC_ATTBONUS_PER	Magic attack +%d%%
+TOOLTIP_APPLY_MELEE_MAGIC_ATTBONUS_PER	Magic/Melee attack +%d%%
+TOOLTIP_ITEM_NORMAL	״ָםÚם
+TOOLTIP_ITEM_SLOW	ָ״םֱ
+TOOLTIP_ITEM_VERY_FAST	׃ׁםÚ ַּֿנ
+TOOLTIP_ITEM_VERY_SLOW	ָ״םֱ ַּֿנ
+TOOLTIP_ITEM_WEARABLE_JOB	[Þַָב בבÊּוםׂ]
+TOOLTIP_LOTTERY_STEP_NUMBER	%d
+TOOLTIP_LOTTO_NUMBER	ׁÞד ַבֽÙ: %d
+TOOLTIP_MAGIC_ATT_GRADE	Þםדֹ ַבוּזד ַב׃ֽׁם +%d	SA
+TOOLTIP_MAGIC_DEF_GRADE	ֿÝַÚ ׃ֽׁם +%d	SA
+TOOLTIP_MALL_ATTBONUS	Þםדֹ ַבוּזד +%d%%	SA
+TOOLTIP_MALL_ATTBONUS_STATIC	
+ACCE_WINDOW_ONLY_WEAPONS	You can only absorb weapons.
+TOOLTIP_MALL_AUTOLOOT	׃םÊד ÊבÞֶַםַנ Ê׃ּםב ַבםַהÛ.	SNA
+TOOLTIP_MALL_DEFBONUS	ַבֿÝַÚ +%d%%	SA
+TOOLTIP_MALL_DEFBONUS_STATIC	ֿÝַÚ 	SNA
+TOOLTIP_MALL_EXPBONUS	הÞַ״ ַב־ָֹׁ +%d%%	SA
+TOOLTIP_MALL_EXPBONUS_STATIC	50% הÞַ״ ־ָֹׁ ֵײַÝםֹ	SNA
+TOOLTIP_MALL_FISH_MIND	ַׁÊÝַÚ הַּֽ Ýׁױ ױםֿ ַב׃דß.	SNA
+TOOLTIP_MALL_GOLDBONUS	ֵׁÊÝÚÊ Ýׁױ ֵ׃Þַ״ ַבםַהÛ ָדÞַֿׁ %d%%	SA
+TOOLTIP_MALL_GOLDBONUS_STATIC	Ýׁױ דײַÚÝֹ Ýם ֵ׃Þַ״ ַבםַהÛ	SNA
+TOOLTIP_MALL_ITEMBONUS	ֵׁÊÝÚÊ Ýׁױ ֵ׃Þַ״ ַבֳװםֱַ ָדÞַֿׁ %d%%	SA
+TOOLTIP_MALL_ITEMBONUS_STATIC	Ýׁױס דץײַÚÝֹ Ýם ֵ׃Þַ״ ַבֳװםֱַ	SNA
+TOOLTIP_MALL_MARRIAGE_FAST	ׂםַֹֿ הÞַ״ ַבָֽ ָ׃ׁÚֹ ֳßָׁ.	SNA
+TOOLTIP_MALL_SAFEBOX	ÊזÝםׁ ד׃ַֹֽ ֳßָׁ בבÊ־ׂםה.	SNA
+TOOLTIP_MAX_HP	הÞַ״ ַבֽםַֹ ַבÞױזל +%d	SA
+TOOLTIP_MAX_HP_PCT	הÞַ״ ַבֽםַֹ ַבÞױזל +%d%%	SA
+TOOLTIP_MAX_SP	הÞַ״ ַבֳ׃בזָ ַבÞױזל +%d	SA
+TOOLTIP_MAX_SP_PCT	הÞַ״ ַבֳ׃בזָ ַבÞױזל +%d%%	SA
+TOOLTIP_MAX_STAMINA	דֹֿ ַבÊֽדב ַבÞױזל +%d	SA
+TOOLTIP_MEMORIZED_POSITION	%s(%d¡ %d)
+TOOLTIP_MEMORIZED_POSITION_ERROR	־״ֳ GPS(%d, %d)
+TOOLTIP_MOV_SPEED	׃ׁÚֹ ַבÊֽׁß %d%%	SA
+TOOLTIP_NECK	Þבַֹֿ
+TOOLTIP_NEED_ALL_SP	הÞַ״ ַבֳ׃בזָ ַבד״בזָֹ: ַבֽֿ ַבֳÞױל
+TOOLTIP_NEED_GSP	װָֽ ַבÊהםה ַבד״בזָ: %d
+TOOLTIP_NEED_HP	הÞַ״ ַבֽםַֹ ַבד״בזָֹ: %d
+TOOLTIP_NEED_HP_PER_SEC	הÞַ״ ַבֽםַֹ / Ýם ַבַֻהםֹ: %d
+TOOLTIP_NEED_SKILL_POINT	הÞַ״ ַבדוַֹׁ ַבד״בזָֹ:
+TOOLTIP_NEED_SP	הÞַ״ ַבֳ׃בזָ ַבד״בזָֹ: %d
+TOOLTIP_NEED_SP_PER_SEC	הÞַ״ ַבֳ׃בזָ / ַבַֻהםֹ: %d
+TOOLTIP_NEXT_SKILL_LEVEL_1	ַבד׃Êזל ַבÊַבם: %d (ַבֽֿ ַבֳÞױל %d)
+TOOLTIP_NEXT_SKILL_LEVEL_2	ַבד׃Êזל ַבÊַבם: %d (ַבֽֿ ַבֳÞױל %d-%d)
+TOOLTIP_NORMAL_HIT_DAMAGE_BONUS	דÚֿב ַבײׁׁ %d%%	SA
+TOOLTIP_NORMAL_HIT_DEFEND_BONUS	דÚֿב דÞַזדֹ ַבֳײַׁׁ %d%%	SA
+TOOLTIP_PARTY_INFO_GRADE_UP1	ֳÚײֱַ ַבדּדזÚֹ ֳßֻׁ דה %d
+TOOLTIP_PARTY_INFO_GRADE_UP2	ד׃Êזל ַבוּזד +%d
+TOOLTIP_PARTY_INFO_GRADE_UP3	ד׃Êזל ַבֿÝַÚ +%d
+TOOLTIP_PARTY_INFO_HEAL_18_LEVEL	ַ׃ÊÚַֹֿ הÞַ״ ַבֽםַֹ/הÞַ״ ַבֳ׃בזָ בּדםÚ ֳÚײֱַ ַבדּדזÚֹ דֹׁ ßב 60 ֿÞםÞֹ.
+TOOLTIP_PARTY_INFO_HEAL_40_LEVEL	ַ׃ÊÚַֹֿ הÞַ״ ַבֽםַֹ/הÞַ״ ַבֳ׃בזָ בּדםÚ ֳÚײֱַ ַבדּדזÚֹ דֹׁ ßב 30 ֿÞםÞֹ.
+TOOLTIP_PARTY_INFO_RECALL_12_LEVEL	Úבםß ַהÊÙַׁ 3 ֿÞֶַÞ ָÚֿ דזÊ ֳֽֿ ֳÚײֱַ ַבדּדזÚֹ.
+TOOLTIP_PARTY_INFO_RECALL_20_LEVEL	Ê׃Ê״םÚ Ýם ֳם זÞÊ ַ׃ÊֿÚֱַ ֳÚײֱַ ַבדּדזÚֹ Úבל הÝ׃ ַב־ַֿד.
+TOOLTIP_PARTY_INFO_SET_ATTACKER	ד׃Êזל ַבוּזד +(ֳÚײֱַ ַבדּדזÚֹ\2) םדßה ַ־Êםַׁ ַבדוַּדםה %d.
+TOOLTIP_PARTY_INFO_SET_TANKER	דֽׁבֹ ַבֿÝַÚ+(Úֿֿ ֳÚײֱַ ַבדּדזÚֹ) םדßה ַ־Êםַׁ 1 דÞַÊב Úה Þָׁ.
+TOOLTIP_PARTY_SKILL_LEVEL	ַבד׃Êזל ַבַֽבם: %d
+TOOLTIP_PARTY_TITLE_GRADE_UP	[Êֽ׃םה וּזד/ֿÝַÚ]
+TOOLTIP_PARTY_TITLE_HEAL	[ַ׃ÊÚַֹֿ]
+TOOLTIP_PARTY_TITLE_INFO_BONUS_EXP	ֳßֻׁ דה %d דה ֳÚײֱַ ַבדּדזÚֹ ֳ־׀זַ הÞַ״ ־ָֹׁ ֵײַÝםֹ %d%%.
+TOOLTIP_PARTY_TITLE_MEMBER_BONUS_EXP	[הÞַ״ ־ָֹׁ ֵײַÝםֹ]
+TOOLTIP_PARTY_TITLE_RECALL	[ַ׃ÊֿÚֱַ]
+TOOLTIP_PARTY_TITLE_SET_ATTACKER	[Êֽֿםֿ ַבדוַּדםה]
+TOOLTIP_PARTY_TITLE_SET_TANKER	[ÊÚםםה דַָֽׁ בבÞÊַב Úה Þָׁ]
+TOOLTIP_PICK_EXP	הÞַ״: %d / %d
+TOOLTIP_PICK_LEVEL	ַבד׃Êזל: %d
+TOOLTIP_PICK_UPGRADE1	Þֿרדוַ בבֽ״ַָ
+TOOLTIP_PICK_UPGRADE2	בßם Êֽױב
+TOOLTIP_PICK_UPGRADE3	Úבל דהßַװ ֳÝײב דהו.
+TOOLTIP_POTION_CURE	ֵÚַֹֿ ַבÊֳֻםַׁÊ ַב׃בָםֹ.
+TOOLTIP_POTION_MIN	ֿÞםÞֹ
+TOOLTIP_POTION_PLUS_ATTACK_SPEED	׃ׁÚֹ ַבוּזד +%d
+TOOLTIP_POTION_PLUS_HP_PERCENT	הÞַ״ ַבֽםַֹ +%d%%
+TOOLTIP_POTION_PLUS_HP_POINT	הÞַ״ ַבֽםַֹ +%d
+TOOLTIP_POTION_PLUS_MOVING_SPEED	׃ׁÚֹ ַבÊֽׁß +%d
+TOOLTIP_POTION_PLUS_SP_PERCENT	הÞַ״ ַבֳ׃בזָ +%d%%
+TOOLTIP_POTION_PLUS_SP_POINT	הÞַ״ ַבֳ׃בזָ +%d
+TOOLTIP_POTION_SEC	ַֻהםֹ
+TOOLTIP_POTION_TIME	דֹֿ:
+TOOLTIP_REQUIREMENT_21_LEVEL	םָּ ֳה Êßזה Þֿ ָבÛÊ ַבד׃Êזל 21.
+TOOLTIP_REQUIREMENT_41_LEVEL	םָּ ֳה Êßזה Þֿ ָבÛÊ ַבד׃Êזל 41
+TOOLTIP_REQUIREMENT_LEVEL	םָּ ֳה Êßזה Þֿ ָבÛÊ ַבד׃Êזל %d
+TOOLTIP_REQUIREMENT_SKILL_LEVEL	%s ד׃Êזל %d ד״בזָ
+TOOLTIP_REQUIREMENT_STAT_LEVEL	%s %d ד״בזָֹ
+TOOLTIP_RESIST_BOW	דÞַזדֹ ַב׃וד %d%%	SA
+TOOLTIP_RESIST_ELEC	דÞַזדֹ ַבָׁÞ %d%%	SA
+TOOLTIP_RESIST_FIRE	דÞַזדֹ ַבהַׁ %d%%	SA
+TOOLTIP_RESIST_MAGIC	דÞַזדֹ ַב׃ֽׁ %d%%	SA
+TOOLTIP_REST_USABLE_COUNT	דÊָÞם: %d
+TOOLTIP_SELLPRICE	׃Úׁ: %s
+TOOLTIP_SHAMAN	װַדַה
+TOOLTIP_SHIELD	ֿׁÚ
+TOOLTIP_SHOES	ֽ׀ֱַ
+TOOLTIP_SKILL	דוַֹׁ	SNA
+TOOLTIP_SKILLBOOK_NAME	ßÊַָ ַבדוַַׁÊ
+TOOLTIP_SKILL_AFFECT_ATT_GRADE	Þםדֹ ַבוּזד: +
+TOOLTIP_SKILL_AFFECT_ATT_POWER	Þםדֹ ַבוּזד:
+TOOLTIP_SKILL_AFFECT_ATT_SPEED	׃ׁÚֹ ַבוּזד: +
+TOOLTIP_SKILL_AFFECT_DEF_GRADE	ֿÝַÚ:
+TOOLTIP_SKILL_AFFECT_DODGE	Þםדֹ וּזד ַבÚֿז: -
+TOOLTIP_SKILL_AFFECT_HEAL	ַ׃ÊÚַֹֿ הÞַ״ ַבֽםַֹ:
+TOOLTIP_SKILL_AFFECT_MOV_SPEED	׃ׁÚֹ ַבÊֽׁß: +
+TOOLTIP_SKILL_AFFECT_REFLECT_MELEE	Ýׁױֹ Úß׃ וּזד Úה Þָׁ:
+TOOLTIP_SKILL_AFFECT_RESIST_NORMAL	דÞַזדֹ ײֿ ַבֳײַׁׁ ַבּ׃ֿםֹ:
+TOOLTIP_SKILL_COOL_TIME	דֹֿ ַבװֽה: 
+TOOLTIP_SKILL_DAMAGE_BONUS	ֳײַׁׁ ַבדוַֹׁ %d%%	SA
+TOOLTIP_SKILL_DEFEND_BONUS	דÞַזדֹ ײֿ ֳײַׁׁ ַבדוַֹׁ %d%%	SA
+TOOLTIP_SKILL_DURATION	ַבדֹֿ:  %d ַֻהםֹ
+TOOLTIP_SKILL_FORGET_BOOK_NAME	ßÊַָ ַבה׃םַה
+TOOLTIP_SKILL_LEVEL	ַבד׃Êזל ַבַֽבם: %d
+TOOLTIP_SKILL_LEVEL_MASTER	ַבד׃Êזל ַבַֽבם: %d (ַב־ָםׁ)
+TOOLTIP_SKILL_LEVEL_WITH_MAX	ַבד׃Êזל ַבַֽבם: %d (ַבֽֿ ַבֳÞױל %d)
+TOOLTIP_SOCKET_EMPTY	ÝַׁÛ
+TOOLTIP_SOCKET_REFINABLE_ITEM	[װםֱ דÚ דÞָ׃]
+TOOLTIP_SP_REGEN	Êּֿםֿ הÞַ״ ַבֳ׃בזָ +%d%%	SA
+TOOLTIP_STR	Þזֹ +%d	SA
+TOOLTIP_SURA	׃זַׁ
+TOOLTIP_UNIQUE	Ýׁםֿ דה הזÚו
+V	דַָֽׁ
+TOOLTIP_WEAPON	׃בַֽ
+TOOLTIP_WRISTLET	׃זַׁ
+UI_ACCEPT	דזַÝÞ
+UI_CANCEL	ֵבÛֱַ
+UI_CLOSE	ֵÛבַÞ
+UI_DEF_FONT	Tahoma:16
+UI_DEF_FONT_LARGE	Tahoma:16
+UI_DEF_FONT_SMALL	Tahoma:14
+UI_DENY	ׁÝײ
+UI_ITEM	װםֱ
+UI_LEFT_TIME	ַבזÞÊ ַבדÊָÞם: %d ַֻהםֹ
+UI_NEXT	ַבÊַבם
+UI_NOCONTENTS	ָֿזה דץֽÊזל
+UI_NONAME	בַ םזּֿ ַ׃ד
+UI_OK	דזַÝÞ
+UI_POS_UNKNOWN	דßַה Ûםׁ דÚׁזÝ
+UI_UNKNOWN	Ûםׁ דÚׁזÝ
+UPLOAD_MARK_CHECK_NEED_RECONNECT	Úבםß ֵÚַֹֿ ַבÊֽדםב דה ּֿםֿ.
+UPLOAD_MARK_UPLOAD_NEED_RECONNECT	Úבםß ֵÚַֹֿ ַבÊֽדםב דה ּֿםֿ.
+USE_ITEM_FAILURE_PRIVATE_SHOP	בַ םדßהß ַ׃ÊÚדַב ֳם װםֱ¡ ״ַבדַ ֳהß Êדבß דÊַּׁנ װ־ױםַנ.
+USE_SKILL_ERROR_UNKNOWN	־״ֳ דּוזב Ýם ַבדוַֹׁ: %s
+TIME_DAY	Day
+TIME_DAYS	Days
+TIME_S_HOUR	Hour
+TIME_HOUR	Hour
+TIME_HOURS	Hours
+TIME_MINUTE	minute
+TIME_MINUTES	minutes
+TIME_S_MIN	Min.
+TIME_S_SEC	Sec.
+TIME_SEC	second
+TIME_SECS	seconds
+TIME_AND	and
+UNIQUE_POPUP_DIALOG_NEVER_SHOW_AGAIN	Do not show again
+SKILLBOOK_INVENTORY_POPUP_INFO	You can find your skill books in the FB warehouse, which is opened via the button in the inventory (Itemshop).
+LOGIN_FAILURE_VERSION_CHECK	Your client is not up to date. [ENTER] The client will now close and start the patcher. After the patcher has downloaded all the files, you can log in again.
+SKILL_BLEEDING	הׂתÝ
+AFFECT_RED_POSSESSION	Purpurwolfseele
+AFFECT_BLUE_POSSESSION	Indigowolfseele
+TOOLTIP_APPLY_ATTBONUS_WOLFMAN	Þזם ײֿ ַבברםßַהׁ + %d%%	SA
+TOOLTIP_APPLY_BLEEDING_PCT	וּזד דץהׂÝ + %d%%	SA
+TOOLTIP_APPLY_BLEEDING_REDUCE	דÞַזדֹ ײֿ ַבוּזד ַבדץהׂÝ + %d%%	SA
+TOOLTIP_APPLY_RESIST_WOLFMAN	Ýׁױ ַבֿÝַÚ ײֿ וּזד ַבברםßַהׁ %d%%	SA
+TOOLTIP_APPLY_RESIST_CLAW	ֿÝַÚ ד־בָם +%d%%	SA
+TOOLTIP_WOLFMAN	בםßַהׁ
+JOB_WOLFMAN	בםßַהׁ
+JOB_WOLFMAN0	בםßַהׁ וַזם
+JOB_WOLFMAN1	Ûׁםֹׂ
+JOB_WOLFMAN2	Ûםׁ דÊַֽ
+TOOLTIP_APPLY_ACCEDRAIN_RATE	Þםדֹ ַבַ׃ÊםÚַָ: %d%%	SA
+CUBE_STONE_MATERIAL_RANGE	Stone +%d - +%d
+CUBE_STONE_MATERIAL_SINGLE	Stone +%d
+MAINTENANCE_DESCRIPTION	<TEXT text="Server maintenance in " font_size="LARGE"><TEXT text="%s" r=255 g=0 b=0 font_size="LARGE"><TEXT text=" estimated Duration: %s" font_size="LARGE">
+GUILD_SAFEBOX_LOG_TEXT_CREATE	<TEXT text="%s" color="0xFFCAA76F"> has acquired the Guildstorage.
+GUILD_SAFEBOX_LOG_TEXT_ITEM_GIVE	<TEXT text="%s" color="0xFFCAA76F"> has stored <TEXT text="%d" color="0xFFCAA76F">x %s.
+GUILD_SAFEBOX_LOG_TEXT_ITEM_TAKE	<TEXT text="%s" color="0xFFCAA76F"> has removed <TEXT text="%d" color="0xFFCAA76F">x %s.
+GUILD_SAFEBOX_LOG_TEXT_GOLD_GIVE	<TEXT text="%s" color="0xFFCAA76F"> has deposited <TEXT text="%s" color="0xFFCAA76F"> Yang.
+GUILD_SAFEBOX_LOG_TEXT_GOLD_TAKE	<TEXT text="%s" color="0xFFCAA76F"> has removed <TEXT text="%s" color="0xFFCAA76F"> Yang.
+GUILD_SAFEBOX_LOG_SIZE	<TEXT text="%s" color="0xFFCAA76F"> Has the size of the storage on <TEXT text="%d" color="0xFFCAA76F"> Pages expanded.
+LOGIN_CHANGE_LANGUAGE_RESTART_CLIENT	You changed the language. The client will now restart to accept the change.
+WHISPER_OFFLINE_ACCEPT_TEXT	Send
+WHISPER_OFFLINE_CANCEL_TEXT	ַבÛֱַ
+WHISPER_OFFLINE_MESSAGE_QUESTION	%s is currently offline. [ENTER] Do you want to send an offline message so that it gets the message as soon as it is online? [Enter] An offline message costs 15,000 Yang.
+WHISPER_OFFLINE_MESSAGE_QUESTION_GM	%s is currently offline. [ENTER] Do you want to send an offline message so that it gets the message as soon as it is online?
+ITEM_REFUND_WINDOW_TITLE	Items restored
+ITEM_REFUND_DESCRIPTION1	You seem to have lost items because of an error that has now been restored.
+ITEM_REFUND_DESCRIPTION2	The following items have been restored:
+SHOP_OFFLINE_TAKE_MONEY_DISPLAY	Take %s
+SHOP_OFFLINE_TAKE_MONEY_QUESTION	How much do you want to take out?
+SHOP_CANNOT_TAKE_OFFLINE_SHOP_MONEY	You can't take off as much as your Yang would cross the max limit.
+SHOP_CANNOT_TAKE_OFFLINE_SHOP_MONEY_NO_MONEY	You don't have a yang in the offline store.
+OFFLINE_SHOP_INPUT_PRICE_INFO_TEXT	Enter the price for %s:
+OFFLINE_SHOP_CANNOT_CLOSE_TAKE_ITEMS	You have to take out all the items first.
+OFFLINE_SHOP_CANNOT_CLOSE_TAKE_MONEY	You have to take the yang off first.
+MONEY_INPUT_DIALOG_RECVPRICE	You get: %s (%d%% tax)
+MONEY_INPUT_DIALOG_SELLPRICE	׃Úׁ ַבָםÚ:
+OFFLINE_SHOP_TIMEOUT_TEXT_TIMEOUT	Expired
+RESIST_HUMAN	Half-Human Resistance
+RESIST_MONSTER	Monster Resistance
+OFFLINE_SHOP_TIMEOUT_TEXT	%s
+SKILL_DEFEND_BONUS	דÞַזדֹ ַבדוַַׁÊ
+NORMAL_HIT_DEFEND_BONUS	דÞַזדֹ דÚֿב ַבײׁׁ
+OFFLINE_SHOP_TIMEOUT_TEXT_NOTIMEOUT	Permanent
+DO_YOU_REALLY_BUY	Do you really want to buy %s for[ENTER]%s %s?
+OFFLINE_SHOP_ITEM_DISABLED	This feature is currently disabled in the mobile offline store due to an error. Once the bug has been fixed, the feature will be activated again.
+OFFLINE_SHOP_CLOSE_QUESTION	Do you want to close the offline store?
+SHOP_CANNOT_INSERT_ITEM_OFFLINE_SHOP_TIMEOUT	The offline store has already expired. You have to open a new one to sell more items.
+UI_PREVPAGE	ַב־בÝ
+UI_NEXTPAGE	ÊַָÚ
+PET_STAT_MAIN	Default Bonus: %s
+PET_STAT_POINTS	<TEXT color="0xFFDE8A31" text="Punkte |">%d<TEXT color="0xFFDE8A31" text="|">
+TOOLTIP_APPLY_PET_EXP_BONUS	Pet-Erfahrung +%d%%	SA
+TOOLTIP_APPLY_RESIST_MONSTER	ֿÝַÚ ײֿ ַבזֽזװ +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_METIN	Strong against Metinstone +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_BOSS	Strong against bosses +%d%%	SA
+SIDEBAR_TOOLTIP_SHOP	Offline-Shop
+SIDEBAR_TOOLTIP_GUILD_SAFEBOX	Guildstorage
+SIDEBAR_TOOLTIP_MOUNT	Mount Overview
+SIDEBAR_TOOLTIP_PET	Pet Overview
+SIDEBAR_TOOLTIP_SAFEBOX	Storage
+TOOLTIP_ITEM_NO_TRADE	This item is not tradable.
+TOOLTIP_ITEM_NO_DESTROY	This item is not destructive.
+ITEM_DROP_OR_DESTROY_BTN_DESTROY	Destroy
+ITEM_DROP_OR_DESTROY_BTN_DROP	Drop
+CANNOT_DESTROY_ITEM	This item cannot be destroyed.
+SWITCHBOT_MAX_USE_SWITCHER_UNLIMITED	Unlimited
+SWITCHBOT_MAX_USE_QUESTION_TITLE	Max Switcher
+SWITCHBOT_MAX_USE_QUESTION_DESC	Specify the maximum number of switches (0 = unlimited):
+SIDEBAR_TOOLTIP_SWITCHBOT	Switchbot
+STAT_TOOLTIP_CON10	Increases 10x HTP and defense
+STAT_TOOLTIP_DEX10	Increases 10x attack and evasion
+STAT_TOOLTIP_INT10	Increases 10x SP, magic Attack and Defense.
+STAT_TOOLTIP_STR10	Increases 10x attack value and damage
+TOOLTIP_VOTE4BUFF	Vote4Buff	SNA
+TOOLTIP_ALIGNMENT_GOOD	ַבדׁÊָֹ: + 5 

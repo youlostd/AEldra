@@ -1,0 +1,112 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/costumes.tga]
+[CENTER_ALIGN]A kosztümök értékes részei a karakterednek, és hasznos bónuszokat rakhatsz beléjük. 
+[CENTER_ALIGN]A kosztümöket a kosztüm rendszer ablakban használhatod, melyet az 
+[CENTER_ALIGN]leltáradban láthatsz
+
+[COLOR=0xffd700;FONT_SIZE=15]Tartalom:
+*1. Általános információk
+*2. Páncél kosztüm bónuszok
+*3. Fegyver kosztüm bónuszok
+*4. Haj kosztüm bónuszok
+*5. Hátas kosztümök
+*6. Hogyan transzfereld a bónuszokat
+*7. Hogyan távolítsd el a bónuszokat
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=160; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Általános információk
+
+Egy kosztüm maximum 5 bónuszt tartalmazhat. Az elsõ 3 bónuszt ezekkel adhatod hozzá: 
+Reinforce Weapon Costume(), Reinforce Armor Costume() & Reinforce Hairstyle ().
+
+A 4. és 5. bónuszt ezekkel: 
+Reinforce Weapon Costume+ (), Reinforce Armor Costume+ (), Reinforce Hairstyle+ ().
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=280; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Páncél kosztüm bónuszok
+
+*Max. HP: 2000, 2500, 3000
+*Kard ellenállás: 10%
+*Kétkezes ellenállás: 10%
+*Tör ellenállás: 10%
+*Nyíl ellenállás: 10%
+*Harang ellenállás: 10%
+*Legyezõ ellenállás: 10%
+*Mágia ellenállás: 10%
+*Közelharci támadás kivédése: 10%
+*Esély a nyilak elkerülésére: 10 %
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=460; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Fegyver kosztüm bónuszok
+
+*Életerõ: +12
+*Intelligencia: +12
+*Erõ: +12
+*Ügyesség: +12
+*Félemberek elleni erõ: 10%
+*Esély a kritikus találatra: 10%
+*Esély az átható találatra: 10%
+*Állatok elleni erõ: 20 %
+*Orkok elleni erõ: 20 %
+*Ezotérikusok elleni erõ: 20 %
+*Ördögök elleni erõ: 20 %
+*Nemhalottak elleni erõ: 20 %
+*Bossok elleni erõ: 10,15,20 %
+*Szörnyek elleni erõ: 10,15,20 %
+*Metinek elleni erõ: 10,15,20 %
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=710; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]4. Haj kosztüm bónuszok
+
+*Max. HP: 1500
+*SFélemberek elleni erõ: 5%
+*Állatok elleni erõ: 10 %
+*Orkok elleni erõ: 10 %
+*Ezotérikusok elleni erõ: 10 %
+*Ördögök elleni erõ: 10 %
+*Nemhalottak elleni erõ: 10 %
+*Kard áttörés: 5%
+*Kétkezes áttörés: 5%
+*Tör áttörés: 5%
+*Nyíl áttörés: 5%
+*Harang áttörés: 5%
+*legyezõ áttorés: 5%
+*Méreg ellenállás: 10%
+*Bossok elleni erõ: 10,15,20 %
+*Szörnyek elleni erõ: 10,15,20 %
+*Metinek elleni erõ: 10,15,20 %
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=980; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]5. Hátas kosztümök
+
+A hátas kosztümök nem ruháznak fel semmiféle bónusszal, de szebbé teszik a hátasodat.
+Némelyik, jelentõs mozgási sebességet biztosít. 
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=1080; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]6. Hogyan transzfereld a bónuszokat
+
+Átviheted a bonuszokat egy másik skinre, Costume Bonus Transfer használatával.
+A bal oldali kosztüm üres lesz, és a jobb oldaliba kerülnek a bónuszok. 
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=1165; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]7. Hogyan távolítsd el a bónuszokat
+
+Eltávolíthatod a bónuszokat Remove Costume Bonus tárggyal. Ez 1 darab általad választott 
+bónuszt távolít el a kosztümbõl. Nem kapod vissza a kivett bónuszt! 
+
+
+

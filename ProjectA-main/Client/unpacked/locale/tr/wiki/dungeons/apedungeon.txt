@@ -1,0 +1,28 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/apedungeon.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Gereksinimler:
+*Seviye Aralığı: 35 - 60
+*Giriş Eşyası: Maymun Otu
+[IMG=d:/ymir work/ui/wiki/rahmen.tga; Y=5; X=460]
+[IMG=d:/ymir work/ui/wiki/31064.tga; Y=15; X=482]
+
+
+[X_PADDING=467]Maymun Otu
+[COLOR=0xffd700;FONT_SIZE=15]Özellikler:
+*Maymun Sığınağı, 1 saat bekleme süresine sahiptir.
+*Maymun Sığınağı'na grup halinde ya da bireysel olarak girilebilir.
+*Maymun Sığınağı görevi, 60 dakika içerisinde tamamlanmalıdır.
+*Her oyuncu Maymun Otu'na sahip olmalıdır.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=148; CENTER_ALIGN]
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 1
+
+[X_PADDING=20]Odadaki 6 Metin Taşını yok et.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]Aşama 2
+
+[X_PADDING=20]Maymun Lordunu ve yoldaşlarını öldür!
+[IMG=d:/ymir work/ui/wiki/Affen-Lord.tga; Y=160; X=320]

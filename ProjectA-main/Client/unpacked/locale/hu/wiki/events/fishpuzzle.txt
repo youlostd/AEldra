@@ -1,0 +1,46 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/fichpuzzle.tga]
+[CENTER_ALIGN;FONT_SIZE=18]Halkirakó
+
+[COLOR=0xffd700;FONT_SIZE=15]Tartalom:
+*1. Általános információk
+*2. Event leírása
+*3. Jutalmak
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=110; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Általános információk
+
+Az event csak Level 30 felettieknek van.
+Kell hogy legyen nálad Horgászbot és Kenőcs vagy Giliszta.
+Jobb felső sarokban megtalálhatod az event gombot, ahol használhatod a puzzle darabjaidat.
+Az event ideje alatt, minden egyes hal fogásért kapsz 5 darab puzzle ládát.
+Ha Halász könyvet használsz, van esélyed hogy egy deluxe Hal Ládát kapj. 
+(A Halász könyvét megveheted az Itemshopból 3 órára.) A sima hal láda, véletlenszerű puzzla darabkát tartalmaz 
+A deluxe láda, egy nagyobb puzzle darabkát tartalmaz.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=250; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Event leírása
+
+A cél, hogy kitöltsd az összes üres helyet, puzzle darabokkal, minnél kevesebb lépésből.
+Bal kattintással nyitod ki a ládát.
+Az alsó helyre a rendes puzzle ládák mennek, a felsőbe a deluxe ládák.
+Bal kattintás a ládára hogy kinyisd. Húzd a kívánt darabot az általad választott helyre. 
+Jobb kattintás hogy eldobd azt a darabot ami nem tetszik, vagy nem illik a helyre.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=380; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Jutalmak
+
+Ha megcsináltad a puzzlet, kapsz 30,000 tapasztalati pontot.
+Attól függően, hány lépésből oldottad meg, 1-3 ládát kaphatsz.
+Minnél kevesebb lépésből sikerül, annél jobb jutalomban részesülsz.
+
+*10 vagy kevesebb: 3x Arany Hal Láda (L).
+*11 - 24: 2x Arany Hal Láda (L).
+*25 - vagy több: 1x Arany Hal Láda (L).
+
+

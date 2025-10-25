@@ -1,0 +1,44 @@
+
+BANNER_IMG = d:/ymir work/ui/wiki/banners/caveofcrystal.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Cerinte:
+*Nivel necesar: 115
+*Ticket de intrare: Cuart Blestemat Rosu
+[RIGHT_ALIGN]Red Hell Quartz
+[IMG=d:/ymir work/ui/wiki/31006.tga; Y=5; X=490]
+
+
+[COLOR=0xffd700;FONT_SIZE=15]Specificatii:
+*Pestera dragonului de cristal are un cooldown de 180 de minute.
+*In dungeon se poate intra cu sau fara grup.
+
+[CENTER_ALIGN;FONT_SIZE=18]Nivele:
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=120; CENTER_ALIGN]
+
+[COLOR=ef4f00;FONT_SIZE=15]Nivelul 1
+[X_PADDING=20]Omoara toti monstrii apoi sparge pietrele metin.
+
+[COLOR=ef4f00;FONT_SIZE=15]Nivelul 2
+[X_PADDING=20]Ucide toti monstrii pentru a obtine Piatra Cheie, apoi distruge sigiliul.
+
+[COLOR=ef4f00;FONT_SIZE=15]Nivelul 3
+
+[X_PADDING=20]Infrange toti monstrii din acest nivel, apoi ucide Dragonul.
+[X_PADDING=20]Ai la dispozitie 10 minute pentru acest nivel.
+
+[COLOR=ef4f00;FONT_SIZE=15]Nivelul 4
+
+[X_PADDING=20]Distruge pietrele metin si obtine cheia corecta pentru a debloca sigiliul.
+[X_PADDING=20]Trage Cristalul Rosu pe sigiliu.
+
+[COLOR=ef4f00;FONT_SIZE=15]Nivelul 5
+
+[X_PADDING=20]Infrange toti monstrii din acest nivel pentru a trezii bossul.
+[X_PADDING=20]Ai 10 minute pentru a completa acest nivel.
+
+[COLOR=ef4f00;FONT_SIZE=15]Nivelul 6
+
+[X_PADDING=20]Infrange toti monstrii in acest nivel si apoi omoara Dinozaurul de Cristal.
+
+[COLOR=ef4f00;FONT_SIZE=15]Nivelul 7
+
+[X_PADDING=20]Distruge toate pietrele metin si apoi infrange-l pe Regele Dragonilor de Cristal.

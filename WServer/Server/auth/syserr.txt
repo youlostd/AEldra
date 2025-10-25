@@ -1,0 +1,55 @@
+SYSERR: Oct 19 01:18:32 :: socket_read: about to lose connection
+SYSERR: Oct 19 01:18:37 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+SYSERR: Oct 19 01:24:49 :: DBManager::AnalyzeReturnQuery: New Pass: 3ac5c74b9c0043c31ad2b18a38748e11651f89ac210d074b3cdc6fd380f325a8
+SYSERR: Oct 19 01:28:23 :: DBManager::AnalyzeReturnQuery: New Pass: 3ac5c74b9c0043c31ad2b18a38748e11651f89ac210d074b3cdc6fd380f325a8
+SYSERR: Oct 19 01:28:53 :: ping_event: no handshake response in time, dropping connection (ip: 127.0.0.1)
+SYSERR: Oct 19 01:29:45 :: DBManager::AnalyzeReturnQuery: New Pass: 3ac5c74b9c0043c31ad2b18a38748e11651f89ac210d074b3cdc6fd380f325a8
+SYSERR: Oct 19 01:31:50 :: DBManager::AnalyzeReturnQuery: New Pass: 3ac5c74b9c0043c31ad2b18a38748e11651f89ac210d074b3cdc6fd380f325a8
+SYSERR: Oct 19 01:32:00 :: DBManager::AnalyzeReturnQuery: New Pass: 142c073ed37bf1162b752ce3a9b649f691de64ed8742dcdc4cc68d58bf1cba48
+SYSERR: Oct 19 01:32:19 :: DBManager::AnalyzeReturnQuery: New Pass: 142c073ed37bf1162b752ce3a9b649f691de64ed8742dcdc4cc68d58bf1cba48
+SYSERR: Oct 19 01:41:39 :: DBManager::AnalyzeReturnQuery: New Pass: 3ac5c74b9c0043c31ad2b18a38748e11651f89ac210d074b3cdc6fd380f325a8
+SYSERR: Oct 19 01:46:20 :: socket_read: about to lose connection
+SYSERR: Oct 19 01:46:20 :: socket_read: about to lose connection
+SYSERR: Oct 19 01:54:34 :: DBManager::AnalyzeReturnQuery: New Pass: 3ac5c74b9c0043c31ad2b18a38748e11651f89ac210d074b3cdc6fd380f325a8
+SYSERR: Oct 19 01:55:27 :: DBManager::AnalyzeReturnQuery: New Pass: 3ac5c74b9c0043c31ad2b18a38748e11651f89ac210d074b3cdc6fd380f325a8
+SYSERR: Oct 19 01:56:30 :: DBManager::AnalyzeReturnQuery: New Pass: 92088bc80be6fd13dff9efed187819804055eb9cf95732eed4372d90529ce8f8
+SYSERR: Oct 19 01:56:33 :: DBManager::AnalyzeReturnQuery: New Pass: 142c073ed37bf1162b752ce3a9b649f691de64ed8742dcdc4cc68d58bf1cba48
+SYSERR: Oct 19 01:56:39 :: DBManager::AnalyzeReturnQuery: New Pass: 92088bc80be6fd13dff9efed187819804055eb9cf95732eed4372d90529ce8f8
+SYSERR: Oct 19 02:02:25 :: DBManager::AnalyzeReturnQuery: New Pass: 142c073ed37bf1162b752ce3a9b649f691de64ed8742dcdc4cc68d58bf1cba48
+SYSERR: Oct 19 02:02:31 :: DBManager::AnalyzeReturnQuery: New Pass: cf3833cac4e1413b607fb8a59f0700f6502ff55d5e87703805fab4f0d49cea6a
+SYSERR: Oct 19 02:02:35 :: DBManager::AnalyzeReturnQuery: New Pass: 3ac5c74b9c0043c31ad2b18a38748e11651f89ac210d074b3cdc6fd380f325a8
+SYSERR: Oct 19 02:03:44 :: DBManager::AnalyzeReturnQuery: New Pass: 3ac5c74b9c0043c31ad2b18a38748e11651f89ac210d074b3cdc6fd380f325a8
+SYSERR: Oct 19 02:04:09 :: DBManager::AnalyzeReturnQuery: New Pass: 3ac5c74b9c0043c31ad2b18a38748e11651f89ac210d074b3cdc6fd380f325a8
+SYSERR: Oct 19 02:05:20 :: DBManager::AnalyzeReturnQuery: New Pass: 142c073ed37bf1162b752ce3a9b649f691de64ed8742dcdc4cc68d58bf1cba48
+SYSERR: Oct 19 02:08:32 :: DBManager::AnalyzeReturnQuery: New Pass: 3ac5c74b9c0043c31ad2b18a38748e11651f89ac210d074b3cdc6fd380f325a8
+SYSERR: Oct 19 02:09:40 :: DBManager::AnalyzeReturnQuery: New Pass: 142c073ed37bf1162b752ce3a9b649f691de64ed8742dcdc4cc68d58bf1cba48
+SYSERR: Oct 19 02:09:51 :: DBManager::AnalyzeReturnQuery: New Pass: 92088bc80be6fd13dff9efed187819804055eb9cf95732eed4372d90529ce8f8
+SYSERR: Oct 19 02:12:29 :: DBManager::AnalyzeReturnQuery: New Pass: 6ff6d83e41c36d61486251ae986d451e70ef85bdb03141bad50f337e0d013637
+SYSERR: Oct 19 02:12:42 :: DBManager::AnalyzeReturnQuery: New Pass: 3ac5c74b9c0043c31ad2b18a38748e11651f89ac210d074b3cdc6fd380f325a8
+SYSERR: Oct 19 02:12:50 :: DBManager::AnalyzeReturnQuery: New Pass: 3ac5c74b9c0043c31ad2b18a38748e11651f89ac210d074b3cdc6fd380f325a8
+SYSERR: Oct 19 02:18:10 :: DBManager::AnalyzeReturnQuery: New Pass: 3ac5c74b9c0043c31ad2b18a38748e11651f89ac210d074b3cdc6fd380f325a8
+SYSERR: Oct 19 02:18:46 :: DBManager::AnalyzeReturnQuery: New Pass: 3ac5c74b9c0043c31ad2b18a38748e11651f89ac210d074b3cdc6fd380f325a8
+SYSERR: Oct 19 02:25:31 :: CAsyncSQL::ChildLoop: AsyncSQL: query failed: Can't connect to MySQL server on '127.0.0.1' (10061) (query: SELECT acc.id, LOWER(acc.login),PASSWORD('123'),acc.password,hwid_ban.from,TIMESTAMPDIFF(SECOND, NOW(), hwid_ban.expire),acc.social_id,acc.status,acc.availDt - NOW() > 0,TIME_TO_SEC(TIMEDIFF(acc.availDt, NOW())),UNIX_TIMESTAMP(acc.create_time), acc.hwid,IF(verified is null or verified = 1, 0, UNIX_TIMESTAMP(DATE_ADD(account_key.date, INTERVAL 3 DAY))),IFNULL(verified,3),IFNULL(TIMESTAMPDIFF(SECOND, NOW(), hwid_ban2.expire), 0),IFNULL(hwid_ban2.power, 0),IF(coins+special_coins > 0, 1, 0) FROM account AS acc LEFT JOIN hwid_ban ON hwid_ban.hwid = '5a58efd5e711b4d8d557110a566e888f' AND hwid_ban.expire > NOW()  LEFT JOIN hwid_ban2 ON hwid_ban2.hwid = 'DESKTOPVVQUHHH @ ismail' AND hwid_ban2.expire > NOW()  LEFT JOIN account_key ON account_key.id = acc.id AND account_key.hwid = '5a58efd5e711b4d8d557110a566e888f'  WHERE login='admin' errno: 2003)
+SYSERR: Oct 19 02:25:31 :: CAsyncSQL::ChildLoop: AsyncSQL: retrying
+SYSERR: Oct 19 02:32:57 :: CAsyncSQL::ChildLoop: MySQL connection was reconnected. querying locale set
+SYSERR: Oct 19 02:32:57 :: DBManager::AnalyzeReturnQuery: New Pass: 3ac5c74b9c0043c31ad2b18a38748e11651f89ac210d074b3cdc6fd380f325a8
+SYSERR: Oct 19 02:34:59 :: DBManager::AnalyzeReturnQuery: New Pass: 3ac5c74b9c0043c31ad2b18a38748e11651f89ac210d074b3cdc6fd380f325a8
+SYSERR: Oct 19 02:34:59 :: CAsyncSQL::DirectQuery: MySQL connection was reconnected. querying locale set
+SYSERR: Oct 19 02:46:49 :: CAsyncSQL::ChildLoop: AsyncSQL: query failed: Can't connect to MySQL server on '127.0.0.1' (10061) (query: SELECT acc.id, LOWER(acc.login),PASSWORD('123'),acc.password,hwid_ban.from,TIMESTAMPDIFF(SECOND, NOW(), hwid_ban.expire),acc.social_id,acc.status,acc.availDt - NOW() > 0,TIME_TO_SEC(TIMEDIFF(acc.availDt, NOW())),UNIX_TIMESTAMP(acc.create_time), acc.hwid,IF(verified is null or verified = 1, 0, UNIX_TIMESTAMP(DATE_ADD(account_key.date, INTERVAL 3 DAY))),IFNULL(verified,3),IFNULL(TIMESTAMPDIFF(SECOND, NOW(), hwid_ban2.expire), 0),IFNULL(hwid_ban2.power, 0),IF(coins+special_coins > 0, 1, 0) FROM account AS acc LEFT JOIN hwid_ban ON hwid_ban.hwid = '5a58efd5e711b4d8d557110a566e888f' AND hwid_ban.expire > NOW()  LEFT JOIN hwid_ban2 ON hwid_ban2.hwid = 'DESKTOPVVQUHHH @ ismail' AND hwid_ban2.expire > NOW()  LEFT JOIN account_key ON account_key.id = acc.id AND account_key.hwid = '5a58efd5e711b4d8d557110a566e888f'  WHERE login='admin' errno: 2003)
+SYSERR: Oct 19 02:46:49 :: CAsyncSQL::ChildLoop: AsyncSQL: retrying
+SYSERR: Oct 19 02:49:12 :: CAsyncSQL::ChildLoop: MySQL connection was reconnected. querying locale set
+SYSERR: Oct 19 02:49:12 :: DBManager::AnalyzeReturnQuery: New Pass: 3ac5c74b9c0043c31ad2b18a38748e11651f89ac210d074b3cdc6fd380f325a8
+SYSERR: Oct 19 02:49:12 :: CAsyncSQL::DirectQuery: MySQL connection was reconnected. querying locale set
+SYSERR: Oct 19 02:50:13 :: DBManager::AnalyzeReturnQuery: New Pass: 3ac5c74b9c0043c31ad2b18a38748e11651f89ac210d074b3cdc6fd380f325a8
+SYSERR: Oct 19 02:50:44 :: DBManager::AnalyzeReturnQuery: New Pass: 3ac5c74b9c0043c31ad2b18a38748e11651f89ac210d074b3cdc6fd380f325a8
+SYSERR: Oct 19 02:51:29 :: DBManager::AnalyzeReturnQuery: New Pass: 3ac5c74b9c0043c31ad2b18a38748e11651f89ac210d074b3cdc6fd380f325a8
+SYSERR: Oct 19 02:51:45 :: DBManager::AnalyzeReturnQuery: New Pass: 3ac5c74b9c0043c31ad2b18a38748e11651f89ac210d074b3cdc6fd380f325a8
+SYSERR: Oct 19 02:51:52 :: DBManager::AnalyzeReturnQuery: New Pass: 3ac5c74b9c0043c31ad2b18a38748e11651f89ac210d074b3cdc6fd380f325a8
+SYSERR: Oct 19 02:53:01 :: DBManager::AnalyzeReturnQuery: New Pass: 3ac5c74b9c0043c31ad2b18a38748e11651f89ac210d074b3cdc6fd380f325a8
+SYSERR: Oct 19 02:59:27 :: DBManager::AnalyzeReturnQuery: New Pass: 3ac5c74b9c0043c31ad2b18a38748e11651f89ac210d074b3cdc6fd380f325a8
+SYSERR: Oct 19 02:59:49 :: CEventManager::P2P_CloseEventRegistration: no running event data !!!
+SYSERR: Oct 21 02:41:52 :: DBManager::AnalyzeReturnQuery: New Pass: 3ac5c74b9c0043c31ad2b18a38748e11651f89ac210d074b3cdc6fd380f325a8
+SYSERR: Oct 21 02:43:30 :: DBManager::AnalyzeReturnQuery: New Pass: 3ac5c74b9c0043c31ad2b18a38748e11651f89ac210d074b3cdc6fd380f325a8
+SYSERR: Oct 21 02:46:57 :: CEventManager::P2P_CloseEventRegistration: no running event data !!!
+SYSERR: Oct 21 02:48:40 :: DBManager::AnalyzeReturnQuery: New Pass: 3ac5c74b9c0043c31ad2b18a38748e11651f89ac210d074b3cdc6fd380f325a8
+SYSERR: Oct 21 02:55:17 :: socket_read: about to lose connection

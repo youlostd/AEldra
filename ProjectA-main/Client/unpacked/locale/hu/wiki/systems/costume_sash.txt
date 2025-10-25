@@ -1,0 +1,114 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/costume_sash.tga]
+[CENTER_ALIGN]A pánt kosztüm egy értékes darabja a felszerelésednek, hiszen dekorálhatod a pántodat és hasznos bónuszokat is rakhatsz bele. 
+[CENTER_ALIGN]A pánt kösztümöt a kosztüm rendszer ablakban találod, melyet
+[CENTER_ALIGN]az inventoryd megnyitásával látsz. 
+
+[COLOR=0xffd700;FONT_SIZE=15]Tartalom:
+*1. Különbözõ típusú pánt kosztümök
+*2. Hogyan szerezz pánt kosztümöt
+*3. Hogyan kombináld õket
+*4. Bónuszok
+*5. Hogyan transzfereld a bónuszokat 
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=150; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Különbözõ típusú pánt kosztümök
+
+Mind a 12 Zodiákus bossnak van különbözõ pánt kosztümje, így hát a következõek elérhetõek: 
+Chen pánt, Chou pánt, Hai pánt, Mao pánt, Shen pánt, Si pánt, Wei pánt, Wu pánt, Xu pánt,
+Yin pánt, Yu pánt, Zi pánt.
+Ezeken felül néha vannak különleges pánt kosztümök vagy speciális ajánlatokba, vagy evenek alkalmából, mint pl Angel Wings, 
+Devil Wings, Sash of the Demon, Mindegyiknek 4 verziója van: (alap), (finom), (nemes), (egyedi).
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=265; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Hogyan szerezz pánt kosztümöt
+
+A pánt kosztümöket Theowahdan adja el, és kell hozzá 25db finom kelme, és 5 darab medáll, a megfelelõbõl.
+Például, a Hai pánthoz kell 5db Hai medál és 25 finom kelme. 
+A medálok az utolsó bossból esnek a zodiákus templomban. 
+A speciális pánt kosztümöket Speciális Tárgypiac ajánlatból lehet megszerezni, vagy eventeken. T 
+Az alap szinten kapod meg õket. 
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=395; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Hogyan kombináld õket
+
+A kombináci teljesen megegyezik a vállpánt kombinációval. 
+A pánt kosztümöknek megegyezõ minõségûeknek kell lenniük, hogy egy jobbat készíthess,
+de ez sem mindig sikeres. Ha ez történik, a második pánt megsemmisül. 
+A kombinációs ablak a "Kombináció" menüpontnál elérhetõ.
+Angel & Devil Wings is minden más pánt skinnel kombinálható, a lényeg hogy a minõségük megegyezõ legyen. 
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=525; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]4. Bónuszok
+
+Összesen 5 bónuszt rakhatsz beléjük, minõségtõl függõen. A bónuszokat az Álom & Ég kövekkel 
+tudod felszerelni. 
+
+[COLOR=ef4f00;FONT_SIZE=15]4.1 Álom kövek
+
+Összesen 5 fajta Álom kõ van, mindegyik különbözõ PvM bónuszt biztosít.
+Az Álom lélekkõ beváltható Álom kõre (Wukong templom metinkövekbõl esik)
+Chuk-Sal-nál. Az álom kövek azonos minõségben kombinálhatóak tovább. 
+Ez az eljárás sikertelen is lehet 
+
+[COLOR=0xffd700]Dream Soul
+*Szörnyek elleni erõ 4,6,8,10 %
+
+[COLOR=0xffd700]Shimmering Dream Soul
+*Bossok elleni erõ 4,6,8,10 %
+
+[COLOR=0xffd700]Iridescent Dream Soul
+*Elementálok elleni erõ 4,6,8,10 %
+
+[COLOR=0xffd700]Prismatic Dream Soul
+*Metinek elleni erõ 4,6,8,10 %
+
+[COLOR=0xffd700]Enlightened Dream Soul
+*Átlagkár 4,6,8,10 %
+
+[COLOR=ef4f00;FONT_SIZE=15]4.2 Sky Stones
+
+Összesen 5 fajta Ég kõ van, mindegyik különbözõ PvP bónuszt biztosít.
+Az Ég lélekkõ beváltható Ég kõre (Wukong templom metinkövekbõl esik)
+Chuk-Sal-nál. Az ég kövek azonos minõségben kombinálhatóak tovább. 
+Ez az eljárás sikertelen is lehet 
+
+[COLOR=0xffd700]Sky Soul
+*Max. HP +500, +1000, +1500, +2000
+
+[COLOR=0xffd700]Shimmering Sky Soul
+*Varázserõ 5, 10, 15, 20%
+
+[COLOR=0xffd700]Iridescent Sky Soul
+*Közelharci támadás kivédése 2, 4, 6 , 8%
+
+[COLOR=0xffd700]Prismatic Sky Soul
+*Félemberek elleni erõ 4, 6, 8, 10%
+
+[COLOR=0xffd700]Enlightened Sky Soul
+*Félemberek elleni védelem 4, 6, 8, 10%
+
+
+[COLOR=ef4f00;FONT_SIZE=15]4.3 Prunous Enchanting
+
+A bónuszokat forgathatod Prunous Enchanting segítségével.
+Ez az összes bónuszt forgatja egyszerre. 
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=1220; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]5. Hogyan transzfereld a bónuszokat 
+
+Átviheted a bonuszokat egy másik vállpánt skinre, Costume Bonus Transfer használatával.
+A bal oldali kosztüm üres lesz, és a jobb oldaliba kerülnek a bónuszok. 
+
+
+

@@ -1,0 +1,17 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/hexachest.tga]
+[CENTER_ALIGN;FONT_SIZE=18]Altıgen Hediye Paketi
+
+[COLOR=0xffd700;FONT_SIZE=15]İçerik Listesi:
+*1. Genel Bilgiler
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=65; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Genel Bilgiler:
+
+Etkinlik sırasında, alternatif olarak Altıgen Hediye Paketi düşürme şansına sahip olursun.
++/-15 seviye bandındaki bütün canavarlardan şansına bağlı olarak paket elde edebilirsin.
+
+Dikkatli ol: 
+Bazı "Alternatif Etkinlikler" herhangi bir duyuru yapmadan ortaya çıkabilir. 
+Forum sayfamızı takip et...

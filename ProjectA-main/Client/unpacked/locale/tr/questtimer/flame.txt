@@ -1,0 +1,22 @@
+[COLOR r;255|g;195|b;0]"Özellikler"[/COLOR r;255|g;195|b;0][ENTER]
+Zindana yalnızca 90-109 seviye aralığında girebilirsin.
+[ENTER]
+[COLOR r;0|g;195|b;255]Aşama 1[/COLOR r;255|g;195|b;0][ENTER]
+Bütün Ignator'ları öldür ve Altın Dişli Çark'ları İsfet Stellerine sürükle.
+[ENTER]
+[COLOR r;0|g;195|b;255]Aşama 2[/COLOR r;255|g;195|b;0][ENTER]
+Bütün canavarları öldür ve Kilit Taşı'nı İsfet Steli'ne sürükle.
+[ENTER]
+[COLOR r;0|g;195|b;255]Aşama 3[/COLOR r;255|g;195|b;0][ENTER]
+Metin taşlarını doğru sırayla yok et.
+Doğru metin taşları kırmızı bir ok ile gösterilir.
+[ENTER]
+[COLOR r;0|g;195|b;255]Aşama 4[/COLOR r;255|g;195|b;0][ENTER]
+Bütün canavarları öldür.
+[ENTER]
+[COLOR r;0|g;195|b;255]Aşama 5[/COLOR r;255|g;195|b;0][ENTER]
+Metin taşını yok et.
+Özel Durum: Metnin HP'si 45% iken bir canavar dalgası ortaya çıkar. Devam etmek için o dalgayı yok et.
+[ENTER]
+[COLOR r;0|g;195|b;255]Aşama 6[/COLOR r;255|g;195|b;0][ENTER]
+Razador'u öldür.

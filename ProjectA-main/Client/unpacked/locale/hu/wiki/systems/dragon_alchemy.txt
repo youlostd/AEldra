@@ -1,0 +1,141 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/dragonstone.tga]
+[CENTER_ALIGN]A sárkánykõ alkímia egy magasszintû játékosoknak fejlesztett rendszer, 
+[CENTER_ALIGN]hogy mégerõsebbé válhassanak. 
+
+[COLOR=0xffd700;FONT_SIZE=15]Tartalom:
+*1. Általános információk
+*2. Cor Draconis
+*3. Sárkánykövek bónuszai
+*4. Hogyan fejleszd õket
+*5. Hogyan töltsd újra az idejüket
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=130; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Általános információk
+
+A 3.1 fejlesztés óta lv1-tõl kezdve használhatod õket. 200 darab Cor Draconist farmolhatsz naponta a
+'Power of the Dragon Eye' küldetéssel. 10 darab sárkánykõ szilánk autómatikusan átváltódik 1 darab Cor Draconissá. 
+A sárkánykõ alkímia ablak a leltáradból vagy az "O" betû lenyomásával elérhetõ. 
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=250; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Cor Draconis
+
+A Cor Draconis minden féle sárkánykövet tartalmazhat, a megfelelõ minõségtõl függõen. 
+Több féle Cor Draconis is létezik, ezek a Nyers, Metszett, Ritka, Antik, Legendás. 
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=360; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Sárkánykövek bónuszai
+
+[CENTER_ALIGN]A sárkányköveket 4 különbözõ irányba erõsítheted 
+[CENTER_ALIGN]Osztály: Nyers, Metszett, Ritka, Antik, Legendás. 
+[CENTER_ALIGN]Minnél magasabb az osztály, annál több bónuszt fog adni. 
+
+[COLOR=ef4f00;FONT_SIZE=15]3.1 Tisztaság: Matt, Tiszta, Hibátlan, Ragyogó, Kiváló 
+
+[X_PADDING=20]Minnél nagyobb a tisztaság, annál nagyobb bónuszokat fog adni. 
+
+
+[COLOR=ef4f00;FONT_SIZE=15]3.2 Szint: +0 - +6
+
+[X_PADDING=20]Minnél nagyobb a szint, annál nagyobb bónuszokat fog adni. 
+
+
+[COLOR=ef4f00;FONT_SIZE=15]3.3 Bónuszok: 2-5 bónuszok.
+
+[X_PADDING=20]A legendás sárkánykõ 2 alap bónusszal rendelkezik, és lehet bennük 3 további extra 
+[X_PADDING=20]Ezeket a bónuszokat "Refined Enchanting"-al forgathatod. 
+
+[COLOR=ef4f00;FONT_SIZE=15]3.4 Max bónuszok.
+
+[COLOR=ef4f00]*3.4.1 Gyémánt:
+
+[X_PADDING=20]*intelligencia +10
+[X_PADDING=20]*Jég ellenállás +10%
+[X_PADDING=20]*készség kár 15%
+[X_PADDING=20]*készség ellenállás 15%
+[X_PADDING=20]*Mágia védelem +15
+[X_PADDING=20]*Mágikus támadás +15
+
+[COLOR=ef4f00]*3.4.2 Rubin:
+
+[X_PADDING=20]*Erõ +10
+[X_PADDING=20]*Tûz ellenállás +10%
+[X_PADDING=20]*Átlagkár +15%
+[X_PADDING=20]*Védelem +100
+[X_PADDING=20]*Támadás +120
+[X_PADDING=20]*ellenállás az átlagkár ellen +15%
+
+[COLOR=ef4f00]*3.4.3 Jáde:
+
+[X_PADDING=20]*+500 MP
+[X_PADDING=20]*Szél ellenállás +10%
+[X_PADDING=20]*Max. HP +2500
+[X_PADDING=20]*Max. HP +15%
+[X_PADDING=20]*10% esély a TP elnyelésére
+[X_PADDING=20]*esély a TP visszanyerésre +10%
+
+[COLOR=ef4f00]*3.4.4 Zafír:
+
+[X_PADDING=20]*Ügyesség +10
+[X_PADDING=20]*Föld ellenállás +10%
+[X_PADDING=20]*harcos/nindzsa/sura/sámán elleni erõ +15%
+[X_PADDING=20]*harcos/nindzsa/sura/sámán elleni védelem +15%
+
+[COLOR=ef4f00]*3.4.5 Gránát:
+
+[X_PADDING=20]*Max. HP +1500
+[X_PADDING=20]*Villám ellenállás +10%
+[X_PADDING=20]*Max. MP +1800
+[X_PADDING=20]*Max. MP +15%
+[X_PADDING=20]*10% esély az MP elnyelésére
+[X_PADDING=20]*esély az MP regenerációra +10%
+
+[COLOR=ef4f00]*3.4.6 Ónix:
+
+[X_PADDING=20]*Életerõ +10
+[X_PADDING=20]*Sötétség ellenállás +10%
+[X_PADDING=20]*ellenállás a kritikus találatok ellen +10%
+[X_PADDING=20]*ellenállás az átható találatok ellen +10%
+[X_PADDING=20]*esély a nyilak elkerülésére +10%
+[X_PADDING=20]*esély a testi támadások visszaverésére +10%
+[X_PADDING=20]*esély a testi támadások kivédésére +10%
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=1330; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]4. Hogyan fejleszd õket
+
+Ahogy említettem korábban, összesen 4 részt kell erõsítened a maximalizáláshoz. Kezdésképp, a helyes útod fejleszd õket, 
+Osztály, Tisztaság, Szint. Hogy az osztályt növeld, több ugyanolyan osztályú kõ kell. T
+Miután legendássá válik, elkezdheted a tisztaságok fejleszteni. 
+Ugyanolyan tisztaságbõl kell több a fejlesztéshez. 
+Miután kíváló lesz, elkezdheted a szintet fejleszteni. 
+A szint növeléshez, Zöld, Kék vagy Rózsaszín sárkánybab kell. 
+Ez az eljárás sikertelen is lehet, és a szint csökkenhet egyel. 
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=1525; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]5. Hogyan töltsd újra az idejüket
+
+Idõfogóval idõ elixírt készíthetsz. Csak rá kell húsznod egy Sárkánykõre. 
+Az eljárás sikertelen is lehet. 
+Ha lejár az idõ, a kõ hasznavehetetlen lesz, és nem ad további bónuszokat, de nem tûnik el. 
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=1660; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]6. Alkímia szett bónusz
+Ha van 6 darab +6-os köved felszerelve, kapsz bónuszokat: 
+
+*Max. HP +2500 
+*Félemberek elleni erõ +10%
+*Metinek elleni erõ +10%
+
+
+

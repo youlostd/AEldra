@@ -1,0 +1,7 @@
+#º¹¼ş¾Æ²ÉÁø¾×		
+section		
+npc	20018	
+item	50721	1
+reward	50801	1
+percent	100	
+end		

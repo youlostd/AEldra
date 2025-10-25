@@ -1,0 +1,1 @@
+pkg install -y nano htop boost-all devil cryptopp openssl gmake makedepend python python2 python27 mariadb105-server gdb protobuf
